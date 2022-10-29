@@ -9,7 +9,7 @@ third_nav_title: Student Achievements
 <center><b><u>全国小学华语讲故事比赛</u></b><br><br>五勤班的謝颖禛同学凭借疫情故事“口罩后的微笑”脱颖而出，夺得冠军。恭喜！</center>
 
 <img src="/images/cl1.jpeg" 
-     style="width:65%">
+     style="width:45%">
 		 
 		 
 <center><b><u>第五届中小学课文朗诵比赛</u></b></center>
