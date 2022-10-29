@@ -21,10 +21,10 @@ To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers 
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 702px">
+<table class="tg" style="undefined;table-layout: fixed; width: 560px">
 <colgroup>
-<col style="width: 214px">
-<col style="width: 488px">
+<col style="width: 190px">
+<col style="width: 370px">
 </colgroup>
 <tbody>
   <tr>
@@ -53,7 +53,11 @@ To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers 
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 560px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 370px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-ku5w">Students</td>
@@ -83,7 +87,11 @@ Two teams of P6 students continued their CmPS journey which they started in 2021
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 560px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 370px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-ku5w">Title</td>
@@ -115,7 +123,11 @@ Two teams of P6 students continued their CmPS journey which they started in 2021
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 560px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 370px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-ku5w">Title</td>
@@ -154,7 +166,11 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 560px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 370px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-ku5w">Title of Project</td>
@@ -176,3 +192,4 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
 </table>
 
 <br>
+
