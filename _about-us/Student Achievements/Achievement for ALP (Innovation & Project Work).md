@@ -99,3 +99,35 @@ Two teams of P6 students continued their CmPS journey which they started in 2021
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ku5w">Title</td>
+    <td class="tg-ii8k">Project DeSTRESS</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Awardees</td>
+    <td class="tg-ii8k">Sean Chin, Tan Sze Ya, Ilyshia Foo, Khoo Yan Shan, Gerald Sng &amp; Lewis Lee</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Class</td>
+    <td class="tg-ii8k">6 Creativity</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Achievement</td>
+    <td class="tg-ii8k">·         Participation in the Future Problem Solving Program International (FPSPI) Conference<br>·         Achieved 1st Place in Junior Division</td>
+  </tr>
+</tbody>
+</table>
