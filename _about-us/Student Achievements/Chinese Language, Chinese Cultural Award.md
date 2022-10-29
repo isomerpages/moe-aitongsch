@@ -166,17 +166,26 @@ third_nav_title: Student Achievements
 
 <center>全国小学华语讲故事比赛旨在为小学生搭建展示华语演讲技巧的平台，培养小学生对学习华文华语的兴趣。<br><br>2021年全国小学华语讲故事比赛由新加坡福建会馆与新加坡中学华文教师会联办、道南学校协办。在本届比赛中，我校六年级学生林千涵同学从124名选手中脱颖而出，成功晋级大决赛，并获得优胜奖。</center>
 
+<img src="/images/2021cl.jpeg" 
+     style="width:65%">
 
 
+------
+
+<center><b><u>10th National Chinese Calligraphy Competition organized by Futsing Association and Poi Ching School<br><br>第十届全国中、小学书法比赛《翰墨馨香迎国庆》
+培青学校与福清会馆联办</u></b></center>
+
+<center>佳作奖 Merit award：胡文曦 Vincy Hu Wenxi (3 PE)</center>
+
+-----
+
+<center><b><u>4th Text Recital Competition for Primary and Secondary Schools</u></b></center>
+
+全国中小学课文朗诵比赛旨在让学生通过掌握课文的朗诵艺术，深化对课文的理解，提高学习华文的兴趣。我校学生在今年的比赛中获得了 1 金 3 银 11 铜的优异成绩。
 
 
+<img src="/images/4th%20Text%20Recital%20Competition%20table.png" 
+     style="width:65%">
 
-<center><b><u>ENTERTEXT</u></b></center>
-
-
-
-
-
-
-
-<center><b><u>ENTERTEXT</u></b></center>
+<img src="/images/cl3.png" 
+     style="width:65%">
