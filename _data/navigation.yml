@@ -1,6 +1,12 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: ATS Experience
+    collection: ats-experience
+  - title: For Parents
+    collection: for-parents
+  - title: Stakeholders
+    collection: stakeholders
+  - title: Visitor Management
+    collection: visitor-management
