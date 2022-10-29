@@ -158,7 +158,7 @@ third_nav_title: Student Achievements
 </tbody>
 </table>
 
-
+<center>恭喜得奖者！</center>
 
 <center><b><u>ENTERTEXT</u></b></center>
 
