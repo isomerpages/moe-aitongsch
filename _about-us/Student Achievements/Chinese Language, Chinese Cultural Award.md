@@ -10,3 +10,5 @@ third_nav_title: Student Achievements
 
 <img src="/images/cl1.jpeg" 
      style="width:65%">
+<center><b><u>第五届中小学课文朗诵比赛</u></b></center>
+
