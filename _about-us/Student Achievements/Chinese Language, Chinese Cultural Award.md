@@ -85,13 +85,7 @@ third_nav_title: Student Achievements
 </tbody>
 </table>
 
-
-
-
-
-
-
-<center><b><u>ENTERTEXT</u></b></center>
+<center><b><u>2022 Singapore Hokkien Huay Kuan Affiliated Primary School Chinese Essay Writing Competition<br>新加坡福建会馆2022年属校小学生华文作文比赛 </u></b></center>
 
 
 
