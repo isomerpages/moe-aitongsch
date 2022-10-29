@@ -145,3 +145,5 @@ We have achieved **CERTIFICATE OF RECOGNITION** for **Category B** & **Cate
   </tr>
 </tbody>
 </table>
+
+This year, on top of the online exhibition, we also managed to involve our Aesthetics Leaders, Tan Shu Xuan (4PA) and Peh Xin Qiao Jeriel (4PE) to curate the artworks for the SYF virtual exhibition. You may visit the following website: [https://www.syf.gov.sg](https://www.syf.gov.sg/) to view the artworks.
