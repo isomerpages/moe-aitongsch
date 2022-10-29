@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/6e79c659a_245.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
