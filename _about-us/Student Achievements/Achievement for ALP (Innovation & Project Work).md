@@ -131,3 +131,12 @@ Two teams of P6 students continued their CmPS journey which they started in 2021
   </tr>
 </tbody>
 </table>
+
+
+### 2021 Achievement
+
+**<u>Applied Learning Programme (Innovation & Project Work)</u>**
+
+1.       SHHK Thinkers Programme
+
+Organised by Singapore Hokkien Huay Kuan, this programme aims to develop students’ confidence, analytical and problem-solving competencies and to expose students to areas of STEM and how technology can improve our way of life. Over a span of 8 months, 8 teams of 3 students and teachers undergo training in Artificial Intelligence (A.I.), Coding, Design Thinking (DT) and Presentation & Pitching via virtual and physical setting. 2 teams were shortlisted to represent ATS in the Final Showcase. One of the teams was presented with the following award:
