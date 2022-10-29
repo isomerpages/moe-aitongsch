@@ -10,27 +10,27 @@ third_nav_title: Student Achievements
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ot38{background-color:#70ad47;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-fyo4{background-color:#70AD47;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-4va4{background-color:#E2EFD9;color:#454545;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 831px">
 <colgroup>
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
-<col style="width: 133px">
+<col style="width: 142px">
+<col style="width: 163px">
+<col style="width: 131px">
+<col style="width: 153px">
+<col style="width: 121px">
+<col style="width: 121px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-fyo4"><span style="color:white">UNIFORMED</span><br><span style="color:white">GROUPS</span></td>
-    <td class="tg-fyo4"><span style="color:white">2017</span></td>
-    <td class="tg-fyo4"><span style="color:white">2018</span></td>
-    <td class="tg-fyo4"><span style="color:white">2019</span></td>
-    <td class="tg-fyo4"><span style="color:white">2021</span></td>
-    <td class="tg-fyo4"><span style="color:white">2022</span></td>
+    <td class="tg-ot38"><span style="color:white">UNIFORMED</span><br><span style="color:white">GROUPS</span></td>
+    <td class="tg-ot38"><span style="color:white">2017</span></td>
+    <td class="tg-ot38"><span style="color:white">2018</span></td>
+    <td class="tg-ot38"><span style="color:white">2019</span></td>
+    <td class="tg-ot38"><span style="color:white">2021</span></td>
+    <td class="tg-ot38"><span style="color:white;background-color:#70AD47">2022</span></td>
   </tr>
   <tr>
     <td class="tg-4va4"><span style="font-weight:bold;color:black">BROWNIES</span><br> </td>
