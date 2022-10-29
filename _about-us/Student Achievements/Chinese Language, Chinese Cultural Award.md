@@ -94,8 +94,8 @@ third_nav_title: Student Achievements
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 650px">
 <colgroup>
@@ -107,53 +107,53 @@ third_nav_title: Student Achievements
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-rj1p">中文名</td>
-    <td class="tg-rj1p">英文名</td>
-    <td class="tg-rj1p">班级</td>
-    <td class="tg-rj1p">组别</td>
-    <td class="tg-rj1p">名次</td>
+    <td class="tg-n4qt">中文名</td>
+    <td class="tg-n4qt">英文名</td>
+    <td class="tg-n4qt">班级</td>
+    <td class="tg-n4qt">组别</td>
+    <td class="tg-n4qt">名次</td>
   </tr>
   <tr>
-    <td class="tg-y7qa">黄瀠萱</td>
-    <td class="tg-y7qa">Ng Ying Xuan</td>
-    <td class="tg-y7qa">三爱</td>
-    <td class="tg-y7qa">三年级组</td>
-    <td class="tg-y7qa">第二名</td>
+    <td class="tg-ii8k">黄瀠萱</td>
+    <td class="tg-ii8k">Ng Ying Xuan</td>
+    <td class="tg-ii8k">三爱</td>
+    <td class="tg-ii8k">三年级组</td>
+    <td class="tg-ii8k">第二名</td>
   </tr>
   <tr>
-    <td class="tg-y7qa">许悦恩</td>
-    <td class="tg-y7qa">Janessa Koh Yue En</td>
-    <td class="tg-y7qa">三勤</td>
-    <td class="tg-y7qa">三年级组</td>
-    <td class="tg-y7qa">第三名</td>
+    <td class="tg-ii8k">许悦恩</td>
+    <td class="tg-ii8k">Janessa Koh Yue En</td>
+    <td class="tg-ii8k">三勤</td>
+    <td class="tg-ii8k">三年级组</td>
+    <td class="tg-ii8k">第三名</td>
   </tr>
   <tr>
-    <td class="tg-y7qa">黄诗懿</td>
-    <td class="tg-y7qa">Wong Shi Yi</td>
-    <td class="tg-y7qa">四创</td>
-    <td class="tg-y7qa">四年级组</td>
-    <td class="tg-y7qa">优胜奖</td>
+    <td class="tg-ii8k">黄诗懿</td>
+    <td class="tg-ii8k">Wong Shi Yi</td>
+    <td class="tg-ii8k">四创</td>
+    <td class="tg-ii8k">四年级组</td>
+    <td class="tg-ii8k">优胜奖</td>
   </tr>
   <tr>
-    <td class="tg-y7qa">赵可唯</td>
-    <td class="tg-y7qa">Khloe Teo Kewei</td>
-    <td class="tg-y7qa">四毅</td>
-    <td class="tg-y7qa">四年级组</td>
-    <td class="tg-y7qa">优胜奖</td>
+    <td class="tg-ii8k">赵可唯</td>
+    <td class="tg-ii8k">Khloe Teo Kewei</td>
+    <td class="tg-ii8k">四毅</td>
+    <td class="tg-ii8k">四年级组</td>
+    <td class="tg-ii8k">优胜奖</td>
   </tr>
   <tr>
-    <td class="tg-y7qa">黎学颖</td>
-    <td class="tg-y7qa">Lee Xue Ying</td>
-    <td class="tg-y7qa">四毅</td>
-    <td class="tg-y7qa">四年级组</td>
-    <td class="tg-y7qa">优胜奖</td>
+    <td class="tg-ii8k">黎学颖</td>
+    <td class="tg-ii8k">Lee Xue Ying</td>
+    <td class="tg-ii8k">四毅</td>
+    <td class="tg-ii8k">四年级组</td>
+    <td class="tg-ii8k">优胜奖</td>
   </tr>
   <tr>
-    <td class="tg-y7qa">钟捷胜</td>
-    <td class="tg-y7qa">Nnvan Chen Jie Sheng</td>
-    <td class="tg-y7qa">六勤</td>
-    <td class="tg-y7qa">六年级组</td>
-    <td class="tg-y7qa">第一名</td>
+    <td class="tg-ii8k">钟捷胜</td>
+    <td class="tg-ii8k">Nnvan Chen Jie Sheng</td>
+    <td class="tg-ii8k">六勤</td>
+    <td class="tg-ii8k">六年级组</td>
+    <td class="tg-ii8k">第一名</td>
   </tr>
 </tbody>
 </table>
