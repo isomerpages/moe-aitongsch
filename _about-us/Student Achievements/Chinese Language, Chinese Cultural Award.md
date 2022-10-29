@@ -30,3 +30,89 @@ third_nav_title: Student Achievements
 **小学高年级组（团体）**
 * 四爱班的李欣潔同学、王嘉憶同学 、曾恺同学（铜奖）
 * 四勤班的林颖惜同学和王昱萱同学，四责班的李俊凯同学（铜奖）
+
+-----
+
+<center><b><u>2022 年第23 届国际小学生电脑创意写作比赛</u></b></center>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<colgroup>
+<col style="width: 100px">
+<col style="width: 100px">
+<col style="width: 100px">
+<col style="width: 100px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-9u4g">班级</td>
+    <td class="tg-9u4g">华文姓名</td>
+    <td class="tg-9u4g">新加坡区赛</td>
+    <td class="tg-9u4g">国际赛</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">五勤班</td>
+    <td class="tg-fwnj">謝穎禛</td>
+    <td class="tg-fwnj">银</td>
+    <td class="tg-fwnj">铜</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">五勤班</td>
+    <td class="tg-fwnj">林子绚</td>
+    <td class="tg-fwnj">铜</td>
+    <td class="tg-fwnj">铜</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">六勤班</td>
+    <td class="tg-fwnj">郝奕鸣</td>
+    <td class="tg-fwnj">铜</td>
+    <td class="tg-fwnj">铜</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">六爱班</td>
+    <td class="tg-fwnj">郑惠尹</td>
+    <td class="tg-fwnj">铜</td>
+    <td class="tg-fwnj">-</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+<center><b><u>ENTERTEXT</u></b></center>
+
+
+
+
+
+
+<center><b><u>ENTERTEXT</u></b></center>
+
+
+
+
+
+
+
+
+<center><b><u>ENTERTEXT</u></b></center>
+
+
+
+
+
+
+
+<center><b><u>ENTERTEXT</u></b></center>
