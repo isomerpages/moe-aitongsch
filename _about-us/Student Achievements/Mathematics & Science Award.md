@@ -163,3 +163,37 @@ RSO includes subjects like Astronomy, Biology, Chemistry and Physics. Most of th
 The Junior Science Whiz Challenge (JSWC) is jointly organised by West Zone Centre of Excellence and Technology (WZCOE) @ River Valley High School and RV Science Leaders Academy. JSWC is a competition that aims to develop primary school students’ passion and interest in science. Participants are tested on general science knowledge, including those beyond the Primary School Science curriculum.
 
 JSWC is guided by different themes every year. It seeks to allow participants to explore the science behind the daily phenomena and real-life applications that shaped our modern world, especially in the areas of Chemistry, Biology and Physics. Participants get to appreciate the applications of science today as well as its potential. JSWC aims to help participants further their interest in various scientific disciplines.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-sil7{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 440px">
+<colgroup>
+<col style="width: 92px">
+<col style="width: 134px">
+<col style="width: 214px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-sil7"><span style="color:white">Year</span></td>
+    <td class="tg-sil7"><span style="color:white">Recipients</span></td>
+    <td class="tg-sil7"><span style="color:white">Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="2">2021</td>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">30th Place in MCQ Round</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1 Students</td>
+    <td class="tg-sxkx">13th Place in MCQ Round </td>
+  </tr>
+</tbody>
+</table>
