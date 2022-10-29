@@ -8,7 +8,7 @@ third_nav_title: Student Achievements
 
 **<u>Applied Learning Programme (Innovation & Project Work)</u>**
 
-1.       National Thinkers Challenge
+1\.       National Thinkers Challenge
 
 To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers Challenge (NTC), organised by Singapore Hokkien Huay Kuan, hopes to introduce to primary school students the concepts of design thinking, artificial intelligence (AI) and other emerging technologies. Participants had to solve real-world problems using design thinking, a process that emphasises constant innovation and improvement, and AI. The theme this year is tackling Singapore's food waste. 2 teams represented ATS and their achievements are as documented below:
 
@@ -65,3 +65,7 @@ To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers 
   </tr>
 </tbody>
 </table>
+
+2\.       Future Problem Solving Program International Competition 2022
+
+Two teams of P6 students continued their CmPS journey which they started in 2021 by accepting an invitation to participate in the Future Problem Solving International Conference where Future Problem Solvers from around the globe come together to celebrate the final round of their competitive season. The FPSPI International Competition occurs each June at a university in the USA. This annual competition draws 2,500+ problem solving champions from all over the world who compete at local and regional levels throughout the school year. The 2 teams of students representing ATS and their achievements are as documented below:
