@@ -157,3 +157,9 @@ RSO includes subjects like Astronomy, Biology, Chemistry and Physics. Most of th
   </tr>
 </tbody>
 </table>
+
+
+### Junior Science Whiz Challenge
+The Junior Science Whiz Challenge (JSWC) is jointly organised by West Zone Centre of Excellence and Technology (WZCOE) @ River Valley High School and RV Science Leaders Academy. JSWC is a competition that aims to develop primary school students’ passion and interest in science. Participants are tested on general science knowledge, including those beyond the Primary School Science curriculum.
+
+JSWC is guided by different themes every year. It seeks to allow participants to explore the science behind the daily phenomena and real-life applications that shaped our modern world, especially in the areas of Chemistry, Biology and Physics. Participants get to appreciate the applications of science today as well as its potential. JSWC aims to help participants further their interest in various scientific disciplines.
