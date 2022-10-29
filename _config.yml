@@ -1,6 +1,6 @@
-title: Title
+title: Ai Tong School
 url: https://aitong.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/ATS-Logo-web.png
 colors:
   primary-color: "#2e5d99"
   secondary-color: "#f44949"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dwfnygpt6el69.amplifyapp.com
 prod: https://master.dwfnygpt6el69.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/ATS-Logo-web.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
