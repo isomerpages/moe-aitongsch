@@ -30,9 +30,9 @@ We have achieved **CERTIFICATE OF RECOGNITION** for **Category B** & **Cate
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-6tuz"><span style="color:black">Title</span></td>
-    <td class="tg-6tuz"><span style="color:black">Name of Artists</span></td>
-    <td class="tg-6tuz"><span style="color:black">Class</span></td>
+    <td class="tg-ra0p"><span style="color:black">Title</span></td>
+    <td class="tg-ra0p"><span style="color:black">Name of Artists</span></td>
+    <td class="tg-ra0p"><span style="color:black">Class</span></td>
   </tr>
   <tr>
     <td class="tg-ra0p" rowspan="10"><span style="color:black">Life Goes On… </span><br><img src="https://aitong.moe.edu.sg/qql/slot/u180/Our%20Achievements/Student/Life%20Goes%20On.jpg" alt="Life Goes On.jpg" width="322" height="203"></td>
