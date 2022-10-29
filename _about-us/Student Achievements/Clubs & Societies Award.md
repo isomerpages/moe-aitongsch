@@ -41,11 +41,11 @@ Tey Cheng Han (5 Responsibility)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x9em{background-color:#ecf4ff;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-n9o2{background-color:#ffffff;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-isq3{background-color:#E2EFD9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-u6n8{background-color:#70AD47;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-l1tw{background-color:#E2EFD9;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-vbem{background-color:#ecf4ff;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-cyxe{background-color:#ffffff;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 658px">
 <colgroup>
@@ -62,8 +62,8 @@ Tey Cheng Han (5 Responsibility)
     <td class="tg-l1tw"></td>
   </tr>
   <tr>
-    <td class="tg-x9em"><span style="color:black">ROBOTICS CLUB</span></td>
-    <td class="tg-vbem">2022 FIRST® LEGO® League (FLL)<br><br>ROBOT DESIGN AWARD<br>3rd Place</td>
+    <td class="tg-n9o2"><span style="color:black">ROBOTICS CLUB</span></td>
+    <td class="tg-cyxe">2022 FIRST® LEGO® League (FLL)<br><br>ROBOT DESIGN AWARD<br>3rd Place</td>
   </tr>
 </tbody>
 </table>
