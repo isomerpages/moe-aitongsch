@@ -88,7 +88,75 @@ third_nav_title: Student Achievements
 <center><b><u>2022 Singapore Hokkien Huay Kuan Affiliated Primary School Chinese Essay Writing Competition<br>新加坡福建会馆2022年属校小学生华文作文比赛 </u></b></center>
 
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 650px">
+<colgroup>
+<col style="width: 103px">
+<col style="width: 212px">
+<col style="width: 122px">
+<col style="width: 111px">
+<col style="width: 102px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-rj1p">中文名</td>
+    <td class="tg-rj1p">英文名</td>
+    <td class="tg-rj1p">班级</td>
+    <td class="tg-rj1p">组别</td>
+    <td class="tg-rj1p">名次</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">黄瀠萱</td>
+    <td class="tg-y7qa">Ng Ying Xuan</td>
+    <td class="tg-y7qa">三爱</td>
+    <td class="tg-y7qa">三年级组</td>
+    <td class="tg-y7qa">第二名</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">许悦恩</td>
+    <td class="tg-y7qa">Janessa Koh Yue En</td>
+    <td class="tg-y7qa">三勤</td>
+    <td class="tg-y7qa">三年级组</td>
+    <td class="tg-y7qa">第三名</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">黄诗懿</td>
+    <td class="tg-y7qa">Wong Shi Yi</td>
+    <td class="tg-y7qa">四创</td>
+    <td class="tg-y7qa">四年级组</td>
+    <td class="tg-y7qa">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">赵可唯</td>
+    <td class="tg-y7qa">Khloe Teo Kewei</td>
+    <td class="tg-y7qa">四毅</td>
+    <td class="tg-y7qa">四年级组</td>
+    <td class="tg-y7qa">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">黎学颖</td>
+    <td class="tg-y7qa">Lee Xue Ying</td>
+    <td class="tg-y7qa">四毅</td>
+    <td class="tg-y7qa">四年级组</td>
+    <td class="tg-y7qa">优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">钟捷胜</td>
+    <td class="tg-y7qa">Nnvan Chen Jie Sheng</td>
+    <td class="tg-y7qa">六勤</td>
+    <td class="tg-y7qa">六年级组</td>
+    <td class="tg-y7qa">第一名</td>
+  </tr>
+</tbody>
+</table>
 
 
 
