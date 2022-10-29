@@ -69,3 +69,33 @@ To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers 
 2\.       Future Problem Solving Program International Competition 2022
 
 Two teams of P6 students continued their CmPS journey which they started in 2021 by accepting an invitation to participate in the Future Problem Solving International Conference where Future Problem Solvers from around the globe come together to celebrate the final round of their competitive season. The FPSPI International Competition occurs each June at a university in the USA. This annual competition draws 2,500+ problem solving champions from all over the world who compete at local and regional levels throughout the school year. The 2 teams of students representing ATS and their achievements are as documented below:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ku5w">Title</td>
+    <td class="tg-ii8k">Minimising Food Wastage in Ai Tong School</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Students</td>
+    <td class="tg-ii8k">Ong Jun Xi, Rayner Young , Caden Chin, Oliver Lim, Reyes Loh,<br>Ng Chen Kai, Liu Jia Chen, Weng Caini &amp; Verrill Sim</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Class</td>
+    <td class="tg-ii8k">6 Diligence</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Achievement</td>
+    <td class="tg-ii8k">·         Participation in the Future Problem Solving Program International (FPSPI) Conference</td>
+  </tr>
+</tbody>
+</table>
