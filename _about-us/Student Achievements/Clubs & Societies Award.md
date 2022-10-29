@@ -15,8 +15,9 @@ Nathan Yew (5 Respect)
 Kate Neo (5 Diligence)   
 Tyler chew (5 Patience)
 
-![](/images/csa1.png)
-
+<img src="/images/csa1.png" 
+     style="width:65%">
+		 
 --------------
 
 **<u>Drone Odyssey Challenge 2022</u>**
@@ -31,7 +32,8 @@ Teo Shin Jay (5 Harmony)
 Dexter Wong (5 Responsibility)  
 Tey Cheng Han (5 Responsibility)
 
-![](/images/csa2.png)
+<img src="/images/csa2.png" 
+     style="width:65%">
 
 ----------
 
