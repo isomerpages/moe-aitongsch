@@ -37,3 +37,31 @@ To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers 
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ku5w">Students</td>
+    <td class="tg-ii8k">Chia Yu Hao, Cody, Julian Oh Yong Wen, Ng Jin Yong Asher, Ong Shi En, Alyssa Faith &amp; Yuna Tano Chen Min Zi</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Class</td>
+    <td class="tg-ii8k">4 Creativity 2022</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Achievement</td>
+    <td class="tg-ii8k">·         Certificate of Participation<br>·         Commendation Award &amp; $100 book vouchers</td>
+  </tr>
+</tbody>
+</table>
