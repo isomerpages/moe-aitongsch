@@ -1,0 +1,4 @@
+collections:
+  visitor-management:
+    output: true
+    order: []
