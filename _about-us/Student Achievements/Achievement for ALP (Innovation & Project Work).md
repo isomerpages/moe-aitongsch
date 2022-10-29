@@ -140,3 +140,36 @@ Two teams of P6 students continued their CmPS journey which they started in 2021
 1.       SHHK Thinkers Programme
 
 Organised by Singapore Hokkien Huay Kuan, this programme aims to develop students’ confidence, analytical and problem-solving competencies and to expose students to areas of STEM and how technology can improve our way of life. Over a span of 8 months, 8 teams of 3 students and teachers undergo training in Artificial Intelligence (A.I.), Coding, Design Thinking (DT) and Presentation & Pitching via virtual and physical setting. 2 teams were shortlisted to represent ATS in the Final Showcase. One of the teams was presented with the following award:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ku5w">Title of Project</td>
+    <td class="tg-ii8k">Stop Covid-19 Transmission in Lifts</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Students</td>
+    <td class="tg-ii8k">Renee Aw, Yong Ze Ee &amp; Jareth Koh </td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Class</td>
+    <td class="tg-ii8k">4 Creativity 2021</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Achievement</td>
+    <td class="tg-ii8k">Most Feasible &amp; Sustainable Idea</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
