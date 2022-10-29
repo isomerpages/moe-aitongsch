@@ -153,7 +153,7 @@ Two teams of P6 students continued their CmPS journey which they started in 2021
 
 **<u>Applied Learning Programme (Innovation & Project Work)</u>**
 
-1.       SHHK Thinkers Programme
+1\.       SHHK Thinkers Programme
 
 Organised by Singapore Hokkien Huay Kuan, this programme aims to develop students’ confidence, analytical and problem-solving competencies and to expose students to areas of STEM and how technology can improve our way of life. Over a span of 8 months, 8 teams of 3 students and teachers undergo training in Artificial Intelligence (A.I.), Coding, Design Thinking (DT) and Presentation & Pitching via virtual and physical setting. 2 teams were shortlisted to represent ATS in the Final Showcase. One of the teams was presented with the following award:
 
@@ -193,3 +193,112 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
 
 <br>
 
+2\.       Community Problem Solving (CmPS) National Finals 2021
+
+4 teams of P5 students were identified to represent ATS to participate in the annual CmPS Competition organized by Future Problem Solving Programme (Singapore). 3 teams were shortlisted and represented the school at the National Finals 2021.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 560px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 370px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ku5w">Title</td>
+    <td class="tg-ii8k">Personal Hygiene with Bobby</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Awardees</td>
+    <td class="tg-ii8k">Steffi Yeo, Felicia See, Tanya Koh, Desiree Lee, Kelly Kwok, Lucas Lim, Ng Yanci, Valerie Lim, Wang Yan Ting &amp; Neo Ky-Sheng</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Class</td>
+    <td class="tg-ii8k">5 Care</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Achievement</td>
+    <td class="tg-ii8k">Certificate of Participation</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 560px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 370px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ku5w">Title</td>
+    <td class="tg-ii8k">Project DeSTRESS</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Awardees</td>
+    <td class="tg-ii8k">Manfred Khor, Emma Yeo, Sean Chin, Tan Sze Ya, Megan Yo, Ilyshia Foo, Khoo Yan Shan, Gerald Sng &amp; Lewis Lee</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Class</td>
+    <td class="tg-ii8k">5 Creativity</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Achievement</td>
+    <td class="tg-ii8k">·         2nd Place (Junior Division)<br>·         Invited to participate in the Future Problem Solving Program International Competition &amp; Conference in June 2022.</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 560px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 370px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ku5w">Title</td>
+    <td class="tg-ii8k">Minimising Food Wastage in Ai Tong School</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Awardees</td>
+    <td class="tg-ii8k">Ong Jun Xi, Rayner Young , Caden Chin, Oliver Lim, Reyes Loh,<br>Ng Chen Kai, Liu Jia Chen, Weng Caini &amp; Verrill Sim</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Class</td>
+    <td class="tg-ii8k">5 Diligence</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w">Achievement</td>
+    <td class="tg-ii8k">·         Beyonder Award (Junior Division)<br>·         Invited to participate in the Future Problem Solving Program International Competition &amp; Conference in June 2022.</td>
+  </tr>
+</tbody>
+</table>
