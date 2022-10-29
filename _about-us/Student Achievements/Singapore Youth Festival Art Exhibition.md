@@ -35,7 +35,7 @@ We have achieved **CERTIFICATE OF RECOGNITION** for **Category B** & **Cate
     <td class="tg-ra0p"><span style="color:black">Class</span></td>
   </tr>
   <tr>
-    <td class="tg-ra0p" rowspan="10"><span style="color:black">Life Goes On… </span><br><img src="https://aitong.moe.edu.sg/qql/slot/u180/Our%20Achievements/Student/Life%20Goes%20On.jpg" alt="Life Goes On.jpg" width="322" height="203"></td>
+    <td class="tg-ra0p" rowspan="10"><span style="color:black">Life Goes On… </span><br><img src="/images/Life%20Goes%20On.jpeg" alt="Life Goes On.jpg" width="322" height="203"></td>
     <td class="tg-xw6x"><span style="color:black">Amelia Yuxuan Kourako</span></td>
     <td class="tg-xw6x"><span style="color:black">4CA</span></td>
   </tr>
@@ -103,7 +103,7 @@ We have achieved **CERTIFICATE OF RECOGNITION** for **Category B** & **Cate
     <td class="tg-rr2f"><span style="color:black">Class</span></td>
   </tr>
   <tr>
-    <td class="tg-ra0p" rowspan="10"><span style="color:black">Imagining the Future</span><br><img src="https://aitong.moe.edu.sg/qql/slot/u180/Our%20Achievements/Student/Imagining%20the%20Future.jpg" alt="Imagining the Future.jpg" width="187" height="247"></td>
+    <td class="tg-ra0p" rowspan="10"><span style="color:black">Imagining the Future</span><br><img src="/images/Imagining%20the%20Future.jpeg" alt="Imagining the Future.jpg" width="187" height="247"></td>
     <td class="tg-ntt7"><span style="color:black"> Kei Rui Qi</span></td>
     <td class="tg-ntt7"><span style="color:black"> 5CA</span></td>
   </tr>
