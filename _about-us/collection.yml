@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Student Achievements/Physical Sports Award.md
       - Student Achievements/Visual and Performing Arts Award.md
       - Student Achievements/Clubs & Societies Award.md
       - Student Achievements/Uniformed Groups Award.md
