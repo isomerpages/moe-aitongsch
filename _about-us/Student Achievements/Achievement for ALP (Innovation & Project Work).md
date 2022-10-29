@@ -21,7 +21,11 @@ To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers 
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 702px">
+<colgroup>
+<col style="width: 214px">
+<col style="width: 488px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-ku5w">Students</td>
@@ -172,4 +176,3 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
 </table>
 
 <br>
-
