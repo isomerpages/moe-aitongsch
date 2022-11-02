@@ -37,8 +37,8 @@ third_nav_title: Student Achievements
 </td>
   </tr>
   <tr>
-    <td class="tg-l8ax"><span style="font-weight:bold;text-decoration:underline">Public Transport Workers’ Appreciation 2021 Colouring Contest</span><br>To recognise our public transport workers who work round-the-clock and behind the scenes to ensure our public transport system is safe, reliable and comfortable, we will be celebrating the annual Public Transport Workers’ Appreciation Day in November 2021. As part of the celebrations, students from the primary, secondary and special education schools in Singapore have participated in a colouring contest!<br> <br>3 of our students have won the Public Transport Workers’ Appreciation 2021 colouring contest.<br><br><img src="/images/principal.jpg" 
-     style="width:65%"><br><img src="/images/principal.jpg" 
+    <td class="tg-l8ax"><span style="font-weight:bold;text-decoration:underline">Public Transport Workers’ Appreciation 2021 Colouring Contest</span><br>To recognise our public transport workers who work round-the-clock and behind the scenes to ensure our public transport system is safe, reliable and comfortable, we will be celebrating the annual Public Transport Workers’ Appreciation Day in November 2021. As part of the celebrations, students from the primary, secondary and special education schools in Singapore have participated in a colouring contest!<br> <br>3 of our students have won the Public Transport Workers’ Appreciation 2021 colouring contest.<br><br><img src="/images/sa4.png" 
+     style="width:65%"><br><img src="/images/2021%20Anti-Drug%20Montage%20Competition.jpeg" 
      style="width:65%"></td>
   </tr>
   <tr>
