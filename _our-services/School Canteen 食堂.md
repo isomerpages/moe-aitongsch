@@ -262,7 +262,153 @@ description: ""
 
 ### Stall 7: Chicken Rice Menu
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yrqb{background-color:#fafafa;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-1uz9{background-color:#fafafa;color:#454545;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-o6sc{background-color:#fafafa;color:#454545;text-align:left;vertical-align:middle}
+.tg .tg-q6ha{background-color:#fafafa;color:#454545;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 622px">
+<colgroup>
+<col style="width: 314px">
+<col style="width: 149px">
+<col style="width: 22px">
+<col style="width: 137px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1uz9" rowspan="2">Rice Set (inclusive of fruit)</td>
+    <td class="tg-yrqb" colspan="3">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-yrqb">Small</td>
+    <td class="tg-yrqb" colspan="2">Large</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Nasi Lemak</td>
+    <td class="tg-q6ha">$2.00</td>
+    <td class="tg-q6ha" colspan="2">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Sesame Oil Chicken Rice</td>
+    <td class="tg-q6ha">$2.00</td>
+    <td class="tg-q6ha" colspan="2">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Chicken Rice</td>
+    <td class="tg-q6ha">$2.00</td>
+    <td class="tg-q6ha" colspan="2">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Char Siew Rice</td>
+    <td class="tg-q6ha">$2.00</td>
+    <td class="tg-q6ha" colspan="2">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Curry Chicken Rice</td>
+    <td class="tg-q6ha">$2.00</td>
+    <td class="tg-q6ha" colspan="2">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Honey Chicken Rice</td>
+    <td class="tg-q6ha">$2.00</td>
+    <td class="tg-q6ha" colspan="2">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Cereal Chicken Rice</td>
+    <td class="tg-q6ha">$2.00</td>
+    <td class="tg-q6ha" colspan="2">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-q6ha" colspan="4">    </td>
+  </tr>
+  <tr>
+    <td class="tg-1uz9">Snacks</td>
+    <td class="tg-yrqb" colspan="3">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Popiah</td>
+    <td class="tg-q6ha" colspan="3">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Ngoh Hiang</td>
+    <td class="tg-q6ha" colspan="3">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Egg</td>
+    <td class="tg-q6ha" colspan="3">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Tofu</td>
+    <td class="tg-q6ha" colspan="3">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Vegetables</td>
+    <td class="tg-q6ha" colspan="3">$0.60 - $0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Chicken Satay</td>
+    <td class="tg-q6ha" colspan="3">$0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Chicken Meat</td>
+    <td class="tg-q6ha" colspan="3">$0.60</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Chicken Drumstick</td>
+    <td class="tg-q6ha" colspan="3">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Chicken Patty</td>
+    <td class="tg-q6ha" colspan="3">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Chicken Nuggets</td>
+    <td class="tg-q6ha" colspan="3">$0.40</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Ham</td>
+    <td class="tg-q6ha" colspan="3">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Cereal Chicken</td>
+    <td class="tg-q6ha" colspan="3">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Honey Chicken</td>
+    <td class="tg-q6ha" colspan="3">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Sliced Fish</td>
+    <td class="tg-q6ha" colspan="3">$0.80 - $1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Whole Fish</td>
+    <td class="tg-q6ha" colspan="3">$1.50 - $2.00</td>
+  </tr>
+  <tr>
+    <td class="tg-q6ha" colspan="4">    </td>
+  </tr>
+  <tr>
+    <td class="tg-1uz9">Weekly Special</td>
+    <td class="tg-yrqb" colspan="3">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Fried Rice with Chicken</td>
+    <td class="tg-q6ha" colspan="2">$2.00 (small)</td>
+    <td class="tg-q6ha">$2.30 (large)</td>
+  </tr>
+  <tr>
+    <td class="tg-o6sc">Braised Chicken Rice Set with Egg</td>
+    <td class="tg-q6ha" colspan="3">$2.50</td>
+  </tr>
+</tbody>
+</table>
 
 ### Stall 8: Chinese Noodles Menu
 
