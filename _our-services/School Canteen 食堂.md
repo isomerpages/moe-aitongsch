@@ -412,6 +412,120 @@ description: ""
 
 ### Stall 8: Chinese Noodles Menu
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 645px">
+<colgroup>
+<col style="width: 275px">
+<col style="width: 185px">
+<col style="width: 185px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-9u4g" rowspan="2">Items (inclusive of fruit)</td>
+    <td class="tg-2fwu" colspan="2">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">Small</td>
+    <td class="tg-2fwu">Large</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Fishball Noodles</td>
+    <td class="tg-sxkx">$1.80</td>
+    <td class="tg-sxkx">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Laksa</td>
+    <td class="tg-sxkx">$1.80</td>
+    <td class="tg-sxkx">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Minced Pork Noodles</td>
+    <td class="tg-sxkx">$1.80</td>
+    <td class="tg-sxkx">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Wanton Noodles</td>
+    <td class="tg-sxkx">$1.80</td>
+    <td class="tg-sxkx">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Macaroni Soup Noodles</td>
+    <td class="tg-sxkx">$1.80</td>
+    <td class="tg-sxkx">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Tom Yam Noodles</td>
+    <td class="tg-sxkx">$1.80</td>
+    <td class="tg-sxkx">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Beef Noodles</td>
+    <td class="tg-sxkx">$1.80</td>
+    <td class="tg-sxkx">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Zha Jiang Noodles</td>
+    <td class="tg-sxkx">$1.80</td>
+    <td class="tg-sxkx">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Mala Noodles</td>
+    <td class="tg-sxkx">$1.80</td>
+    <td class="tg-sxkx">$2.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Fried Bee Hoon</td>
+    <td class="tg-sxkx">$1.20</td>
+    <td class="tg-sxkx">$1.50</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj"> </td>
+    <td class="tg-sxkx" colspan="2">  </td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g">Snacks</td>
+    <td class="tg-2fwu" colspan="2">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Yakitori Stick</td>
+    <td class="tg-sxkx" colspan="2">$0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Fishball Stick</td>
+    <td class="tg-sxkx" colspan="2">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Meatball Stick</td>
+    <td class="tg-sxkx" colspan="2">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Drumstick</td>
+    <td class="tg-sxkx" colspan="2">$0.60</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Gyoza</td>
+    <td class="tg-sxkx" colspan="2">$1.20 (3 pieces)</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Patty</td>
+    <td class="tg-sxkx" colspan="2">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Fish Fillet</td>
+    <td class="tg-sxkx" colspan="2">$1.00</td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Stall 9: Hot Drinks & Snacks Menu
