@@ -23,6 +23,7 @@ d)     Siblings
   
 
 **3\.**         **Operating Hours**   
+
 _**School Term**_    
 Mon – Fri        12:00pm to 7:00pm      
 _**School Holidays**_   
