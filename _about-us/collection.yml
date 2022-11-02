@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Student Achievements/Student Achievements.md
-      - Student Achievements/Lee Kuan Yew All Round Excellence Award.md
       - Student Achievements/.keep
