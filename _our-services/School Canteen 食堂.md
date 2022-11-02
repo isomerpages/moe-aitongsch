@@ -163,7 +163,101 @@ description: ""
 
 ### Stall 6: Western Menu
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 645px">
+<colgroup>
+<col style="width: 465px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-9u4g">Items</td>
+    <td class="tg-2fwu">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Baked Rice (Chicken/Salmon/Tomato) + Fruit</td>
+    <td class="tg-sxkx">$2.00</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Spaghetti + Fruit</td>
+    <td class="tg-sxkx">$1.80</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Pizza</td>
+    <td class="tg-sxkx">$1.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Salmon / Chicken Rice Set + Fruit</td>
+    <td class="tg-sxkx">$2.20</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Mac and Cheese + Fruit</td>
+    <td class="tg-sxkx">$1.80</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Wrap</td>
+    <td class="tg-sxkx">$1.80</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Egg Croissant</td>
+    <td class="tg-sxkx">$1.50</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Pita</td>
+    <td class="tg-sxkx">$2.20</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Rosti</td>
+    <td class="tg-sxkx">$1.20</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Lasagna + Fruit</td>
+    <td class="tg-sxkx">$1.80</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Ball Stick</td>
+    <td class="tg-sxkx">$1.20</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Steak Stick</td>
+    <td class="tg-sxkx">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Mashed Potato</td>
+    <td class="tg-sxkx">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Corn Cup</td>
+    <td class="tg-sxkx">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Potato Wedges</td>
+    <td class="tg-sxkx">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Nuggets</td>
+    <td class="tg-sxkx">$0.40</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Cutlet</td>
+    <td class="tg-sxkx">$1.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Patty</td>
+    <td class="tg-sxkx">$1.00</td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Stall 7: Chicken Rice Menu
