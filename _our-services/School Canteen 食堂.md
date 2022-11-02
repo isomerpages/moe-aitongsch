@@ -16,11 +16,11 @@ description: ""
 .tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 574px">
+<table class="tg" style="undefined;table-layout: fixed; width: 625px">
 <colgroup>
 <col style="width: 275px">
-<col style="width: 152px">
-<col style="width: 147px">
+<col style="width: 184px">
+<col style="width: 166px">
 </colgroup>
 <tbody>
   <tr>
@@ -147,7 +147,7 @@ description: ""
   <tr>
     <td class="tg-fwnj">Takoyaki Balls</td>
     <td class="tg-sxkx">$1.50 (3pcs)</td>
-    <td class="tg-sxkx">$2.00<br>(4pcs)</td>
+    <td class="tg-sxkx">$2.00 (4pcs)</td>
   </tr>
   <tr>
     <td class="tg-fwnj">Breaded Prawns</td>
