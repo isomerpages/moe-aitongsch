@@ -33,3 +33,22 @@ Mon – Fri        7:30am to 7:00pm     
 **4\.         Contact Us**
 
 For further enquiries, please email us at [aitong@pro-teach.com](mailto:aitong@pro-teach.com) or call us at 6456 0919 during the following hours:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 688px">
+<colgroup>
+<col style="width: 688px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax">School Term Contact Hours (Mon-Fri) :      10:00am to 6:00pm  <br>School Holiday Contact Hours (Mon-Fri:  &nbsp;&nbsp;&nbsp;8:00am to 6:00pm <br>*While we will try our best, our response can be limited by our operation and teaching duties.</td>
+  </tr>
+</tbody>
+</table>
