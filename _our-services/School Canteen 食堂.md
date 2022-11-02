@@ -176,8 +176,8 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 645px">
 <colgroup>
-<col style="width: 465px">
-<col style="width: 200px">
+<col style="width: 400px">
+<col style="width: 265px">
 </colgroup>
 <tbody>
   <tr>
