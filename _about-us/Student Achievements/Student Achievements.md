@@ -22,7 +22,7 @@ third_nav_title: Student Achievements
 <tbody>
   <tr>
     <td class="tg-5ywe"><span style="font-weight:bold;text-decoration:underline;color:black">Temasek Junior College (TJC) THINK© Challenge</span><br><br> <span style="color:black">Temasek Junior College (TJC) THINK© Challenge is an annual Science competition for primary schools. Since 2008, the THINK© Challenge has exposed hundreds of students to the THINK© Cycle. THINK© is an acronym for the 5 distinct learning phases of science: Trigger, Harness, Investigate, Network and Know – a pedagogical approach pioneered by TJC that infuses problem-based learning and scientific inquiry with a focus on collaboration.</span><br><span style="color:black"> </span><br><span style="color:black">The Integrated Programme (IP) Science Department presented the inaugural e-THINK© Challenge in 2020 with the onset of COVID-19. e-THINK© Challenge is a science digital video competition to engage younger students to explore experimentation and explanation of scientific principles and concepts. The competition provides a platform for students to develop their curiosity in science by utilising given materials and various ICT tools to harness their concepts. Participants are required to introduce and explain relevant scientific phenomena, using novel and innovative approaches in producing the content.</span><br><br><img src="/images/sa1.png" 
-     style="width:65%">
+     style="width:85%">
 </td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ third_nav_title: Student Achievements
      style="width:65%"></td>
   </tr>
   <tr>
-    <td class="tg-lnf9"><span style="font-weight:bold;text-decoration:underline">Draw My Stamp Story Art Competition 2021</span><br>Draw My Stamp Story Art Competition 2021 is organised by Singapore Philatelic Museum (SPM). The objectives of the competition are to help students to understand and appreciate the importance of designs reflected on our Singapore stamps; allow students to express their creativity in the background design they create to complement the stamp(s) and to think out of the box.<br><br><img src="/images/principal.jpg" 
+    <td class="tg-lnf9"><span style="font-weight:bold;text-decoration:underline">Draw My Stamp Story Art Competition 2021</span><br>Draw My Stamp Story Art Competition 2021 is organised by Singapore Philatelic Museum (SPM). The objectives of the competition are to help students to understand and appreciate the importance of designs reflected on our Singapore stamps; allow students to express their creativity in the background design they create to complement the stamp(s) and to think out of the box.<br><br><img src="/images/sa5.png" 
      style="width:65%"></td>
   </tr>
 </tbody>
