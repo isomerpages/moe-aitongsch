@@ -5,8 +5,8 @@ description: ""
 ---
 ### Pacific Book Store Pte Ltd
 
- **Operating Hours:    
-****Mon - Fri:** 8.30am to 3pm (lunch**:** 11am to 12nn)    
+ **Operating Hours:**    
+**Mon - Fri:** 8.30am to 3pm (lunch: 11am to 12nn)    
 **Contact Number:** 64511069    
 **Email:** [ats@pacificbookstores.com](mailto:ats@pacificbookstores.com)
 
