@@ -273,12 +273,12 @@ description: ""
 .tg .tg-o6sc{background-color:#fafafa;color:#454545;text-align:left;vertical-align:middle}
 .tg .tg-q6ha{background-color:#fafafa;color:#454545;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 622px">
+<table class="tg" style="undefined;table-layout: fixed; width: 645px">
 <colgroup>
-<col style="width: 314px">
-<col style="width: 149px">
-<col style="width: 22px">
-<col style="width: 137px">
+<col style="width: 330px">
+<col style="width: 150px">
+<col style="width: 25px">
+<col style="width: 140px">
 </colgroup>
 <tbody>
   <tr>
