@@ -87,6 +87,6 @@ The bookshop will be open to parents for the purchase of books and school unifor
 
 ### 2023 ATS Uniform and Name Tag
 
-[ATS Uniform Measurement Chart.pdf](/files/ATS%20Uniform%20Measurement%20Chart.pdf)
-[Uniform List 2023.pdf](/files/Uniform%20List%202023.pdf)
+[ATS Uniform Measurement Chart.pdf](/files/ATS%20Uniform%20Measurement%20Chart.pdf)   
+[Uniform List 2023.pdf](/files/Uniform%20List%202023.pdf)   
 [Name Tag Order Form 2023.pdf](/files/Name%20Tag%20Order%20Form%202023.pdf)
