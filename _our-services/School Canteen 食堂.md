@@ -530,5 +530,271 @@ description: ""
 
 ### Stall 9: Hot Drinks & Snacks Menu
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 645px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 265px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-9u4g">Drinks</td>
+    <td class="tg-2fwu">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Hot Coffee without milk</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Hot Tea without milk</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Hot Coffee with milk</td>
+    <td class="tg-sxkx">$0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Hot Coffee without milk</td>
+    <td class="tg-sxkx">$0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Hot Milo</td>
+    <td class="tg-sxkx">$0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Hot Green Tea</td>
+    <td class="tg-sxkx">$0.60</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx" colspan="2">  </td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g">Snacks (All items with Halal Logo or Halal Ingredients)</td>
+    <td class="tg-2fwu">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Hard Boiled Eggs</td>
+    <td class="tg-sxkx">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Scrambled Eggs</td>
+    <td class="tg-sxkx">$0.60/$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Assorted Sandwiches</td>
+    <td class="tg-sxkx">$1.10</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Sunshine Cream Roll</td>
+    <td class="tg-sxkx">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chicken Cheese Burger</td>
+    <td class="tg-sxkx">$1.60</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Plain Pandan Waffle</td>
+    <td class="tg-sxkx">$0.60/$1.10</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Pandan Waffle (Chocolate)</td>
+    <td class="tg-sxkx">$0.70/$1.30</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Tao Sa Pau</td>
+    <td class="tg-sxkx">$0.60</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">BBQ Chicken Pau</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Small Chicken Pau</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Lotus Pau</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Yam Pau</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Sweet Corn Pau</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Vegetable Pau</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Big Chicken Pau</td>
+    <td class="tg-sxkx">$1.20</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Siew Mai</td>
+    <td class="tg-sxkx">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Chee Cheong Fun</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Egg Tart (Baked)</td>
+    <td class="tg-sxkx">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Fan Choy</td>
+    <td class="tg-sxkx">$1.20</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Lo Mai Kai</td>
+    <td class="tg-sxkx">$1.20</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Assorted Healthier Choices Snacks</td>
+    <td class="tg-sxkx">$0.40 - $0.80</td>
+  </tr>
+</tbody>
+</table>
+
 
 ### Stall 10: Cold Drinks and Fruits Menu
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vwyz{background-color:#fafafa;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-97qb{background-color:#fafafa;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nqmc{background-color:#fafafa;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-90b6{background-color:#fafafa;color:#454545;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 645px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 265px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-vwyz">Drinks</td>
+    <td class="tg-97qb">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Bottle (Assorted) Drink</td>
+    <td class="tg-90b6">$0.50 - $1.20</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Packet (Assorted) Drink</td>
+    <td class="tg-90b6">$0.50 - $0.90</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Paper Cup (Assorted) Non-Coloured Drink</td>
+    <td class="tg-90b6">$0.60 - $0.90</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Drinking Water – Bottle</td>
+    <td class="tg-90b6">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Fruit Juice – Bottle/Packet/Paper Cup</td>
+    <td class="tg-90b6">$0.80 - $0.90</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Milk (Fresh/UHT) – Bottle/Packet</td>
+    <td class="tg-90b6">$0.90 - $1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Milo – Bottle/Packet/Paper Cup</td>
+    <td class="tg-90b6">$0.90 - $1.20</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Vitagen/Yakult - Bottle</td>
+    <td class="tg-90b6">$0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Vitasoy - Packet</td>
+    <td class="tg-90b6">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Yoghurt Drink/Smoothie - Bottle</td>
+    <td class="tg-90b6">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-90b6" colspan="2">  </td>
+  </tr>
+  <tr>
+    <td class="tg-vwyz">Fruits</td>
+    <td class="tg-97qb">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Fresh Fruits Juice*/Fruit/Milk Tea*<br>*add others (eg. Chia Seeds, Ginger,Lemon, Plum Powder etc @ $0.30 per item)</td>
+    <td class="tg-90b6">$1.00 - $1.50</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Fresh Fruits Juice with Vitagen/Yakult</td>
+    <td class="tg-90b6">$1.70</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Smoothie/Milk Shake</td>
+    <td class="tg-90b6">$1.00 - $2.00</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Fruits/Mixed Fruits – with/without Juice</td>
+    <td class="tg-90b6">$0.80 - $1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Sliced Fruits (e.g. Honeydew, Papaya, Watermelon etc)</td>
+    <td class="tg-90b6">$0.30 - $0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Whole Fruits (e.g. Banana, Grapes, Prunes etc)</td>
+    <td class="tg-90b6">$0.30 - $0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc"> </td>
+    <td class="tg-90b6"> </td>
+  </tr>
+  <tr>
+    <td class="tg-vwyz">Others</td>
+    <td class="tg-97qb">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Agar Agar/Konnyaku Jelly</td>
+    <td class="tg-90b6">$0.30</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Bean Curd/Fruit Pudding</td>
+    <td class="tg-90b6">$0.60 - $1.30</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Frozen Pudding /Yoghurt/Ice Cream</td>
+    <td class="tg-90b6">$0.50 - $1.80</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Jelly – Cup</td>
+    <td class="tg-90b6">$0.50 - $0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Yoghurt</td>
+    <td class="tg-90b6">$0.90</td>
+  </tr>
+  <tr>
+    <td class="tg-nqmc">Tissue</td>
+    <td class="tg-90b6">$0.20</td>
+  </tr>
+</tbody>
+</table>
