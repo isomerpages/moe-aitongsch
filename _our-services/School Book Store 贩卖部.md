@@ -80,7 +80,7 @@ The bookshop will be open to parents for the purchase of books and school unifor
 
 ### 2023 Booklist
 
-1.  [P1 Booklist 2023.pdf](/files/P1%20Booklist%202023.pdf)
+[P1 Booklist 2023.pdf](/files/P1%20Booklist%202023.pdf)
     
 
   
