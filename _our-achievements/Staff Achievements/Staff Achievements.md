@@ -158,3 +158,39 @@ The award aims to recognise outstanding Chinese language teachers who have been 
   </tr>
 </tbody>
 </table>
+
+### MOE Service Excellence Award (MSEA)
+The MOE-wide award aims to encourage all MOE staff to continually and consistently serve both internal and external customers with excellent service premised on CARE (Courtesy, Accessibility, Responsiveness and Effectiveness) and the 3 key Service Principles (People Centricity, Mutual Courtesy and Respect and Shared Responsibility for the Public Good).
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9uia{background-color:#FAFAFA;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 426px">
+<colgroup>
+<col style="width: 162px">
+<col style="width: 264px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Year of Award</span></td>
+    <td class="tg-jxqz"><span style="color:white">Name of Staff</span></td>
+  </tr>
+  <tr>
+    <td class="tg-9uia"> 2018</td>
+    <td class="tg-9uia"><span style="font-weight:bold;text-decoration:underline">Platinum</span><br>Miss Jasmine Lee</td>
+  </tr>
+  <tr>
+    <td class="tg-9uia"> 2020</td>
+    <td class="tg-9uia"> <span style="font-weight:bold;text-decoration:underline">Platinum</span><br>Mdm Klera Kwa</td>
+  </tr>
+</tbody>
+</table>
+
+
