@@ -11,5 +11,7 @@ links:
   - title: Visitor Management
     collection: visitor-management
   - title: About Us
-    url: /permalink
-    sublinks: []
+    url: /our-achievements/Student-Achievements/student-achievements/
+    sublinks:
+      - title: Our Achievements
+        url: /our-achievements/Student-Achievements/student-achievements/
