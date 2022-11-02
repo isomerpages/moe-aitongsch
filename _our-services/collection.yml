@@ -2,5 +2,6 @@ collections:
   our-services:
     output: true
     order:
+      - School Bus 校车服务.md
       - School Dental Clinic 牙科诊所.md
       - Student Care Centre 学生托管中心.md
