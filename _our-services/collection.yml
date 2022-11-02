@@ -2,4 +2,5 @@ collections:
   our-services:
     output: true
     order:
+      - School Dental Clinic 牙科诊所.md
       - Student Care Centre 学生托管中心.md
