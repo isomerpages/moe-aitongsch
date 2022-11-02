@@ -150,11 +150,13 @@ The award aims to recognise outstanding Chinese language teachers who have been 
   </tr>
   <tr>
     <td class="tg-q6ha"> 2017</td>
-    <td class="tg-q6ha"> Mdm Yeo Yee Teng<br><img src="https://aitong.moe.edu.sg/qql/slot/u180/Our%20Achievements/Staff/2017%20Distinguished%20CL%20Teacher%20Award.jpeg" alt="2017 Distinguished CL Teacher Award.jpeg" width="308" height="451"><br></td>
+    <td class="tg-q6ha"> Mdm Yeo Yee Teng<br><img src="/images/2017%20Distinguished%20CL%20Teacher%20Award.jpeg" 
+     style="width:55%"><br></td>
   </tr>
   <tr>
     <td class="tg-q6ha"> 2020</td>
-    <td class="tg-q6ha"> Mdm Tan Kang Li<img src="https://aitong.moe.edu.sg/qql/slot/u180/Our%20Achievements/Staff/Ai%20Tong-Tan%20Kang%20Li%202.jpg" alt="Ai Tong-Tan Kang Li 2.jpg" width="476" height="338"></td>
+    <td class="tg-q6ha"> Mdm Tan Kang Li<img src="/images/Ai%20Tong-Tan%20Kang%20Li%202.jpeg" 
+     style="width:55%"></td>
   </tr>
 </tbody>
 </table>
@@ -194,3 +196,36 @@ The MOE-wide award aims to encourage all MOE staff to continually and consistent
 </table>
 
 
+### MOE Innergy (Schools) Award -Team Commendation Award
+
+The award is conferred by MOE to schools for innovative ideas which enhance teaching and learning.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9uia{background-color:#FAFAFA;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 466px">
+<colgroup>
+<col style="width: 182px">
+<col style="width: 284px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-jxqz">Year of Award</td>
+    <td class="tg-jxqz">Name of Staff</td>
+  </tr>
+  <tr>
+    <td class="tg-9uia">2019</td>
+    <td class="tg-9uia">Mdm Lily Lim<br>Miss Regina Low<br>Mrs Leow Kian Lee<br>Mdm Chong Chow Yong<br>Miss Roziana<br>Mdm Priscilla Koh<br>Miss Jowie Koh<br>Mrs Caroline Lee<br>Mdm Josephine Ng<br>Mdm Jesyln Yeo<br>Mrs Tan Qili</td>
+  </tr>
+  <tr>
+    <td class="tg-9uia"> 2022</td>
+    <td class="tg-9uia"> Mdm Eileen Ong Hui San<br>Mdm Felice Tang Chai Chin</td>
+  </tr>
+</tbody>
+</table>
