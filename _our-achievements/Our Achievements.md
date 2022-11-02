@@ -14,4 +14,4 @@ The award is a voluntary environmental programme which serves as a platform for 
 Our school has attained NS Mark Gold Accreditation for supporting National Service and Total Defence through our implemented policies and human resource practices.
 
 <img src="/images/NSmark%20Gold.png" 
-     style="width:45%">
+     style="width:55%">
