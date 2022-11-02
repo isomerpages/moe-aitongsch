@@ -58,25 +58,25 @@ For pupils who require emergency dental treatment in case of clinic closure, par
   </tr>
   <tr>
     <td class="tg-6o7l">1</td>
-    <td class="tg-6o7l"> <br>Ang Mo Kio Primary School<br> </td>
+    <td class="tg-6o7l">Ang Mo Kio Primary School<br> </td>
     <td class="tg-6o7l"><span style="color:#444">87645842</span></td>
     <td class="tg-6o7l">20 Ang Mo Kio Avenue 3 Singapore (569920)</td>
   </tr>
   <tr>
     <td class="tg-6o7l"><span style="color:#444">2</span></td>
-    <td class="tg-6o7l"> <br>Catholic High Primary School<br> </td>
+    <td class="tg-6o7l">Catholic High Primary School<br> </td>
     <td class="tg-q6ha">87646507</td>
     <td class="tg-q6ha">9 Bishan Street 22 Singapore (579767)</td>
   </tr>
   <tr>
     <td class="tg-6o7l"><span style="color:#444">3</span></td>
-    <td class="tg-6o7l"> <br>Jing Shan Primary School <br> </td>
+    <td class="tg-6o7l">Jing Shan Primary School <br> </td>
     <td class="tg-6o7l"><span style="color:#444">87647987</span></td>
     <td class="tg-6o7l"><span style="color:#444">5 Ang Mo Kio Street 52 Singapore (5609228)</span></td>
   </tr>
   <tr>
     <td class="tg-6o7l"><span style="color:#444">4</span></td>
-    <td class="tg-6o7l"> <br>Teck Ghee Primary School<br></td>
+    <td class="tg-6o7l">Teck Ghee Primary School<br></td>
     <td class="tg-6o7l"><span style="color:#444">89400152</span></td>
     <td class="tg-6o7l"><span style="color:#444">1 Ang Mo Kio Street 32 Singapore (569299)</span></td>
   </tr>
