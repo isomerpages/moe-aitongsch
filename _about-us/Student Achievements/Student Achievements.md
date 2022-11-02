@@ -26,7 +26,7 @@ third_nav_title: Student Achievements
 </td>
   </tr>
   <tr>
-    <td class="tg-1l4m"><span style="font-weight:bold;text-decoration:underline">Creative Writing Programme 2021</span><br><br>The following students represented Ai Tong School in the Creative Writing Programme 2021. The programme aims to nurture budding writers in creative writing by helping them cultivate a critical awareness of literary technique and craftsmanship, and is one of a suite of provisions by Gifted Education Branch  (MOE). These students completed the programme this year.<br><br><img src="/images/principal.jpg" 
+    <td class="tg-1l4m"><span style="font-weight:bold;text-decoration:underline">Creative Writing Programme 2021</span><br><br>The following students represented Ai Tong School in the Creative Writing Programme 2021. The programme aims to nurture budding writers in creative writing by helping them cultivate a critical awareness of literary technique and craftsmanship, and is one of a suite of provisions by Gifted Education Branch  (MOE). These students completed the programme this year.<br><br><img src="/images/sa2.png" 
      style="width:65%">
 </td>
   </tr>
