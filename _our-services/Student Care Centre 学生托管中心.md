@@ -52,3 +52,9 @@ For further enquiries, please email us at [aitong@pro-teach.com](mailto:aitong@
   </tr>
 </tbody>
 </table>
+
+
+  
+[Pro-Teach SCC Information.pdf](/files/Pro-Teach%20SCC%20Information.pdf)  
+[Cover Letter for New Parents\_2023.pdf](/files/Cover%20Letter%20for%20New%20Parents_2023.pdf)   
+[2023 REQUEST FORM.pdf](/files/2023%20REQUEST%20FORM.pdf)
