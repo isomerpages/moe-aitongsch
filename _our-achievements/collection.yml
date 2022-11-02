@@ -2,5 +2,6 @@ collections:
   our-achievements:
     output: true
     order:
+      - Student Achievements/Singapore Youth Festival Art Exhibition.md
       - Student Achievements/Achievement for ALP (Innovation & Project Work).md
       - Student Achievements/.keep
