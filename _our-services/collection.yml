@@ -1,4 +1,5 @@
 collections:
   our-services:
     output: true
-    order: []
+    order:
+      - Student Care Centre 学生托管中心.md
