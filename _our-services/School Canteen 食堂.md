@@ -16,11 +16,11 @@ description: ""
 .tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 625px">
+<table class="tg" style="undefined;table-layout: fixed; width: 645px">
 <colgroup>
 <col style="width: 275px">
-<col style="width: 184px">
-<col style="width: 166px">
+<col style="width: 185px">
+<col style="width: 185px">
 </colgroup>
 <tbody>
   <tr>
@@ -178,6 +178,3 @@ description: ""
 
 
 ### Stall 10: Cold Drinks and Fruits Menu
-
-
-
