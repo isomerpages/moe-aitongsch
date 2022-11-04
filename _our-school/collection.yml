@@ -1,4 +1,5 @@
 collections:
   our-school:
     output: true
-    order: []
+    order:
+      - Financial and Non Financial Information  财务与非财务报告.md
