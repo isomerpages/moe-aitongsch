@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Vision, Mission and Values 愿景、使命、价值观.md
       - Our Four Dynamic Learners 爱同活力四宝.md
       - Our School Logo, School Song and Students' Pledge 校徽, 校歌, 学生誓约.md
       - Our School Rules and Regulations 校规.md
