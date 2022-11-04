@@ -11,3 +11,6 @@ ATS Voices Suggestion Box is for students to offer constructive suggestions to i
 * be more aware of their surroundings.
 * play a part in improving their learning environment.
 * see their constructive and innovative ideas come to life.
+
+<img src="/images/atSVOICES.jpeg" 
+     style="width:45%">
