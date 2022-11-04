@@ -11,12 +11,12 @@ links:
         url: /our-services/school-canteen/
       - title: Our Achievements
         url: /our-achievements/our-achievements/
+  - title: ATS Experience
+    url: /co-curriculum/Innovation-and-Enterprise/ats-voices/
+    sublinks: []
   - title: For Parents
     collection: for-parents
   - title: Stakeholders
     collection: stakeholders
   - title: Visitor Management
     collection: visitor-management
-  - title: ATS Experience
-    url: /co-curriculum/Innovation-and-Enterprise/ats-voices/
-    sublinks: []
