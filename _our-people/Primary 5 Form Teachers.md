@@ -52,7 +52,7 @@ description: ""
   <tr>
     <td class="tg-vox4"><span style="color:#444">5 Patience</span></td>
     <td class="tg-vlx1">Mr Eshan Benjamin<br><a href="mailto:eshan_benjamin_lo@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">eshan_benjamin_lo@schools.gov.sg</span></a><br></td>
-    <td class="tg-5y2q">Mrs Sharon Tan<br><a href="mailto:tan_quee_leng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">tan_quee_leng@schools.gov.sg</span></a></td>
+    <td class="tg-vlx1">Mrs Sharon Tan<br><a href="mailto:tan_quee_leng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">tan_quee_leng@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-d8lx"><span style="color:#444">5 Perseverance</span></td>
