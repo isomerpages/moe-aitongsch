@@ -2,4 +2,5 @@ collections:
   our-school:
     output: true
     order:
+      - Our School Rules and Regulations 校规.md
       - Financial and Non Financial Information  财务与非财务报告.md
