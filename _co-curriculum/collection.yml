@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Life Long Learning Programmes/.keep
       - Innovation & Enterprise/Primary 3 Junior Innovator Programme – SCAMPER.md
       - Innovation & Enterprise/Primary 4 Innovator Programme – Design
         Thinking.md
