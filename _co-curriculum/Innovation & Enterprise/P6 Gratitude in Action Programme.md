@@ -9,3 +9,12 @@ The P6 Gratitude-in-Action (GIA) is a VIA project which uses the Heart-Head-Hand
 The project is delivered through different lessons including English Language, Art & Crafts, and Mathematics. Through these lessons, they will learn about the success stories of social entrepreneurs, marketing strategies, advertising techniques, pricing and use of recycling materials to create products. A major component of this GIA project is the infusion of financial literacy lesson through Mathematics lessons. The aim is to equip our students with the knowledge and skills to make effective and informed money management decisions. 
 
 Along with these acquired skills, the relevant knowledge which they picked up during their P3 to P5 Project Work, e.g. SCAMPER, Design Thinking Process, 6-step Problem Solving Process are also aptly applied to the formation of class booths for the GIA Fair held annually in early-November.
+
+<img src="/images/p6gia1.jpeg" 
+     style="width:55%">
+		 
+<img src="/images/p6gia2.jpeg" 
+     style="width:55%">
+		 
+<img src="/images/p6gia3.jpeg" 
+     style="width:55%">
