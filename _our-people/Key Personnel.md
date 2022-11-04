@@ -239,15 +239,108 @@ description: ""
 
 ### Science Department
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD SC</span></td>
+    <td class="tg-nc7t">Mrs Tan Tsai Yi<br><a href="mailto:lai_tsai_yi@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lai_tsai_yi@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">LH SC</span></td>
+    <td class="tg-nc7t">Mr Goh Chee Wee<br><a href="mailto:goh_chee_wee@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">goh_chee_wee@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">ST SC</span></td>
+    <td class="tg-nc7t">Mrs Christina Sim<br><a href="mailto:peh_sway_gek_christina@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">peh_sway_gek_christina@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### PE/CCA Department
 
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD PE/CCA</span></td>
+    <td class="tg-nc7t">Mr Lloyd Nicholas<br><a href="mailto:lloyd_nicholas_morand@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lloyd_nicholas_morand@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SH PE/CCA</span></td>
+    <td class="tg-nc7t">Mr Tan Ser Yang<br><a href="mailto:tan_ser_yang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_ser_yang@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">LT PE</span></td>
+    <td class="tg-nc7t">Mr Matthew Yap<br><a href="mailto:yap_kheng_wai_matthew@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">yap_kheng_wai_matthew@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz">ST PE</td>
+    <td class="tg-nc7t">Mr Jay Sng<br><a href="mailto:sng_yuan_zhi_jay@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">sng_yuan_zhi_jay@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 ### Student Management Department
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD SM</span></td>
+    <td class="tg-nc7t">Mr Daniel Lim<br><a href="mailto:lim_wan_seng_daniel@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_wan_seng_daniel@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SH Student Well-Being</span></td>
+    <td class="tg-nc7t">Ms Ong Wei Peng<br><a href="mailto:ong_wei_peng@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">ong_wei_peng@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">ST Special Needs</span></td>
+    <td class="tg-nc7t">Mrs Sharon Tan<br><a href="mailto:tan_quee_leng@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_quee_leng@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">School Counsellor</span></td>
+    <td class="tg-nc7t">Mdm Koh Meow Khim<br><a href="mailto:koh_meow_khim@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">koh_meow_khim@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
+    <td class="tg-nc7t">Mdm Yeo Sok Koon<br><a href="mailto:yeo_sok_koon@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">yeo_sok_koon@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
+    <td class="tg-nc7t">Ms Tedra Cher Wei Ting<br><a href="mailto:tedra_cher_wei_ting@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tedra_cher_wei_ting@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
+    <td class="tg-nc7t">Ms Tan Yi Lin<br><a href="mailto:Tan_yi_lin_a@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">Tan_yi_lin_a@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### CCE/Student Leadership Department
