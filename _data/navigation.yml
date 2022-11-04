@@ -13,7 +13,11 @@ links:
         url: /our-achievements/our-achievements/
   - title: ATS Experience
     url: /co-curriculum/Innovation-and-Enterprise/ats-voices/
-    sublinks: []
+    sublinks:
+      - title: Curriculum
+        url: /permalink
+      - title: Co Curriculum
+        url: /co-curriculum/Innovation-and-Enterprise/ats-voices/
   - title: For Parents
     collection: for-parents
   - title: Stakeholders
