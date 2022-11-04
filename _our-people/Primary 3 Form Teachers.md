@@ -49,17 +49,17 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ackq">3 Perseverance</td>
-    <td class="tg-ackq"><br>Mrs Linda Teo<br><span style="font-weight:400"> </span><a href="mailto:loh_beng_hua@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">loh_beng_hua@schools.gov.sg</span></a><br></td>
+    <td class="tg-ackq">Mrs Linda Teo<br><span style="font-weight:400"> </span><a href="mailto:loh_beng_hua@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">loh_beng_hua@schools.gov.sg</span></a><br></td>
     <td class="tg-ackq">Ms Shirley Toh Lay Peng<br><a href="mailto:toh_lay_peng_shirley@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">toh_lay_peng_shirley@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ykyb">3 Respect</td>
-    <td class="tg-ykyb"><br>Ms Janice Yap<br><a href="mailto:yap_yi_hui_janice@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">yap_yi_hui_janice@schools.gov.sg</span></a><br></td>
+    <td class="tg-ykyb">Ms Janice Yap<br><a href="mailto:yap_yi_hui_janice@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">yap_yi_hui_janice@schools.gov.sg</span></a><br></td>
     <td class="tg-ct41"><span style="color:#222">Mr Wu Luping</span><br><a href="mailto:wu_luping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">wu_luping@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-sf86">3 Responsibility </td>
-    <td class="tg-sf86"><br>Mrs Jeanny Wong<br><a href="mailto:chong_woan_ling@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">chong_woan_ling@schools.gov.sg</span></a><br></td>
+    <td class="tg-sf86">Mrs Jeanny Wong<br><a href="mailto:chong_woan_ling@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">chong_woan_ling@schools.gov.sg</span></a><br></td>
     <td class="tg-sf86">Ms Bela Somaiah<br><a href="mailto:Bela_Somaiah@schools.gov.sg"><span style="font-weight:400;text-decoration:none;color:#CB181A">Bela_Somaiah@schools.gov.sg</span></a></td>
   </tr>
   <tr>
