@@ -1,5 +1,0 @@
-collections:
-  ats-experience:
-    output: true
-    order:
-      - Test/.keep
