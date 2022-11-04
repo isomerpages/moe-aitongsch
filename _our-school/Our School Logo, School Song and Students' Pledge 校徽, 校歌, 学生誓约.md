@@ -6,7 +6,7 @@ description: ""
 ### Our School Logo 校徽
 
 <img src="/images/ATS-Logo-web.png" 
-     style="width:35%">
+     style="width:15%">
 		 
 The school name reflects that Ai Tong School was founded out of love for children in 1912. The Chinese characters “爱同” were derived from the phrase, “love to all and sundry”.
 
