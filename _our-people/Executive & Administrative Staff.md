@@ -46,3 +46,46 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+### OPERATIONS
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-huu4{background-color:#FAFAFA;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Operations Manager 1</span></td>
+    <td class="tg-huu4">Mr Ng Lik Yong<br><a href="mailto:ng_lik_yong@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">ng_lik_yong@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Operations Manager 2</span></td>
+    <td class="tg-huu4">Mr Low Heng Moh<br><a href="mailto:low_heng_moh@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">low_heng_moh@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
+    <td class="tg-huu4">Mdm Lim Ah Moy</td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
+    <td class="tg-huu4">Mr Yeo Eng Liat</td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
+    <td class="tg-huu4">Mdm Oh Mee Suan</td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
+    <td class="tg-huu4">Mr Ng Kim Gay</td>
+  </tr>
+</tbody>
+</table>
+
+
