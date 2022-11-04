@@ -3,3 +3,46 @@ title: Executive & Administrative Staff
 permalink: /our-people/executive-and-administrative-staff/
 description: ""
 ---
+### ADMINISTRATION
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-15z8{background-color:#FAFAFA;color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">A</span>dministration Manager</td>
+    <td class="tg-15z8">Miss Wong Yu Chun<br><a href="mailto:wong_yu_chun@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">wong_yu_chun@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Admin Executive</span></td>
+    <td class="tg-15z8">Mdm Chng Kwai Chan<br><a href="mailto:chng_kwai_chan@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">chng_kwai_chan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Admin Executive</span></td>
+    <td class="tg-15z8">Ms Nur Khaliesah Binte Shawalri<br><a href="mailto:nur_khaliesah_shawalri@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">nur_khaliesah_shawalri@schools.gov.sg</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
+    <td class="tg-15z8">Mdm Ngeow Chai Lian<br><a href="mailto:ngeow_chai_lian@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">ngeow_chai_lian@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
+    <td class="tg-15z8">Mdm Lee Siok Noi<br><a href="mailto:lee_siok_noi@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lee_siok_noi@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
+    <td class="tg-15z8">Mdm Sally Tan<br><a href="mailto:tan_kui_wang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_kui_wang@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz">Receptionist</td>
+    <td class="tg-15z8">Mdm Lilian Ngiam</td>
+  </tr>
+</tbody>
+</table>
