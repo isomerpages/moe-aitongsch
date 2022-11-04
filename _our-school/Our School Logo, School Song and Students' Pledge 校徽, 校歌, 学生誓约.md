@@ -20,6 +20,6 @@ seeking higher aspirations and excellence. The character “同” gives the sch
 
 ### Our School Song 校歌
 
+**(embed youtube video of song)**
 
 <center><b>THE MEANING OF THE AI TONG SCHOOL SONG</b><br><br>The pupils and the alumni of Ai Tong School will serve the school wholeheartedly. The love for the school will never change.<br><br>We will build a strong foundation of languages and the sciences, so as to prepare ourselves to contribute to the society, to be future leaders.<br><br>Together, we pledge our loyalty to our nation.</center>
-
