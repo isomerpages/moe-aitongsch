@@ -46,5 +46,3 @@ We, the students of Ai Tong School,<br>
 	以毅处事　以诚待人<br>
 	共同创造一个美好的学习环境</center>
 
-sssss
-ssss
