@@ -62,7 +62,7 @@ description: ""
   <tr>
     <td class="tg-vox4"><span style="color:#444">5 Respect</span></td>
     <td class="tg-vlx1">Mdm Low Woon<br><a href="mailto:low_woon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">low_woon@schools.gov.sg</span></a></td>
-    <td class="tg-kel2"><span style="color:#454545">Mr Daniel Lim</span><br><a href="mailto:lim_wan_seng_daniel@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">lim_wan_seng_daniel@schools.gov.sg</span></a><br></td>
+    <td class="tg-vlx1">Mr Daniel Lim<br><a href="mailto:lim_wan_seng_daniel@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">lim_wan_seng_daniel@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-d8lx"><span style="color:#444">5 Responsibility</span></td>
