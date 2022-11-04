@@ -7,13 +7,10 @@ description: ""
 * Students who are Singapore citizens must sing the National Anthem and take the Pledge with their right fist placed over their heart.
 
 
-School Attendance and Punctuality
-
-Students must observe punctuality at all times. Students are to be in school by 7.30 a.m. during school days (unless otherwise stated). Arrival of students after that would be considered as late coming.
-
-School attendance is compulsory. Absence from school is only permitted when it is supported by a medical certificate from a doctor or a letter of excuse from the parents/ guardian.
-
-Students are not allowed to leave the school premises during curriculum time or before supplementary/ remedial lessons/CCA without permission. Any such act would be considered as truancy.
+2\. School Attendance and Punctuality
+* Students must observe punctuality at all times. Students are to be in school by 7.30 a.m. during school days (unless otherwise stated). Arrival of students after that would be considered as late coming.
+* School attendance is compulsory. Absence from school is only permitted when it is supported by a medical certificate from a doctor or a letter of excuse from the parents/ guardian.
+* Students are not allowed to leave the school premises during curriculum time or before supplementary/ remedial lessons/CCA without permission. Any such act would be considered as truancy.
 
 Hence to account for students’ attendance, parents/guardians must write a letter to the Form Teacher to seek permission for students to leave the school on any private matters.
 
@@ -83,4 +80,3 @@ Students are to use media and technology responsibly and with care.
 Any improper, unlawful, or incorrect use of information such as posting inappropriate pictures of themselves or others, making inappropriate comments that hurt themselves or others and using vulgar language online are considered as abuse of technology.
 
 Unauthorised access and use of computer service (e.g. using another person’s ID and password without proper authority to access data or a program; alter, delete, copy or move a program or data; and unauthorised output of data – removal of information) and unauthorised use or interception of computer service (e.g. hacking of computer systems to gain free internet services / Wi-Fi) will be dealt with severely.
-
