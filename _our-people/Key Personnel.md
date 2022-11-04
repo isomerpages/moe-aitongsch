@@ -141,3 +141,122 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+### English Language Department
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD EL</span></td>
+    <td class="tg-nc7t">Mdm Tan Ellene<br><a href="mailto:tan_ellene@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_ellene@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">LT EL</span></td>
+    <td class="tg-nc7t">Mr Casey Low<br><a href="mailto:low_jianzhi_casey@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">low_jianzhi_casey@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white"> ST EL</span></td>
+    <td class="tg-nc7t">Ms Magdalene Voo<br><a href="mailto:voo_mun_pan@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">voo_mun_pan@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+
+### Mathematics Department
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD MA(Covering)</span></td>
+    <td class="tg-nc7t">Mdm Lily Lim<br><a href="mailto:lim_lily_c@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_lily_c@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">LH MA(Internal)</span></td>
+    <td class="tg-nc7t">Mdm Linda Tan<br><a href="mailto:tan_huey_lin_linda@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_huey_lin_linda@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">ST MA</span></td>
+    <td class="tg-nc7t">Mdm Low Woon<br><a href="mailto:low_woon@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">low_woon@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+
+### Chinese Language/Cultural Department
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD CL</span></td>
+    <td class="tg-nc7t">Mdm Tsang Kai Kai<br><a href="mailto:tsang_kai_kai@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tsang_kai_kai@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD CC</span></td>
+    <td class="tg-nc7t">Mr Joseph Koh<br><a href="mailto:koh_gay_kheong_joseph@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">koh_gay_kheong_joseph@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">LH CL</span></td>
+    <td class="tg-nc7t">Mr Wu Luping<br><a href="mailto:wu_luping@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">wu_luping@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">ST CL</span></td>
+    <td class="tg-nc7t">Ms Lim Li Joon<br><a href="mailto:lim_li_joon@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_li_joon@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">ST CL</span></td>
+    <td class="tg-nc7t">Mr Goh Piang Kang<br><a href="mailto:goh_piang_kang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">goh_piang_kang@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+
+### Science Department
+
+
+
+
+### PE/CCA Department
+
+
+
+
+### Student Management Department
+
+
+### CCE/Student Leadership Department
+
+
+
+
+### Aesthetics Department
+
+
+
+### ICT Department
