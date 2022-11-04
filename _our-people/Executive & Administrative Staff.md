@@ -89,3 +89,36 @@ description: ""
 </table>
 
 
+### SUPPORT
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">ICT Associate</span></td>
+    <td class="tg-sdzj">Mdm Nur Azean<br><a href="mailto:nur_azean_nordin@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">nur_azean_nordin@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Desktop Engineer</span></td>
+    <td class="tg-sdzj">Ms Hazwani<br><a href="mailto:g-ncs5625pde@ncs.com.sg"><span style="text-decoration:none;color:#CB181A">g-ncs5625pde@ncs.com.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Science Lab Assistant</span></td>
+    <td class="tg-sdzj">Mr Joash Poh</td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">Library Assistant</span></td>
+    <td class="tg-sdzj">Mr Ong Ah Lek</td>
+  </tr>
+</tbody>
+</table>
+
+
