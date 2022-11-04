@@ -39,12 +39,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-bmtl">4 Diligence</td>
-    <td class="tg-bmtl"><br>Ms Ong Yen San<br><a href="mailto:ong_yen_san@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">ong_yen_san@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-bmtl">Ms Ong Yen San<br><a href="mailto:ong_yen_san@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">ong_yen_san@schools.gov.sg</span></a></td>
     <td class="tg-lyza"><span style="color:#454545">Mrs Wendy Tan</span><br><a href="mailto:tan_khor_kiah@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">tan_khor_kiah@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-cuqa">4 Patience</td>
-    <td class="tg-cuqa"><br>Mrs Geraldine Tay<br><a href="mailto:goh_swee_hong_geraldine@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">goh_swee_hong_geraldine@schools.gov.sg</span></a><br></td>
+    <td class="tg-cuqa">Mrs Geraldine Tay<br><a href="mailto:goh_swee_hong_geraldine@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">goh_swee_hong_geraldine@schools.gov.sg</span></a><br></td>
     <td class="tg-r6i7"><span style="color:#454545">Mdm Sharon Tan</span><br><a href="mailto:sharon_tan_chai_hoon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">sharon_tan_chai_hoon@schools.gov.sg</span></a></td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-cuqa">4 Respect</td>
-    <td class="tg-cuqa"><br>Ms Cham Kah Mien<br><a href="mailto:cham_kah_mien@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">cham_kah_mien@schools.gov.sg</span></a><br></td>
+    <td class="tg-cuqa">Ms Cham Kah Mien<br><a href="mailto:cham_kah_mien@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">cham_kah_mien@schools.gov.sg</span></a><br></td>
     <td class="tg-ct41"><span style="color:#454545">Mdm Wendy Chua</span><br><a href="mailto:chua_wan_feng_wendy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">chua_wan_feng_wendy@schools.gov.sg</span></a></td>
   </tr>
   <tr>
