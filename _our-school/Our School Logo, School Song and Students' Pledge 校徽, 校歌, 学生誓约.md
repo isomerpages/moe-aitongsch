@@ -23,3 +23,30 @@ seeking higher aspirations and excellence. The character “同” gives the sch
 **(embed youtube video of song)**
 
 <center><b>THE MEANING OF THE AI TONG SCHOOL SONG</b><br><br>The pupils and the alumni of Ai Tong School will serve the school wholeheartedly. The love for the school will never change.<br><br>We will build a strong foundation of languages and the sciences, so as to prepare ourselves to contribute to the society, to be future leaders.<br><br>Together, we pledge our loyalty to our nation.</center>
+
+
+### Students Pledge 学生誓约
+
+
+<center><b><u>Students Pledge</u></b><br>
+We, the students of Ai Tong School,<br>
+	pledge our loyalty to the school,<br>
+	to uphold its good name,<br>
+	to pursue knowledge diligently,<br>
+	to respect our elders,<br>
+	to be sincere in attitude, <br>
+	to persevere in work and<br>
+	together, create a more conducive learning environment</center>
+	
+
+学生誓约
+
+我们是爱同学校的学生，誓愿 
+
+效忠学校　维护校誉
+
+勤奋求学　尊敬师长
+
+以毅处事　以诚待人
+
+共同创造一个美好的学习环境
