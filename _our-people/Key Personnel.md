@@ -345,7 +345,35 @@ description: ""
 
 ### CCE/Student Leadership Department
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD CCE</span></td>
+    <td class="tg-nc7t">Ms Jasmine Lee<br><a href="mailto:lee_shu_fen_jasmine@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lee_shu_fen_jasmine@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SH Student Leadership</span></td>
+    <td class="tg-nc7t">Ms Jowie Koh<br><a href="mailto:koh_hui_ling_jowie@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">koh_hui_ling_jowie@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SH CCE</span></td>
+    <td class="tg-nc7t">Mrs Chun-Hong Lin<br><a href="mailto:hong_lin@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">hong_lin@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SH CCE (Internal)</span></td>
+    <td class="tg-nc7t">Mrs Sashi<br><a href="mailto:kanna_dhatchayani@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">kanna_dhatchayani@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Aesthetics Department
