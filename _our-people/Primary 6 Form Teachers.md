@@ -9,7 +9,6 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-kel2{background-color:#FAFAFA;color:#CB181A;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ct41{background-color:#FFF;color:#CB181A;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-d0j6{background-color:#FFF;color:#CB181A;text-align:center;vertical-align:middle}
 .tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
@@ -21,11 +20,12 @@ description: ""
 .tg .tg-vlx1{background-color:#CCC;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-5y2q{background-color:#CCC;color:#CB181A;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-cuqa{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-27p7{background-color:#cccccc;color:#CB181A;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-idov"><span style="color:white">Class</span><br></td>
+    <td class="tg-idov"><span style="color:white">Class</span></td>
     <td class="tg-idov"><span style="color:white">Form Teacher</span></td>
     <td class="tg-idov"><span style="color:white">Form Teacher</span></td>
   </tr>
@@ -52,7 +52,7 @@ description: ""
   <tr>
     <td class="tg-vox4"><span style="color:#444">6 Patience</span></td>
     <td class="tg-vlx1"><br>Mrs Christina Sim<br><a href="mailto:peh_sway_gek_christina@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">peh_sway_gek_christina@schools.gov.sg</span></a><br></td>
-    <td class="tg-kel2"><span style="color:#444">Mr Vincent Low</span><br><a href="mailto:low_chee_kong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">low_chee_kong@schools.gov.sg</span></a></td>
+    <td class="tg-27p7"><span style="color:#444">Mr Vincent Low</span><br><a href="mailto:low_chee_kong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">low_chee_kong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-d8lx"><span style="color:#444">6 Perseverance</span></td>
