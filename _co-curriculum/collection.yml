@@ -2,6 +2,8 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Innovation & Enterprise/Primary 4 Innovator Programme – Design
+        Thinking.md
       - Innovation & Enterprise/Primary 5 Community Problem Solving (CmPS)
         Programme.md
       - Innovation & Enterprise/P6 Gratitude in Action Programme.md
