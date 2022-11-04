@@ -39,14 +39,12 @@ We, the students of Ai Tong School,<br>
 	together, create a more conducive learning environment</center>
 	
 
-学生誓约
+<center><b><u>学生誓约</u></b><br>
+我们是爱同学校的学生，誓愿<br>
+效忠学校　维护校誉<br>
+	勤奋求学　尊敬师长<br>
+	以毅处事　以诚待人<br>
+	共同创造一个美好的学习环境</center>
 
-我们是爱同学校的学生，誓愿 
-
-效忠学校　维护校誉
-
-勤奋求学　尊敬师长
-
-以毅处事　以诚待人
-
-共同创造一个美好的学习环境
+sssss
+ssss
