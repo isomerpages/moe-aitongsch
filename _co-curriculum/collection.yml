@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Innovation & Enterprise/P6 Gratitude in Action Programme.md
       - Innovation & Enterprise/ATS Voices 爱同之声.md
       - Innovation & Enterprise/.keep
