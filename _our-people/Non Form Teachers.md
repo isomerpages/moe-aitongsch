@@ -77,7 +77,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-vfvg"><span style="font-weight:bold;color:#444">Mdm Enid Sim</span><br><a href="mailto:sim_lin_enid@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">sim_lin_enid@schools.gov.sg</span></a><br><span style="color:#444">CAJT Mathematics</span></td>
-    <td class="tg-vfvg"><span style="font-weight:bold;color:#444">Mrs Joycelyn Tsui</span><br><a href="mailto:wallace_tsui@schools.gov.sg" target="_blank" rel="noopener noreferrer">wallace_tsui@schools.gov.sg</a><br><span style="color:#444">CAJT Mathematics</span></td>
+    <td class="tg-vfvg"><span style="font-weight:bold;color:#444">Mrs Joycelyn Tsui</span><br><a href="mailto:wallace_tsui@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">wallace_tsui@schools.gov.sg</span></a><br><span style="color:#444">CAJT Mathematics</span></td>
   </tr>
   <tr>
     <td class="tg-94um"><span style="color:#444"> </span><span style="font-weight:bold">Mdm Jesyln Yeo</span><br><a href="mailto:yeo_siew_hoon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">yeo_siew_hoon@schools.gov.sg</span></a><br><span style="color:#444">CAJT English</span></td>
