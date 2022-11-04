@@ -67,3 +67,5 @@ description: ""
 
 **2017:** Ai Tong celebrated the school's 105th Anniversary on 5th October. On that day, the new teaching block and the new Heritage Gallery were officially opened.   
 爱同于10月5日庆祝建校105周年。当天，新的教学楼和新的文物廊正式启用。
+
+![](/images/Ai%20Tong,%202016.jpeg)
