@@ -41,30 +41,22 @@ With the advancement of technology, owning mobile phones are increasingly becomi
 	* Mobile phones must be switched off during lessons, supplementary/remedial classes after school and lessons conducted during holidays.
 	* Usage of mobile phones is only allowed at the Side Gates.
 
-Confiscation and Collection
+* Confiscation and Collection
+	* If a student is caught using the mobile phone during curriculum time or outside the stipulated places and timing, his/her phone will be confiscated. The Form Teacher or another staff member will contact the parents / guardians to make arrangement to collect the mobile phone, if necessary.
 
-If a student is caught using the mobile phone during curriculum time or outside the stipulated places and timing, his/her phone will be confiscated. The Form Teacher or another staff member will contact the parents / guardians to make arrangement to collect the mobile phone, if necessary.
-
-Loss of Mobile Phones
-
-If students bring mobile phones to school, they should be responsible for their property and not flaunt it or invite envy and draw attention to it.
-
-The school will not be held accountable for any losses.
+* Loss of Mobile Phones
+	* If students bring mobile phones to school, they should be responsible for their property and not flaunt it or invite envy and draw attention to it.
+	* The school will not be held accountable for any losses.
 
 
-For Students with no mobile phones, parents/guardians can call the
-
-General Office at Tel: 6454 7672 if they need to contact their children.
-
-Alternatively, your child can also make calls to you from the General Office
-
-or the public telephones in the canteen, if necessary.
+* For Students with no mobile phones, parents/guardians can call the
+	* General Office at Tel: 6454 7672 if they need to contact their children.
+	* Alternatively, your child can also make calls to you from the General Office
+	* or the public telephones in the canteen, if necessary.
 
 
 **7\.Responsible Use of Technology**
 
-Students are to use media and technology responsibly and with care.
-
-Any improper, unlawful, or incorrect use of information such as posting inappropriate pictures of themselves or others, making inappropriate comments that hurt themselves or others and using vulgar language online are considered as abuse of technology.
-
-Unauthorised access and use of computer service (e.g. using another person’s ID and password without proper authority to access data or a program; alter, delete, copy or move a program or data; and unauthorised output of data – removal of information) and unauthorised use or interception of computer service (e.g. hacking of computer systems to gain free internet services / Wi-Fi) will be dealt with severely.
+* Students are to use media and technology responsibly and with care.
+* Any improper, unlawful, or incorrect use of information such as posting inappropriate pictures of themselves or others, making inappropriate comments that hurt themselves or others and using vulgar language online are considered as abuse of technology.
+* Unauthorised access and use of computer service (e.g. using another person’s ID and password without proper authority to access data or a program; alter, delete, copy or move a program or data; and unauthorised output of data – removal of information) and unauthorised use or interception of computer service (e.g. hacking of computer systems to gain free internet services / Wi-Fi) will be dealt with severely.
