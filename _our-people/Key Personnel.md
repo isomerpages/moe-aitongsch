@@ -378,6 +378,56 @@ description: ""
 
 ### Aesthetics Department
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD Aesthetics</span></td>
+    <td class="tg-nc7t">Ms Joi Soh Qi Yu<br><a href="mailto:soh_qi_yu@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">soh_qi_yu@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SH Aesthetics</span></td>
+    <td class="tg-nc7t">Ms Shirley Toh Lay Peng<br><a href="mailto:toh_lay_peng_shirley@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A;background-color:#E7E6E6">toh_lay_peng_shirley@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">LT Art</span></td>
+    <td class="tg-nc7t">Mrs Eileen Peh<br><a href="mailto:ong_hui_san_eileen@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">ong_hui_san_eileen@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 ### ICT Department
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-jxqz">HOD ICT</td>
+    <td class="tg-nc7t">Mrs Wendy Tan<br><a href="mailto:tan_khor_kiah@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_khor_kiah@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white">SH ICT</span></td>
+    <td class="tg-nc7t">Mr Alex Xie<br><a href="mailto:alex_xie_huan@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">alex_xie_huan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-jxqz"><span style="color:white"> SH Assessment </span><br><span style="color:white">&amp; </span><br><span style="color:white">Data Management</span></td>
+    <td class="tg-nc7t">Ms Aileen Toh<br><a href="mailto:aileen_toh_chai_hoong@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">aileen_toh_chai_hoong@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
