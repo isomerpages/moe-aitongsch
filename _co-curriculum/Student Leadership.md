@@ -159,3 +159,9 @@ Each candidate for the Head of SLC position will campaign for the election. The 
 Student Leader Council EXCO members develop <u>responsible decision making</u> skills through platforms and trainings to create a better environment for others and <u>empowering others</u> through inspiring commitment towards a common goal.
 
 <center><b>Figure 2: Student Leader Council EXCO Organisation Chart</b></center>
+
+![](/images/Student%20Leader%20Council%20EXCO%20Organisation%20Chart2021.png)
+
+![](/images/slc2021.png)
+
+<center><b>~ To Care, To Lead, To Inspire As One ~</b></center>
