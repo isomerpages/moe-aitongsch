@@ -27,7 +27,7 @@ third_nav_title: Life Long Learning Programmes
   </tr>
   <tr>
     <td class="tg-l7na">1</td>
-    <td rowspan="2" class="tg-l7na">Indian</td>
+    <td class="tg-l7na" rowspan="2">Indian</td>
     <td class="tg-l7na">Henna</td>
     <td class="tg-l7na">Indian Dance</td>
   </tr>
@@ -38,7 +38,7 @@ third_nav_title: Life Long Learning Programmes
   </tr>
   <tr>
     <td class="tg-l7na">3</td>
-    <td rowspan="2" class="tg-l7na">Malay</td>
+    <td class="tg-l7na" rowspan="2">Malay</td>
     <td class="tg-l7na">Card Weaving</td>
     <td class="tg-l7na">Angklung</td>
   </tr>
@@ -49,9 +49,9 @@ third_nav_title: Life Long Learning Programmes
   </tr>
   <tr>
     <td class="tg-l7na">5</td>
-    <td rowspan="2" class="tg-l7na">Others</td>
+    <td class="tg-l7na" rowspan="2">Others</td>
     <td class="tg-l7na">Peranakan Tile Painting</td>
-    <td rowspan="2" class="tg-l7na">Sambal Drumming /African Drumming /Fusion Drumming</td>
+    <td class="tg-l7na" rowspan="2">Sambal Drumming /African Drumming /Fusion Drumming</td>
   </tr>
   <tr>
     <td class="tg-l7na">6</td>
@@ -97,4 +97,6 @@ customized programme designed for a selected group of students with greater inte
 
 <br>
 
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAEaae3hp8xJu0fqSd3shiQ2g7ca2lnFB1dsqMcayDRH9JUB4rf-HvdvtNwTE8e8tFmfc6r2sXkyRt/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAEaae3hp8xJu0fqSd3shiQ2g7ca2lnFB1dsqMcayDRH9JUB4rf-HvdvtNwTE8e8tFmfc6r2sXkyRt/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
+
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRa3vQTfwH7-TsOccXi06eCg_5yGzEBnkyipLGNPpUUxrxmY3KnHwK_LuRbRQoj5QJjf6NWe3phnV-9/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
