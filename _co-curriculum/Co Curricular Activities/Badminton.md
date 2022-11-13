@@ -38,3 +38,9 @@ Badminton is a fast paced sport which requires the player to be alert and agile.
   </tr>
 </tbody>
 </table>
+
+(R) denotes Recreation Team  
+(C) denotes Competitive Team  
+(B) denotes Boys Team  
+(G) denotes Girls Team  
+\* Teacher-in-Charge
