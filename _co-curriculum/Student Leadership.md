@@ -105,8 +105,7 @@ The various class committee roles are:
 </tbody>
 </table>
 
-ATS SLD Tier 2: Team Leadership以智率群 (Engage)
---------------------------------------------
+### ATS SLD Tier 2: Team Leadership以智率群 (Engage)
 
 Tier 2 of the SLD programme looks at team-leadership with customised leadership opportunities to develop dispositions and <u>social skills in leading and engaging others</u> through effective relationship management. Tier 2 student leaders consists of 7 Student Leader Council (SLC) sub-committees. All SLC sub-committees have their specific focus areas which they champion for different causes.
 
