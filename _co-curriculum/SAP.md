@@ -35,11 +35,11 @@ description: ""
 </table>
 
   <img src="/images/SAP%20blueprint%202020.jpeg" 
-     style="width:65%">
+     style="width:80%">
 
 
 <img src="/images/P5%20Immersion%20Programme.jpeg" 
-     style="width:65%">
+     style="width:80%">
 
 
 ### 学生作品集
