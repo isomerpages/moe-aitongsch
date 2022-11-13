@@ -40,3 +40,4 @@ The four broad categories of CCAs that are offered are Physical Sports, Visual a
   </tr>
 </tbody>
 </table>
+<em>*CCA will not be available in 2023</em>
