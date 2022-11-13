@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Student Well Being/Positive Education.md
       - Student Well Being/Form Teacher Guidance Period (FTGP).md
       - Student Well Being/Pastoral Care.md
       - Student Well Being/ATS Heart Waves 爱同频率.md
