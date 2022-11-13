@@ -8,7 +8,9 @@ In Ai Tong School, we believe in providing holistic learning experiences that 
 
 We aim to nurture our students to have confidence in themselves, to possess a positive attitude towards learning and to be able to persevere when faced with challenges. To accomplish this goal, Ai Tong School sets to introduce Positive Education, a refreshing way, inspired by research-based practices in the field of Positive Psychology to support the development of student well-being. For a start, students are introduced to two key topics: Gratitude and Growth Mindset.
 
-![](/images/positive-edu-.jpeg)
+<img src="/images/positive-edu-.jpeg" 
+     style="width:65%">
+
 
 ### Gratitude
 
