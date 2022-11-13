@@ -36,10 +36,10 @@ Awarded two LLP status in 2015, Ai Tong School continues to commit to our school
      style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+    <td class="tg-baqh"><a href = "/co-curriculum/Life-Long-Learning-Programmes/caring-through-arts-llp1/" target = "_self"> 
           <img src="/images/LLP1.png" 
      style="width:100%"></a></td>
-    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+    <td class="tg-baqh"><a href = "/co-curriculum/Life-Long-Learning-Programmes/lead/" target = "_self"> 
           <img src="/images/LLP2.png" 
      style="width:100%"></a></td>
   </tr>
