@@ -18,7 +18,13 @@ Some techniques of drawing include using lines, shapes, texture, colour and pers
 .tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-vfvg{background-color:#FFF;color:#444;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 667px">
+<colgroup>
+<col style="width: 180px">
+<col style="width: 145px">
+<col style="width: 211px">
+<col style="width: 131px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-d8lx">Day </td>
