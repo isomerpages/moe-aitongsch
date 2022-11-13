@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curricular Activities (CCA).md
       - Student Leadership.md
       - Programme for Active Learning (PAL).md
       - SAP.md
