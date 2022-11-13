@@ -6,7 +6,7 @@ third_nav_title: Life Long Learning Programmes
 ---
 ### Rhythm of the Arts
 
-**Objective:** To promote appreciation of multicultural arts through various platforms that engage students in experiential arts activities.
+**Objective:**&nbsp;To&nbsp;promote appreciation of multicultural arts through various platforms that engage students in experiential arts activities.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -27,7 +27,7 @@ third_nav_title: Life Long Learning Programmes
   </tr>
   <tr>
     <td class="tg-l7na">1</td>
-    <td class="tg-l7na" rowspan="2">Indian</td>
+    <td rowspan="2" class="tg-l7na">Indian</td>
     <td class="tg-l7na">Henna</td>
     <td class="tg-l7na">Indian Dance</td>
   </tr>
@@ -38,7 +38,7 @@ third_nav_title: Life Long Learning Programmes
   </tr>
   <tr>
     <td class="tg-l7na">3</td>
-    <td class="tg-l7na" rowspan="2">Malay</td>
+    <td rowspan="2" class="tg-l7na">Malay</td>
     <td class="tg-l7na">Card Weaving</td>
     <td class="tg-l7na">Angklung</td>
   </tr>
@@ -49,9 +49,9 @@ third_nav_title: Life Long Learning Programmes
   </tr>
   <tr>
     <td class="tg-l7na">5</td>
-    <td class="tg-l7na" rowspan="2">Others</td>
+    <td rowspan="2" class="tg-l7na">Others</td>
     <td class="tg-l7na">Peranakan Tile Painting</td>
-    <td class="tg-l7na" rowspan="2">Sambal Drumming /African Drumming /Fusion Drumming</td>
+    <td rowspan="2" class="tg-l7na">Sambal Drumming /African Drumming /Fusion Drumming</td>
   </tr>
   <tr>
     <td class="tg-l7na">6</td>
@@ -94,3 +94,6 @@ customized programme designed for a selected group of students with greater inte
   </tr>
 </tbody>
 </table>
+
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAEaae3hp8xJu0fqSd3shiQ2g7ca2lnFB1dsqMcayDRH9JUB4rf-HvdvtNwTE8e8tFmfc6r2sXkyRt/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
+
