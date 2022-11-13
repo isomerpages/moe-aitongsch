@@ -84,3 +84,24 @@ L.E.A.D @ ATS is a school-wide programme that involves all students from Primary
   </tr>
 </tbody>
 </table>
+
+
+### P1 and P2 - OE in PAL Programme
+
+In the PAL Programme, students undergo lessons anchored on the various Social-Emotional Competencies such as Self-Awareness and on Values education. The objectives of the Primary 1 Environment programme includes students learning more about the environment and learning the basics of planting. For the Primary 2 Adventure programme, students will be using their various senses (i.e. blindfold challenges) and moving in the outdoors comfortably (i.e. moving across various surfaces).
+
+### Primary 3 - Outdoor Exposure 2 Days Non-Residential (Basic)
+
+In the 2-day non-residential Primary 3 programme, the students learn basic OE skills such as bouldering, orienteering at a park/reservoir, introduction to first aid and introduction to packing for a trip to a nearby venue. The students also focus on building relationships with their peers through team building activities (Self-Management).
+
+### Primary 4 - Outdoor Experience 2 Days 1 Night (Intermediate)
+
+In the 2 Days 1 Night Primary 4 Camp, the students learn intermediate OE skills such as rock climbing, intermediate first aid, outdoor cooking with meal preparation and demonstrate orienteering skills. They are also introduced to water safety through Dragon boat at Kallang Water Sports. The students build on their Primary 3 team building activities (Social Awareness).
+
+### Primary 5 - 3 Days 2 Nights Outdoor Adventure Camp (Application)
+
+In the 3 Days 2 Nights Primary 5 Adventure Camp, the students apply the OE skills learnt in their Primary 3 and Primary 4 OE programmes. The students now attempt the high element obstacle course, orienteering at a park, rafting at the beach, scenario based first aid and an outdoor cooking competition. The students hone the Social-Emotional Competencies that include Relationship Management.
+
+### P6 Amazing Race (Orienteering in Bishan Park)
+
+In the Amazing Race, students learn orienteering skills such as map setting and reading the compass on Day 1. The students then practice these skills in school on a mini treasure hunt. On Day 2, the students head out to Bishan Park to look for checkpoints and solve challenges in their respective groups through the use of orienteering and treasure hunt apps. The students focus on the Social Emotional Competencies of Relationship Management and Responsible Decision Making.
