@@ -46,3 +46,7 @@ Students who meet the minimum qualifying times will be selected to represent the
   </tr>
 </tbody>
 </table>
+
+(R) denotes Recreation Team  
+(C) denotes Competitive Team  
+\* Teacher-in-Charge
