@@ -3,6 +3,8 @@ title: Co Curricular Activities (CCA)
 permalink: /co-curriculum/c0-curricular-activities/
 description: ""
 ---
+![](/images/CCA-banner.jpeg)
+
 CCAs are an integral part of our students’ holistic education and development. Our CCA programme provides students with a platform to discover their interests and talents. We aim to fuel in the individual a lifelong love for a particular activity. This will help the individual to lead a balanced life even after they have graduated.  
   
 All CCAs emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Students develop a sense of identity and belonging to the school while getting involved in their respective CCAs. Students progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation in their CCAs. Core values, social and emotional competencies and the emerging 21st century competencies are also integrated into CCAs.  
