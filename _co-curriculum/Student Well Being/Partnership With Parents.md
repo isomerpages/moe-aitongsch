@@ -48,3 +48,5 @@ In ATS, we seek to engage parents in meaningful ways. The current communication�
 *   set and communicate ground rules for how parents should interact with the teachers and one another on the mobile chat group
 *   inform about class routines and rules This would be renamed as **Class Time with Form Teachers** from 2019.
 
+<img src="/images/pwp.jpg" 
+     style="width:65%">
