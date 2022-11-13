@@ -35,3 +35,28 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+  
+![](/images/SAP%20blueprint%202020.jpeg)
+
+![](/images/P5%20Immersion%20Programme.jpeg)
+
+学生作品集
+-----
+
+![](/images/School%20Publications%20-%20SAP%20Page.jpeg)
+
+### 弟子规长廊
+-----
+
+![](/images/弟子规长廊%20-%20SAP%20page.jpeg)
+
+### 双文化华文优选课程（BiCEP – Bi-cultural Chinese Elective Programme）
+
+福建会馆也大力资助开办“双文化华文优选课程”，让对学习华文以及中华文化有浓厚兴趣的学  
+
+生有机会参与更深一层的文化学习。此课程为期三年，包括“中华文化”、“儿童文学”、“中英对
+
+比”以及“口语训练”四个模块课。学生所参与的活动包括四年级的知识竞赛、五年级的海外浸濡
+
+以及六年级的结业典礼。
