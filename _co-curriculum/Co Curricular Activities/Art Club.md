@@ -40,3 +40,5 @@ Some techniques of drawing include using lines, shapes, texture, colour and pers
   </tr>
 </tbody>
 </table>
+
+\* Teacher-in-Charge
