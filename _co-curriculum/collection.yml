@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curricular Activities/Percussion Club.md
       - Co Curricular Activities/Co Curricular Activities (CCA).md
       - Co Curricular Activities/.keep
       - Student Leadership.md
