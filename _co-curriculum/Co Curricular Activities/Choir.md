@@ -51,3 +51,5 @@ Sing on, sing on! We’ve got rhythm!
   </tr>
 </tbody>
 </table>
+
+\*Teacher-in-Charge
