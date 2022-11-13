@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curricular Activities/Dance Club.md
       - Co Curricular Activities/Drama Club.md
       - Co Curricular Activities/Guzheng.md
       - Co Curricular Activities/Percussion Club.md
