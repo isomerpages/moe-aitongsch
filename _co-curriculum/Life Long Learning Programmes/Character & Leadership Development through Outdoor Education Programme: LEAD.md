@@ -21,3 +21,66 @@ Outdoor Education (OE) was introduced in Ai Tong in 2011. As recognition of the 
 L.E.A.D @ ATS is a school-wide programme that involves all students from Primary 1 to Primary 6. The activities are progressively planned to suit the ages of the students. Through these activities, students experience varied levels of challenges and develop toughness (physical), resilience (mental & emotional), teamwork (social) and an appreciation of nature and their surroundings.
 
 ### L.E.A.D Structure
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-9u4g">Title</td>
+    <td class="tg-9u4g">Level</td>
+    <td class="tg-9u4g">Duration</td>
+    <td class="tg-ycr8"></td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">1</td>
+    <td class="tg-fwnj">Our Environment (Environment Education)</td>
+    <td class="tg-fwnj">Primary 1</td>
+    <td class="tg-fwnj">7-10 sessions</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">2</td>
+    <td class="tg-fwnj">Let’s go on an Adventure (Adventure Education)</td>
+    <td class="tg-fwnj">Primary 2</td>
+    <td class="tg-fwnj">7-10 sessions</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">3</td>
+    <td class="tg-fwnj">P3 Outdoor Exposure Camp</td>
+    <td class="tg-fwnj">Primary 3</td>
+    <td class="tg-fwnj">2 Days non-residential</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">4</td>
+    <td class="tg-fwnj">P4 Outdoor Experience Camp</td>
+    <td class="tg-fwnj">Primary 4</td>
+    <td class="tg-fwnj">2 Days 1 Night</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">5</td>
+    <td class="tg-fwnj">P5 Outdoor Adventure Camp</td>
+    <td class="tg-fwnj">Primary 5</td>
+    <td class="tg-fwnj">3 Days 2 Nights</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">6</td>
+    <td class="tg-fwnj">P6 Amazing Race</td>
+    <td class="tg-fwnj">Primary 6</td>
+    <td class="tg-fwnj">3 Days non-residential</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">7</td>
+    <td class="tg-fwnj">Student Leadership Camp</td>
+    <td class="tg-fwnj">Student Leaders</td>
+    <td class="tg-fwnj">2 Days 1 Night</td>
+  </tr>
+</tbody>
+</table>
