@@ -40,3 +40,11 @@ In ATS, we seek to engage parents in meaningful ways. The current communication�
   </tr>
 </tbody>
 </table>
+
+**Class Time with Parents** was launched in 2018 to create an opportunity to reach out to parents at the beginning of the school year to:  
+
+*   set the tone and expectations of learning  
+    
+*   set and communicate ground rules for how parents should interact with the teachers and one another on the mobile chat group
+*   inform about class routines and rules This would be renamed as **Class Time with Form Teachers** from 2019.
+
