@@ -18,7 +18,9 @@ The SLD framework (Figure 1) identifies the three tiers of leadership: Self-Lead
 
 In the 1st tier of Self-Leadership, the school sets the foundation of each Ai Tong School students to be effective leaders of themselves. In the 2nd tier of Team Leadership, structured platforms are provided for students to serve the school to develop students’ ability to care, lead and inspire. Lastly, in the 3rd tier of Servant Leadership, the school envisages that through the opportunities provided for students, they will be able to advocate a transformation in the community. The platforms and opportunities presented in each tier aims to develop and allow the students to make a significant degree of impact on their peers, school and beyond.
 
-![](/images/SLC-framework.jpeg)
+<img src="/images/SLC-framework.jpeg" 
+     style="width:65%">
+
 
 
 ### ATS SLD Tier 1: Self-Leadership以身作则 (Experience)
@@ -111,7 +113,9 @@ Tier 2 of the SLD programme looks at team-leadership with customised leadership 
 
 The 7 Student Leader Council Sub-Committees are:
 
-![](/images/slc%202021.jpeg)
+<img src="/images/slc%202021.jpeg" 
+     style="width:65%">
+
 
 The Council’s leadership term is from July (Current year) to June (Following year) with yearly appointment of new members and re-appointment of existing SLC members. Tier 2 Student leaders have to attend SLC training on Wednesdays. When additional training sessions are required, the SLC teachers will inform the student leaders accordingly. The re-appointment of existing SLC Leaders is subjected to continued exemplary conduct in school as well as commitment to the SLC.
 
@@ -161,6 +165,9 @@ Student Leader Council EXCO members develop <u>responsible decision making</u> s
 
 ![](/images/Student%20Leader%20Council%20EXCO%20Organisation%20Chart2021.png)
 
+
 ![](/images/slc2021.png)
+
+
 
 <center><b>~ To Care, To Lead, To Inspire As One ~</b></center>
