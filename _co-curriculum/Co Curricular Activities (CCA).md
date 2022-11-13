@@ -41,3 +41,269 @@ The four broad categories of CCAs that are offered are Physical Sports, Visual a
 </tbody>
 </table>
 <em>*CCA will not be available in 2023</em>
+
+
+### 2022 CCA Schedule (tentative)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-cuqa{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 762px">
+<colgroup>
+<col style="width: 187px">
+<col style="width: 139px">
+<col style="width: 151px">
+<col style="width: 174px">
+<col style="width: 111px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-cuqa">CCA</td>
+    <td class="tg-cuqa">Day</td>
+    <td class="tg-cuqa">Timing</td>
+    <td class="tg-cuqa">Venue</td>
+    <td class="tg-cuqa">Co-Payment<br>(Transport)</td>
+  </tr>
+  <tr>
+    <td class="tg-cuqa" colspan="5">Physical Sports</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Badminton<span style="color:inherit;background-color:transparent">*</span><br>P3 (R) to P4 (R)</td>
+    <td class="tg-ncov">Monday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">ISH</td>
+    <td class="tg-ncov" rowspan="3">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Badminton*<br>P3 (C) to P6 (C) + P6 (R)</td>
+    <td class="tg-ncov">Tuesday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">ISH</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Badminton*<br>P4 (C) to P6 (C) + P5 (R) </td>
+    <td class="tg-ncov">Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">ISH</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Sports Club<br>P3 &amp; P6 </td>
+    <td class="tg-ncov">Tuesday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">BBC</td>
+    <td class="tg-ncov" rowspan="2">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Sports Club<br>P4 &amp; P5 </td>
+    <td class="tg-ncov">Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">                 Parade Square</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Swimming*<br>P3 to P6 (R +C)</td>
+    <td class="tg-ncov"> Tuesday</td>
+    <td class="tg-ncov">2.00 p.m. to 4.15 p.m.</td>
+    <td class="tg-ncov"> MOE Swimming Complex</td>
+    <td class="tg-ncov">$25 - $30/mth<br>(For 10 months)</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> Swimming*<br>P3 to P6 (R +C)</td>
+    <td class="tg-ncov"> Thursday</td>
+    <td class="tg-ncov"> 2.00 p.m. to 4.15 p.m.</td>
+    <td class="tg-ncov">MOE Swimming Complex</td>
+    <td class="tg-ncov"> $25 - $30/mth<br>(For 10 months)</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Table Tennis*<br>P3 (R)</td>
+    <td class="tg-ncov">Monday<br></td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov" rowspan="3"><br><br>Hall</td>
+    <td class="tg-ncov" rowspan="3">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Table Tennis*<br>P3 (C) to P6 (C) + <span style="color:#000;background-color:initial">P6 (R)</span></td>
+    <td class="tg-ncov">Tuesday<br></td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Table Tennis<br>P3 (C) to P6 (C) + <br><span style="color:#000;background-color:transparent">P4 (R) &amp; P5 (R)</span></td>
+    <td class="tg-ncov">Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Track &amp; Field*<br>P3 (C) to P6 (C)</td>
+    <td class="tg-ncov"> Tuesday </td>
+    <td class="tg-ncov">2.00 p.m. to 4.15 p.m.</td>
+    <td class="tg-ncov">Bishan Stadium</td>
+    <td class="tg-ncov">$25 - $30/mth<br>(For 10 months)</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Track &amp; Field*<br>P3 (R + C) to P6 (R + C)</td>
+    <td class="tg-ncov">Thursday<br></td>
+    <td class="tg-ncov">2.00 p.m. to 4.15 p.m.</td>
+    <td class="tg-ncov">Field/Bishan Stadium</td>
+    <td class="tg-ncov"> $25 - $30/mth<br>(For 10 months)</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Volleyball*<br>P3 (C) &amp; P4 (C)</td>
+    <td class="tg-ncov">Monday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Basketball Court</td>
+    <td class="tg-ncov"> X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Volleyball*<br>P3 (C) to P6 (C)</td>
+    <td class="tg-ncov">Tuesday </td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Basketball Court</td>
+    <td class="tg-ncov"> X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Volleyball*<br>P3 (C) to P6 (C)</td>
+    <td class="tg-ncov">Thursday </td>
+    <td class="tg-ncov"> 2.15 p.m. to 4.00 p.m</td>
+    <td class="tg-ncov">Basketball Court </td>
+    <td class="tg-ncov"> X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Wushu*<br>P3 to P6 (R + C)</td>
+    <td class="tg-ncov">Tuesday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Parade Square<br>&amp;<br><span style="background-color:initial">Void Deck</span></td>
+    <td class="tg-ncov" rowspan="2">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Wushu*<br>P3 (C) to P6 (C)</td>
+    <td class="tg-ncov">Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Parade Square<br><span style="color:#000;background-color:transparent">&amp;</span><br><span style="background-color:transparent">Void Deck</span><span style="color:#000;background-color:transparent">  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-cuqa" colspan="5">Clubs and Societies</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"><span style="background-color:transparent">Innovation</span> <span style="background-color:transparent">Club</span><br><span style="background-color:transparent">P3 to P6</span></td>
+    <td class="tg-ncov"> Thursday</td>
+    <td class="tg-ncov"> 2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Science Lab  </td>
+    <td class="tg-ncov">   X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">  <span style="background-color:transparent">Chinese Cultural Club</span><br><span style="background-color:transparent">P3 to P6</span></td>
+    <td class="tg-ncov"> Tuesday</td>
+    <td class="tg-ncov"> 2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">CL Culture Room </td>
+    <td class="tg-ncov"> X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">InfoComm Club<br><span style="background-color:transparent">P3 to P6</span></td>
+    <td class="tg-ncov">Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Computer Lab </td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Multimedia Club<br>P3 to P5</td>
+    <td class="tg-ncov">Tuesday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Teaching Lab</td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Robotics Club<br><span style="color:#000;background-color:transparent">P3 to P6</span><br></td>
+    <td class="tg-ncov">Tuesday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Computer Lab </td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> Robotics Club<br>P3 to P6</td>
+    <td class="tg-ncov"> Thursday</td>
+    <td class="tg-ncov"> 2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov"> Computer Lab </td>
+    <td class="tg-ncov">               X</td>
+  </tr>
+  <tr>
+    <td class="tg-cuqa" colspan="5">Uniformed Groups</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Brownies*<br><span style="color:#000;background-color:transparent">P3 to P6</span></td>
+    <td class="tg-ncov">Tuesday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Classroom<br>(F31 &amp; F32)</td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Scouts*<br>P3 to P6</td>
+    <td class="tg-ncov">Tuesday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Classroom(F34 &amp; F35)</td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-cuqa" colspan="5">Visual and Performing Arts</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Art Club<br>P<span style="background-color:initial">3 &amp; P4</span></td>
+    <td class="tg-ncov">Tuesday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Art Room</td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Art Club<br><span style="background-color:initial">P5 &amp; P6</span></td>
+    <td class="tg-ncov">Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Art Room</td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Choir <br><span style="background-color:initial">P3 &amp; P4</span></td>
+    <td class="tg-ncov">Monday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov"><span style="background-color:initial">Performing Art Studio</span><br></td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Choir<br>P3 to P6</td>
+    <td class="tg-ncov">Tuesday</td>
+    <td class="tg-ncov"> 2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Performing Art Studio</td>
+    <td class="tg-ncov">               X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Dance Club<br>P3 to P6</td>
+    <td class="tg-ncov">Tuesday &amp; Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Dance Room<br>(Level 2)</td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Drama Club<br><span style="color:#000">P3 to P6</span></td>
+    <td class="tg-ncov">Tuesday &amp; Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Music Room A41 &amp; F41</td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Guzheng<br>P3 to P6 (C)<br></td>
+    <td class="tg-ncov">Tuesday &amp; Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Guzheng Room</td>
+    <td class="tg-ncov">X</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Percussion Club*</td>
+    <td class="tg-ncov">Tuesday &amp; Thursday</td>
+    <td class="tg-ncov">2.15 p.m. to 4.00 p.m.</td>
+    <td class="tg-ncov">Percussion Room</td>
+    <td class="tg-ncov">X</td>
+  </tr>
+</tbody>
+</table>
