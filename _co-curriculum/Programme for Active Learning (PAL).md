@@ -51,3 +51,43 @@ In line with the Primary Education Review and Implementation (PERI) recommendat
 	*   P1 – Mondays or Wednesdays
 	*    P2 – Thursdays or Fridays
 	*    7.30am – 9.10am (Outdoor education and Sports and Games) / 11.50 am – 1.30 pm (Visual Arts and Performance Arts)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ugly{background-color:#44546A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Domain</td>
+    <td class="tg-9hzb">Primary 1</td>
+    <td class="tg-9hzb">Primary 2</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Outdoor Education</td>
+    <td class="tg-7yig">Our Environment</td>
+    <td class="tg-7yig">Adventure Time</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Performing Arts</td>
+    <td class="tg-ugly"></td>
+    <td class="tg-7yig">Let’s Move</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Visual Arts</td>
+    <td class="tg-7yig">Doodles 1</td>
+    <td class="tg-7yig">Doodles 2</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Sports and Games</td>
+    <td class="tg-7yig">Let’s Play</td>
+    <td class="tg-ugly"></td>
+  </tr>
+</tbody>
+</table>
