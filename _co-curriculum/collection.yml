@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curricular Activities/Swimming.md
       - Co Curricular Activities/Table Tennis.md
       - Co Curricular Activities/Track & Field.md
       - Co Curricular Activities/Volleyball.md
