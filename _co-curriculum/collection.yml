@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Student Well Being/ATS Heart Waves 爱同频率.md
       - Student Well Being/ATS Voices 爱同之声.md
       - Student Well Being/Partnership With Parents.md
       - Student Well Being/.keep
