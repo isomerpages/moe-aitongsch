@@ -307,3 +307,11 @@ The four broad categories of CCAs that are offered are Physical Sports, Visual a
   </tr>
 </tbody>
 </table>
+
+(R) denotes Recreation Team  
+(C) denotes Competitive Team  
+\*CCAs that may involve co-payment of jersey and costumes  
+  
+Note for CCAs training at external venue:   
+1) Students taking school bus and going home from external venue will be dismissed at 4.15 p.m.   
+2) Students coming back to school will be dismissed between 4.30 p.m. to 4.45 p.m.
