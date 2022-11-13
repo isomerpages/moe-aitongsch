@@ -44,3 +44,5 @@ The Mobile App Developer Jr course will make use of different app creation progr
   </tr>
 </tbody>
 </table>
+
+\*Teacher-in-Charge
