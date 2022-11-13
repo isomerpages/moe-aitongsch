@@ -42,15 +42,13 @@ description: ""
      style="width:65%">
 
 
-学生作品集
------
+### 学生作品集
 
 <img src="/images/School%20Publications%20-%20SAP%20Page.jpeg" 
      style="width:65%">
 
 
 ### 弟子规长廊
------
 
 <img src="/images/弟子规长廊%20-%20SAP%20page.jpeg" 
      style="width:65%">
