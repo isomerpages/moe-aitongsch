@@ -2,6 +2,8 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co Curricular Activities (CCA).md
       - Co Curricular Activities/Badminton.md
       - Co Curricular Activities/Sports Club.md
       - Co Curricular Activities/Swimming.md
@@ -22,8 +24,6 @@ collections:
       - Co Curricular Activities/Drama Club.md
       - Co Curricular Activities/Guzheng.md
       - Co Curricular Activities/Percussion Club.md
-      - Co Curricular Activities/Co Curricular Activities (CCA).md
-      - Co Curricular Activities/.keep
       - Student Leadership.md
       - Programme for Active Learning (PAL).md
       - SAP.md
