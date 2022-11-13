@@ -34,20 +34,27 @@ description: ""
 </tbody>
 </table>
 
-  
-![](/images/SAP%20blueprint%202020.jpeg)
+  <img src="/images/SAP%20blueprint%202020.jpeg" 
+     style="width:65%">
 
-![](/images/P5%20Immersion%20Programme.jpeg)
+
+<img src="/images/P5%20Immersion%20Programme.jpeg" 
+     style="width:65%">
+
 
 学生作品集
 -----
 
-![](/images/School%20Publications%20-%20SAP%20Page.jpeg)
+<img src="/images/School%20Publications%20-%20SAP%20Page.jpeg" 
+     style="width:65%">
+
 
 ### 弟子规长廊
 -----
 
-![](/images/弟子规长廊%20-%20SAP%20page.jpeg)
+<img src="/images/弟子规长廊%20-%20SAP%20page.jpeg" 
+     style="width:65%">
+
 
 ### 双文化华文优选课程（BiCEP – Bi-cultural Chinese Elective Programme）
 
