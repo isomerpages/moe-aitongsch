@@ -21,3 +21,5 @@ Students learn about being thankful, the need to show appreciation and ways to 
 ### Growth Mindset
 Students learn about growing their brain muscles and realize the possibilities of growth in learning with practices.
 Discovering the power of ‘Yet’ will challenge students’ perception of learning and achievements and empower them with a positive outlook towards learning. Goal setting is also a powerful way of using growth mindset to overcome challenges.
+
+![](/images/growthmindset.png)
