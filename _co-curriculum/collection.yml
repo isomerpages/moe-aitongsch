@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Student Leadership.md
       - Programme for Active Learning (PAL).md
       - SAP.md
       - Life Long Learning Programmes/Life Long Learning Programmes (LLP).md
