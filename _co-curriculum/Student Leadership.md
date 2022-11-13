@@ -111,3 +111,51 @@ ATS SLD Tier 2: Team Leadership以智率群 (Engage)
 Tier 2 of the SLD programme looks at team-leadership with customised leadership opportunities to develop dispositions and <u>social skills in leading and engaging others</u> through effective relationship management. Tier 2 student leaders consists of 7 Student Leader Council (SLC) sub-committees. All SLC sub-committees have their specific focus areas which they champion for different causes.
 
 The 7 Student Leader Council Sub-Committees are:
+
+![](/images/slc%202021.jpeg)
+
+The Council’s leadership term is from July (Current year) to June (Following year) with yearly appointment of new members and re-appointment of existing SLC members. Tier 2 Student leaders have to attend SLC training on Wednesdays. When additional training sessions are required, the SLC teachers will inform the student leaders accordingly. The re-appointment of existing SLC Leaders is subjected to continued exemplary conduct in school as well as commitment to the SLC.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-z0mc{background-color:#FC9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 141px">
+<col style="width: 459px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-z0mc">Year</td>
+    <td class="tg-z0mc">Period</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Year 1</td>
+    <td class="tg-sxkx"><span style="color:black">P3 (July</span> <span style="color:black">Current year) – P4 (June following</span> year<span style="color:black">)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Year 2</td>
+    <td class="tg-sxkx"><span style="color:black">P4 (July</span> <span style="color:black">Current year) – P5 (June following</span> year<span style="color:black">)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Year 3</td>
+    <td class="tg-sxkx"><span style="color:black">P5 (July</span> <span style="color:black">Current year) – P6 (June following</span> year<span style="color:black">)</span></td>
+  </tr>
+</tbody>
+</table>
+
+### ATS SLD Tier 3: Servant Leadership 以德服众 (Empower)
+
+Tier 3 of the SLD programme looks at servant leadership to equip student leaders of high leadership potential with the skills to impact processes by leading the team of Tier 2 student leaders and influence others positively. The Chairperson and Vice Chairperson of each SLC sub-committee will sit in the Executive Committee (EXCO) led by 3 Vice-Heads of SLC and a Head of SLC.
+
+Each candidate for the Head of SLC position will campaign for the election. The campaign allows them to communicate their vision for the school as the Head of SLC. The Head of SLC will lead the Vice-Heads, EXCO and fellow student leaders to organise school wide events such as Teachers’ Day and Founder’s Day. 
+
+Student Leader Council EXCO members develop <u>responsible decision making</u> skills through platforms and trainings to create a better environment for others and <u>empowering others</u> through inspiring commitment towards a common goal.
+
+<center><b>Figure 2: Student Leader Council EXCO Organisation Chart</b></center>
