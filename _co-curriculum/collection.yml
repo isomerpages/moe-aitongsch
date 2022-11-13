@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Student Wellbeing/.keep
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities (CCA).md
       - Co Curricular Activities/Badminton.md
