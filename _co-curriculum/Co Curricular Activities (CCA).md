@@ -315,3 +315,37 @@ The four broad categories of CCAs that are offered are Physical Sports, Visual a
 Note for CCAs training at external venue:   
 1) Students taking school bus and going home from external venue will be dismissed at 4.15 p.m.   
 2) Students coming back to school will be dismissed between 4.30 p.m. to 4.45 p.m.
+
+CCA Policy
+----------
+
+[2022\_ATS CCA Policy.pdf](/files/2022_ATS%20CCA%20Policy.pdf) 
+  
+
+Change of CCA
+-------------
+
+Students are strongly encouraged to remain in their CCA throughout their primary school journey. This is to provide opportunity for progression and to hone values such as resilience and perseverance. Students who require a withdrawal and/or change in CCA due to valid reasons may only opt for a change of CCA at the beginning of each academic year (January).
+
+  
+
+Students have to submit the Withdrawal Form to the CCA Teacher-in-charge or to the AE, Ms Khaliesah in the General Office. Parents/Guardians to fill up the form accordingly with the reason(s) clearly stated. Students will remain in the current CCA until the Transfer/Withdrawal has been approved.
+
+  
+
+Changing of CCAs for Primary 5 (after January) and Primary 6 is not permitted (case by case basis).
+
+  
+
+The enrolment to a new CCA is pending vacancy in that CCA. Students are entitled to only ONE CCA change during the time you are in the school. 
+
+  
+
+[CCA Request Form.docx](https://go.gov.sg/aitong-cca-request-form-2022)
+
+  
+
+CCA FAQs
+--------
+
+[CCA FAQs.pdf](/files/CCA%20FAQs.pdf)
