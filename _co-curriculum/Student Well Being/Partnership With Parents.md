@@ -50,3 +50,15 @@ In ATS, we seek to engage parents in meaningful ways. The current communication�
 
 <img src="/images/pwp.jpg" 
      style="width:65%">
+
+**Parent-Child-Teacher Conference (PCTC)** is a planned communication platform for
+
+*    Child – to share his/her learning progress, experiences and targeted actions for improvement.
+*    Teachers – to share their observations and provide a fuller picture of the child’s learning progress, learning attitudes and behaviours to parents.
+*    Parents – to have a better understanding of their child’s learning and the type of support they can provide for their child at home.
+
+**School Leader’s Engagement with Parents** help them understand the objectives, considerations and trade-offs of school programmes or policies; have an overview of key activities for the year.
+
+  
+
+Parents play a vital role in the development and education of their children. Strong partnership boosts student achievement, reduces absenteeism, increases positive student behaviour and gives parents confidence in supporting their children‘s schooling. It also helps parents understand and appreciate the intent of schools’ MOE’s policies and how these are implemented in school. (extracted from MOE Parent Engagement Guide)
