@@ -40,3 +40,5 @@ Members will be given opportunities to put up performances for their fellow scho
   </tr>
 </tbody>
 </table>
+
+\*Teacher-in-Charge
