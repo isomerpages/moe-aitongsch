@@ -3,28 +3,28 @@ collections:
     output: true
     order:
       - Student Well Being/.keep
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/Co Curricular Activities (CCA).md
-      - Co Curricular Activities/Badminton.md
-      - Co Curricular Activities/Sports Club.md
-      - Co Curricular Activities/Swimming.md
-      - Co Curricular Activities/Table Tennis.md
-      - Co Curricular Activities/Track & Field.md
-      - Co Curricular Activities/Volleyball.md
-      - Co Curricular Activities/Wushu.md
-      - Co Curricular Activities/Chinese Cultural Club.md
-      - Co Curricular Activities/Innovation Club.md
-      - Co Curricular Activities/InfoComm Club.md
-      - Co Curricular Activities/Multimedia Club.md
-      - Co Curricular Activities/Robotics Club.md
-      - Co Curricular Activities/Brownies.md
-      - Co Curricular Activities/Scouts.md
-      - Co Curricular Activities/Art Club.md
-      - Co Curricular Activities/Choir.md
-      - Co Curricular Activities/Dance Club.md
-      - Co Curricular Activities/Drama Club.md
-      - Co Curricular Activities/Guzheng.md
-      - Co Curricular Activities/Percussion Club.md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Badminton.md
+      - Co Curricular Activities (CCA)/Sports Club.md
+      - Co Curricular Activities (CCA)/Swimming.md
+      - Co Curricular Activities (CCA)/Table Tennis.md
+      - Co Curricular Activities (CCA)/Track & Field.md
+      - Co Curricular Activities (CCA)/Volleyball.md
+      - Co Curricular Activities (CCA)/Wushu.md
+      - Co Curricular Activities (CCA)/Chinese Cultural Club.md
+      - Co Curricular Activities (CCA)/Innovation Club.md
+      - Co Curricular Activities (CCA)/InfoComm Club.md
+      - Co Curricular Activities (CCA)/Multimedia Club.md
+      - Co Curricular Activities (CCA)/Robotics Club.md
+      - Co Curricular Activities (CCA)/Brownies.md
+      - Co Curricular Activities (CCA)/Scouts.md
+      - Co Curricular Activities (CCA)/Art Club.md
+      - Co Curricular Activities (CCA)/Choir.md
+      - Co Curricular Activities (CCA)/Dance Club.md
+      - Co Curricular Activities (CCA)/Drama Club.md
+      - Co Curricular Activities (CCA)/Guzheng.md
+      - Co Curricular Activities (CCA)/Percussion Club.md
       - Student Leadership.md
       - Programme for Active Learning (PAL).md
       - SAP.md
