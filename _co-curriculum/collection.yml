@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curricular Activities/Innovation Club.md
       - Co Curricular Activities/InfoComm Club.md
       - Co Curricular Activities/Multimedia Club.md
       - Co Curricular Activities/Robotics Club.md
