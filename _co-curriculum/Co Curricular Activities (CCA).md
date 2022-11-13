@@ -316,14 +316,12 @@ Note for CCAs training at external venue: 
 1) Students taking school bus and going home from external venue will be dismissed at 4.15 p.m.   
 2) Students coming back to school will be dismissed between 4.30 p.m. to 4.45 p.m.
 
-CCA Policy
-----------
+### CCA Policy
 
 [2022\_ATS CCA Policy.pdf](/files/2022_ATS%20CCA%20Policy.pdf) 
   
 
-Change of CCA
--------------
+### Change of CCA
 
 Students are strongly encouraged to remain in their CCA throughout their primary school journey. This is to provide opportunity for progression and to hone values such as resilience and perseverance. Students who require a withdrawal and/or change in CCA due to valid reasons may only opt for a change of CCA at the beginning of each academic year (January).
 
@@ -345,7 +343,6 @@ The enrolment to a new CCA is pending vacancy in that CCA. Students are entitled
 
   
 
-CCA FAQs
---------
+### CCA FAQs
 
 [CCA FAQs.pdf](/files/CCA%20FAQs.pdf)
