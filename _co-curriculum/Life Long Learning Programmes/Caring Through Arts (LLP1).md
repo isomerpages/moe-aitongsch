@@ -60,3 +60,37 @@ third_nav_title: Life Long Learning Programmes
 </tbody>
 </table>
 
+Note: Activities are regularly subjected to review and changes subject to availability
+
+### Fun with Arts
+customized programme designed for a selected group of students with greater interests or aptitude in the Arts. They get to discover different performing and visual art forms and go on learning journeys to museums or studios to discover more about Art and Music around us and interaction up close with musicians and artists. A sample of programme is shown in the table:
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-vfvg{background-color:#FFF;color:#444;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-d8lx">Groups</td>
+    <td class="tg-d8lx">Performing Arts</td>
+    <td class="tg-d8lx">Visual Arts</td>
+  </tr>
+  <tr>
+    <td class="tg-vfvg">A<br></td>
+    <td class="tg-vfvg">Gamelan Heritage Tour<br>@ Little India<br>Lunch: Marina Square<br>Esplanade Tour</td>
+    <td class="tg-vfvg">Art In Transit<br>(Art@MRT stations)<br>Lunch : Kallang Leisure Park<br>Mosaic Art Workshop@studio</td>
+  </tr>
+  <tr>
+    <td class="tg-vfvg">B</td>
+    <td class="tg-vfvg">Beatboxing Workshop@<br>school<br>Lunch: Ang Mo Kio Park<br>Recording Studio Tour</td>
+    <td class="tg-vfvg">Visit to Singapore Tyler Print<br>Institute (STPI)<br>Lunch: Great World City<br>Batik Workshop@ Goodman<br>Arts Centre</td>
+  </tr>
+</tbody>
+</table>
