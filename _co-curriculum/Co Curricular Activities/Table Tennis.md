@@ -39,3 +39,9 @@ Through the weekly rigorous trainings and participation in the Zonal and Nationa
   </tr>
 </tbody>
 </table>
+
+(R) denotes Recreation Team  
+(C) denotes Competitive Team  
+(B) denotes Boys Team  
+(G) denotes Girls Team  
+\* Teacher-in-Charge
