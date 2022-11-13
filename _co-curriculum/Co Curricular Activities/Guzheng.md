@@ -40,3 +40,6 @@ Members will get to take part in the Singapore Youth Festival (SYF). They will a
   </tr>
 </tbody>
 </table>
+
+(C) denotes Competitive Team  
+\*Teacher-in-Charge
