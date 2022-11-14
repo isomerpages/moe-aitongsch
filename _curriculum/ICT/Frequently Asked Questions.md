@@ -25,7 +25,7 @@ If you are still not sure of your username, please approach your teacher.
 **Q3 : My account has been locked. What should I do?**
 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password.  
-You can report the need for password reset/unlock account by filling in the online form ([go.gov.sg/ats-sls-studenticon-issues](http://go.gov.sg/ats-sls-studenticon-issues))). Your Date of Birth (DOB) will be used for verification purpose.
+You can report the need for password reset/unlock account by filling in the online form ([go.gov.sg/ats-sls-studenticon-issues](http://go.gov.sg/ats-sls-studenticon-issues)). Your Date of Birth (DOB) will be used for verification purpose.
 
   
 
