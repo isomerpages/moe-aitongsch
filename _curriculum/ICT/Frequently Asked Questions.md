@@ -8,7 +8,8 @@ third_nav_title: ICT
 
 **Method 1:** You can perform a password reset if you have set up a password reset email. Alternatively, you have to answer 2 security questions correctly. Click ‘Forgot Password’ on the SLS login page for password reset.
 
-![](/images/SLS.png)
+<img src="/images/SLS.png" 
+     style="width:45%">
 
 **Method 2:** You can report the need for password reset/unlock account by filling in the online form ([go.gov.sg/ats-sls-studenticon-issues](http://go.gov.sg/ats-sls-studenticon-issues)). Your Date of Birth (DOB) will be used for verification purpose.  
   
