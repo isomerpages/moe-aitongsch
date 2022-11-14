@@ -49,7 +49,7 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/PRUp-45OLN8" title="Teens and Tech: The New Landscape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-*_Source: https://www.youtube.com/watch?v=PRUp-45OLN8&feature=youtu.be_*
+*Source: https://www.youtube.com/watch?v=PRUp-45OLN8&feature=youtu.be*
 
 ### MOE's Cyber Wellness Framework
 
