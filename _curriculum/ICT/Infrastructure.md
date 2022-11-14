@@ -16,10 +16,10 @@ Undergirding quality learning with ICT is a set of future-ready and scalable inf
 To promote teaching and learning in Art and Music through technology, the school will have a Mac Lab with well-equipped infrastructure and digital resources.
 
 <img src="/images/ict2.jpg" 
-     style="width:65%">
+     style="width:45%">
 
 ### Teaching Lab
 Our teaching lab has space that is flexible enough to allow for whole-class instruction, small groups, and independent work. Teachers have the options to decide on the best configuration of the layout based on the lesson learning objectives. There is an observation area where teachers can do peer observations without interfering with the conduct of the lesson.
 
 <img src="/images/ict3.jpg" 
-     style="width:65%">
+     style="width:45%">
