@@ -45,6 +45,8 @@ Students need to: 
 	</div>
 </div>
 
+<br>
+
 ### ATS Cyber Wellness framework
 
 <img src="/images/ATS%20CYBER%20WELLNESS%20FRAMEWORK.png" 
