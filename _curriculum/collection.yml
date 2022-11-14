@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical Education Department/.keep
       - Physical Education Department.md
       - Science.md
