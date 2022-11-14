@@ -76,27 +76,27 @@ Besides FTGP Cyber Wellness lessons, ATS has its own Cyber Wellness Week every y
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-fwnj"><img src="https://aitong-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Departments/ICT/Cyber%20Wellness/MOE%20Cyber%20Wellness%20Portal.png" alt="MOE Cyber Wellness Portal.png"></td>
+    <td class="tg-fwnj"><img src="/images/MOE%20Cyber%20Wellness%20Portal.png" alt="MOE Cyber Wellness Portal.png"></td>
     <td class="tg-fwnj"><span style="font-weight:bold">MOE Cyber Wellness </span><br><a href="https://www.moe.gov.sg/programmes/cyber-wellness" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">https://www.moe.gov.sg/programmes/cyber-wellness</span></a></td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="https://aitong-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Departments/ICT/Cyber%20Wellness/Media%20Literacy%20Council.png" alt="Media Literacy Council.png"></td>
+    <td class="tg-fwnj"><img src="/images/Media%20Literacy%20Council.png" alt="Media Literacy Council.png"></td>
     <td class="tg-8aq7"><span style="font-weight:bold">Media Literacy Council</span><br><span style="color:black">Media Literacy Council provides information, tips and resources on managing personal information online.</span><br><a href="https://www.betterinternet.sg/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A;background-color:initial">https://www.betterinternet.sg/</span></a><span style="color:#CB181A"> </span></td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="https://aitong-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Departments/ICT/Cyber%20Wellness/National%20Library%20Board.png" alt="National Library Board.png"></td>
+    <td class="tg-fwnj"><img src="/images/National%20Library%20Board.png" alt="National Library Board.png"></td>
     <td class="tg-fwnj"><span style="font-weight:bold;color:black;background-color:initial">National Library Board</span><br><span style="color:black">Pick up some research skills and learn more about the S.U.R.E. method from NLB.</span><br><a href="https://sure.nlb.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">https://sure.nlb.gov.sg/</span></a><span style="color:#CB181A"> </span></td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="https://aitong-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Departments/ICT/Cyber%20Wellness/National%20Crime%20Prevention%20Council.PNG" alt="National Crime Prevention Council.PNG"></td>
+    <td class="tg-fwnj"><img src="/images/National%20Crime%20Prevention%20Council.png" alt="National Crime Prevention Council.PNG"></td>
     <td class="tg-fwnj"><span style="font-weight:bold">National Crime Prevention Council</span><br><a href="https://www.scamalert.sg/resources/videos" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">https://www.scamalert.sg/resources/videos</span></a></td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="https://aitong-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Departments/ICT/Cyber%20Wellness/Personal%20Data%20Protection%20Commission.png" alt="Personal Data Protection Commission.png"></td>
+    <td class="tg-fwnj"><img src="/images/Personal%20Data%20Protection%20Commission.png" alt="Personal Data Protection Commission.png"></td>
     <td class="tg-fwnj"><span style="font-weight:bold;color:black;background-color:initial">Personal Data Protection Commission</span><br><span style="color:black">Personal Data Protection Commission Singapore has useful information and tips on protecting personal data.</span><br><a href="https://www.pdpc.gov.sg/Overview-of-PDPA/Data-Protection/Individual/Protecting-Your-Personal-Data" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">https://www.pdpc.gov.sg/Overview-of-PDPA/Data-Protection/Individual/Protecting-Your-Personal-Data</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><img src="https://aitong-moe-edu-sg-admin.cwp.sg/qql/slot/u180/Departments/ICT/Cyber%20Wellness/Cyber%20Security%20Agency.PNG" alt="Cyber Security Agency.PNG"></td>
+    <td class="tg-fwnj"><img src="/images/Cyber%20Security%20Agency.png" alt="Cyber Security Agency.PNG"></td>
     <td class="tg-fwnj"><span style="font-weight:bold">Cyber Security Agency</span><br><a href="https://www.csa.gov.sg/gosafeonline" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#CB181A">https://www.csa.gov.sg/gosafeonline</span></a></td>
   </tr>
 </tbody>
