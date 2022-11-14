@@ -15,7 +15,6 @@ Central to the curriculum framework is the inculcation of the spirit of scientif
 
 <img src="/images/Sci_Framework.jpeg" 
      style="width:55%">
-
 By CPDD MOE
 
 
