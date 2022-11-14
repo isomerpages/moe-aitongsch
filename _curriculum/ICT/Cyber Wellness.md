@@ -51,3 +51,9 @@ Students need to: 
 
 <img src="/images/ATS%20CYBER%20WELLNESS%20FRAMEWORK.png" 
      style="width:65%">
+
+Besides FTGP Cyber Wellness lessons, ATS has its own Cyber Wellness Week every year held by ATS CW Ambassadors. The themes for the different levels this year are:  
+
+*   **P1/2: Netiquette and Responsible Expression** 
+*   **P3/4: Responsible Sharing Online**
+*   **P5/6: Screen Time and Media Multitasking**
