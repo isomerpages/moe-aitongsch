@@ -83,3 +83,30 @@ In Ai Tong School, students learn the fundamental movement skills incorporating 
   </tr>
 </tbody>
 </table>
+
+### Special Programmes and Events
+
+Beyond the P.E. curriculum, Ai Tong School also provides platforms and opportunities for students to develop their sporting interests and talents.
+
+**Modular Sports Enrichment**
+
+Through our Modular Sports Enrichment, Primary 5 and 6 students will be exposed to a variety of physical activities either as an extension of what they have learned in P.E. or learning of a new game or sport i.e. Flying Disk. 
+
+Mini Sports and Sports Fiesta
+
+To inculcate the values of Sportsmanship, Fair play and Teamwork, the Lower Primary students (Primary 1 - Primary 3) take part in the annual Mini Sports where the students compete in a four-game interclass sports day.  
+To promote a sporting for life mind set, the Upper Primary students (P4-P6) partake in the annual Sports Fiesta, a sports carnival with various booths set up by the CCA Leaders. At the carnival, students try out various sports and games that include both individual and team sports in a non-competitive environment.   
+
+**SHHK Combined Sports Meet**
+
+The Primary 4 and Primary 6 students also attend the annual 5-School-Singapore Hokkien Huay Kwan-Sports Meet where athletes from the affiliated schools compete in various track and field events. This event allows the school’s athletes to compete with four other Hokkien Huay Kuan Schools, namely, Tao Nan School, Chongfu School, Kong Hwa School and Nan Chiau Primary School. The event also serves to forge better ties among the staff and students from the 5 schools.
+
+**Active@ATS**
+
+The school has implemented a structured recess play programme titled ‘Active@ATS’ where students have the opportunity to try various modified sports and games such as beach volleyball and skipping to discover their interests and form comradery through play.
+
+**Other Activities**
+
+To further broaden their general knowledge, assembly talks on Healthy Lifestyle and Sporting Events are conducted for our students. The students also attend talks and programmes by the Health Promotion Board such as the Blood Pressure Monitor programme.
+
+In a nutshell, Physical Education is a vital piece of the Ai Tong School experience. A physically active student who understands the Health and Fitness components is more likely to be academically motivated and focused in life.
