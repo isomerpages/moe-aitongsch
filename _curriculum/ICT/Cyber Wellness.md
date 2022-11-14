@@ -4,6 +4,44 @@ permalink: /curriculum/ICT/cyber-wellness/
 description: ""
 third_nav_title: ICT
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-8d8j{text-align:center;vertical-align:bottom}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-8d8j" colspan="4"><img src="/images/ATS_ICT.jpeg" 
+     style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><a href = "/curriculum/ICT/cyber-wellness/" target = "_self"> 
+          <img src="/images/CBW.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-baqh"><a href = "/curriculum/ICT/programmes/" target = "_self"> 
+          <img src="/images/Enrichment.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-baqh"><a href = "/curriculum/ICT/infrastructure/" target = "_self"> 
+          <img src="/images/Infrastructure.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-baqh"><a href = "/curriculum/ICT/resources/" target = "_self"> 
+          <img src="/images/FAQ.jpeg" 
+     style="width:100%"></a></td>
+  </tr>
+</tbody>
+</table>
+
 ### What is Cyber Wellness?
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
 
