@@ -2,7 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Co Curricular Main.md
+      - Co Curriculum.md
       - Student Well Being/Student Wellbeing Main.md
       - Student Well Being/Positive Education.md
       - Student Well Being/Form Teacher Guidance Period (FTGP).md
