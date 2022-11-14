@@ -38,3 +38,10 @@ Students need to: 
 Students need to: 
 * be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society)  
 * advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
+
+<div>
+	<div style="float: right">
+		<em>Source:  https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101</em>
+	</div>
+</div>
+
