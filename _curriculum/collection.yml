@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ICT/.keep
-      - Information & Communication Technology.md
       - Mathematics.md
       - Physical Education Department/.keep
       - Physical Education Department/Physical Education Department.md
