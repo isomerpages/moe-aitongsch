@@ -4,7 +4,6 @@ permalink: /curriculum/information-and-communication-technology/
 description: ""
 third_nav_title: ICT
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -42,3 +41,6 @@ third_nav_title: ICT
   </tr>
 </tbody>
 </table>
+
+### ICT in Teaching & Learning
+At Ai Tong School, our ICT programmes are aligned to MOE’s direction of Student-Centric and Values-Driven education. We aim to nurture future-ready and responsible digital learners through effective and innovative use of technology. ICT is integrated in the curriculum and students use ICT tools for collaborative and self-directed learning. All students will acquire the necessary ICT skills to support them in learning and prepare them for future needs.
