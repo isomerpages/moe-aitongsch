@@ -7,8 +7,7 @@ third_nav_title: ICT
 ### Coding with Micro:bits
 Our ICT enrichment programme aims to nurture a new generation of digital natives. Our students get to experiment with micro:bit devices and learn real-world problem solving skills, digital creativity and innovation, as well as foster collaboration and co-creation with their peers. At the basic level, our P1 students learn to create simple word games. Our P2 students move to a higher level and create different types of games to compete with one another. At the intermediate level, our P3 students will learn to re-invent carnival games and explore more in-depth micro:bit features by integrating them with external devices. At the advance level, our P6 students learn about drone components and the programming platform. They also learn how to build their own drone remote control and have a flying competition to test out their drones.
 
-
-pics
+![](/images/ictprog1.png)
 
 
 ### Touch Typing Skills & Learning with Text
@@ -16,8 +15,8 @@ pics
 The Baseline ICT Standards is a set of ICT skill competencies set out in progressive key stages. These represent the basic level of knowledge, skills and values that students need in order to benefit from a curriculum enriched with ICT, and eventually thrive in a technology-driven society. Our P1 students first learn how to identify the basic parts of a computer and their respective usage. Moving on, they will learn touch typing skills and basic Microsoft Word operations during their enrichment programme.  At the P2 level, our students learn a higher level of touch typing skills and create a short document through the use of word processor.
 
 
+![](/images/ictprog2.png)
 
-pics
 
 
 ### Home-based Learning
