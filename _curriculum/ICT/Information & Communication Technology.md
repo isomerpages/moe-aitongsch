@@ -44,3 +44,7 @@ third_nav_title: ICT
 
 ### ICT in Teaching & Learning
 At Ai Tong School, our ICT programmes are aligned to MOE’s direction of Student-Centric and Values-Driven education. We aim to nurture future-ready and responsible digital learners through effective and innovative use of technology. ICT is integrated in the curriculum and students use ICT tools for collaborative and self-directed learning. All students will acquire the necessary ICT skills to support them in learning and prepare them for future needs.
+
+![](/images/ict1.jpeg)
+
+![](/images/ict2.jpeg)
