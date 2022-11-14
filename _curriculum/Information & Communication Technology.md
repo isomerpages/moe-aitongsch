@@ -25,14 +25,18 @@ description: ""
      style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img src="/images/CBW.jpeg" 
-     style="width:100%"></td>
-    <td class="tg-baqh"><img src="/images/Enrichment.jpeg" 
-     style="width:100%"></td>
-    <td class="tg-baqh"><img src="/images/Infrastructure.jpeg" 
-     style="width:100%"></td>
-    <td class="tg-baqh"><img src="/images/FAQ.jpeg" 
-     style="width:100%"></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/CBW.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Enrichment.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Infrastructure.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/FAQ.jpeg" 
+     style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
