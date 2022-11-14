@@ -25,13 +25,13 @@ description: ""
      style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img src="/images/principal.jpg" 
+    <td class="tg-baqh"><img src="/images/CBW.jpeg" 
      style="width:100%"></td>
-    <td class="tg-baqh"><img src="/images/principal.jpg" 
+    <td class="tg-baqh"><img src="/images/Enrichment.jpeg" 
      style="width:100%"></td>
-    <td class="tg-baqh"><img src="/images/principal.jpg" 
+    <td class="tg-baqh"><img src="/images/Infrastructure.jpeg" 
      style="width:100%"></td>
-    <td class="tg-baqh"><img src="/images/principal.jpg" 
+    <td class="tg-baqh"><img src="/images/FAQ.jpeg" 
      style="width:100%"></td>
   </tr>
 </tbody>
