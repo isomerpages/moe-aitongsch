@@ -26,16 +26,16 @@ third_nav_title: ICT
      style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+    <td class="tg-baqh"><a href = "/curriculum/ICT/cyber-wellness/" target = "_self"> 
           <img src="/images/CBW.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+    <td class="tg-baqh"><a href = "/curriculum/ICT/programmes/" target = "_self"> 
           <img src="/images/Enrichment.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+    <td class="tg-baqh"><a href = "/curriculum/ICT/infrastructure/" target = "_self"> 
           <img src="/images/Infrastructure.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+    <td class="tg-baqh"><a href = "/curriculum/ICT/resources/" target = "_self"> 
           <img src="/images/FAQ.jpeg" 
      style="width:100%"></a></td>
   </tr>
