@@ -84,13 +84,12 @@ Suitable science enrichment programmes are arranged for students to further incu
 
 *   Discovery Play on Thursdays
     
-
 Students will have the opportunities to carry out various science activities during their recesses that demonstrate science concepts within and beyond the primary school syllabus. We hope to increase their excitement and love for science through these activities which include leaf printing, shadow puppets, layered liquids of different densities, structure building using straws, exploring chromatography, paper circuits etc.
 
-
-
-pic
+<img src="/images/sci5.jpg" 
+     style="width:65%">
 
 The following is an overview of topics taught from P3 to P6.
 
-overcview
+<img src="/images/overview%20of%20Science%20topics%20taught%20from%20P3%20to%20P6.png" 
+     style="width:65%">
