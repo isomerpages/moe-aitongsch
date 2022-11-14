@@ -2,13 +2,13 @@ collections:
   curriculum:
     output: true
     order:
-      - ICT/Programmes.md
+      - ICT/.keep
+      - ICT/Information & Communication Technology.md
       - ICT/Cyber Wellness.md
+      - ICT/Programmes.md
       - ICT/Infrastructure.md
       - ICT/Resources.md
       - ICT/Frequently Asked Questions.md
-      - ICT/Information & Communication Technology.md
-      - ICT/.keep
       - Mathematics.md
       - Physical Education Department/.keep
       - Physical Education Department/Physical Education Department.md
