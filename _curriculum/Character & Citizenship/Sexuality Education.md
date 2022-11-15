@@ -157,5 +157,3 @@ You may click  [https://www.moe.gov.sg/programmes/sexuality-education](https:
 </tbody>
 </table>
 
-
-•
