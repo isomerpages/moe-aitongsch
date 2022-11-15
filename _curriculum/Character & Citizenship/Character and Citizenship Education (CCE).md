@@ -93,3 +93,22 @@ The skills related to citizenship competencies enable students to function effec
   </tr>
 </tbody>
 </table>
+
+### Framework
+
+
+![](/images/CCE_framework_ATS.jpeg)
+
+The framework encapsulates the objectives, spirit and approach of CCE in Ai Tong School. The framework is undergirded by our school values.  
+  
+The Head, Hand, Heart approach is used for our key programmes such as National Education (NE), Character and Citizenship Education (CCE), Values-in-action (VIA), Social Studies (SS) and Form Teacher Guidance Period (FTGP). They are in place to inculcate values and develop competencies in our students so as to develop them into upright individuals and useful citizens.    
+  
+In engaging the “Head”, students will be involved in their own learning to acquire skills, knowledge and dispositions to overcome challenges and turning them into opportunities as well as to think and reflect on their experiences to better internalise them.  
+  
+In engaging the “Heart”, students will appreciate the history and heritage that make Singapore unique in her own way through various platforms. Students will learn to embrace differences as positives making Singapore a more vibrant, connected and strong society.  
+  
+In engaging the “Hands”, students will have opportunities to give back to society and play their part to contribute in the building a better Singapore.  
+  
+The “Head, Hand, Heart approach is guided by the four principles of quality, ownership, customisation and coherence. For all programmes, we emphasise on quality, greater ownership by the different groups of stakeholders, the need to customise and differentiate programmes to cater for varying needs, interest and maturity levels of the students and to ensure coherence in the programmes we have.  
+  
+The outer-most ring represents our four key groups of stakeholders that are involved, namely students, teachers, parents and partners. Everyone plays a part in CCE.
