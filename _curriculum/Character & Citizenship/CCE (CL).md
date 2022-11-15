@@ -56,3 +56,42 @@ third_nav_title: Character & Citizenship
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 677px">
+<colgroup>
+<col style="width: 163px">
+<col style="width: 514px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2fwu" colspan="2">公民意识、环球意识与跨文化</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">活跃的社区生活</td>
+    <td class="tg-fwnj">一个活跃于社区生活的人<br>• 对社会有责任感 <br>• 有公德心 <br>• 支持社区活动和参与国家建设沟通技能<br></td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">社会意识</td>
+    <td class="tg-fwnj">一个有国家与文化认同感的人 <br>• 对国家有责任感 <br>• 认同国家的理想和文化，予以支持<br></td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">对社会文化的敏感度与认知 </td>
+    <td class="tg-fwnj">一个具有社会文化敏感度与认知度的人<br>• 具有同理心，能谅解、接纳和尊重他 人 <br>• 能以适当的言行举止与本地和国际社 会文化群体进行交流，加强社会凝聚 力<br></td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">环球意识 <br></td>
+    <td class="tg-fwnj">一个具有环球意识的人 <br>• 在国外与他人交流时，能积极面对文化差异<br>• 识别、分析和评价全球发展趋势以及这些趋势与本地社区的关联</td>
+  </tr>
+</tbody>
+</table>
