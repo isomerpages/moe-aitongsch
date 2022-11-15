@@ -127,4 +127,41 @@ Ensuring a rich and comprehensive experience, our students will be learning abou
 
 In addition, students also learn more about Singapore and be advocates of active contributors to the progress of our community and our nation.
 
-# table
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 693px">
+<colgroup>
+<col style="width: 166px">
+<col style="width: 141px">
+<col style="width: 386px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2fwu">Level</td>
+    <td class="tg-2fwu">Theme</td>
+    <td class="tg-2fwu">Singapore Spirit</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Primary 1 &amp; Primary 2</td>
+    <td class="tg-fwnj">SG Icon</td>
+    <td class="tg-fwnj">To foster a sense of belonging through the understanding of SG iconic places</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Primary 3 &amp; Primary 4</td>
+    <td class="tg-fwnj">SG Achievement</td>
+    <td class="tg-fwnj">To instil in students a sense of pride being a Singaporean through Singapore's achievements.</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj">Primary 5 &amp; Primary 6</td>
+    <td class="tg-fwnj">SG Challenge</td>
+    <td class="tg-fwnj">To understand Singapore's challenges and identify initiative to overcome them.</td>
+  </tr>
+</tbody>
+</table>
