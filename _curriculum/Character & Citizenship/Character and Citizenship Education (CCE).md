@@ -4,6 +4,44 @@ permalink: /curriculum/Character-and-Citizenship/cce/
 description: ""
 third_nav_title: Character & Citizenship
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax" colspan="4"><img src="/images/ATS_CCE.jpeg" 
+     style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+          <img src="/images/NE.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+          <img src="/images/VIA.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SE.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+          <img src="/images/CCECL.jpeg" 
+     style="width:100%"></a></td>
+  </tr>
+</tbody>
+</table>
+
+
 In Character and Citizenship Education (CCE), our students learn to be responsible to family and community; and understand their roles in shaping the future of our nation. The emerging trends and global developments that impact our society, such as societal changes, globalisation and technological advancements are taken into consideration in the development of the CCE curriculum. 
 
 The goal of CCE is to inculcate values and build competencies in our students to develop them to be good individuals and useful citizens. The core values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) are fundamental for a person of good character and a useful citizen of Singapore. They guide students to discern between right and wrong, helping them to make responsible choices and become more aware of their roles in society.
