@@ -68,10 +68,10 @@ third_nav_title: Character & Citizenship
 .tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
 .tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 677px">
+<table class="tg" style="undefined;table-layout: fixed; width: 644px">
 <colgroup>
-<col style="width: 163px">
-<col style="width: 514px">
+<col style="width: 129px">
+<col style="width: 515px">
 </colgroup>
 <tbody>
   <tr>
