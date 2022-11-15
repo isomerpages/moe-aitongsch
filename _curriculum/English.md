@@ -70,3 +70,48 @@ To develop these areas of language learning in students, teachers are guided by 
   </tr>
 </tbody>
 </table>
+
+
+**When planning EL lessons, teachers will employ ACoLADE during the delivery of the pre, main and post phases of their EL lessons.**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rj2y{background-color:#FFF;border-color:#454545;color:#454545;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-z2mj{background-color:#FFF;border-color:#454545;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 760px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 510px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-rj2y">Raising<br><span style="color:#ED2125">A</span>wareness</td>
+    <td class="tg-z2mj">Motivate learning and help students pay attention to what is to be learned. Help them make connections with what they already know.</td>
+  </tr>
+  <tr>
+    <td class="tg-rj2y">Structuring <span style="color:#ED2125">C</span>onsolidation</td>
+    <td class="tg-z2mj">Revisit and reinforce what has been learned.</td>
+  </tr>
+  <tr>
+    <td class="tg-rj2y">Facilitating Assessment for <span style="color:#ED2125">L</span>earning</td>
+    <td class="tg-z2mj">Diagnose students’ needs, abilities and interests. Identify learning gaps, monitor their learning and provide timely and useful feedback for improving and self-assessment.</td>
+  </tr>
+  <tr>
+    <td class="tg-rj2y">Enabling<br><span style="color:#ED2125">A</span>pplication</td>
+    <td class="tg-z2mj">Teach language in authentic contexts of use and model its use. Let students learn through working collaboratively with the teacher and other students.</td>
+  </tr>
+  <tr>
+    <td class="tg-rj2y">Guiding<br><span style="color:#ED2125">D</span>iscovery</td>
+    <td class="tg-z2mj">Facilitate discovery by prompting, posing questions and supporting the process by which students can learn about a skill, strategy, process or rule without prior or explicit instruction.</td>
+  </tr>
+  <tr>
+    <td class="tg-rj2y">Instructing<br><span style="color:#ED2125">E</span>xplicitly</td>
+    <td class="tg-z2mj">Explain and clarify a skill, strategy or process directly and systematically, in addition to teaching it in contexts of meaningful use.</td>
+  </tr>
+</tbody>
+</table>
