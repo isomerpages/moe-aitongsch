@@ -105,5 +105,57 @@ You may click  [https://www.moe.gov.sg/programmes/sexuality-education](https:
 
 <center><b>Primary 6</b></center>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-ftld{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 729px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 128px">
+<col style="width: 451px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ftld">UNIT</td>
+    <td class="tg-ftld">LESSONS / DURATION</td>
+    <td class="tg-reen">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="4">Are We More Than Friends?</td>
+    <td class="tg-ncov">Who Are My Friends?</td>
+    <td class="tg-fwnj">•         identify the qualities of a healthy friendship<br>•        recognise the importance of making wise choices in friendship</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Am I A Good Friend?</td>
+    <td class="tg-fwnj">•         identify the qualities that they have as a friend<br>•       recognise the importance of developing in oneself the qualities of a good friend</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">What is Love?</td>
+    <td class="tg-fwnj">•        identify the characteristics of love and infatuation<br>•       distinguish between the characteristics of love versus infatuation<br>•        identify strong feelings arising from infatuation</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Am I Falling In Love?</td>
+    <td class="tg-fwnj">•      manage strong feelings arising from infatuation<br>•       identify ways to manage and cope with teasing from peers</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="2">Friends or Foes?</td>
+    <td class="tg-ncov">Are You Really My Friend?</td>
+    <td class="tg-fwnj">•       identify the pros and cons of forming relationships through social networking websites<br>•       know ways to keep themselves safe when using social networking websites</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Is It All Safe?</td>
+    <td class="tg-fwnj">•       know that some information (like pornography) received through the Internet may be harmful<br>•       know ways to keep themselves safe when using social networking websites or the Internet</td>
+  </tr>
+</tbody>
+</table>
+
 
 •
