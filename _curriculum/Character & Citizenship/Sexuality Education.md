@@ -44,6 +44,7 @@ You may click  [https://www.moe.gov.sg/programmes/sexuality-education](https:
 
 ### At Ai Tong School, the following Sexuality Education lessons will be taught in 2022:
 
+<center><b>Primary 5</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -101,5 +102,8 @@ You may click  [https://www.moe.gov.sg/programmes/sexuality-education](https:
   </tr>
 </tbody>
 </table>
+
+<center><b>Primary 6</b></center>
+
 
 •
