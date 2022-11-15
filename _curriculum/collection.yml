@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Character & Citizenship/.keep
       - Chinese.md
       - Chinese Culture.md
       - English.md
