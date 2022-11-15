@@ -4,6 +4,43 @@ permalink: /curriculum/Character-and-Citizenship/cce-cl/
 description: ""
 third_nav_title: Character & Citizenship
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax" colspan="4"><img src="/images/ATS_CCE.jpeg" 
+     style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/national-education/" target = "_self"> 
+          <img src="/images/NE.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/via/" target = "_self"> 
+          <img src="/images/VIA.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/sexuality-education/" target = "_self"> 
+          <img src="/images/SE.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/cce-cl/" target = "_self"> 
+          <img src="/images/CCECL.jpeg" 
+     style="width:100%"></a></td>
+  </tr>
+</tbody>
+</table>
+
 ### 品格与公民教育
 
 <center>品格与公民教育一向是新加坡教育体系的核心。通过品格与公民教育，我们的学生学会承担家庭以及社会责任；同时也明白自己在打造国家未来的过程中所扮演的角色。在规划品格与公民教育课程 标准时，主要的考量是新趋势和世界走向，包括社会结构的变化、环球化和科技发展。</center>
