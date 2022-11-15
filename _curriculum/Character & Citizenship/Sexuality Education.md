@@ -4,6 +4,43 @@ permalink: /curriculum/Character-and-Citizenship/sexuality-education/
 description: ""
 third_nav_title: Character & Citizenship
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax" colspan="4"><img src="/images/ATS_CCE.jpeg" 
+     style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/national-education/" target = "_self"> 
+          <img src="/images/NE.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/via/" target = "_self"> 
+          <img src="/images/VIA.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/sexuality-education/" target = "_self"> 
+          <img src="/images/SE.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/cce-cl/" target = "_self"> 
+          <img src="/images/CCECL.jpeg" 
+     style="width:100%"></a></td>
+  </tr>
+</tbody>
+</table>
+
 ### Moe Sexuality Education in Schools
 
 1\.         Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
@@ -156,4 +193,3 @@ You may click  [https://www.moe.gov.sg/programmes/sexuality-education](https:
   </tr>
 </tbody>
 </table>
-
