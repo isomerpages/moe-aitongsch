@@ -25,16 +25,16 @@ third_nav_title: Character & Citizenship
      style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/national-education/" target = "_self"> 
           <img src="/images/NE.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/via/" target = "_self"> 
           <img src="/images/VIA.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/sexuality-education/" target = "_self"> 
           <img src="/images/SE.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "/curriculum/Character-and-Citizenship/cce-cl/" target = "_self"> 
           <img src="/images/CCECL.jpeg" 
      style="width:100%"></a></td>
   </tr>
