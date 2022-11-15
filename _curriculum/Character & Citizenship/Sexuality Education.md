@@ -55,11 +55,11 @@ You may click  [https://www.moe.gov.sg/programmes/sexuality-education](https:
 .tg .tg-ftld{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 900px">
+<table class="tg" style="undefined;table-layout: fixed; width: 729px">
 <colgroup>
 <col style="width: 150px">
-<col style="width: 168px">
-<col style="width: 582px">
+<col style="width: 128px">
+<col style="width: 451px">
 </colgroup>
 <tbody>
   <tr>
