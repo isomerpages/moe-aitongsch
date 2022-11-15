@@ -28,7 +28,52 @@ description: ""
 **“爱同悦阅”旗舰课程**    
 为了推广阅读风气，营造书香氛围、培养学生的文学素养和人文素养（包括价值观、华族文化），华文部遴选适合不同年级学生的优秀华文故事书，在各年级进行故事书导读活动。导读时，教师引导学生理解并欣赏故事，在讨论中引发内在思考；进行读后活动时，教师训练学生理解、口语与书面的表达能力。
 
-# table 1
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-toe3{background-color:#FFF2CC;color:#444;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-tk9s{background-color:#E2EFD9;color:#444;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qy0r{background-color:#D9E2F3;color:#444;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 545px">
+<colgroup>
+<col style="width: 115px">
+<col style="width: 430px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-toe3">年级</td>
+    <td class="tg-toe3">阅读活动</td>
+  </tr>
+  <tr>
+    <td class="tg-tk9s">一年级</td>
+    <td class="tg-qy0r">绘本导读和读后活动</td>
+  </tr>
+  <tr>
+    <td class="tg-tk9s">二年级</td>
+    <td class="tg-qy0r">绘本导读和读后活动</td>
+  </tr>
+  <tr>
+    <td class="tg-tk9s">三年级</td>
+    <td class="tg-qy0r">绘本、桥梁书导读和读后活动</td>
+  </tr>
+  <tr>
+    <td class="tg-tk9s">四年级</td>
+    <td class="tg-qy0r">绘本、桥梁书导读和SLS读后活动</td>
+  </tr>
+  <tr>
+    <td class="tg-tk9s">五年级</td>
+    <td class="tg-qy0r">漫画课程、故事导读和SLS读后活动</td>
+  </tr>
+  <tr>
+    <td class="tg-tk9s">六年级</td>
+    <td class="tg-qy0r">漫画课程、故事导读和读后活动</td>
+  </tr>
+</tbody>
+</table>
 
 每个单周的星期二，华文部也会把阅读活动带进图书馆。教师设计趣味化的阅读活动，不同月份有不同的主题，让学生有机会接触不同主题的读物，开拓他们的视野，培养他们的阅读兴趣。家长义工利用休息时间在图书馆进行这些阅读活动，并直接跟学生推荐跟活动有关的有趣书籍，鼓励学生去图书馆借阅华文书。华文部也会利用各年级晨会时间，请专业读书团体和本地作家到学校进行导读活动，进一步培养学生的阅读兴趣。
 
@@ -95,7 +140,52 @@ description: ""
 各年级使用资讯科技进行华文教学的重点活动一览表
 
 
-# pic
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-toe3{background-color:#FFF2CC;color:#444;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-qy0r{background-color:#D9E2F3;color:#444;text-align:left;vertical-align:top}
+.tg .tg-rnfy{background-color:#E2EFD9;color:#444;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 709px">
+<colgroup>
+<col style="width: 111px">
+<col style="width: 598px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-toe3">年级</td>
+    <td class="tg-toe3">资讯科技重点活动</td>
+  </tr>
+  <tr>
+    <td class="tg-rnfy">一年级</td>
+    <td class="tg-qy0r">中文输入（微软输入法）、微软电子简报、SLS 华文自主学习配套、eZhishi网上平台</td>
+  </tr>
+  <tr>
+    <td class="tg-rnfy">二年级</td>
+    <td class="tg-qy0r">中文输入（微软输入法）、“木偶”软件、SLS 华文自主学习配套、eZhishi网上平台</td>
+  </tr>
+  <tr>
+    <td class="tg-rnfy">三年级</td>
+    <td class="tg-qy0r">SLS 华文自主学习配套、eZhishi网上平台</td>
+  </tr>
+  <tr>
+    <td class="tg-rnfy">四年级</td>
+    <td class="tg-qy0r">SLS 华文自主学习配套、eZhishi网上平台</td>
+  </tr>
+  <tr>
+    <td class="tg-rnfy">五年级</td>
+    <td class="tg-qy0r">SLS华文自主学习配套、eZhishi网上平台、乐学善用平台（iMTL Portal）</td>
+  </tr>
+  <tr>
+    <td class="tg-rnfy">六年级</td>
+    <td class="tg-qy0r">利用手机和易华文网站口试配套进行口试训练、eZhishi网上平台</td>
+  </tr>
+</tbody>
+</table>
 
 2、 **校本资源**  
 
@@ -112,4 +202,3 @@ description: ""
 
 
 # pic
-
