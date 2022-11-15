@@ -36,8 +36,70 @@ You may click  [https://www.moe.gov.sg/programmes/sexuality-education](https:
 
   
 
-**Sexuality Education**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
+**<u>Sexuality Education</u>**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
 
-6.          The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.  
+6\.          The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.  
 
-7.       The Primary 5 & 6 Sexuality Education Teaching and Learing resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+7\.       The Primary 5 & 6 Sexuality Education Teaching and Learing resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+
+### At Ai Tong School, the following Sexuality Education lessons will be taught in 2022:
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-ftld{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 900px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 168px">
+<col style="width: 582px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ftld">UNIT</td>
+    <td class="tg-ftld">LESSONS / DURATION</td>
+    <td class="tg-ftld">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="3">Gosh! I Am Changing</td>
+    <td class="tg-ncov">What Is Happening To Me?</td>
+    <td class="tg-sdzj">•        know what puberty is<br>•        identify the physical changes during puberty</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">What Can I Do? (Part 1)</td>
+    <td class="tg-sdzj">•         identify the stresses caused by physical and emotional changes during puberty<br>•        describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>•        describe the emotions caused by physical changes during puberty<br>•        recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">What Can I Do? (Part 2)</td>
+    <td class="tg-sdzj">•        identify the stresses caused by physical and emotional changes during puberty<br>•        describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>•        describe the emotions caused by physical changes during puberty<br>•         recognise that one’s identity does not change even when one’s body is experiencing change due to pubert</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Where I Belong</td>
+    <td class="tg-ncov">What Are Families?<br>(30 min)</td>
+    <td class="tg-sdzj">•         know that there are different types of family structures<br>•         know that every family is unique<br>•         state that the three basic functions of families are to provide love, protection and guidance<br>•         identify the right sources of help to turn to when in need</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Where I Belong</td>
+    <td class="tg-ncov">What is My Role?</td>
+    <td class="tg-sdzj">•         know that gender is about being male or female<br>•         choose not to stereotype by gender</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="2">How Do I Keep Myself Safe?</td>
+    <td class="tg-ncov">What is Safety?</td>
+    <td class="tg-sdzj">•         know what sexual abuse is<br>•         know that there are laws in Singapore that can protect them from sexual abuse<br>•         know their rights in keeping themselves safe from sexual abuse</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Stop It! Run! Tell!</td>
+    <td class="tg-sdzj">•         protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>•         know their responsibilities in minimising the risk of sexual harm</td>
+  </tr>
+</tbody>
+</table>
+
+•
