@@ -29,3 +29,8 @@ For the environment to serve as an effective third teacher, our teachers are con
 
 ### Artistic Thursday
 This is introduced from Term 1 week 6 (2018) on every even week to enrich students’ recess with meaningful structured play. It aims to engage students in fun filled music and art activities to stimulate their creativity. They will get to experience music making using different musical instruments such as boom-whackers and resonator bells in the PAL room. At the Interactive Aesthetics Corner 《悦艺坊》, students get to learn to create fun crafts through interesting craft-making activities like finger print art, origami, texture rubbing and DIY bookmark making.
+
+![](/images/aes2.png)
+
+### Developing Our Aesthetics Leaders
+Students who have keen interests in music and art and aspire to lead and promote a vibrant arts culture and deepen the understanding and appreciation for the arts in school are given the opportunities to join the Aesthetics Student Leader Committee to develop their leadership skills. Platforms and opportunities are given for Aesthetics Leaders to learn how to plan and organise school-wide arts related events. As role models, they will hence spread the love and appreciation for the arts.
