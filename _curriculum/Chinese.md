@@ -197,8 +197,85 @@ description: ""
 
 部门的作文配套，让学生从句到段到篇，系统式、渐进式地掌握写作技巧。部门的口试配套，引导学生观察图意/录像，找出主题，掌握叙事和表达看法感受的口语技能。五六年级的学生利用手机进行录音，以便在家里进行自学。
 
-四、网上华文学习资源
-----------
+### 四、网上华文学习资源
 
 
-# pic
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-crmx{background-color:#FFF2CC;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-okzk{background-color:#E2EFD9;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ytqh{background-color:#D9E2F3;text-align:center;vertical-align:middle}
+.tg .tg-jend{background-color:#FFF2CC;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jv5y{background-color:#D9E2F3;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 65px">
+<col style="width: 65px">
+<col style="width: 65px">
+<col style="width: 65px">
+<col style="width: 65px">
+<col style="width: 65px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-crmx">网上学习资源</td>
+    <td class="tg-jend">P1</td>
+    <td class="tg-jend">P2</td>
+    <td class="tg-jend">P3</td>
+    <td class="tg-jend">P4</td>
+    <td class="tg-jend">P5</td>
+    <td class="tg-jend">P6</td>
+  </tr>
+  <tr>
+    <td class="tg-okzk">易华文<br>http://www.ezhishi.net </td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+  </tr>
+  <tr>
+    <td class="tg-okzk">Student learning space</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-ytqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-okzk">语文乐翻天:<br><a href="http://www.game.iflashbook.com/" target="_blank" rel="noopener noreferrer"><span style="color:#ED2125">http://www.game.iflashbook.com</span></a></td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-ytqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-okzk">听说E乐园:<br><a href="http://oracyeland.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="color:#ED2125">http://oracyeland.moe.edu.sg</span></a></td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-ytqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-okzk">乐学善用平台iMTL Portal: <br><a href="http://imtl.sg/" target="_blank" rel="noopener noreferrer"><span style="color:#ED2125">http://imtl.sg</span></a><span style="color:#ED2125"> </span></td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-ytqh"></td>
+    <td class="tg-jv5y">√</td>
+    <td class="tg-ytqh"></td>
+  </tr>
+</tbody>
+</table>
