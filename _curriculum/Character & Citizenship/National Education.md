@@ -69,7 +69,61 @@ The four core NE days which are linked to the important points in Singapore’s 
 
 Ensuring a rich and comprehensive experience, our students will be learning about the different festivals, cultures and practices to increase their awareness and develop a sense of respect and appreciation for other customs and traditions.
 
-# table
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 717px">
+<colgroup>
+<col style="width: 92px">
+<col style="width: 285px">
+<col style="width: 340px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2fwu">Level</td>
+    <td class="tg-2fwu">Festivals, Cultures and Practices</td>
+    <td class="tg-2fwu">Activity</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Primary 1</td>
+    <td class="tg-fwnj">Chinese Culture and Practices</td>
+    <td class="tg-fwnj">To practice the use of Chopsticks</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Primary 2</td>
+    <td class="tg-fwnj">Eurasian Culture and Practices</td>
+    <td class="tg-fwnj">To practice the Eurasian table etiquette</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Primary 3</td>
+    <td class="tg-fwnj">Malay Culture and Practices</td>
+    <td class="tg-fwnj">To practice the Malay table etiquette</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Primary 4</td>
+    <td class="tg-fwnj">Indian Culture and Practices</td>
+    <td class="tg-fwnj">To experience the making of Indian snacks.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Primary 5</td>
+    <td class="tg-fwnj">Peranakan Cultures and Practices</td>
+    <td class="tg-fwnj">To experience the making of Peranakan snacks.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">Primary 6</td>
+    <td class="tg-fwnj" colspan="2">Consolidate learning of the different cultures and practices</td>
+  </tr>
+</tbody>
+</table>
+
 
 In addition, students also learn more about Singapore and be advocates of active contributors to the progress of our community and our nation.
 
