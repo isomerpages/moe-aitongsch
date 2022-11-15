@@ -7,7 +7,9 @@ description: ""
 
 ### Framework
 
-![](/images/EL_framework.png)
+<img src="/images/EL_framework.png" 
+     style="width:65%">
+
 
 The overarching aim of the EL Syllabus 2010 is to develop effective language use. Students’ language use will be affected by the purpose, audience, context and culture (PACC) and their proficiency in language use is assessed by their attainment of the learning outcomes. 
 
