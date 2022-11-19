@@ -20,7 +20,7 @@ Parents may submit the GPA insurance claim online (eSubmission).
 
 **Follow Up Claim Submission**   
 1\. Go to Income’s GPA portal at [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg/)   
-2\. Click on “N**ew/Follow Up Accident Claim**”
+2\. Click on “**New/Follow Up Accident Claim**”
 
 
 **Enquiry on Status of Claims**    
