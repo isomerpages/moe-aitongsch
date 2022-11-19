@@ -28,7 +28,7 @@ Android: [Download Parents Gateway on Android PlayStore](https://play.google.co
 <h4>"Why should you stay logged in?"</h4>
 
 <img src="/images/PGAnimatedGif.gif" 
-     style="width:35%">
+     style="width:30%">
 
 
 Parents must stay logged in to receive Push Notifications.  
