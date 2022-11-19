@@ -8,3 +8,5 @@ third_nav_title: Parent Support Group
 
 **Mdm Diane Goh (Principal)**.  
 **Mrs Teo-Mok Ling Ling (PSG Coordinator)**
+
+![](/images/PSG%20org%20chart%202021.jpeg)
