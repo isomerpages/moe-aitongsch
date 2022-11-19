@@ -35,5 +35,5 @@ Parents must stay logged in to receive Push Notifications.
 Parents' SingPass ID and Password will not be stored in the app.
 
 You may also download the files below:  
-[Read PDFs Easily on Mobile](/files/Read%20PDFs%20easily%20on%20mobile.pdf)
+[Read PDFs Easily on Mobile](/files/Read%20PDFs%20easily%20on%20mobile.pdf)   
 [Frequently Asked Questions (for Parents)](/files/Frequently%20Asked%20Questions%20(for%20Parents).pdf)
