@@ -42,3 +42,36 @@ Kindly scan the QR code and complete the Google form. A PSG representative will 
   </tr>
 </tbody>
 </table>
+
+### Contact Us
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nrix"><a href = "https://www.facebook.com/groups/AiTongPSG/" target = "_self"> 
+          <img src="/images/FB_logo.jpeg" 
+     style="width:65%"></a></td>
+    <td class="tg-nrix"><img src="/images/PSG_FB.png" 
+     style="width:65%"></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><a href = "https://mail.google.com/mail/u/0/" target = "_self"> 
+          <img src="/images/mail.jpeg" 
+     style="width:65%"></a></td>
+    <td class="tg-nrix"><img src="/images/PSG_mail.png" 
+     style="width:65%"></td>
+  </tr>
+</tbody>
+</table>
