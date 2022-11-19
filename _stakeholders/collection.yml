@@ -2,6 +2,7 @@ collections:
   stakeholders:
     output: true
     order:
+      - Fathers at ATS/Vision, Mission and Values.md
       - Fathers at ATS/Organization Structure.md
       - Fathers at ATS/Fathers@ATS Event – “A FISHING TRIP”.md
       - Fathers at ATS/Vaccination Talk by Dr Tan Ming Wei.md
