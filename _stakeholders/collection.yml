@@ -2,5 +2,6 @@ collections:
   stakeholders:
     output: true
     order:
+      - Parent Support Group/For Parent.md
       - Parent Support Group/Contact Us.md
       - Parent Support Group/.keep
