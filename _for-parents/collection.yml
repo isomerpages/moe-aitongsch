@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Gateway.md
       - Insurance Claim.md
       - Family Matters @ School.md
       - Picking Up our Child Before Dismissal.md
