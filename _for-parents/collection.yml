@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Consent for Photography and Videos.md
       - Useful Links.md
       - Frequently Asked Questions.md
