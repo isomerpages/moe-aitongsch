@@ -20,6 +20,6 @@ For more information, please click on the links below:
 Information that might interest you
 -----------------------------------
 
-[Dyslexia Factsheet.pdf](https://aitong.moe.edu.sg/qql/slot/u180/For%20Parents/Family%20Matters/DYSLEXIA/Dyslexia%20Factsheet.pdf)  
-[Dyslexia Myths or Facts.pdf](https://aitong.moe.edu.sg/qql/slot/u180/For%20Parents/Family%20Matters/DYSLEXIA/Dyslexia%20Myths%20or%20Facts.pdf)  
-[Dyslexia Precision Teaching.pdf](https://aitong.moe.edu.sg/qql/slot/u180/For%20Parents/Family%20Matters/DYSLEXIA/Dyslexia%20Precision%20Teaching.pdf)
+[Dyslexia Factsheet.pdf](/files/Dyslexia%20Factsheet.pdf)    
+[Dyslexia Myths or Facts.pdf](/files/Dyslexia%20Myths%20or%20Facts.pdf)   
+[Dyslexia Precision Teaching.pdf](/files/Dyslexia%20Precision%20Teaching.pdf)
