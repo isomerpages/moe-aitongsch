@@ -8,7 +8,9 @@ third_nav_title: Fathers at ATS
 
 The intended organization structure can be depicted by the following model:
 
-![](/images/fathersatatsstructure.jpg)
+<img src="/images/fathersatatsstructure.jpg" 
+     style="width:45%">
+
 
 ### The intended organization structure can be depicted by the following model:
 
