@@ -5,17 +5,12 @@ description: ""
 third_nav_title: Fathers at ATS
 ---
 ### Vision
-------
-
-  A positive influence a father plays in his child’s life, and seeks to be the platform for inspiring, motivating and encouraging fathers to be this role model.   
+A positive influence a father plays in his child’s life, and seeks to be the platform for inspiring, motivating and encouraging fathers to be this role model.   
 
 ### Mission
--------
-
-Create awareness, plan outreach programs, facilitate bonding activities between father& child, as provide a support platform for fathers.
+Create awareness, plan outreach programs, facilitate bonding activities between father & child, as provide a support platform for fathers.
 
 ### Values
-------
 
 Integrity, Trust and Collaboration.
 
