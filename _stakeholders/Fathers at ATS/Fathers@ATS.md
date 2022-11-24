@@ -25,9 +25,9 @@ third_nav_title: Fathers at ATS
      style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="/stakeholders/Fathers-at-ATS/objectives-and-goals/">Objectives and Goals</a></td>
-    <td class="tg-baqh"><a href="/stakeholders/Fathers-at-ATS/vision-mission-values/">Vision, Mission and Values</a></td>
-    <td class="tg-baqh"><a href="/stakeholders/Fathers-at-ATS/organization-structure/">Organization Structure</a></td>
+    <td class="tg-baqh"><a href="/stakeholders/Fathers-at-ATS/objectives-and-goals/"><h5>Objectives and Goals</h5></a></td>
+    <td class="tg-baqh"><a href="/stakeholders/Fathers-at-ATS/vision-mission-values/"><h5>Vision, Mission and Values</h5></a></td>
+    <td class="tg-baqh"><a href="/stakeholders/Fathers-at-ATS/organization-structure/"><h5>Organization Structure</h5></a></td>
   </tr>
 </tbody>
 </table>
