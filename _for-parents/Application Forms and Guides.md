@@ -9,15 +9,13 @@ description: ""
 *   [MOE FAS Pamphlet 2023](/files/MOE%20FAS%20pamphlet%202023.pdf) _\*updated as of_ _8 November 2022_  
     
 
-Bursary 2022 for Students of SHHK Affiliated Schools
-----------------------------------------------------
+### Bursary 2022 for Students of SHHK Affiliated Schools
 
 *   [Application of Bursary for SHHK Affiliated Schools](/files/202392022-Batch%201.pdf) _\*updated as of 10 October 2022_
 
   
 
-NEU PC Plus Programme
----------------------
+### NEU PC Plus Programme
 
 The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price.  
 
@@ -27,18 +25,15 @@ The NEU PC Plus Programme offers low-income households with student or person wi
 
 _\*updated as of 14th October 2022_  
 
-School Smart Cards (SSCs) 学生证
------------------------------
+### School Smart Cards (SSCs) 学生证
 
 Students can now top-up their School Smart Cards (SSCs) at all DBS/POSB ATMs. Students who have lost their SSCs can do an online enquiry at [http://www.transitlink.com.sg/eservice.aspx](http://www.transitlink.com.sg/eservice.aspx) to check if their card has been found.  Replacement of lost cards can also be made online.
 
-Parent Volunteers @ Ai Tong School
-----------------------------------
+### Parent Volunteers @ Ai Tong School
 
 The School-based Member Volunteer Scheme is administered by the Singapore Hokkien Huay Kuan (SHHK).  Interested parents may refer to SHHK’s website ([http://www.shhk.com.sg/faq-on-becoming-a-volunteer/](http://www.shhk.com.sg/faq-on-becoming-a-volunteer/)) or contact SHHK at Tel: 6222 8212 for application details and terms & conditions.
 
-Application for Waiting List
-----------------------------
+### Application for Waiting List
 
 Click **[here](https://go.gov.sg/ats-waiting-list-form)** to access the Waiting List Online Application Form
 
