@@ -26,6 +26,6 @@ sections:
       url: /faq/
   - resources:
       title: News and Updates
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      subtitle: announcements
+      button: View All
 ---
