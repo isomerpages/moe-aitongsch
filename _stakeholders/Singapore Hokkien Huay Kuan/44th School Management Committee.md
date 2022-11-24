@@ -4,5 +4,4 @@ permalink: /stakeholders/Singapore-Hokkien-Huay-Kuan/44th-school-management-comm
 description: ""
 third_nav_title: Singapore Hokkien Huay Kuan
 ---
-<h3><u>SHHK Affiliated Schools 44th SMC</u></h3>
-
+<h4><u><center>SHHK Affiliated Schools 44th SMC</center></u></h4>
