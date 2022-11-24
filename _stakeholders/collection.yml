@@ -2,6 +2,7 @@ collections:
   stakeholders:
     output: true
     order:
+      - Fathers at ATS/Fathers@ATS.md
       - Fathers at ATS/Vision, Mission and Values.md
       - Fathers at ATS/Organization Structure.md
       - Fathers at ATS/Fathers@ATS Event – “A FISHING TRIP”.md
