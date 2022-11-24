@@ -2,4 +2,5 @@ collections:
   visitor-management:
     output: true
     order:
+      - Driving information 驾车须知.md
       - Parking information 停车处信息.md
