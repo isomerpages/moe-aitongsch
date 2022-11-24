@@ -12,14 +12,57 @@ Like and Follow us on FB & IG
 Click [here](https://go.gov.sg/ats110th) or scan the QR Code below for our FB page.
 
 
-(tabkle)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-baqh"><img src="/images/FB.png" 
+     style="width:100%"></td>
+    <td class="tg-baqh"><img src="/images/FBATS110thAnniversary.png" 
+     style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
 
 
 
 Click [here](https://go.gov.sg/ats110th-ig) or scan the QR Code below for our IG.
 
 
-(table)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-baqh"><img src="/images/ig.png" 
+     style="width:100%"></td>
+    <td class="tg-baqh"><img src="/images/IGATS110thAnniversary.png" 
+     style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
+
 
 
 Ai Tong School 110th Anniversary Oral History
