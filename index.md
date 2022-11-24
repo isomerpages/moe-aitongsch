@@ -4,14 +4,10 @@ title: Ai Tong School
 description: An Isomer site of the Singapore Government
 image: /images/ATS-Logo-web.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/6e79c659a_245.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -29,7 +25,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Resources Section Title
+      title: News and Updates
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
