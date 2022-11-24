@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Contact Us
           description: Contact Information & Location
-          url: /contact-us/
+          url: /contact-us-page/
   - resources:
       title: News and Updates
       subtitle: announcements
