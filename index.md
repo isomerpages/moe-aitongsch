@@ -8,23 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/6e79c659a_245.png
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+  - resources:
+      title: News and Updates
+      subtitle: announcements
+      button: View All
   - infobar:
       title: Useful Links for Students
       subtitle: E-resources in one place
       button: View All
       url: /useful-links/
-  - resources:
-      title: News and Updates
-      subtitle: announcements
-      button: View All
 ---
