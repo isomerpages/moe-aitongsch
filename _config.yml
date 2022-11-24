@@ -3,14 +3,14 @@ url: https://aitong.moe.edu.sg
 favicon: /images/ATS-Logo-web.png
 colors:
   primary-color: "#2e5d99"
-  secondary-color: "#f44949"
+  secondary-color: "#db3f3f"
   media-colors:
     - title: media-color-one
-      color: "#f44949"
+      color: "#db3f3f"
     - title: media-color-two
-      color: "#89a4c7"
+      color: "#3274c8"
     - title: media-color-three
-      color: "#89a4c7"
+      color: "#3274c8"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
