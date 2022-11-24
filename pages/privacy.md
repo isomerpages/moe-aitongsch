@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-**Ai Tong School Privacy Statement**
+### Ai Tong School Privacy Statement
 
 
 1. This is Ai Tong School website. Thank you for examining our privacy statement.
