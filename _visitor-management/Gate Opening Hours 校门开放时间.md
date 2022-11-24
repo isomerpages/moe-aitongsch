@@ -64,3 +64,15 @@ The following gates will be used for the arrival and dismissal of our students.
   </tr>
 </tbody>
 </table>
+
+
+All visitors are to enter via Gate C only.    
+Gate C is closed during school dismissal & CCA dismissal.    
+Please do not enter the school via the other entrances during dismissal as they are only for students leaving the school.  
+
+  
+
+If you are visiting the school, please avoid the following peak hour timings.
+*   6.30am - 7.30am
+*   1.15pm - 2pm
+*    4pm - 4.30pm
