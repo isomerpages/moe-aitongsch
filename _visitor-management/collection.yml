@@ -2,5 +2,6 @@ collections:
   visitor-management:
     output: true
     order:
+      - Gate Opening Hours 校门开放时间.md
       - Driving information 驾车须知.md
       - Parking information 停车处信息.md
