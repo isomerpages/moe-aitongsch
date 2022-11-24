@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Like and Follow us on FB & IG
------------------------------
+### Like and Follow us on FB & IG
 
 Click [here](https://go.gov.sg/ats110th) or scan the QR Code below for our FB page.
 
@@ -65,8 +64,7 @@ Click [here](https://go.gov.sg/ats110th-ig) or scan the QR Code below for our 
 
 
 
-Ai Tong School 110th Anniversary Oral History
----------------------------------------------
+### Ai Tong School 110th Anniversary Oral History
 
 <center>爱同学校110周年校庆口述历史录像 （精华版）<br>Ai Tong School 110th Anniversary Oral History Video (Abridged Version)</center>
 
@@ -77,7 +75,6 @@ Ai Tong School 110th Anniversary Oral History
 
 <center><iframe width="480" height="360" src="https://www.youtube.com/embed/-G1bvvJVdxU" title="爱同学校110周年校庆口述历史录像 （完整版） Ai Tong School 110th Anniversary Oral History Video (Full Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Ai Tong 110th Anniversary Theme Song
-------------------------------------
+### Ai Tong 110th Anniversary Theme Song
 
 <center><iframe width="480" height="360" src="https://www.youtube.com/embed/XBXr7HR1pRw" title="[4k] Ai Tong 110th Anniversary Theme Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
