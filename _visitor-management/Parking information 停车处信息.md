@@ -8,7 +8,7 @@ description: ""
 Ai Tong School (ATS) has implemented season parking with effect from 1 August 2018.  Due to the limited parking capacity in ATS, all available parking lots have been designated as season parking lots for use by school staff and non-staff providing essential services. As such, parking at ATS is not available for parents/guardians who are visiting the school (e.g. meeting with teachers or school leaders etc), Parent Volunteers (PVs) and ATS Parent Support Group (PSG) members etc.  Should you wish to drive to school, parking facilities are available at Midview City and the nearby HDB car parks.  
   
 Parents who are driving and need to pick up their children before school dismissal time (e.g. child is unwell and needs to see doctor/return home etc) may continue to park their vehicle for a short duration (not exceeding 10 minutes) at the school foyer. However, there may be occasions when temporary parking is not available and in such instances, we seek your understanding to cooperate with our Security Guards and/or Operations Manager if you are directed to park at the nearby parking facilities instead.  
-ATS will continue to allow parents’ vehicles to access the school premises for daily students’ drop-off and pick-up for school assembly and dismissal.  (Refer to **[Driving information](https://aitong-moe-edu-sg-admin.cwp.sg/visitors-to-school/driving-information)**)
+ATS will continue to allow parents’ vehicles to access the school premises for daily students’ drop-off and pick-up for school assembly and dismissal.  (Refer to **[Driving information](/visitor-management/driving-information/)**)
 
   
 
