@@ -19,11 +19,10 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Useful Links for Students
+      subtitle: E-resources in one place
+      button: View All
+      url: /useful-links/
   - resources:
       title: News and Updates
       subtitle: announcements
