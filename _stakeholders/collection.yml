@@ -2,6 +2,7 @@ collections:
   stakeholders:
     output: true
     order:
+      - Singapore Hokkien Huay Kuan/Singapore Hokkien Huay Kuan.md
       - Singapore Hokkien Huay Kuan/44th School Management Committee.md
       - Singapore Hokkien Huay Kuan/.keep
       - Alumni Association.md
