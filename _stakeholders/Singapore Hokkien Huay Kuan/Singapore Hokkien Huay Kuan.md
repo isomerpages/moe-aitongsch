@@ -26,7 +26,7 @@ Initially, these schools adopted prevailing China’s curriculum and taught Chin
 
   
 
-Today, the six affiliated schools: Tao Nan School, Ai Tong School, Chongfu School, Nan Chiau High School, Nan Chiau Primary School and Kong Hwa School have a combined enrolment of 11,000 students and 700 staff.&nbsp;
+Today, the six affiliated schools: Tao Nan School, Ai Tong School, Chongfu School, Nan Chiau High School, Nan Chiau Primary School and Kong Hwa School have a combined enrolment of 11,000 students and 700 staff.
 
   
 
