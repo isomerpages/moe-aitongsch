@@ -4,6 +4,35 @@ permalink: /stakeholders/Fathers-at-ATS/fathers-at-ats/
 description: ""
 third_nav_title: Fathers at ATS
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-8d8j{text-align:center;vertical-align:bottom}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-8d8j" colspan="3"><img src="/images/FatherATS.jpeg" 
+     style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><a href="link">worddisplay</a></td>
+    <td class="tg-baqh"><a href="link">worddisplay</a></td>
+    <td class="tg-baqh"><a href="link">worddisplay</a></td>
+  </tr>
+</tbody>
+</table>
+
+
 ### Introduction
 
 Our school is pleased to announce that we are partnering a Self-help group to start, The Fathers@ATS movement, in alignment to the Singapore National Fathers Movement.    
