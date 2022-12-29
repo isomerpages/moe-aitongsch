@@ -66,42 +66,38 @@ The various class committee roles are:
   </tr>
   <tr>
     <td class="tg-fwnj">4</td>
-    <td class="tg-fwnj">Class Monitor</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">5</td>
     <td class="tg-fwnj">English Language Monitor</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">6</td>
+    <td class="tg-fwnj">5</td>
     <td class="tg-fwnj">Environment Monitor</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">7</td>
+    <td class="tg-fwnj">6</td>
     <td class="tg-fwnj">Health Education Monitor</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">8</td>
+    <td class="tg-fwnj">7</td>
     <td class="tg-fwnj">Mathematics Monitor</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">9</td>
+    <td class="tg-fwnj">8</td>
     <td class="tg-fwnj">Music Monitor</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">10</td>
+    <td class="tg-fwnj">9</td>
     <td class="tg-fwnj">National Education Monitor</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">11</td>
+    <td class="tg-fwnj">10</td>
     <td class="tg-fwnj">Physical Education Monitor</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">12</td>
+    <td class="tg-fwnj">11</td>
     <td class="tg-fwnj">Science Monitor (P3 to P6 only)</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">13</td>
+    <td class="tg-fwnj">12</td>
     <td class="tg-fwnj">Well-being Monitor</td>
   </tr>
 </tbody>
