@@ -3,7 +3,7 @@ title: School Calendar
 permalink: /for-parents/school-calendar/
 description: ""
 ---
-(embed calendar here)
+<iframe src="https://calendar.google.com/calendar/embed?src=c_091e7573fd44aeb91f5c3c6b2a7a954737406cb5914da17c0827336935105bc7%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 **LSM** \- Learning Support Programme for Mathematics   
 **LSP** \- The Learning Support Programme for English   
