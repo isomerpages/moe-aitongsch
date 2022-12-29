@@ -5,13 +5,19 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
 
-AppMakr is an easy app creation platform that lets anyone make their own iPhone apps, Android apps and HTML5 mobile formatted websites — with no coding required. 
+**MINECRAFT EDUCATION & MAKECODE ARCADE WORKSHOP**
 
-This training comes packed with enriched details for students who have strong interest in app development. It provides the students with all the essential knowledge and practical skills needed in app design.
+The Microsoft Game Development will help students gain an understanding of what game development is, different types of digital games and how to use MS Minecraft Education and MS Makecode Arcade to code and create those games.
 
-The Mobile App Developer Jr course will make use of different app creation programs that involve different levels of complexity to help develop the skills needed for mobile app creation. These include Livecode, MIT App Inventor and AppMakr. 
+For the Minecraft Education segment, students will learn Minecraft design principles and how to code and create an openworld Minecraft game with game characters, NPCs that they can play individually or collaboratively.
 
- For the students who are new to app creation (and coding in general), the course is constructed with a series of practices and an app creation project, so the students can deepen their understanding of the app design principles when they complete the course.
+For the Makecode Arcade segment, students will learn different game mechanics, how to create their own sprites and 2D retro-arcade games such as Space Invaders and Flappy Bird. More importantly, these platforms are free for students to continue using and practicing at home after the workshops. This enables students to continue their game development journey after successful conclusion of the workshop.
+
+**GAME DEVELOPMENT WORKSHOP**
+
+Students will gain an understanding of concepts such as game mechanics, visual and audio elements which will be applied through a project. The project work involves working on a game environment for a concurrent multi-player mode game.
+
+ 
  
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -39,9 +45,9 @@ The Mobile App Developer Jr course will make use of different app creation progr
   </tr>
   <tr>
     <td class="tg-ncov"> Thursday - P3 to P6</td>
-    <td class="tg-ncov"> 2.15pm to 4pm </td>
+    <td class="tg-ncov"> 2pm to 4pm </td>
     <td class="tg-ncov"> *Mrs Linda Teo<br>*Mdm Eileen Yang<br>*Ms Teo Yuan May</td>
-    <td class="tg-vfvg"><span style="color:#444">Computer Lab</span> </td>
+    <td class="tg-vfvg"><span style="color:#444">Computer Lab 1</span> </td>
   </tr>
 </tbody>
 </table>
