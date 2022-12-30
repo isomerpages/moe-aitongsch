@@ -9,4 +9,12 @@ contacts:
       - email: aitong_sch@moe.edu.sg
       - other: "<b>Fax</b>: 6453 2726"
     title: Contacts
+locations:
+  - address:
+      - 100 Bright Hill Drive
+      - "Singapore 579646 "
+      - ""
+    title: Ai Tong School
+    operating_hours: []
+    maps_link: ""
 ---
