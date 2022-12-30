@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/6e79c659a_245.png
-      key_highlights:
-        - title: Contact Us
-          description: Contact Information & Location
-          url: /contact-us-page/
   - resources:
       title: News and Updates
       subtitle: announcements
