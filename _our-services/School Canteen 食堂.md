@@ -15,6 +15,7 @@ description: ""
 .tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
 .tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+	
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 645px">
 <colgroup>
@@ -295,9 +296,6 @@ description: ""
     <td class="tg-q6ha" colspan="2">$2.30</td>
   </tr>
   <tr>
-    <td class="tg-o6sc">Sesame Oil Chicken Rice</td>
-    <td class="tg-q6ha">$2.00</td>
-    <td class="tg-q6ha" colspan="2">$2.30</td>
   </tr>
   <tr>
     <td class="tg-o6sc">Chicken Rice</td>
@@ -353,7 +351,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-o6sc">Chicken Satay</td>
-    <td class="tg-q6ha" colspan="3">$0.80</td>
+    <td class="tg-q6ha" colspan="3">$0.70</td>
   </tr>
   <tr>
     <td class="tg-o6sc">Chicken Meat</td>
