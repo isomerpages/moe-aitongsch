@@ -447,16 +447,6 @@ description: ""
     <td class="tg-sxkx">$2.30</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">Minced Pork Noodles</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Wanton Noodles</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
     <td class="tg-fwnj">Macaroni Soup Noodles</td>
     <td class="tg-sxkx">$1.80</td>
     <td class="tg-sxkx">$2.30</td>
@@ -485,6 +475,11 @@ description: ""
     <td class="tg-fwnj">Fried Bee Hoon</td>
     <td class="tg-sxkx">$1.20</td>
     <td class="tg-sxkx">$1.50</td>
+  </tr>
+	<tr>
+    <td class="tg-fwnj">Bak Kut Teh Noodles</td>
+    <td class="tg-sxkx">$2.00</td>
+    <td class="tg-sxkx">$2.30</td>
   </tr>
   <tr>
     <td class="tg-fwnj"> </td>
