@@ -3,7 +3,7 @@ title: Primary 1 Form Teachers
 permalink: /our-people/p1-form-teachers/
 description: ""
 ---
-         <table style="width:553.5pt;mso-cellspacing:.7pt;background:#AFAFAF;mso-yfti-tbllook:
+<table style="width:553.5pt;mso-cellspacing:.7pt;background:#AFAFAF;mso-yfti-tbllook:
  1184;mso-padding-alt:0in 0in 0in 0in" width="738" cellpadding="0" cellspacing="1" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.0pt"><td style="width:124.85pt;background:#024DAA;padding:0in 0in 0in 0in;
   height:23.0pt" width="166"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
