@@ -3,7 +3,7 @@ title: Primary 2 Form Teachers
 permalink: /our-people/primary-2-form-teachers/
 description: ""
 ---
-         <table style="width:553.5pt;mso-cellspacing:.7pt;background:#AFAFAF;border:solid black 1.0pt;
+<table style="width:553.5pt;mso-cellspacing:.7pt;background:#AFAFAF;border:solid black 1.0pt;
  mso-border-alt:solid black .25pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in;
  mso-border-insideh:.25pt solid black;mso-border-insidev:.25pt solid black" width="738" cellpadding="0" cellspacing="1" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.5in"><td style="width:124.95pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#024DAA;padding:0in 0in 0in 0in;height:.5in" width="167"><p style="margin-bottom:0in;text-align:center;
