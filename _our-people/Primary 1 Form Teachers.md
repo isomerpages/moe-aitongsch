@@ -3,80 +3,158 @@ title: Primary 1 Form Teachers
 permalink: /our-people/p1-form-teachers/
 description: ""
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ct41{background-color:#FFF;color:#CB181A;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-u9cf{background-color:#CCC;color:#CB181A;text-align:center;vertical-align:middle}
-.tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ykyb{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-idov{background-color:#024DAA;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-drkk{background-color:#D1D0D0;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-sf86{background-color:#D1D0D0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-vox4{background-color:#CCC;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ackq{background-color:#CCC;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-6str{background-color:#FFF;color:#353535;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-cuqa{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-idov"><span style="color:white">Class</span><br></td>
-    <td class="tg-idov"><span style="color:white">Form Teacher</span></td>
-    <td class="tg-idov"><span style="color:white">Form Teacher</span></td>
-  </tr>
-  <tr>
-    <td class="tg-drkk"><span style="color:#444">1 Care</span></td>
-    <td class="tg-sf86">Mrs Teo Joseph (Tan Pei Tze)<br><a href="mailto:tan_pei_tze@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">tan_pei_tze@schools.gov.sg</span></a></td>
-    <td class="tg-sf86">Ms Jessica Puay<br><a href="mailto:puay_an_kee_jessica@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;color:#CB181A">puay_an_kee_jessica@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d8lx"><span style="color:#444">1 Creativity</span></td>
-    <td class="tg-ykyb"><span style="color:black">Mdm Roziana</span><br><a href="mailto:roziana_rosli@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">roziana_rosli@schools.gov.sg</span></a></td>
-    <td class="tg-ct41"><span style="color:#222">Mdm Chin Siaw Thon</span><br><a href="mailto:chin_siaw_thon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">chin_siaw_thon@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-vox4"><span style="color:#444">1 Diligence</span></td>
-    <td class="tg-ackq">Ms Jowie Koh<br><a href="mailto:koh_hui_ling_jowie@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;color:#CB181A;background-color:#CCC">koh_hui_ling_jowie@schools.gov.sg</span></a></td>
-    <td class="tg-ackq">Mrs Grace Chua<br><a href="mailto:grace_leong_siew_inn@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;color:#CB181A;background-color:#CCC">grace_leong_siew_inn@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-d8lx"><span style="color:#444">1 Harmony</span></td>
-    <td class="tg-ykyb">Mdm Loo Yumei<br><a href="mailto:Loo_Yumei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">Loo_Yumei@schools.gov.sg</span></a></td>
-    <td class="tg-ykyb">Mdm Xia Xiaoling<br><a href="mailto:xia_xiaoling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">xia_xiaoling@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-vox4"><span style="color:#444">1 Independence</span></td>
-    <td class="tg-ackq">Mdm Kalsa<br><a href="mailto:kalsa_kolankodu_ross_nair@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;color:#CB181A;background-color:#CCC">kalsa_kolankodu_ross_nair@schools.gov.sg</span></a></td>
-    <td class="tg-ackq">Mdm Fan Xiaoxia<br><a href="mailto:fan_xiaoxia@schools.gov.sg"><span style="font-weight:normal;text-decoration:none;color:#CB181A">fan_xiaoxia@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d8lx"><span style="color:#444">1 Patience</span></td>
-    <td class="tg-ykyb">Mdm Josephine Ng<br><a href="mailto:ng_suu-piing_josephine@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">ng_suu-piing_josephine@schools.gov.sg</span></a></td>
-    <td class="tg-6str"><span style="color:#353535">Mdm Zha Fangyu</span><br><a href="mailto:zha_fangyu@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;color:#CB181A;background-color:#FFF">zha_fangyu@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-vox4"><span style="color:#444">1 Perseverance</span></td>
-    <td class="tg-ackq">Mrs Linda Loh<br><a href="mailto:tan_huey_lin_linda@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;color:#CB181A;background-color:#CCC">tan_huey_lin_linda@schools.gov.sg</span></a></td>
-    <td class="tg-u9cf"><span style="font-weight:bold;color:#222">Mdm Tan Wee Bee</span><br><a href="mailto:tan_wee_bee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;color:#CB181A">tan_wee_bee@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d8lx"><span style="color:#444">1 Respect</span></td>
-    <td class="tg-6str">Mrs Ghopinath<br><a href="mailto:tamilselvi_ghopinath@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#CB181A">tamilselvi_ghopinath@schools.gov.sg</span></a></td>
-    <td class="tg-ykyb"><span style="color:black">Mdm Yeo Yee Teng</span><br><a href="mailto:yeo_yee_teng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;color:#CB181A">yeo_yee_teng@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-drkk"><span style="color:#444">1 Responsibility</span></td>
-    <td class="tg-sf86">Ms Tew Chiou Wan<br><a href="mailto:tew_chiou_wan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A;background-color:#CCC">tew_chiou_wan@schools.gov.sg</span></a><br></td>
-    <td class="tg-sf86">Mdm Rachel Ong<br><a href="mailto:lloyd_nicholas_morand@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#CB181A">ong_ci_yi_rachel@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d8lx"><span style="color:#444">1 Sincerity</span></td>
-    <td class="tg-6str">Mdm Zeng Jing<br><a href="mailto:zeng_jing@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#CB181A">zeng_jing@schools.gov.sg</span></a></td>
-    <td class="tg-cuqa"><span style="color:#454545">Mr Tan Ser Yang</span><br><a href="mailto:tan_ser_yang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#CB181A;background-color:initial">tan_ser_yang@schools.gov.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+         <table style="width:666.75pt;mso-cellspacing:.7pt;background:#AFAFAF;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 0in 0in 0in" width="889" cellpadding="0" cellspacing="1" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:21.8pt"><td style="width:119.25pt;background:#024DAA;padding:0in 0in 0in 0in;
+  height:21.8pt" width="159"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:white">Class</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:260.25pt;background:#024DAA;padding:0in 0in 0in 0in;
+  height:21.8pt" width="347"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:white">Form Teacher</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:285.0pt;background:#024DAA;padding:0in 0in 0in 0in;
+  height:21.8pt" width="380"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:white">Form Teacher</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:1;height:17.65pt"><td style="width:83.4pt;background:#D1D0D0;padding:0in 0in 0in 0in;
+  height:17.65pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1 Care</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:#D1D0D0;padding:0in 0in 0in 0in;
+  height:17.65pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Jeslyn Yeo<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:yeo_siew_hoon@schools.gov.sg">yeo_siew_hoon@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:#D1D0D0;padding:0in 0in 0in 0in;
+  height:17.65pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Wu Meihu<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:wu_meihui_a@schools.gov.sg">wu_meihui_a@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:2;height:3.65pt"><td style="width:83.4pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1 Creativity</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Mrs Regine Ang<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:ang_wee_keng@schools.gov.sg">ang_wee_keng@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Mdm Felice Tang<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:tang_chai_chin@schools.gov.sg">tang_chai_chin@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:3;height:19.0pt"><td style="width:83.4pt;background:#CCCCCC;padding:0in 0in 0in 0in;
+  height:19.0pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1 Diligence</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:#CCCCCC;padding:0in 0in 0in 0in;
+  height:19.0pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mrs Caroline Lee<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:caroline_lee@schools.gov.sg">caroline_lee@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:#CCCCCC;padding:0in 0in 0in 0in;
+  height:19.0pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Lei Min<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:lei_min@schools.gov.sg">lei_min@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:4;height:3.65pt"><td style="width:83.4pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1 Harmony</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">&nbsp;Ms Bela Somaiah<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:bela_somaiah@schools.gov.sg">bela_somaiah@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Tan Kang Li<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:tan_kang_li@schools.gov.sg">tan_kang_li@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:5;height:3.65pt"><td style="width:83.4pt;background:#CCCCCC;padding:0in 0in 0in 0in;
+  height:3.65pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1 Independence</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:#CCCCCC;padding:0in 0in 0in 0in;
+  height:3.65pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mrs Happi Bay-Lim<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:lim_li_meng@schools.gov.sg">lim_li_meng@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:#CCCCCC;padding:0in 0in 0in 0in;
+  height:3.65pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Ms Kassandra Wong<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:wong_yen_li_kassandra@schools.gov.sg">wong_yen_li_kassandra@schools.gov.sg</a></span></u><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"><br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:6;height:3.65pt"><td style="width:83.4pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1&nbsp;Patience</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Josephine Ching<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:ching_cheau_yng@schools.gov.sg">ching_cheau_yng@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#353535">Ms Li Baihe<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:li_baihe@schools.gov.sg">li_baihe@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:7;height:3.65pt"><td style="width:83.4pt;background:#CCCCCC;padding:0in 0in 0in 0in;
+  height:3.65pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1 Perseverance</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:#CCCCCC;padding:0in 0in 0in 0in;
+  height:3.65pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Chua Siew Jin, Erika<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:chua_siew_jin@schools.gov.sg">chua_siew_jin@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:#CCCCCC;padding:0in 0in 0in 0in;
+  height:3.65pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Klera Kwa<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:kwa_wei_hong@schools.gov.sg">kwa_wei_hong@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:8;height:3.65pt"><td style="width:83.4pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1 Respect</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Ho Mei Boh<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:ho_mei_boh@schools.gov.sg">ho_mei_boh@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ms Lim Li Joon<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:lim_li_joon@schools.gov.sg">lim_li_joon@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:9;height:3.65pt"><td style="width:83.4pt;background:#D1D0D0;padding:0in 0in 0in 0in;
+  height:3.65pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1&nbsp;Responsibility</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:#D1D0D0;padding:0in 0in 0in 0in;
+  height:3.65pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Lim Chiang Mui<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:mei_lim_chiang_mui@schools.gov.sg">mei_lim_chiang_mui@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:#D1D0D0;padding:0in 0in 0in 0in;
+  height:3.65pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Rachel Ong<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:ong_ci_yi_rachel@schools.gov.sg">ong_ci_yi_rachel@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:3.65pt"><td style="width:83.4pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="111"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1 Sincerity</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:182.15pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="243"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mrs Linda Teo<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:loh_beng_hua@schools.gov.sg">loh_beng_hua@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:199.65pt;background:white;padding:0in 0in 0in 0in;
+  height:3.65pt" width="266"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Mdm Cheok Li Yee<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:cheok_li_yee@schools.gov.sg">cheok_li_yee@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr></tbody></table>
