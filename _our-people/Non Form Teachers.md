@@ -3,7 +3,7 @@ title: Non Form Teachers
 permalink: /our-people/non-form-teachers/
 description: ""
 ---
-         <table style="width:171.45pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+<table style="width:171.45pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 0in 0in 0in" width="229" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:69.15pt"><td style="width:85.7pt;padding:0in 5.4pt 0in 5.4pt;height:69.15pt" width="114"><p style="margin-bottom:0in;text-align:center;
   line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Mdm Cindy Goh<br></span></b><span style="font-size:10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
