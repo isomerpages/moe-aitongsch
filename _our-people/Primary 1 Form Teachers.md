@@ -3,7 +3,7 @@ title: Primary 1 Form Teachers
 permalink: /our-people/p1-form-teachers/
 description: ""
 ---
-<table style="width:553.5pt;mso-cellspacing:.7pt;background:#AFAFAF;border:solid black 1.0pt;
+         <table style="width:553.5pt;mso-cellspacing:.7pt;background:#AFAFAF;border:solid black 1.0pt;
  mso-border-alt:solid black .25pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in;
  mso-border-insideh:.25pt solid black;mso-border-insidev:.25pt solid black" width="738" cellpadding="0" cellspacing="1" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.5in"><td style="width:124.85pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#024DAA;padding:0in 0in 0in 0in;height:.5in" width="166"><p style="margin-bottom:0in;text-align:center;
@@ -29,7 +29,7 @@ description: ""
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:215.1pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#D1D0D0;padding:0in 0in 0in 0in;height:.5in" width="287"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Wu Meihu<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Wu Meihui<br></span></b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#CB181A"><a href="mailto:wu_meihui_a@schools.gov.sg">wu_meihui_a@schools.gov.sg</a></span></u><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:2;height:.5in"><td style="width:124.85pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:white;padding:0in 0in 0in 0in;height:.5in" width="166"><p style="margin-bottom:0in;text-align:center;
