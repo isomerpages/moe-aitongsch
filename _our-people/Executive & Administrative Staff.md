@@ -30,7 +30,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
-    <td class="tg-15z8">Mdm Ngeow Chai Lian<br><a href="mailto:ngeow_chai_lian@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">ngeow_chai_lian@schools.gov.sg</span></a></td>
+    <td class="tg-15z8">Mdm Cindy Chan<br><a href="mailto:ngeow_chai_lian@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">chan_chie_har@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
@@ -81,10 +81,7 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
     <td class="tg-huu4">Mdm Oh Mee Suan</td>
   </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
-    <td class="tg-huu4">Mr Ng Kim Gay</td>
-  </tr>
+  
 </tbody>
 </table>
 
@@ -112,7 +109,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-jxqz"><span style="color:white">Science Lab Assistant</span></td>
-    <td class="tg-sdzj">Mr Joash Poh</td>
+    <td class="tg-sdzj">Mdm Susan</td>
   </tr>
   <tr>
     <td class="tg-jxqz"><span style="color:white">Library Assistant</span></td>
@@ -120,5 +117,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
