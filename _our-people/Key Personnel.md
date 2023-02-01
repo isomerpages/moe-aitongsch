@@ -131,10 +131,7 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">Assistant</span> <span style="color:white">Year Head</span></td>
     <td class="tg-nc7t">Mdm Jessie Lee<br><a href="mailto:lee_swee_kee_jessie@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lee_swee_kee_jessie@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">HOD Innovation</span><br><span style="color:white">&amp;</span><br><span style="color:white">Project Work</span></td>
-    <td class="tg-nc7t">Mrs Tan Qili<br><a href="mailto:cheng_qili@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">cheng_qili@schools.gov.sg</span></a></td>
-  </tr>
+ 
   <tr>
     <td class="tg-jxqz"><span style="color:white">ST Lower Primary</span></td>
     <td class="tg-nc7t">Mrs Teo Joseph (Tan Pei Zhe)<br><a href="mailto:tan_pei_tze@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">tan_pei_tze@schools.gov.sg</span></a></td>
@@ -158,6 +155,14 @@ description: ""
   <tr>
     <td class="tg-jxqz"><span style="color:white">HOD EL</span></td>
     <td class="tg-nc7t">Mdm Tan Ellene<br><a href="mailto:tan_ellene@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_ellene@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">LH EL</span></td>
+    <td class="tg-nc7t">Mr Peck Yong Xiang<br><a href="mailto:peck_yong_xiang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">peck_yong_xiang@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">LH EL Internal</span></td>
+    <td class="tg-nc7t">Mrs Yap Pei Ni<br><a href="mailto:lim_pei_n@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_pei_ni@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-jxqz"><span style="color:white">LT EL</span></td>
@@ -226,8 +231,8 @@ description: ""
     <td class="tg-nc7t">Mr Wu Luping<br><a href="mailto:wu_luping@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">wu_luping@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-jxqz"><span style="color:white">ST CL</span></td>
-    <td class="tg-nc7t">Ms Lim Li Joon<br><a href="mailto:lim_li_joon@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_li_joon@schools.gov.sg</span></a></td>
+    <td class="tg-jxqz"><span style="color:white">LH CL</span></td>
+    <td class="tg-nc7t">Ms Foong Yuk Yew<br><a href="mailto:foong_yuk_yew@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">foong_yuk_yew@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-jxqz"><span style="color:white">ST CL</span></td>
@@ -258,6 +263,10 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">LH SC</span></td>
     <td class="tg-nc7t">Mr Goh Chee Wee<br><a href="mailto:goh_chee_wee@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">goh_chee_wee@schools.gov.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">LH SC</span></td>
+    <td class="tg-nc7t">Mdm Shirlyn Sim<br><a href="mailto:shirlyn_sim@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">shirlyn_sim@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-jxqz"><span style="color:white">ST SC</span></td>
     <td class="tg-nc7t">Mrs Christina Sim<br><a href="mailto:peh_sway_gek_christina@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">peh_sway_gek_christina@schools.gov.sg</span></a></td>
@@ -283,10 +292,7 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">HOD PE/CCA</span></td>
     <td class="tg-nc7t">Mr Lloyd Nicholas<br><a href="mailto:lloyd_nicholas_morand@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lloyd_nicholas_morand@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">SH PE/CCA</span></td>
-    <td class="tg-nc7t">Mr Tan Ser Yang<br><a href="mailto:tan_ser_yang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_ser_yang@schools.gov.sg</span></a></td>
-  </tr>
+  
   <tr>
     <td class="tg-jxqz"><span style="color:white">LT PE</span></td>
     <td class="tg-nc7t">Mr Matthew Yap<br><a href="mailto:yap_kheng_wai_matthew@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">yap_kheng_wai_matthew@schools.gov.sg</span></a></td>
@@ -315,11 +321,7 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">HOD SM</span></td>
     <td class="tg-nc7t">Mr Daniel Lim<br><a href="mailto:lim_wan_seng_daniel@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_wan_seng_daniel@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">SH Student Well-Being</span></td>
-    <td class="tg-nc7t">Ms Ong Wei Peng<br><a href="mailto:ong_wei_peng@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">ong_wei_peng@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-jxqz"><span style="color:white">ST Special Needs</span></td>
     <td class="tg-nc7t">Mrs Sharon Tan<br><a href="mailto:tan_quee_leng@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_quee_leng@schools.gov.sg</span></a></td>
   </tr>
@@ -335,11 +337,7 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
     <td class="tg-nc7t">Ms Tedra Cher Wei Ting<br><a href="mailto:tedra_cher_wei_ting@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tedra_cher_wei_ting@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
-    <td class="tg-nc7t">Ms Tan Yi Lin<br><a href="mailto:Tan_yi_lin_a@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">Tan_yi_lin_a@schools.gov.sg</span></a></td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 
 
@@ -430,4 +428,25 @@ description: ""
     <td class="tg-nc7t">Ms Aileen Toh<br><a href="mailto:aileen_toh_chai_hoong@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">aileen_toh_chai_hoong@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
+</table>
+
+### Innovation & Project Work
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+
+ <tr>
+    <td class="tg-jxqz"><span style="color:white">HOD Innovation</span><br><span style="color:white">&amp;</span><br><span style="color:white">Project Work</span></td>
+    <td class="tg-nc7t">Mrs Tan Qili<br><a href="mailto:cheng_qili@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">cheng_qili@schools.gov.sg</span></a></td>
+  </tr>
+	</tbody>
 </table>
