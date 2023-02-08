@@ -13,7 +13,6 @@ description: ""
 
 *   [Application of Bursary for SHHK Affiliated Schools](/files/2023年福建会馆属校学生助学金申请表格(2月2023年)-Batch%202.pdf) *updated as of 8 Feb 2023*
 
-  
 
 ### NEU PC Plus Programme
 
