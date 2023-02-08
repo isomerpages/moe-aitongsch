@@ -11,7 +11,7 @@ description: ""
 
 ### Bursary 2022 for Students of SHHK Affiliated Schools
 
-*   [Application of Bursary for SHHK Affiliated Schools](/files/202392022-Batch%201.pdf) _\*updated as of 10 October 2022_
+*   [Application of Bursary for SHHK Affiliated Schools](/files/2023年福建会馆属校学生助学金申请表格(2月2023年)-Batch%202.pdf) *updated as of 8 Feb 2023*
 
   
 
