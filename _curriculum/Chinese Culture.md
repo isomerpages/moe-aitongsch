@@ -13,7 +13,7 @@ description: ""
 
 以下是部门的活动
 
-![](/images/SAP%20blueprint%202020%20(1).jpeg)
+![](/images/SAP%20Blueprint%202023.jpeg)
 
 <img src="/images/P5%20Immersion%20Programme%20(1).jpeg" 
      style="width:65%">
