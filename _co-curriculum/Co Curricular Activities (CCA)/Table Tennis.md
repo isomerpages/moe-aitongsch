@@ -4,7 +4,6 @@ permalink: /co-curriculum/Co-Curricular-Activities/table-tennis/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 Our Table Tennis CCA aims to cultivate a passion for the sport among its recreational members and to instil discipline, resilience and sportsmanship particularly among its competitive members. 
 
 Through the weekly rigorous trainings and participation in the Zonal and Nationals competitions, we hope to raise a team of committed, physically fit and mentally strong players.
@@ -18,28 +17,7 @@ Through the weekly rigorous trainings and participation in the Zonal and Nationa
 .tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-vfvg{background-color:#FFF;color:#444;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 785px">
-<colgroup>
-<col style="width: 328px">
-<col style="width: 136px">
-<col style="width: 214px">
-<col style="width: 107px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-d8lx"><span style="background-color:initial">Day</span></td>
-    <td class="tg-d8lx">Time</td>
-    <td class="tg-d8lx">Teachers-in-Charge</td>
-    <td class="tg-d8lx">Venue</td>
-  </tr>
-  <tr>
-    <td class="tg-vfvg">Monday - P3 (R)<br>Tuesday - P3 <span style="background-color:initial">(C) </span><span style="color:#444;background-color:initial">to P6 (C) + P6 (R)</span><br><span style="color:#444;background-color:initial">Thursday - P3 </span><span style="background-color:initial">(C) </span><span style="color:#444;background-color:initial">to P6 (C) + P4 (R) &amp; P5 (R)</span></td>
-    <td class="tg-vfvg"> 2.15pm to 4pm</td>
-    <td class="tg-vfvg">*Mrs <span style="background-color:initial">Margaret Han (B)</span><br> *Mdm Yap Joo Koon (G)<br>*Ms Sharon Tan (R)<br><span style="color:#444;background-color:initial">Mr Kelvin Tan</span></td>
-    <td class="tg-vfvg">Hall</td>
-  </tr>
-</tbody>
-</table>
+<table width="682" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 515.422px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="32" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="32" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 151px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></font></td><td class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teachers-in-charge</b></font></td><td class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" height="80" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Monday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P4 [R]<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Tuesday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 [C] to P6 [C] + P6 [R]<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Thursday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 [C] to P6 [C] + P5 [R]<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Friday -&nbsp;P3 [R]</font></td><td rowspan="4" class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">2.15pm to 4pm</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mrs Margaret Han</font></td><td rowspan="4" class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Hall</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Yap Joo Koon</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Ms Sharon Tan</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mdm Kandy Heng</font></td></tr></tbody></table>
 
 (R) denotes Recreation Team  
 (C) denotes Competitive Team  
