@@ -6,69 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 Badminton is a fast paced sport which requires the player to be alert and agile. Besides teaching our students the skills and strategies required to play the game well, Ai Tong Badminton also hopes to instill&nbsp;character building in our students through the sport. Students learn patience through turn-taking; perseverance and teamwork through friendly matches and in inter-school competitions.
 
+<table width="682" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="21" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="21" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">ay</b></font></td><td class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teachers-in-charge</b></font></td><td class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" height="80" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Monday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 [R] to P4 [R]<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Tuesday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 [C] &amp; P4 [C] +<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P5 [R + C] &amp; P6 [R + C]<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Thursday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 [C] &amp; P4 [C] +<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P5 [R + C] &amp; P6 [R + C]<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Friday -&nbsp;P3 [R] to P6 [R]</font></td><td rowspan="4" class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">2.15pm to 4pm</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Kassandra Wong</font></td><td rowspan="4" class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">ISH</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Kun Swee Bin</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Ms Jessica Puay</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Ms Revathi</font></td></tr></tbody></table>
 
 
-
-<table style="background:white;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 0in 0in 0in" width="540" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.6pt"><td style="width:89.85pt;border:solid #D6D6D6 1.0pt;mso-border-alt:
-  solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:12.6pt" width="120"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Day</span></b></p></td><td style="width:.75in;border:solid #D6D6D6 1.0pt;border-left:none;
-  mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:12.6pt" width="72"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Time</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:211.5pt;border:solid #D6D6D6 1.0pt;border-left:
-  none;mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:12.6pt" width="282"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Teachers-in-charge</span></b></p></td><td style="width:49.5pt;border:solid #D6D6D6 1.0pt;border-left:none;
-  mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:12.6pt" width="66"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Venue</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:103.2pt"><td style="width:89.85pt;border:solid #D6D6D6 1.0pt;border-top:
-  none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:103.2pt" width="120"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Monday</span></u></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#444444"><br>P4 (R) to P6 (R)<br><b><u>Tuesday</u></b><br>P3 (C) to P6 (C)<br><b><u>Thursday</u></b><br>P3 (C) to P6 (C)<br><b><u>Friday</u></b><br>P3 (R) to P6 (R)</span></p></td><td style="width:.75in;border-top:none;border-left:none;border-bottom:
-  solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;mso-border-top-alt:solid #D6D6D6 .25pt;
-  mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:103.2pt" width="72"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">2.15pm to</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">4pm</span></p></td><td style="width:211.5pt;border-top:none;border-left:none;
-  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
-  mso-border-alt:solid #D6D6D6 .25pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
-  height:103.2pt" width="282"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Monday</span></u></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#444444"><br>Mdm Kassandra Wong &amp; Mdm Revathi</span><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#484848"><br></span><b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Tuesday</span></u></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#444444"><br>Mdm Kassandra &amp; Mdm Kun Swee Bin</span><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#484848"><br></span><b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Thursday</span></u></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#444444"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Mdm Kassandra Wong &amp; Ms Jessica Puay<br></span><b><u><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Friday</span></u></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#444444"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Mdm Kun Swee Bin and Ms Jessica Puay</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;mso-border-top-alt:solid #D6D6D6 .25pt;
-  mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:103.2pt" width="66"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">ISH</span></p></td></tr></tbody></table>
 
 (R) denotes Recreation Team  
 (C) denotes Competitive Team  
