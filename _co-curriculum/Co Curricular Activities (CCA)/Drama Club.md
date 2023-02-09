@@ -4,7 +4,6 @@ permalink: /co-curriculum/Co-Curricular-Activities/drama-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 The EL Drama Club is an excellent choice of CCA for students who aspire to express themselves artistically through drama. Our aim is to nurture members to be passionate and committed cultural enthusiasts. They will be trained in drama techniques like forming tableaux, improvisation, choral reading, theater sports, exploring the use of body movements and voice projection.
 
 Members will be given opportunities to put up performances for their fellow schoolmates during assembly.
@@ -19,27 +18,6 @@ Members will be given opportunities to put up performances for their fellow scho
 .tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-vfvg{background-color:#FFF;color:#444;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 758px">
-<colgroup>
-<col style="width: 236px">
-<col style="width: 129px">
-<col style="width: 266px">
-<col style="width: 127px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-d8lx">Day </td>
-    <td class="tg-d8lx">Time </td>
-    <td class="tg-d8lx">Teacher-In-Charge</td>
-    <td class="tg-d8lx">Venue</td>
-  </tr>
-  <tr>
-    <td class="tg-vfvg"><br> Tuesday &amp; Thursday - P3 to P6<br><br></td>
-    <td class="tg-vfvg"> 2.15pm to 4pm</td>
-    <td class="tg-vfvg"> *Mdm Wu Mei Hui<br><span style="color:#444;background-color:initial">*Mdm Fan Xiaoxia</span><br><span style="background-color:initial">Mrs Chun-Hong Lin</span></td>
-    <td class="tg-ncov">Music Room<br>A41 &amp; F41</td>
-  </tr>
-</tbody>
-</table>
+<table width="682" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="21" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="21" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></font></td><td class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teachers-in-charge</b></font></td><td class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" height="60" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Tuesday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 to P6<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Thursday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 to P6</font></td><td rowspan="3" class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">2.15pm to 4pm</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Wu Mei Hui</font></td><td rowspan="3" class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Music Room<br class="" style="margin: 0px; outline: 0px; padding: 0px;">A41 &amp; F41</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Fan Xiaoxia</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Ms Aileen Lui</font></td></tr></tbody></table>
 
 \*Teacher-in-Charge
