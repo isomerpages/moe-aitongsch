@@ -4,7 +4,6 @@ permalink: /co-curriculum/Co-Curricular-Activities/volleyball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 Power, flexibility, speed, endurance and teamwork - this is volleyball! The players spike and smash in attack, block and intercept in defence, operating as a powerful team against their opponents.  
 
 A competitive CCA, introduced in the 1980s, volleyball has entrenched itself at Ai Tong, attracting students who aspire to play for the school.
@@ -19,28 +18,7 @@ A competitive CCA, introduced in the 1980s, volleyball has entrenched itself at 
 .tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-vfvg{background-color:#FFF;color:#444;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 695px">
-<colgroup>
-<col style="width: 194px">
-<col style="width: 149px">
-<col style="width: 201px">
-<col style="width: 151px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-d8lx">Day </td>
-    <td class="tg-d8lx">  Time</td>
-    <td class="tg-d8lx">Teacher-In-Charge   </td>
-    <td class="tg-d8lx">   Venue</td>
-  </tr>
-  <tr>
-    <td class="tg-vfvg"> Monday - P3 &amp; P4 (C)<br>Tuesday - P3 &amp; P6 (C)<br><span style="background-color:initial">Thursday - P3 to P6 (C)</span></td>
-    <td class="tg-vfvg">2.15pm to 4pm </td>
-    <td class="tg-vfvg"> *Mr Matthew Yap (G) <br>*Mr Na Kok Yong (B) <br>Mrs Caroline Ong<br>Mdm Kandy Heng</td>
-    <td class="tg-vfvg"> Basketball Court <br></td>
-  </tr>
-</tbody>
-</table>
+<table width="682" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="21" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="21" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Day</font></td><td class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Time</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Teachers-in-charge</font></td><td class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Venue</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" height="80" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Monday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 [C] &amp; P4 [C]<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Tuesday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 [C] to P6 [C]<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Thursday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 [C] to P6 [C]</font></td><td rowspan="4" class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">2.15pm to 4pm</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mr Matthew Yap</font></td><td rowspan="4" class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Basketball Court</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Ms Chen Huifen</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mr Joseph Ang</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mrs Caroline Lee</font></td></tr></tbody></table>
 
 (C) denotes Competitive Team  
 (B) denotes Boys Team  
