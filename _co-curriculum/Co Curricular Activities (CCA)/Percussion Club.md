@@ -4,7 +4,6 @@ permalink: /co-curriculum/Co-Curricular-Activities/percussion-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 In the Percussion Club CCA, students will be learning about 24 Festive Drums. It is a traditional performance art incorporating a series of Chinese art - Chinese drum, calligraphy, traditional dance & martial art. The students will learn about the drumming technique for the Chinese drum and music theory to develop their sense of rhythm. Platforms will be provided for students to showcase what they have learnt i.e performances
 
   
@@ -22,21 +21,6 @@ In line with our school’s vision of nurturing students of good character roote
 .tg .tg-qacr{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-l7na{background-color:#FFF;color:#444;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-qacr">Day </td>
-    <td class="tg-qacr"> Time</td>
-    <td class="tg-qacr">Teacher-In-Charge</td>
-    <td class="tg-qacr">Venue</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx"><span style="color:#444;background-color:initial">Tuesday &amp; Thursday - P3 to P6</span><br></td>
-    <td class="tg-96bg">2.15pm to 4pm </td>
-    <td class="tg-sxkx">*Mdm Chang Ying *Ms Li Baihe</td>
-    <td class="tg-l7na">Percussion Room</td>
-  </tr>
-</tbody>
-</table>
+<table width="682" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="32" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="32" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Day</font></b></td><td class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Time</font></b></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Teachers-in-charge</font></b></td><td class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Venue</font></b></td></tr><tr height="60" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" height="180" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Tuesday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 to P6<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Thursday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 to P6</font></td><td rowspan="3" class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">2.15pm to 4pm</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Mdm Li Baihe</font></td><td rowspan="3" class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Percussion Room</font></td></tr><tr height="60" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="60" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Mdm Janice Toh</font></td></tr><tr height="60" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="60" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Mdm Chin Siaw Thon</font></td></tr></tbody></table>
 
 \*Teacher-in-Charge
