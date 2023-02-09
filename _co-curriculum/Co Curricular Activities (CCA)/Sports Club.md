@@ -4,7 +4,6 @@ permalink: /co-curriculum/Co-Curricular-Activities/sports-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 Sports Club as a CCA helps to develop character and resilience. In Sports Club, we offer your child an exposure to a variety of sports such as floorball and netball. Through these sports, we aim to help students cultivate a physically active and healthy lifestyle. At the same time, to develop your child’s character and resilience.  We hope that your child will enjoy the sports offered and participate actively to gain the most out of Sports Club.
 
 <style type="text/css">
@@ -16,27 +15,6 @@ Sports Club as a CCA helps to develop character and resilience. In Sports Club, 
 .tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-vfvg{background-color:#FFF;color:#444;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 689px">
-<colgroup>
-<col style="width: 208px">
-<col style="width: 153px">
-<col style="width: 186px">
-<col style="width: 142px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-d8lx">Day </td>
-    <td class="tg-d8lx"> Time</td>
-    <td class="tg-d8lx">Teacher-In-Charge</td>
-    <td class="tg-d8lx">Venue</td>
-  </tr>
-  <tr>
-    <td class="tg-vfvg"><span style="background-color:initial">Tuesday - P3 &amp; P6</span><br><br><span style="color:#444;background-color:initial">Thursday -  P4 &amp; P5 </span></td>
-    <td class="tg-vfvg">2.15pm to 4pm</td>
-    <td class="tg-vfvg">*Mr Hazli <br>*Mdm Rachel Ong</td>
-    <td class="tg-vfvg">Parade Square</td>
-  </tr>
-</tbody>
-</table>
+<table width="682" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="32" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="32" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></font></td><td class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teachers-in-charge</b></font></td><td class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="40" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Tuesday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P6<span>&nbsp;</span><font class="" style="margin: 0px; outline: 0px; padding: 0px;">(Term 1 only)<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Thursday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 to P5</font></font></td><td rowspan="2" class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">2.15pm to 4pm</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mr Hazli</font></td><td rowspan="2" class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Parade Square / Field</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Rachel Ong</font></td></tr></tbody></table>
 
 \* Teacher-in-Charge
