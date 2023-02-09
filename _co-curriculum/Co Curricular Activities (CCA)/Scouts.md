@@ -4,7 +4,6 @@ permalink: /co-curriculum/Co-Curricular-Activities/scouts/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 Scouting has a purpose which is to help young people to develop their full physical, intellectual, emotional, social and spiritual capacities as individuals and as members of society, and thus contribute to the development of a better world.  
 
 Cub Scouts activities include skills training such as knot-tying and basic first-aid. In addition, we have pack games, inter-Six games, sense-training games, relays and other games to promote social bonding amongst our boys. Stories, in particular Kipling’s Jungle Book and other similar stories that involve adventure, romance, humour, history, religious stories etc., are used and help each Cub Scout to more easily understand the meaning of their Promise and Law through analogy, stories and plays
@@ -23,27 +22,6 @@ Ai Tong School Cub Scouts Pack was established in January 2003. Our pack has al
 .tg .tg-cuqa{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-vfvg{background-color:#FFF;color:#444;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 685px">
-<colgroup>
-<col style="width: 186px">
-<col style="width: 151px">
-<col style="width: 199px">
-<col style="width: 149px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-d8lx">Day &amp; Time</td>
-    <td class="tg-cuqa"> Time</td>
-    <td class="tg-d8lx">Teacher-In-Charge</td>
-    <td class="tg-d8lx">Venue</td>
-  </tr>
-  <tr>
-    <td class="tg-vfvg">Tuesday - P3 to P6 </td>
-    <td class="tg-ncov"> 2.15pm to 4pm <span style="color:#444;background-color:transparent"> </span> </td>
-    <td class="tg-ncov"> *Mr Andric Sim <br>*Ms Cham Kah Mien<br>Mr Joseph Ang</td>
-    <td class="tg-ncov">Classroom<br>(F34 &amp; F35)</td>
-  </tr>
-</tbody>
-</table>
+<table width="682" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="21" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="21" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></font></td><td class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teachers-in-charge</b></font></td><td class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" height="60" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Tuesday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 to P6</font></td><td rowspan="3" class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">2.15pm to 4pm</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mr Andric Sim</font></td><td rowspan="3" class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Classroom<br class="" style="margin: 0px; outline: 0px; padding: 0px;">(F34 &amp; F35)</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mr Joseph Ang</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Cham Kah Mien</font></td></tr></tbody></table>
 
 \*Teacher-in-Charge
