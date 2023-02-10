@@ -9,7 +9,7 @@ description: ""
 *   [MOE FAS Pamphlet 2023](/files/MOE%20FAS%20pamphlet%202023.pdf) _\*updated as of_ _8 November 2022_  
     
 
-### Bursary 2022 for Students of SHHK Affiliated Schools
+### Bursary 2023 for Students of SHHK Affiliated Schools
 
 *   [Application of Bursary for SHHK Affiliated Schools](/files/2023年福建会馆属校学生助学金申请表格(2月2023年)-Batch%202.pdf) *updated as of 8 Feb 2023*
 
@@ -18,7 +18,7 @@ description: ""
 
 The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price.  
 
-*   [NEU IMDA FIBRE SVC APPLICATION](/files/NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%209%20April%202020.pdf)
+*   [NEU PC PLUS IMDA FIBRE SVC APPLICATION](/files/NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%202023.pdf)
 *   [Application Form for MOE-SPED FAS](/files/NPP-Application-Form-for-MOE-SPED-FAS.pdf)
 *   [Application Form for NON MOE-SPED FAS](/files/NPP-Application-Form-for-NON-MOE-SPED-FAS.pdf)
 
