@@ -22,7 +22,7 @@ The NEU PC Plus Programme offers low-income households with student or person wi
 *   [Application Form for MOE-SPED FAS](/files/NPP-Application-Form-for-MOE-SPED-FAS.pdf)
 *   [Application Form for NON MOE-SPED FAS](/files/NPP-Application-Form-for-NON-MOE-SPED-FAS.pdf)
 
-_\*updated as of 31st January 2023_  
+_\*updated as of 10 Feb 2023_  
 
 ### School Smart Cards (SSCs) 学生证
 
