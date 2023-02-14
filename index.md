@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/6e79c659a_245.png
+      background: /images/Untitled design.png
   - infobar:
       title: News & Updates
       subtitle: Announcements
