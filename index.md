@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Untitled design.png
+      background: /images/Untitled design (1).png
   - resources:
       title: News and Updates
       subtitle: announcements
