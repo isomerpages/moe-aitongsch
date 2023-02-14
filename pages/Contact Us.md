@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /contact-us-page/
 description: ""
 ---
-
 **Ai Tong School**
 
 100 Bright Hill Drive   &nbsp;  
