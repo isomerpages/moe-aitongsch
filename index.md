@@ -8,11 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Untitled design.png
-  - infobar:
-      title: News & Updates
-      subtitle: Announcements
-      button: View all
-      url: /newsandupdates
   - resources:
       title: News and Updates
       subtitle: announcements
