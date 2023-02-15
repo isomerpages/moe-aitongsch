@@ -68,7 +68,7 @@ Students are strongly encouraged to remain in their CCA throughout their primary
 
   
 
-Students have to submit the Withdrawal Form to the CCA Teacher-in-charge or to the AE, Ms Khaliesah in the General Office. Parents/Guardians to fill up the form accordingly with the reason(s) clearly stated. Students will remain in the current CCA until the Transfer/Withdrawal has been approved.
+Students have to submit the Withdrawal Form to the CCA Teacher-in-charge. Parents/Guardians to fill up the form accordingly with the reason(s) clearly stated. Students will remain in the current CCA until the Transfer/Withdrawal has been approved.
 
   
 
