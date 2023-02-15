@@ -6,8 +6,7 @@ image: /images/ATS-Logo-web.png
 permalink: /
 notification: ""
 sections:
-  - hero:
-      background: /images/Homepage Banner.png
+  - hero: {}
   - resources:
       title: News and Updates
       subtitle: announcements
