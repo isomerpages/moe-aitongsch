@@ -59,7 +59,7 @@ Note for CCAs training at external venue: 
 
 ### CCA Policy
 
-[2023 ATS CCA Policy]()
+[2023 ATS CCA Policy](/files/2023_ATS%20CCA%20Policy.pdf)
   
 
 ### Change of CCA
