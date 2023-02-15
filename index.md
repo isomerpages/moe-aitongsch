@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ATS email banner B 800px.png
+      background: /images/Homepage Banner.png
   - resources:
       title: News and Updates
       subtitle: announcements
