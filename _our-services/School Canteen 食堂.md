@@ -3,791 +3,1510 @@ title: School Canteen 食堂
 permalink: /our-services/school-canteen/
 description: ""
 ---
-### Stall 3: Japanese Food Menu
+**Stall 3: Japanese Food Menu**     
+<table style="width:484.65pt;border-collapse:collapse;mso-yfti-tbllook:
+ 1184;mso-table-lspace:2.25pt;mso-table-rspace:2.25pt;mso-table-anchor-vertical:
+ paragraph;mso-table-anchor-horizontal:column;mso-table-left:left;mso-padding-alt:
+ 0in 0in 0in 0in" width="646" align="left" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" rowspan="2" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Rice Set</span></b><span style="font-size:12.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">(inclusive of fruit)</span></b><span style="font-size:
+  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:341.15pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1;height:15.1pt"><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Small</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Large</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Teriyaki Don</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:3;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Kimchi Chicken Don</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:4;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Salmon Teriyaki Don</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.50</span></p></td></tr><tr style="mso-yfti-irow:5;height:14.3pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Grilled Dory Fish Don</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:6;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Beef Yakiniku Don</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.50</span></p></td></tr><tr style="mso-yfti-irow:7;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Katsu Don</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.50</span></p></td></tr><tr style="mso-yfti-irow:8;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ebi Tempura Don</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:9;height:14.3pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Karagae Don</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:10;height:15.1pt"><td style="width:484.65pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="3" width="646"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:11;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" rowspan="2" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Noodle Set</span></b><span style="font-size:12.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">(inclusive of fruit)</span></b><span style="font-size:
+  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:12;height:15.9pt"><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.9pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Small</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.9pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Large</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:13;height:14.3pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Miso Ramen</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:14;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Shoyu Ramen</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:15;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Kimchi Ramen</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:16;height:14.3pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Tonkotsu Ramen</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:17;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Dory Fish Ramen</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:18;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Udon</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:19;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Beef Ramen</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.50</span></p></td></tr><tr style="mso-yfti-irow:20;height:14.3pt"><td style="width:484.65pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" colspan="3" width="646"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:21;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Sides</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:22;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Maki Sushi</span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00 - $1.50</span></p></td></tr><tr style="mso-yfti-irow:23;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Handroll Sushi</span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00 - $2.00</span></p></td></tr><tr style="mso-yfti-irow:24;height:14.3pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Seafood Gyoza</span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00 (3pcs)</span></p></td></tr><tr style="mso-yfti-irow:25;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Karagae</span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.50</span></p></td></tr><tr style="mso-yfti-irow:26;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Katsu</span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.50</span></p></td></tr><tr style="mso-yfti-irow:27;height:14.3pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Takoyaki Balls</span></p></td><td style="width:2.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.50 (3pcs)</span></p></td><td style="width:161.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.3pt" valign="top" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00 (4pcs)</span></p></td></tr><tr style="mso-yfti-irow:28;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Breaded Prawns</span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00 (1pc)</span></p></td></tr><tr style="mso-yfti-irow:29;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chawanmushi</span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00</span></p></td></tr><tr style="mso-yfti-irow:30;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Seaweed Chicken</span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.50</span></p></td></tr><tr style="mso-yfti-irow:31;mso-yfti-lastrow:yes;height:15.1pt"><td style="width:143.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" width="191"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Scallop</span></p></td><td style="width:341.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.1pt" valign="top" colspan="2" width="455"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.40</span></p></td></tr></tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+**Stall 6: Western Menu**
+
+       
+
+<table style="width:341.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-table-lspace:2.25pt;mso-table-rspace:2.25pt;mso-table-anchor-vertical:
+ paragraph;mso-table-anchor-horizontal:column;mso-table-left:left;mso-padding-alt:
+ 0in 0in 0in 0in" width="455" align="left" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.0pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Items</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:117.0pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1;height:13.15pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Pizza (Chicken)</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.30</span></p></td></tr><tr style="mso-yfti-irow:2;height:14.0pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Egg Croissant</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.50</span></p></td></tr><tr style="mso-yfti-irow:3;height:13.15pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Baked Rice (Chicken &amp; Salmon) + Fruit</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td></tr><tr style="mso-yfti-irow:4;height:14.0pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Chop Set + Fruit</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.20</span></p></td></tr><tr style="mso-yfti-irow:5;height:13.15pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Salmon Set + Fruit</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.20</span></p></td></tr><tr style="mso-yfti-irow:6;height:14.0pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Macaroni + Fruit</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td></tr><tr style="mso-yfti-irow:7;height:14.0pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Spaghetti + Fruit</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td></tr><tr style="mso-yfti-irow:8;height:13.15pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Wrap</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td></tr><tr style="mso-yfti-irow:9;height:14.0pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Ball</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.20</span></p></td></tr><tr style="mso-yfti-irow:10;height:13.15pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Cheese Ball</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.20</span></p></td></tr><tr style="mso-yfti-irow:11;height:14.0pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Stick</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.20</span></p></td></tr><tr style="mso-yfti-irow:12;height:13.15pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Nugget</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.40</span></p></td></tr><tr style="mso-yfti-irow:13;height:14.0pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Cutlet</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.30</span></p></td></tr><tr style="mso-yfti-irow:14;height:14.0pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mashed Potato</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00</span></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes;height:13.15pt"><td style="width:224.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="299"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mushroom Soup</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.15pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00</span></p></td></tr></tbody></table>
 	
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 645px">
-<colgroup>
-<col style="width: 275px">
-<col style="width: 185px">
-<col style="width: 185px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-9u4g" rowspan="2">Rice Set<br>(Inclusive of fruit)</td>
-    <td class="tg-2fwu" colspan="2">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-2fwu">Small</td>
-    <td class="tg-2fwu">Large</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Teriyaki Don</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Grilled Dory Fish Don</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Salmon Teriyaki Don</td>
-    <td class="tg-sxkx">$2.00</td>
-    <td class="tg-sxkx">$2.50</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Beef Yakiniku Don</td>
-    <td class="tg-sxkx">$2.00</td>
-    <td class="tg-sxkx">$2.50</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Kimchi Chicken Don</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Katsu Don</td>
-    <td class="tg-sxkx">$2.00</td>
-    <td class="tg-sxkx">$2.50</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Ebi Tempura Don</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Karagae Don</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx" colspan="3"> &nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g" rowspan="2">Noodle Set<br>(Inclusive of fruit)</td>
-    <td class="tg-2fwu" colspan="2">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-2fwu">Small</td>
-    <td class="tg-2fwu">Large</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Miso Ramen</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Shoyu Ramen</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Kimchi Ramen</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Tonkotsu Ramen</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Dory Fish Ramen</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Udon</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Beef Ramen</td>
-    <td class="tg-sxkx">$2.00</td>
-    <td class="tg-sxkx">$2.50</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx" colspan="3"> &nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Sides</td>
-    <td class="tg-2fwu" colspan="2">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Maki Sushi</td>
-    <td class="tg-sxkx" colspan="2">$1.00 - $1.50</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Handroll Sushi</td>
-    <td class="tg-sxkx" colspan="2">$1.00 - $2.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Seafood Gyoza</td>
-    <td class="tg-sxkx" colspan="2">$2.00 (3pcs)</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Karagae</td>
-    <td class="tg-sxkx" colspan="2">$0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Katsu</td>
-    <td class="tg-sxkx" colspan="2">$1.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Takoyaki Balls</td>
-    <td class="tg-sxkx">$1.50 (3pcs)</td>
-    <td class="tg-sxkx">$2.00 (4pcs)</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Breaded Prawns</td>
-    <td class="tg-sxkx" colspan="2">$1.00 (1pc)</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chawanmushi</td>
-    <td class="tg-sxkx" colspan="2">$1.00</td>
-  </tr>
-</tbody>
-</table>
-
-
-### Stall 6: Western Menu
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 645px">
-<colgroup>
-<col style="width: 400px">
-<col style="width: 265px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-9u4g">Items</td>
-    <td class="tg-2fwu">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Baked Rice (Chicken/Salmon/Tomato) + Fruit</td>
-    <td class="tg-sxkx">$2.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Spaghetti + Fruit</td>
-    <td class="tg-sxkx">$1.80</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Pizza</td>
-    <td class="tg-sxkx">$1.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Salmon / Chicken Rice Set + Fruit</td>
-    <td class="tg-sxkx">$2.20</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Mac and Cheese + Fruit</td>
-    <td class="tg-sxkx">$1.80</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Wrap</td>
-    <td class="tg-sxkx">$1.80</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Egg Croissant</td>
-    <td class="tg-sxkx">$1.50</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Pita</td>
-    <td class="tg-sxkx">$2.20</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Rosti</td>
-    <td class="tg-sxkx">$1.20</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Lasagna + Fruit</td>
-    <td class="tg-sxkx">$1.80</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Ball Stick</td>
-    <td class="tg-sxkx">$1.20</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Steak Stick</td>
-    <td class="tg-sxkx">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Mashed Potato</td>
-    <td class="tg-sxkx">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Corn Cup</td>
-    <td class="tg-sxkx">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Potato Wedges</td>
-    <td class="tg-sxkx">$0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Nuggets</td>
-    <td class="tg-sxkx">$0.40</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Cutlet</td>
-    <td class="tg-sxkx">$1.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Patty</td>
-    <td class="tg-sxkx">$1.00</td>
-  </tr>
-</tbody>
-</table>
-
-
-### Stall 7: Chicken Rice Menu
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yrqb{background-color:#fafafa;color:#454545;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-1uz9{background-color:#fafafa;color:#454545;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-o6sc{background-color:#fafafa;color:#454545;text-align:left;vertical-align:middle}
-.tg .tg-q6ha{background-color:#fafafa;color:#454545;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 645px">
-<colgroup>
-<col style="width: 330px">
-<col style="width: 150px">
-<col style="width: 25px">
-<col style="width: 140px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-1uz9" rowspan="2">Rice Set (inclusive of fruit)</td>
-    <td class="tg-yrqb" colspan="3">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-yrqb">Small</td>
-    <td class="tg-yrqb" colspan="2">Large</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Nasi Lemak</td>
-    <td class="tg-q6ha">$2.00</td>
-    <td class="tg-q6ha" colspan="2">$2.30</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Chicken Rice</td>
-    <td class="tg-q6ha">$2.00</td>
-    <td class="tg-q6ha" colspan="2">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Char Siew Rice</td>
-    <td class="tg-q6ha">$2.00</td>
-    <td class="tg-q6ha" colspan="2">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Curry Chicken Rice</td>
-    <td class="tg-q6ha">$2.00</td>
-    <td class="tg-q6ha" colspan="2">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Honey Chicken Rice</td>
-    <td class="tg-q6ha">$2.00</td>
-    <td class="tg-q6ha" colspan="2">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Cereal Chicken Rice</td>
-    <td class="tg-q6ha">$2.00</td>
-    <td class="tg-q6ha" colspan="2">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-q6ha" colspan="4">    </td>
-  </tr>
-  <tr>
-    <td class="tg-1uz9">Snacks</td>
-    <td class="tg-yrqb" colspan="3">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Popiah</td>
-    <td class="tg-q6ha" colspan="3">$0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Ngoh Hiang</td>
-    <td class="tg-q6ha" colspan="3">$0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Egg</td>
-    <td class="tg-q6ha" colspan="3">$0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Tofu</td>
-    <td class="tg-q6ha" colspan="3">$0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Vegetables</td>
-    <td class="tg-q6ha" colspan="3">$0.60 - $0.80</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Chicken Satay</td>
-    <td class="tg-q6ha" colspan="3">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Chicken Meat</td>
-    <td class="tg-q6ha" colspan="3">$0.60</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Chicken Drumstick</td>
-    <td class="tg-q6ha" colspan="3">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Chicken Patty</td>
-    <td class="tg-q6ha" colspan="3">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Chicken Nuggets</td>
-    <td class="tg-q6ha" colspan="3">$0.40</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Ham</td>
-    <td class="tg-q6ha" colspan="3">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Cereal Chicken</td>
-    <td class="tg-q6ha" colspan="3">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Honey Chicken</td>
-    <td class="tg-q6ha" colspan="3">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Sliced Fish</td>
-    <td class="tg-q6ha" colspan="3">$0.80 - $1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Whole Fish</td>
-    <td class="tg-q6ha" colspan="3">$1.50 - $2.00</td>
-  </tr>
-  <tr>
-    <td class="tg-q6ha" colspan="4">    </td>
-  </tr>
-  <tr>
-    <td class="tg-1uz9">Weekly Special</td>
-    <td class="tg-yrqb" colspan="3">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Fried Rice with Chicken</td>
-    <td class="tg-q6ha" colspan="2">$2.00 (small)</td>
-    <td class="tg-q6ha">$2.30 (large)</td>
-  </tr>
-  <tr>
-    <td class="tg-o6sc">Braised Chicken Rice Set with Egg</td>
-    <td class="tg-q6ha" colspan="3">$2.50</td>
-  </tr>
-</tbody>
-</table>
-
-### Stall 8: Chinese Noodles Menu
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 645px">
-<colgroup>
-<col style="width: 275px">
-<col style="width: 185px">
-<col style="width: 185px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-9u4g" rowspan="2">Items (inclusive of fruit)</td>
-    <td class="tg-2fwu" colspan="2">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-2fwu">Small</td>
-    <td class="tg-2fwu">Large</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Fishball Noodles</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Laksa</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Macaroni Soup Noodles</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Tom Yam Noodles</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Beef Noodles</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Zha Jiang Noodles</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Mala Noodles</td>
-    <td class="tg-sxkx">$1.80</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Fried Bee Hoon</td>
-    <td class="tg-sxkx">$1.20</td>
-    <td class="tg-sxkx">$1.50</td>
-  </tr>
-	<tr>
-    <td class="tg-fwnj">Bak Kut Teh Noodles</td>
-    <td class="tg-sxkx">$2.00</td>
-    <td class="tg-sxkx">$2.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj"> </td>
-    <td class="tg-sxkx" colspan="2">  </td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Snacks</td>
-    <td class="tg-2fwu" colspan="2">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Yakitori Stick</td>
-    <td class="tg-sxkx" colspan="2">$0.80</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Fishball Stick</td>
-    <td class="tg-sxkx" colspan="2">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Meatball Stick</td>
-    <td class="tg-sxkx" colspan="2">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Drumstick</td>
-    <td class="tg-sxkx" colspan="2">$0.60</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Gyoza</td>
-    <td class="tg-sxkx" colspan="2">$1.20 (3 pieces)</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Patty</td>
-    <td class="tg-sxkx" colspan="2">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Fish Fillet</td>
-    <td class="tg-sxkx" colspan="2">$1.00</td>
-  </tr>
-</tbody>
-</table>
-
-
-### Stall 9: Hot Drinks & Snacks Menu
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 645px">
-<colgroup>
-<col style="width: 400px">
-<col style="width: 265px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-9u4g">Drinks</td>
-    <td class="tg-2fwu">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Hot Coffee without milk</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Hot Tea without milk</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Hot Coffee with milk</td>
-    <td class="tg-sxkx">$0.80</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Hot Coffee without milk</td>
-    <td class="tg-sxkx">$0.80</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Hot Milo</td>
-    <td class="tg-sxkx">$0.80</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Hot Green Tea</td>
-    <td class="tg-sxkx">$0.60</td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx" colspan="2">  </td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Snacks (All items with Halal Logo or Halal Ingredients)</td>
-    <td class="tg-2fwu">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Hard Boiled Eggs</td>
-    <td class="tg-sxkx">$0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Scrambled Eggs</td>
-    <td class="tg-sxkx">$0.60/$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Assorted Sandwiches</td>
-    <td class="tg-sxkx">$1.10</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Sunshine Cream Roll</td>
-    <td class="tg-sxkx">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chicken Cheese Burger</td>
-    <td class="tg-sxkx">$1.60</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Plain Pandan Waffle</td>
-    <td class="tg-sxkx">$0.60/$1.10</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Pandan Waffle (Chocolate)</td>
-    <td class="tg-sxkx">$0.70/$1.30</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Tao Sa Pau</td>
-    <td class="tg-sxkx">$0.60</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">BBQ Chicken Pau</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Small Chicken Pau</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Lotus Pau</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Yam Pau</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Sweet Corn Pau</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Vegetable Pau</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Big Chicken Pau</td>
-    <td class="tg-sxkx">$1.20</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Siew Mai</td>
-    <td class="tg-sxkx">$0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chee Cheong Fun</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Egg Tart (Baked)</td>
-    <td class="tg-sxkx">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Fan Choy</td>
-    <td class="tg-sxkx">$1.20</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Lo Mai Kai</td>
-    <td class="tg-sxkx">$1.20</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Assorted Healthier Choices Snacks</td>
-    <td class="tg-sxkx">$0.40 - $0.80</td>
-  </tr>
-</tbody>
-</table>
-
-
-### Stall 10: Cold Drinks and Fruits Menu
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vwyz{background-color:#fafafa;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-97qb{background-color:#fafafa;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nqmc{background-color:#fafafa;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-90b6{background-color:#fafafa;color:#454545;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 645px">
-<colgroup>
-<col style="width: 400px">
-<col style="width: 265px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-vwyz">Drinks</td>
-    <td class="tg-97qb">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Bottle (Assorted) Drink</td>
-    <td class="tg-90b6">$0.50 - $1.20</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Packet (Assorted) Drink</td>
-    <td class="tg-90b6">$0.50 - $0.90</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Paper Cup (Assorted) Non-Coloured Drink</td>
-    <td class="tg-90b6">$0.60 - $0.90</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Drinking Water – Bottle</td>
-    <td class="tg-90b6">$0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Fruit Juice – Bottle/Packet/Paper Cup</td>
-    <td class="tg-90b6">$0.80 - $0.90</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Milk (Fresh/UHT) – Bottle/Packet</td>
-    <td class="tg-90b6">$0.90 - $1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Milo – Bottle/Packet/Paper Cup</td>
-    <td class="tg-90b6">$0.90 - $1.20</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Vitagen/Yakult - Bottle</td>
-    <td class="tg-90b6">$0.80</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Vitasoy - Packet</td>
-    <td class="tg-90b6">$0.70</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Yoghurt Drink/Smoothie - Bottle</td>
-    <td class="tg-90b6">$1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-90b6" colspan="2">  </td>
-  </tr>
-  <tr>
-    <td class="tg-vwyz">Fruits</td>
-    <td class="tg-97qb">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Fresh Fruits Juice*/Fruit/Milk Tea*<br>*add others (eg. Chia Seeds, Ginger,Lemon, Plum Powder etc @ $0.30 per item)</td>
-    <td class="tg-90b6">$1.00 - $1.50</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Fresh Fruits Juice with Vitagen/Yakult</td>
-    <td class="tg-90b6">$1.70</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Smoothie/Milk Shake</td>
-    <td class="tg-90b6">$1.00 - $2.00</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Fruits/Mixed Fruits – with/without Juice</td>
-    <td class="tg-90b6">$0.80 - $1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Sliced Fruits (e.g. Honeydew, Papaya, Watermelon etc)</td>
-    <td class="tg-90b6">$0.30 - $0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Whole Fruits (e.g. Banana, Grapes, Prunes etc)</td>
-    <td class="tg-90b6">$0.30 - $0.50</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc"> </td>
-    <td class="tg-90b6"> </td>
-  </tr>
-  <tr>
-    <td class="tg-vwyz">Others</td>
-    <td class="tg-97qb">Price</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Agar Agar/Konnyaku Jelly</td>
-    <td class="tg-90b6">$0.30</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Bean Curd/Fruit Pudding</td>
-    <td class="tg-90b6">$0.60 - $1.30</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Frozen Pudding /Yoghurt/Ice Cream</td>
-    <td class="tg-90b6">$0.50 - $1.80</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Jelly – Cup</td>
-    <td class="tg-90b6">$0.50 - $0.80</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Yoghurt</td>
-    <td class="tg-90b6">$0.90</td>
-  </tr>
-  <tr>
-    <td class="tg-nqmc">Tissue</td>
-    <td class="tg-90b6">$0.20</td>
-  </tr>
-</tbody>
-</table>
+**Stall 7: Chicken Rice Menu**
+	
+<table style="width:328.7pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-table-lspace:2.25pt;mso-table-rspace:2.25pt;mso-table-anchor-vertical:
+ paragraph;mso-table-anchor-horizontal:column;mso-table-left:left;mso-padding-alt:
+ 0in 0in 0in 0in" width="438" align="left" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.65pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.65pt" rowspan="2" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Rice Set (inclusive of fruit)</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:169.65pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:12.65pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1;height:13.0pt"><td style="width:132.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="177"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Small</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:36.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="49"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Large</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Nasi Lemak</span></p></td><td style="width:132.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="177"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:36.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="49"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:3;height:12.2pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Rice</span></p></td><td style="width:132.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="177"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:36.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="49"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:4;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Char Siew Rice</span></p></td><td style="width:132.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="177"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:36.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="49"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:5;height:12.2pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Curry Chicken Rice</span></p></td><td style="width:132.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="177"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:36.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="49"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:6;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Honey Chicken Rice</span></p></td><td style="width:132.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="177"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:36.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="49"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:7;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Fried Rice</span></p></td><td style="width:132.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="177"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:36.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="49"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.30</span></p></td></tr><tr style="mso-yfti-irow:8;height:12.2pt"><td style="width:328.7pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" colspan="3" width="438"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:9;height:12.8pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.8pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Snacks</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.8pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:10;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Popiah</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.50</span></p></td></tr><tr style="mso-yfti-irow:11;height:12.2pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ngoh Hiang</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.50</span></p></td></tr><tr style="mso-yfti-irow:12;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Egg</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.50</span></p></td></tr><tr style="mso-yfti-irow:13;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Tofu</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.50</span></p></td></tr><tr style="mso-yfti-irow:14;height:12.2pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Vegetables</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.60 - $0.80</span></p></td></tr><tr style="mso-yfti-irow:15;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Meat</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.70</span></p></td></tr><tr style="mso-yfti-irow:16;height:12.2pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Drumstick</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.70</span></p></td></tr><tr style="mso-yfti-irow:17;height:12.2pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Satay</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.70</span></p></td></tr><tr style="mso-yfti-irow:18;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Patty</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00</span></p></td></tr><tr style="mso-yfti-irow:19;height:12.2pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Nuggets</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.40</span></p></td></tr><tr style="mso-yfti-irow:20;height:12.2pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Sausage</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.2pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:21;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ham</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.70</span></p></td></tr><tr style="mso-yfti-irow:22;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Cereal Chicken</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00</span></p></td></tr><tr style="mso-yfti-irow:23;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Sliced Fish</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80 - $1.00</span></p></td></tr><tr style="mso-yfti-irow:24;mso-yfti-lastrow:yes;height:13.0pt"><td style="width:159.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" width="212"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Whole Fish</span></p></td><td style="width:169.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt" valign="top" colspan="2" width="226"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.50 - $2.00</span></p></td></tr></tbody></table>
+	
+**Stall 8: Chinese Noodles Menu**
+<table style="width:404.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-table-lspace:2.25pt;mso-table-rspace:2.25pt;mso-table-anchor-vertical:
+ paragraph;mso-table-anchor-horizontal:column;mso-table-left:left;mso-padding-alt:
+ 0in 0in 0in 0in" width="539" align="left" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" rowspan="2" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Items (inclusive of fruit)</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:289.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" colspan="2" width="386"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1;height:12.9pt"><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Small</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Large</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Fishball Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td></tr><tr style="mso-yfti-irow:3;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Laksa Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td></tr><tr style="mso-yfti-irow:4;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Minced Pork Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td></tr><tr style="mso-yfti-irow:5;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Tom Yam Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td></tr><tr style="mso-yfti-irow:6;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mala Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td></tr><tr style="mso-yfti-irow:7;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Wanton Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td></tr><tr style="mso-yfti-irow:8;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Beef Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.50</span></p></td></tr><tr style="mso-yfti-irow:9;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Bak Kut Teh Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.50</span></p></td></tr><tr style="mso-yfti-irow:10;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Tomato Egg Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td></tr><tr style="mso-yfti-irow:11;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Fried Noodle/Kway Teow/Bee Hoon</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.20</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.50</span></p></td></tr><tr style="mso-yfti-irow:12;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Fried Carrot Cake</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.00</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.50</span></p></td></tr><tr style="mso-yfti-irow:13;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Prawn Noodles</span></p></td><td style="width:158.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="212"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$2.20</span></p></td><td style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$3.00</span></p></td></tr><tr style="mso-yfti-irow:14;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">&nbsp;</span></p></td><td style="width:289.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" colspan="2" width="386"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:15;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Snacks</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:289.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" colspan="2" width="386"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:16;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Fishball Stick</span></p></td><td style="width:289.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" colspan="2" width="386"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00</span></p></td></tr><tr style="mso-yfti-irow:17;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Meatball Stick</span></p></td><td style="width:289.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" colspan="2" width="386"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.00</span></p></td></tr><tr style="mso-yfti-irow:18;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Satay</span></p></td><td style="width:289.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" colspan="2" width="386"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:19;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Sausage</span></p></td><td style="width:289.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" colspan="2" width="386"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.70</span></p></td></tr><tr style="mso-yfti-irow:20;height:12.9pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Spicy Chicken</span></p></td><td style="width:289.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.9pt" valign="top" colspan="2" width="386"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.60</span></p></td></tr><tr style="mso-yfti-irow:21;mso-yfti-lastrow:yes;height:12.15pt"><td style="width:115.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="154"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Cheese Ball</span></p></td><td style="width:289.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" colspan="2" width="386"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.50</span></p></td></tr></tbody></table>
+	
+**Stall 9: Hot Drinks &amp; Snack Menu**
+<table style="width:503.15pt;border-collapse:collapse;mso-yfti-tbllook:
+ 1184;mso-table-lspace:2.25pt;mso-table-rspace:2.25pt;mso-table-anchor-vertical:
+ paragraph;mso-table-anchor-horizontal:column;mso-table-left:left;mso-padding-alt:
+ 0in 0in 0in 0in" width="671" align="left" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Drinks</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:280.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Hot Coffee without milk</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.70*</span></p></td></tr><tr style="mso-yfti-irow:2;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Hot Tea without milk</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.70*</span></p></td></tr><tr style="mso-yfti-irow:3;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Hot Coffee with milk</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80*</span></p></td></tr><tr style="mso-yfti-irow:4;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Hot Tea with milk</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80*</span></p></td></tr><tr style="mso-yfti-irow:5;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Hot Milo</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80*</span></p></td></tr><tr style="mso-yfti-irow:6;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Hot Green Tea</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.60*</span></p></td></tr><tr style="mso-yfti-irow:7;height:13.45pt"><td style="width:503.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" colspan="2" width="671"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:8;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Snacks (All items with Halal Logo or Halal Ingredients)</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Price</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:9;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Hard Boiled Eggs</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.50</span></p></td></tr><tr style="mso-yfti-irow:10;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Scrambled Eggs</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.60/$1.00</span></p></td></tr><tr style="mso-yfti-irow:11;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Assorted Sandwiches</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.20</span></p></td></tr><tr style="mso-yfti-irow:12;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Sunshine Cream Roll</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.10</span></p></td></tr><tr style="mso-yfti-irow:13;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chicken Cheese Burger</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.80</span></p></td></tr><tr style="mso-yfti-irow:14;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Plain Pandan Waffle</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.70/$1.30</span></p></td></tr><tr style="mso-yfti-irow:15;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Pandan Waffle (Chocolate)</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80/$1.50</span></p></td></tr><tr style="mso-yfti-irow:16;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Tao Sa Pau</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.70</span></p></td></tr><tr style="mso-yfti-irow:17;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">BBQ Chicken Pau</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:18;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Small Chicken Pau</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:19;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Lotus Pau</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:20;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Yam Pau</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:21;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Sweet Corn Pau</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:22;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Vegetable Pau</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:23;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Big Chicken Pau</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.30</span></p></td></tr><tr style="mso-yfti-irow:24;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Siew Mai</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.60</span></p></td></tr><tr style="mso-yfti-irow:25;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chee Cheong Fun</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:26;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Egg Tart (Baked)</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.80</span></p></td></tr><tr style="mso-yfti-irow:27;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Fan Choy</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.30</span></p></td></tr><tr style="mso-yfti-irow:28;height:13.45pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Lo Mai Kai</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$1.30</span></p></td></tr><tr style="mso-yfti-irow:29;mso-yfti-lastrow:yes;height:12.7pt"><td style="width:222.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="297"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Assorted Healthier Choices Snacks</span></p></td><td style="width:280.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.7pt" valign="top" width="374"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:2.25pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">$0.50-$1.00</span></p></td></tr></tbody></table>
+	
