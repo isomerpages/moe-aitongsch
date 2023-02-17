@@ -1,0 +1,49 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Co Curriculum.md
+      - Student Well Being/Student Wellbeing Main.md
+      - Student Well Being/Positive Education.md
+      - Student Well Being/Form Teacher Guidance Period (FTGP).md
+      - Student Well Being/Pastoral Care.md
+      - Student Well Being/ATS Heart Waves 爱同频率.md
+      - Student Well Being/Partnership With Parents.md
+      - Student Well Being/.keep
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Badminton.md
+      - Co Curricular Activities (CCA)/Sports Club.md
+      - Co Curricular Activities (CCA)/Table Tennis.md
+      - Co Curricular Activities (CCA)/Track & Field.md
+      - Co Curricular Activities (CCA)/Volleyball.md
+      - Co Curricular Activities (CCA)/Wushu.md
+      - Co Curricular Activities (CCA)/Innovation Club.md
+      - Co Curricular Activities (CCA)/InfoComm Club.md
+      - Co Curricular Activities (CCA)/Multimedia Club.md
+      - Co Curricular Activities (CCA)/Robotics Club.md
+      - Co Curricular Activities (CCA)/Brownies.md
+      - Co Curricular Activities (CCA)/Scouts.md
+      - Co Curricular Activities (CCA)/Art Club.md
+      - Co Curricular Activities (CCA)/Choir.md
+      - Co Curricular Activities (CCA)/Dance Club.md
+      - Co Curricular Activities (CCA)/Drama Club.md
+      - Co Curricular Activities (CCA)/Guzheng.md
+      - Co Curricular Activities (CCA)/Percussion Club.md
+      - Student Leadership.md
+      - Programme for Active Learning (PAL).md
+      - SAP.md
+      - Life Long Learning Programmes/Life Long Learning Programmes (LLP).md
+      - Life Long Learning Programmes/Caring Through Arts (LLP1).md
+      - "Life Long Learning Programmes/Character & Leadership Development
+        through Outdoor Education Programme: LEAD (LLP2).md"
+      - Life Long Learning Programmes/.keep
+      - Innovation & Enterprise/Innovation and Enterprise Programme @ATS.md
+      - Innovation & Enterprise/Primary 3 Junior Innovator Programme – SCAMPER.md
+      - Innovation & Enterprise/Primary 4 Innovator Programme – Design
+        Thinking.md
+      - Innovation & Enterprise/Primary 5 Community Problem Solving (CmPS)
+        Programme.md
+      - Innovation & Enterprise/P6 Gratitude in Action Programme.md
+      - Innovation & Enterprise/ATS Voices 爱同之声.md
+      - Innovation & Enterprise/.keep

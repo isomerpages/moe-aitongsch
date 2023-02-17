@@ -1,0 +1,18 @@
+collections:
+  our-achievements:
+    output: true
+    order:
+      - Our Achievements.md
+      - Staff Achievements/Staff Achievements.md
+      - Staff Achievements/.keep
+      - Student Achievements/Student Achievements.md
+      - Student Achievements/Lee Kuan Yew All Round Excellence Award.md
+      - Student Achievements/Mathematics & Science Award.md
+      - Student Achievements/Chinese Language, Chinese Cultural Award.md
+      - Student Achievements/Physical Sports Award.md
+      - Student Achievements/Visual and Performing Arts Award.md
+      - Student Achievements/Clubs & Societies Award.md
+      - Student Achievements/Uniformed Groups Award.md
+      - Student Achievements/Singapore Youth Festival Art Exhibition.md
+      - Student Achievements/Achievement for ALP (Innovation & Project Work).md
+      - Student Achievements/.keep

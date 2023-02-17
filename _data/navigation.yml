@@ -1,15 +1,26 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /our-school/our-school/
+    sublinks:
+      - title: Our School
+        url: /our-school/our-school/
+      - title: Our People
+        url: /our-people/key-personnel/
+      - title: Our Services
+        url: /our-services/school-canteen/
+      - title: Our Achievements
+        url: /our-achievements/our-achievements/
+  - title: ATS Experience
+    url: /ats-experience/
+    sublinks:
+      - title: Curriculum
+        url: /curriculum/curriculum/
+      - title: Co Curriculum
+        url: /co-curriculum/co-curriculum/
+  - title: For Parents
+    collection: for-parents
+  - title: Stakeholders
+    collection: stakeholders
+  - title: Visitor Management
+    collection: visitor-management
