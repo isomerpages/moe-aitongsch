@@ -4,8 +4,6 @@ permalink: /our-achievements/Student-Achievements/achievement-for-alp/
 description: ""
 third_nav_title: Student Achievements
 ---
-
-
 ### 2022 Achievement
 
 **<u>Applied Learning Programme (Innovation & Project Work)</u>**
@@ -180,7 +178,7 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
   </tr>
   <tr>
     <td class="tg-ku5w">Students</td>
-    <td class="tg-ii8k">Renee Aw, Yong Ze Ee &amp; Jareth Koh </td>
+    <td class="tg-ii8k">Renee Aw, Yeong Ze Ee &amp; Jareth Koh </td>
   </tr>
   <tr>
     <td class="tg-ku5w">Class</td>
