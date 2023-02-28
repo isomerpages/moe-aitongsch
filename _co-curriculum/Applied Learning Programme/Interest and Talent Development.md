@@ -6,7 +6,7 @@ third_nav_title: Applied Learning Programme
 ---
 The school also provide opportunities for students with keen interest and/or aptitude in creative problem solving to be rigorously challenged in our interest and talent development platforms. Identified students go through extensive and rigorous training to further develop their interest, talents and project work skill sets.
 
-* [CCA Innovation Club ](https://aitong.moe.edu.sg/cca/innovation-club)
+* [CCA Innovation Club](/co-curriculum/Co-Curricular-Activities/innovation/)
 
 * **P4 Thinkers Programme**
 
@@ -24,4 +24,3 @@ In 2022, two teams of Ai Tong School students emerged victorious from the Commun
 Together with their form teachers and mentors, the teams showed great determination and resilience in preparing for the International Conference amidst their PSLE preparation in Semester 1 this year.  They worked well as a team and created great camaraderie throughout the journey. They were also well-prepared and confident when they faced the panel of judges from United States. Their hard work and effort finally paid off! Team Project DeSTRESS was awarded the first runner-up in the Junior Division among a total of 13 teams! Congratulations to both teams who have done Ai Tong School proud at the international level.   
 
 ![ALPcongrats](/images/ALP5.jpg)
-
