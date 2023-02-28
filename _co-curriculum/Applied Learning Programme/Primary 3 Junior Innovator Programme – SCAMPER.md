@@ -8,4 +8,4 @@ Our P3 students are purposefully exposed to everyday things around them to creat
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ00tVRLUwPrgoakWD3TxJbnoCx_p9CEn-lX0nQGRq0Ux-1CVg-VUdecsP1S5K5CCbMCMWCIji5OZTp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
-[Primary 3 Junior Innovator Programme – SCAMPER 2023](https://drive.google.com/drive/folders/1bLA-m__OuEOPjJc4gN0FfsZuZZWPN4TN?usp=sharing)
+[Primary 3 Junior Innovator Programme – SCAMPER 2022](https://drive.google.com/drive/folders/1bLA-m__OuEOPjJc4gN0FfsZuZZWPN4TN?usp=sharing)
