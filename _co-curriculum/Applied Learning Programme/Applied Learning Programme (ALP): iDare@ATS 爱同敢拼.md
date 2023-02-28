@@ -4,8 +4,6 @@ permalink: /co-curriculum/Applied-Learning-Programme/permalink/
 description: ""
 third_nav_title: Applied Learning Programme
 ---
-
-
 In Ai Tong School, we seek to create a conducive environment that promotes a pervasive culture of innovation as a way of life where “_Everyone thinks and Everyone innovates_”. We want our teachers and students to develop an **entrepreneurial dare** so that they will act on their curiosity, apply what they learn and innovate to make a positive change.  
 
 To “**dare**”, resilience is key. Because it is often the fear of failure that holds many of us back. That is why we believe it is importance to develop **Growth Mindset** in our students in school and at home.
@@ -20,5 +18,7 @@ We design programmes to connect classroom learning with real-life applications a
 **Project Work**
 
 **Application**
+
+**Interest and Talent Development**
 
 **Interest and Talent Development**
