@@ -8,4 +8,4 @@ As an extension to our Project Work experiences for our students beyond the P3-P
 
 * P6 Gratitude-in-Action Programme
 * ATS Voices 爱同之声
-* [Student Leader Council (SLC)](https://aitong.moe.edu.sg/ats-experience/co-curriculum/student-leadership])
+* [Student Leader Council (SLC)](https://www.aitong.moe.edu.sg/co-curriculum/Innovation-and-Enterprise/p3-scamper/)
