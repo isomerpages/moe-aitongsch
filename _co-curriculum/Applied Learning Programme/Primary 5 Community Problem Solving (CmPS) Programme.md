@@ -15,4 +15,4 @@ Believing that children can make a positive impact on the community, Ai Tong Sch
 <img src="/images/cmps3.jpeg" 
      style="width:65%">
 		 
-		 [Primary 5 Community Problem Solving (CmPS) Programme 2022](https://drive.google.com/file/d/1nk-fPjNq49hFthg1JCbWp0P6oI5SlM22/view?usp=sharing)
+[Primary 5 Community Problem Solving (CmPS) Programme 2022](https://drive.google.com/file/d/1nk-fPjNq49hFthg1JCbWp0P6oI5SlM22/view?usp=sharing)
