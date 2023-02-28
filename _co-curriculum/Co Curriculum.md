@@ -8,6 +8,5 @@ description: ""
 *   [Student Leadership](/co-curriculum/student-leadership/)
 *   [Programme for Active Learning (PAL)](/co-curriculum/pal/)
 *   [Special Assistance Plan (SAP)](/co-curriculum/sap/)
-
 *   [Life Long Learning Programmes](/co-curriculum/Life-Long-Learning-Programmes/llp/)
-*   [Innovation and Enterprise Programme @ATS](/co-curriculum/Innovation-and-Enterprise/innovation-and-enterprise-programme-at-ats/)
+*   [Applied Learning Programme](/co-curriculum/Applied-Learning-Programme/permalink/)
