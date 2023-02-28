@@ -15,8 +15,8 @@ At the core of this Applied Learning Programme (ALP), as depicted in the framewo
 We design programmes to connect classroom learning with real-life applications and to encourage students to creatively apply project work skills to solve authentic problems collaboratively. These programmes are specially curated for Primary 3 to Primary 6 students beyond the academic curriculum. The programmes provide opportunities to challenge and stretch students to apply and integrate their content knowledge and skills to problem solve creatively or design new products and experiences through collaborative learning. The curriculum is designed to develop skills in our students to prepare them for lifelong learning and enable them to effect change in the community. 
 
 
-**[Project Work](https://www.aitong.moe.edu.sg/co-curriculum/Applied-Learning-Programme/project-work/)**
+**[Project Work](co-curriculum/Applied-Learning-Programme/project-work/)**
 
-**[Application](https://www.aitong.moe.edu.sg/co-curriculum/Applied-Learning-Programme/application/)**
+**[Application](co-curriculum/Applied-Learning-Programme/application/)**
 
-**[Interest and Talent Development](https://www.aitong.moe.edu.sg/co-curriculum/Applied-Learning-Programme/interest-talent-development/)**
+**[Interest and Talent Development](co-curriculum/Applied-Learning-Programme/interest-talent-development/)**
