@@ -6,7 +6,7 @@ third_nav_title: Applied Learning Programme
 ---
 The school also provide opportunities for students with keen interest and/or aptitude in creative problem solving to be rigorously challenged in our interest and talent development platforms. Identified students go through extensive and rigorous training to further develop their interest, talents and project work skill sets.
 
-* [CCA Innovation Club](https://www.aitong.moe.edu.sg/co-curriculum/Co-Curricular-Activities/innovation/)
+* [CCA Innovation Club](/Co-Curricular-Activities/innovation/)
 
 * **P4 Thinkers Programme**
 
