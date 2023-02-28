@@ -20,5 +20,3 @@ We design programmes to connect classroom learning with real-life applications a
 **Application**
 
 **Interest and Talent Development**
-
-**Interest and Talent Development**
