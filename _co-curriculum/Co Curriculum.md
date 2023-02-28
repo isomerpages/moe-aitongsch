@@ -9,4 +9,4 @@ description: ""
 *   [Programme for Active Learning (PAL)](/co-curriculum/pal/)
 *   [Special Assistance Plan (SAP)](/co-curriculum/sap/)
 *   [Life Long Learning Programmes](/co-curriculum/Life-Long-Learning-Programmes/llp/)
-*   [Applied Learning Programme](/co-curriculum/Applied-Learning-Programme/permalink/)
+*   [Applied Learning Programme](/co-curriculum/Applied-Learning-Programme/ALP-iDareATS/)
