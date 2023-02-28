@@ -19,6 +19,4 @@ Along with these acquired skills, the relevant knowledge which they picked up du
 <img src="/images/p6gia3.jpeg" 
      style="width:55%">
 		 
-		 
-		
-		 
+[P6 GIA 2022](https://drive.google.com/file/d/1q3x8kqOf05DbA7MUr3vyhkXCGwWtAivS/view?usp=sharing)
