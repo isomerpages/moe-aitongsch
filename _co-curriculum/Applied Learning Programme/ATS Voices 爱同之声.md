@@ -1,9 +1,11 @@
 ---
 title: ATS Voices 爱同之声
-permalink: /co-curriculum/Innovation-and-Enterprise/ats-voices/
+permalink: /co-curriculum/Applied-Learning-Programme/ats-voices/
 description: ""
-third_nav_title: Innovation & Enterprise
+third_nav_title: Applied Learning Programme
 ---
+
+
 ATS Voices Suggestion Box is for students to offer constructive suggestions to improve their learning environment. It is a platform for students to
 
 * recognise problems and brainstorm solutions to solve them.

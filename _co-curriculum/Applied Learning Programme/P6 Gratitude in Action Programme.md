@@ -1,8 +1,8 @@
 ---
 title: P6 Gratitude in Action Programme
-permalink: /co-curriculum/Innovation-and-Enterprise/p6-gratitude-in-action-programme/
+permalink: /co-curriculum/Applied-Learning-Programme/p6-gratitude-in-action-programme/
 description: ""
-third_nav_title: Innovation & Enterprise
+third_nav_title: Applied Learning Programme
 ---
 The P6 Gratitude-in-Action (GIA) is a VIA project which uses the Heart-Head-Hand approach. It aims to engage the ‘Heart’ of the students to appreciate and show gratitude for what they have, as well as understand how they can make a difference to the community. The project also activates their ‘Head’ and mind to acquire skills and knowledge to overcome challenges and reflect on their experiences. It eventually involves students to use their ‘Hands’ to create handmade goods or games out of recycling materials to raise funds for Social Service Agencies (SSAs).
 
@@ -18,3 +18,5 @@ Along with these acquired skills, the relevant knowledge which they picked up du
 		 
 <img src="/images/p6gia3.jpeg" 
      style="width:55%">
+		 
+[P6 GIA 2022](https://drive.google.com/file/d/1s2LM6YDiyYBqE1yMIi-iSGfcA5lr1rIj/view?usp=sharing)
