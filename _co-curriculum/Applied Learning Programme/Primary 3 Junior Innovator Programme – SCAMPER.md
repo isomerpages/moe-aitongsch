@@ -8,4 +8,4 @@ Our P3 students are purposefully exposed to everyday things around them to creat
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ00tVRLUwPrgoakWD3TxJbnoCx_p9CEn-lX0nQGRq0Ux-1CVg-VUdecsP1S5K5CCbMCMWCIji5OZTp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Y4K55bVR8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3Y4K55bVR8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
