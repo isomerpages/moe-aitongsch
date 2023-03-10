@@ -3,6 +3,7 @@ title: Useful Links
 permalink: /useful-links/
 description: ""
 ---
+*   [ATS Student Resource Hub](https://sites.google.com/moe.edu.sg/ats-student/home)
 *   [eCareers](https://ecareers.sg/)    
 *   [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)    
 *   [e-Zhishi](https://www.ezhishi.net/)
