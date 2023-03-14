@@ -37,7 +37,7 @@ Term 4 : Monday, 11 September to Friday, 17 November 
 * **New Year's Day** : Saturday 1 January *(Monday 2 January will be a public holiday)  *
 * **Chinese New Year** : Sunday 22 January & Monday 23 January* (Tuesday 24 January will be a public holiday)*
 * **Good Friday** : Friday 7 April
-*** Hari Raya Puasa** : Saturday 22 April *(Monday 24 April will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office and Student Care Centre)*
+* **Hari Raya Puasa**: Saturday 22 April *(Monday 24 April will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office and Student Care Centre)*
 * **Labour Day** : Monday 1 May
 * **Vesak Day** : Friday 2 June
 * **Hari Raya Haji** : Thursday 29 June
