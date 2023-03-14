@@ -22,10 +22,10 @@ Term 4 : Monday, 11 September to Friday, 17 November 
 
 ### SCHOOL HOLIDAYS FOR 2023
 
-**March Holidays** : Saturday, 11 March to Sunday, 19 March     
-**June Holidays** : Saturday, 27 May to Sunday, 25 June
-**September Holidays** : Saturday, 2 September to Sunday, 10 September   
-**December Holidays** : Saturday, 18 November to Friday, 31 December
+* **March Holidays** : Saturday, 11 March to Sunday, 19 March     
+* **June Holidays** : Saturday, 27 May to Sunday, 25 June
+* **September Holidays** : Saturday, 2 September to Sunday, 10 September   
+* **December Holidays** : Saturday, 18 November to Friday, 31 December
 
 ### SCHEDULED SCHOOL HOLIDAYS FOR 2023
 * **Youth Day** : Sunday 2 July (Monday, 3 July is a school holiday)    
