@@ -28,8 +28,8 @@ Term 4 : Monday, 11 September to Friday, 17 November 
 * **December Holidays** : Saturday, 18 November to Friday, 31 December
 
 ### SCHEDULED SCHOOL HOLIDAYS FOR 2023
-* **Youth Day** : Sunday 2 July (Monday, 3 July is a school holiday)    
-* **Day after National Day**: Thursday 10 Aug  
+* **Youth Day** : Sunday 2 July (Monday 3 July is a school holiday)    
+* **Day after National Day**: Thursday 10 August  
 * **Teachers' Day** : Friday 1 September  
 * **Children's Day** : Friday 6 October  
 
