@@ -80,10 +80,13 @@ The bookshop will be open to parents for the purchase of books and school unifor
 
 ### 2023 Booklist
 
-[P1 Booklist 2023.pdf](/files/P1%20Booklist%202023.pdf)
+* [P1 Booklist 2023](/files/P1%20Booklist%202023.pdf)
+* [P2 Booklist 2023](/files/P2%20Booklist%202023.pdf)
+* [P3 Booklist 2023](/files/P3%20Booklist%202023.pdf)
+* [P4 Booklist 2023](/files/P4%20Booklist%202023.pdf)
+* [P5 Booklist 2023](/files/P5%20Booklist%202023.pdf)
+* [P6 Booklist 2023](/files/P6%20Booklist%202023.pdf)
     
-
-  
 
 ### 2023 ATS Uniform and Name Tag
 
