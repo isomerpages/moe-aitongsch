@@ -24,10 +24,14 @@ Our school strives to create an exciting and engaging learning environment in wh
 The SLS is MOE's core platform for teaching and learning and is one of MOE’s key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology to enable students to engage in different learning modes.
 
 
-Click here to access [SLS](https://vle.learning.moe.edu.sg/) Portal. You can also refer to [ATS Student Resource Hub SLS](https://sites.google.com/moe.edu.sg/ats-student/account/student-learning-spacesls) Page for FAQs.
+Click here to access [SLS](https://vle.learning.moe.edu.sg/) Portal. Please refer to [ATS Student Resource Hub SLS](https://sites.google.com/moe.edu.sg/ats-student/account/student-learning-spacesls) Page for FAQs.
 
 Note: For students who do not have a computer or mobile device at home, they can check if they qualify for one via the NEU PC Plus Programme by IMDA ([click here for more information](https://www.imda.gov.sg/neupc)).
 
+### Student iCON 
+Student iCON is a suite of Google apps such as Google Classroom, Doc, Sheets and Slides as well as other school-related apps. It helps to better support your learning and collaboration with others.
+
+More information on Student iCON can be found [here](https://sites.google.com/moe.edu.sg/ats-student/account/student-icon).
 
 
 ### Communication Platform
