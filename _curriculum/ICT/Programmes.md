@@ -57,5 +57,5 @@ The Baseline ICT Standards is a set of ICT skill competencies set out in progres
 
 
 
-### Home-based Learning
+### E-Learning
 In line with the MOE Curriculum Continuity Plan, Home-based Learning is a platform to engage our students even in the event of school closure. Students will be involved in self-directed learning. They will learn from home and complete assignments via the Student Learning Space portal. Teachers will design the online lesson packages and monitor students’ learning through their submission of assignments. Teachers will also provide them feedback to support them in their learning.
