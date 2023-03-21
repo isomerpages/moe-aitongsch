@@ -10,9 +10,9 @@ To deepen students’ learning and keep them actively engaged during lessons, ou
 
 ![](/images/resource1.png)
 
-### iPads & iTOUCH
+### iPads
 
-Students use iPads and iTOUCH for their easy to manipulate touch screen technology. Due to their portable format and fast load-up time, it makes learning more engaging and interactive for the students. They have endless access to valuable information such as dictionary and thesaurus and other apps that bring education to life.
+Students use iPads for their easy to manipulate touch screen technology. Due to their portable format and fast load-up time, it makes learning more engaging and interactive for the students. They have endless access to valuable information such as dictionary and thesaurus and other apps that bring education to life.
 
 ### Green Screen Technology
 
@@ -20,9 +20,19 @@ Our school strives to create an exciting and engaging learning environment in wh
 
 ### Student Learning Space (SLS) Portal
 
-[https://learning.moe.edu.sg](https://learning.moe.edu.sg/) Please refer to ‘Frequently Asked Questions’ for login issues. Note: For students who do not have a computer or mobile device at home, they can check if they qualify for one via the NEU PC Plus Programme by IMDA ([click here for more information](https://www.imda.gov.sg/community/consumer-education/digital-inclusion/neu-pc-plus-programme)).
 
-![](/images/resource2.png)
+The SLS is MOE's core platform for teaching and learning and is one of MOE’s key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology to enable students to engage in different learning modes.
+
+
+Click here to access [SLS](https://vle.learning.moe.edu.sg/) Portal. Please refer to [ATS Student Resource Hub SLS](https://sites.google.com/moe.edu.sg/ats-student/account/student-learning-spacesls) Page for FAQs.
+
+Note: For students who do not have a computer or mobile device at home, they can check if they qualify for one via the NEU PC Plus Programme by IMDA ([click here for more information](https://www.imda.gov.sg/neupc)).
+
+### Student iCON 
+Student iCON is a suite of Google apps such as Google Classroom, Doc, Sheets and Slides as well as other school-related apps. It helps to better support your learning and collaboration with others.
+
+More information on Student iCON can be found [here](https://sites.google.com/moe.edu.sg/ats-student/account/student-icon).
+
 
 ### Communication Platform
 
