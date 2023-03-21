@@ -28,7 +28,7 @@ Click here to access [SLS](https://vle.learning.moe.edu.sg/) Portal.
 
 Note: For students who do not have a computer or mobile device at home, they can check if they qualify for one via the NEU PC Plus Programme by IMDA ([click here for more information](https://www.imda.gov.sg/neupc)).
 
-![](/images/resource2.png)
+
 
 ### Communication Platform
 
