@@ -14,4 +14,3 @@ A prize presentation ceremony and tea session was organized to officially kick s
 
 ![](/images/ATSAA_youth_group1.jpeg)
 
- [ATSAA YG recruitment Letter.pdf](/files/ATSAA%20YG%20recruitment%20Letter.pdf)
