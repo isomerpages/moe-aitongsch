@@ -1,12 +1,12 @@
 ---
-title: Mathematics & Science Award
+title: Mathematics &amp; Science Award
 permalink: /our-achievements/Student-Achievements/math-and-science-award/
 description: ""
 third_nav_title: Student Achievements
 ---
+### Asia Pacific Mathematical Olympiad for Primary Schools
 
-
-### Singapore Mathematical Olympiad
+The Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS), organised by Hwa Chong Institution, is an annual event that sets out to generate greater interest in Mathematics among students in primary schools and sharpening their problem-solving skills. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -30,6 +30,16 @@ third_nav_title: Student Achievements
     <td class="tg-sil7"><span style="color:white">Recipients</span></td>
     <td class="tg-sil7"><span style="color:white">Award</span></td>
   </tr>
+	<tr>
+    <td class="tg-ncov" rowspan="2">2022</td>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"> 2 Students</td>
+    <td class="tg-sxkx">Bronze Award  </td>
+  </tr>
+  
   <tr>
     <td class="tg-ncov" rowspan="3">2021</td>
     <td class="tg-sxkx">2 Students</td>
@@ -45,6 +55,115 @@ third_nav_title: Student Achievements
   </tr>
 </tbody>
 </table>
+
+### Raffles Institution Primary Mathematics World Contest
+The Raffles Institution Primary Mathematics World Contest (RIPMWC) aims to promote interest in Mathematics and develop problem-solving abilities through a friendly contest for MOE Primary School students.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-sil7{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 480px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 165px">
+<col style="width: 165px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-sil7"><span style="color:white">Year</span></td>
+    <td class="tg-sil7"><span style="color:white">Recipients</span></td>
+    <td class="tg-sil7"><span style="color:white">Award</span></td>
+  </tr>
+	<tr>
+    <td class="tg-ncov" rowspan="2">2022</td>
+    <td class="tg-sxkx">6 Students</td>
+    <td class="tg-sxkx">Distinction Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"> 6 Students</td>
+    <td class="tg-sxkx">Merit Award  </td>
+  </tr>
+</tbody></table>
+
+### National Mathematical Olympiad of Singapore
+
+The National Mathematical Olympiad of Singapore ( NMO∑ ) is an NUS High School initiative, working in partnership with the Singapore Mathematical Society. It aims to generate greater interest in Mathematics among Primary school students, cultivate enthusiasm and instil a love for Mathematics among the students. At the same time, it provides an avenue to challenge and stretch students’ mathematical potential and nurture mathematical talents in our youths.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-sil7{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 480px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 165px">
+<col style="width: 165px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-sil7"><span style="color:white">Year</span></td>
+    <td class="tg-sil7"><span style="color:white">Recipients</span></td>
+    <td class="tg-sil7"><span style="color:white">Award</span></td>
+  </tr>
+	<tr>
+    <td class="tg-ncov" rowspan="3">2022</td>
+    <td class="tg-sxkx">5 Students</td>
+    <td class="tg-sxkx">Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"> 1 Student</td>
+    <td class="tg-sxkx">Bronze Award  </td>
+  </tr>
+	  <tr>
+    <td class="tg-sxkx"> 14 Students</td>
+    <td class="tg-sxkx">Honorable Mention</td>
+  </tr>
+</tbody></table>
+
+### Primary Mathematics Project Competition
+
+The Primary Mathematics Project Competition (PMPC) is jointly organised by the Gifted Education Branch (GEB) and the NUS High School of Mathematics and Science (NUSHS). It aims to provide opportunities for students to extend their learning beyond the classroom and apply Mathematics in daily life. It also aims to encourage students to carry out innovative and creative work in Mathematics.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-sil7{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 480px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 165px">
+<col style="width: 165px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-sil7"><span style="color:white">Year</span></td>
+    <td class="tg-sil7"><span style="color:white">Recipients</span></td>
+    <td class="tg-sil7"><span style="color:white">Award</span></td>
+  </tr>
+	<tr>
+    <td class="tg-ncov" rowspan="3">2022</td>
+    <td class="tg-sxkx">1 Students</td>
+    <td class="tg-sxkx">Commendation Award</td>
+</tr></tbody></table>
 
 ### Singapore Youth Science Fair
 Singapore Youth Science Fair (SYSF) is designed to promote Science education since 2014. SYSF is sponsored by Abbott Laboratories, co-organised by the Science Teachers Association of Singapore and Science Centre Singapore. SYSF aims to promote scientific study through investigative-type projects in Science. It encourages the use of creative and innovative methods in problem solving, heighten students’ awareness and generate their interest in Science research and technology development.
