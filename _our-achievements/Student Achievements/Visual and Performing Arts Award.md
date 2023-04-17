@@ -4,8 +4,6 @@ permalink: /our-achievements/Student-Achievements/visual-and-performing-arts-awa
 description: ""
 third_nav_title: Student Achievements
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -38,27 +36,27 @@ third_nav_title: Student Achievements
   </tr>
   <tr>
     <td class="tg-k2xh"><span style="font-weight:bold;color:black">Vi</span><span style="font-weight:bold">sual Art</span></td>
-    <td class="tg-4va4"><span style="font-weight:bold;text-decoration:underline">Draw my Stamp Story Art Drawing Competition 2020</span><br>GOLD - Peh Xin Qiao Jeriel 3PE<br>BRONZE – Goh Rui Tian 5DI<br> <br><span style="font-weight:bold;text-decoration:underline">NDP Funpack Postcard Design</span><br>Koh Ler Yi 4PE<br>Kieran Yong 6CA </td>
-    <td class="tg-4va4"><span style="font-weight:bold;text-decoration:underline">Singapore Youth Festival Art Exhibition</span><br>Certificate of Recognition (Category B and C) <br><br><span style="font-weight:bold;text-decoration:underline">Draw my Stamp Story Art Drawing Competition 2021</span><br>SILVER - Peh Xin Qiao Jeriel 4PEBRONZE – Khoo Han Ming 3RT; Neo Jay Hwee Kate 4PE &amp; Charlotte Hong Kaixun<br> <br><span style="font-weight:bold;text-decoration:underline">SOTA Art Competition 2021</span><br><span style="font-weight:bold">Top 50 Finalist</span><br>Liow Chen Teng 6CA </td>
-    <td class="tg-hmmr"><span style="font-weight:bold;text-decoration:underline">Draw my Stamp Story Art Drawing Competition 2022</span><br>SILVER – Neo Jay Hwee Kate 5 DIBRONZE - Peh Xin Qiao Jeriel 5DI<br> <br><span style="font-weight:bold;text-decoration:underline">SOTA Art Competition 2022</span><br><span style="font-weight:bold">Top 50 Finalist</span><br>Felicia Sim Yan Xuan 6DI<br>Sofia Lim Woon Hee 6HM</td>
-  </tr>
+    <td class="tg-4va4"><span style="font-weight:bold;text-decoration:underline">Draw my Stamp Story Art Drawing Competition 2020</span><br>GOLD - 1 Student from 1PE<br>BRONZE – 1 Student from 5DI<br> <br><span style="font-weight:bold;text-decoration:underline">NDP Funpack Postcard Design</span><br>1 Student from  4PE<br>1 Student from 6CA </td>
+    <td class="tg-4va4"><span style="font-weight:bold;text-decoration:underline">Singapore Youth Festival Art Exhibition</span><br>Certificate of Recognition (Category B and C) <br><br><span style="font-weight:bold;text-decoration:underline">Draw my Stamp Story Art Drawing Competition 2021</span><br>SILVER - 1 Student from 4PE BRONZE – 1 Student from 3RT,<br>2 Students from 4PE<br> <br><span style="font-weight:bold;text-decoration:underline">SOTA Art Competition 2021</span><br><span style="font-weight:bold">Top 50 Finalist</span><br>1 Student from 6CA </td>
+    <td class="tg-hmmr"><span style="font-weight:bold;text-decoration:underline">Draw my Stamp Story Art Drawing Competition 2022</span><br>SILVER – 1 Student from 5DI BRONZE - 1 Student from 5DI<br> <br><span style="font-weight:bold;text-decoration:underline">SOTA Art Competition 2022</span><br><span style="font-weight:bold">Top 50 Finalist</span><br>1 Student from 6DI<br>1 Student from 6HM<br><br><span style="font-weight:bold;text-decoration:underline">SWS 14th National Junior Watercolour Competition</span><br>1 Student from 1DI
+  </td></tr>
   <tr>
     <td class="tg-cuqa"><span style="font-weight:bold">Choir</span></td>
     <td class="tg-cuqa"></td>
     <td class="tg-ncov"></td>
-    <td class="tg-22aw"></td>
-  </tr>
+    <td class="tg-22aw">Certificate of Participation
+  </td></tr>
   <tr>
     <td class="tg-k2xh"><span style="font-weight:bold">Dance Club</span></td>
     <td class="tg-k2xh"></td>
     <td class="tg-4va4"></td>
-    <td class="tg-hmmr"></td>
+    <td class="tg-hmmr">Certificate of Participation</td>
   </tr>
   <tr>
     <td class="tg-cuqa"><span style="font-weight:bold">Guzheng</span></td>
     <td class="tg-cuqa"></td>
     <td class="tg-ncov"></td>
-    <td class="tg-lboi"></td>
+    <td class="tg-lboi"><span style="text-align:center">Certificate of Participation</span></td>
   </tr>
 </tbody>
 </table>
