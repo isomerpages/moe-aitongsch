@@ -339,3 +339,35 @@ JSWC is guided by different themes every year. It seeks to allow participants to
   </tr>
 </tbody>
 </table>
+
+### TJC e-Think
+
+
+<table class="tg" style="undefined;table-layout: fixed; width: 440px">
+<colgroup>
+<col style="width: 92px">
+<col style="width: 134px">
+<col style="width: 214px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-sil7"><span style="color:white">Year</span></td>
+    <td class="tg-sil7"><span style="color:white">Recipients</span></td>
+    <td class="tg-sil7"><span style="color:white">Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="3">2022</td>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">Gold Award and Most Outstanding THINKer Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2 Students</td>
+    <td class="tg-sxkx">Honourable Mention</td>
+  </tr>
+	
+</tbody>
+</table>
