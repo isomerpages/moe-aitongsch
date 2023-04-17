@@ -56,7 +56,7 @@ third_nav_title: Student Achievements
     <td class="tg-cuqa"><span style="font-weight:bold">Guzheng</span></td>
     <td class="tg-cuqa"></td>
     <td class="tg-ncov"></td>
-    <td class="tg-lboi"><span style="text-align:center">Certificate of Participation</span></td>
+    <td class="tg-lboi">Certificate of Participation</td>
   </tr>
 </tbody>
 </table>
