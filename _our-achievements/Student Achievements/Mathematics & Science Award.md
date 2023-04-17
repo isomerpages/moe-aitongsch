@@ -161,7 +161,7 @@ The Primary Mathematics Project Competition (PMPC) is jointly organised by the G
   </tr>
 	<tr>
     <td class="tg-ncov" rowspan="3">2022</td>
-    <td class="tg-sxkx">1 Students</td>
+    <td class="tg-sxkx">1 Student</td>
     <td class="tg-sxkx">Commendation Award</td>
 </tr></tbody></table>
 
@@ -225,7 +225,7 @@ The competition is pitched at the Primary School Science Syllabus. General scien
     <td class="tg-sil7"><span style="color:white">Award</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="3">2021</td>
+    <td class="tg-ncov" rowspan="4">2021</td>
     <td class="tg-sxkx">1 Student</td>
     <td class="tg-sxkx">Gold Award</td>
   </tr>
@@ -238,10 +238,20 @@ The competition is pitched at the Primary School Science Syllabus. General scien
     <td class="tg-sxkx">Bronze Award </td>
   </tr>
   <tr>
-    <td class="tg-sxkx"> </td>
     <td class="tg-sxkx">5 Students</td>
     <td class="tg-sxkx">Merit Award</td>
   </tr>
+	
+  <tr>
+    <td class="tg-ncov" rowspan="2">2022</td>
+    <td class="tg-sxkx">3 Students</td>
+    <td class="tg-sxkx">Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">3 Students</td>
+    <td class="tg-sxkx">Merit Award  </td>
+  </tr>
+	
 </tbody>
 </table>
 
@@ -276,6 +286,17 @@ RSO includes subjects like Astronomy, Biology, Chemistry and Physics. Most of th
     <td class="tg-sxkx">1 Student</td>
     <td class="tg-sxkx">Bronze Award</td>
   </tr>
+
+  <tr>
+    <td class="tg-ncov" rowspan="3">2022</td>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1 Students</td>
+    <td class="tg-sxkx">Merit Award  </td>
+  </tr>
+
 </tbody>
 </table>
 
@@ -316,5 +337,37 @@ JSWC is guided by different themes every year. It seeks to allow participants to
     <td class="tg-sxkx">1 Students</td>
     <td class="tg-sxkx">13th Place in MCQ Round </td>
   </tr>
+</tbody>
+</table>
+
+### TJC e-Think
+
+
+<table class="tg" style="undefined;table-layout: fixed; width: 440px">
+<colgroup>
+<col style="width: 92px">
+<col style="width: 134px">
+<col style="width: 214px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-sil7"><span style="color:white">Year</span></td>
+    <td class="tg-sil7"><span style="color:white">Recipients</span></td>
+    <td class="tg-sil7"><span style="color:white">Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="3">2022</td>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">Gold Award and Most Outstanding THINKer Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2 Students</td>
+    <td class="tg-sxkx">Honourable Mention</td>
+  </tr>
+	
 </tbody>
 </table>
