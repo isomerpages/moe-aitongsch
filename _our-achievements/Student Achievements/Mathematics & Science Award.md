@@ -276,6 +276,17 @@ RSO includes subjects like Astronomy, Biology, Chemistry and Physics. Most of th
     <td class="tg-sxkx">1 Student</td>
     <td class="tg-sxkx">Bronze Award</td>
   </tr>
+
+  <tr>
+    <td class="tg-ncov" rowspan="3">2022</td>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1 Students</td>
+    <td class="tg-sxkx">Merit Award  </td>
+  </tr>
+
 </tbody>
 </table>
 
