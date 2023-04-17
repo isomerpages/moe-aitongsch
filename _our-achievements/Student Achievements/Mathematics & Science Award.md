@@ -161,7 +161,7 @@ The Primary Mathematics Project Competition (PMPC) is jointly organised by the G
   </tr>
 	<tr>
     <td class="tg-ncov" rowspan="3">2022</td>
-    <td class="tg-sxkx">1 Students</td>
+    <td class="tg-sxkx">1 Student</td>
     <td class="tg-sxkx">Commendation Award</td>
 </tr></tbody></table>
 
@@ -225,7 +225,7 @@ The competition is pitched at the Primary School Science Syllabus. General scien
     <td class="tg-sil7"><span style="color:white">Award</span></td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="3">2021</td>
+    <td class="tg-ncov" rowspan="4">2021</td>
     <td class="tg-sxkx">1 Student</td>
     <td class="tg-sxkx">Gold Award</td>
   </tr>
@@ -238,10 +238,20 @@ The competition is pitched at the Primary School Science Syllabus. General scien
     <td class="tg-sxkx">Bronze Award </td>
   </tr>
   <tr>
-    <td class="tg-sxkx"> </td>
     <td class="tg-sxkx">5 Students</td>
     <td class="tg-sxkx">Merit Award</td>
   </tr>
+	
+  <tr>
+    <td class="tg-ncov" rowspan="2">2022</td>
+    <td class="tg-sxkx">3 Students</td>
+    <td class="tg-sxkx">Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">3 Students</td>
+    <td class="tg-sxkx">Merit Award  </td>
+  </tr>
+	
 </tbody>
 </table>
 
