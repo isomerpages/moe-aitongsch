@@ -27,7 +27,12 @@ third_nav_title: Student Achievements
 </td>
   </tr>
   <tr>
-    <td class="tg-lnf9"><span style="font-weight:bold;text-decoration:underline">Moo O Awards 2021</span><br>Our Primary 3 students participated in the Moo – O Awards 2021. This is a digital story telling competition that aims to cultivate the love for English Language through a fun, engaging and immersive way.<br><br>3 of our students who represented Ai Tong School at the finals clinched the Merit Award<br><br><br><img src="/images/sa3.png" style="width:65%"><br><img src="/images/Moo%20O%20Achievement.jpeg" style="width:65%">
+    <td class="tg-lnf9"><span style="font-weight:bold;text-decoration:underline">Moo O Awards 2021</span><br>Our Primary 3 students participated in the Moo – O Awards 2021. This is a digital story telling competition that aims to cultivate the love for English Language through a fun, engaging and immersive way.<br><br>3 of our students who represented Ai Tong School at the finals clinched the Merit Award<br><br><br><b>Merit Award</b>
+		<br>
+			1 Student from 3CA<br>1 Student from 3PA
+		<br>1 Student from 3PE<br><br>
+			<img src="/images/Moo%20O%20Achievement.jpeg" style="width:65%">
+			<br>
 </td>
   </tr>
   <tr>
