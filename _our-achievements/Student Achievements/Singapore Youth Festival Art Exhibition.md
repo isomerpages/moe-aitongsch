@@ -6,8 +6,7 @@ third_nav_title: Student Achievements
 ---
 The Singapore Youth Festival (SYF) is an event organised by the Ministry of Education to&nbsp;celebrate the vitality and talents of our youth in the arts.&nbsp;The theme for this year is ‘Artist&nbsp;and Technology’. It aims to highlight the artist’s role in utilising technology (past, present&nbsp;and future) to explore and express their views about how technology has shaped our lives.
 
-  
-
+ 
 We have achieved&nbsp;**CERTIFICATE OF RECOGNITION**&nbsp;for&nbsp;**Category B**&nbsp;&amp;&nbsp;**Category C**.
 
 **Life Goes On...**
