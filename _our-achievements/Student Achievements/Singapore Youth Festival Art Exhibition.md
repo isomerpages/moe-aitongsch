@@ -10,8 +10,11 @@ The Singapore Youth Festival (SYF) is an event organised by the Ministry of Educ
 We have achieved&nbsp;**CERTIFICATE OF RECOGNITION**&nbsp;for&nbsp;**Category B**&nbsp;&amp;&nbsp;**Category C**.
 
 **Life Goes On...**
-<img src="/images/Life%20Goes%20On.jpeg" alt="Life Goes On.jpg">
+
+![](/images/Life%20Goes%20On.jpeg)
+
 <br>
+
 **ARTISTS**
 * 3 Students from 4CA
 * 1 Student from 4DI
@@ -21,8 +24,9 @@ We have achieved&nbsp;**CERTIFICATE OF RECOGNITION**&nbsp;for&nbsp;**Category B*
 <br>
 
 **Imagining the Future**
-<img src="/images/Imagining%20the%20Future.jpeg" alt="Imagining the Future.jpg">
-<br>
+![](/images/Imagining%20the%20Future.jpeg)
+
+
 **ARTISTS**
 * 2 Students from 5CA
 * 3 Students from 5DI
