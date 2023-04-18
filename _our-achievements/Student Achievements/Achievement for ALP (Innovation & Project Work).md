@@ -1,14 +1,14 @@
 ---
-title: Achievement for ALP (Innovation & Project Work)
+title: Achievement for ALP (Innovation &amp; Project Work)
 permalink: /our-achievements/Student-Achievements/achievement-for-alp/
 description: ""
 third_nav_title: Student Achievements
 ---
 ### 2022 Achievement
 
-**<u>Applied Learning Programme (Innovation & Project Work)</u>**
+**<u>Applied Learning Programme (Innovation &amp; Project Work)</u>**
 
-1\.       National Thinkers Challenge
+1\.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Thinkers Challenge
 
 To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers Challenge (NTC), organised by Singapore Hokkien Huay Kuan, hopes to introduce to primary school students the concepts of design thinking, artificial intelligence (AI) and other emerging technologies. Participants had to solve real-world problems using design thinking, a process that emphasises constant innovation and improvement, and AI. The theme this year is tackling Singapore's food waste. 2 teams represented ATS and their achievements are as documented below:
 
@@ -29,7 +29,7 @@ To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers 
 <tbody>
   <tr>
     <td class="tg-ku5w">Students</td>
-    <td class="tg-ii8k">Lai Kei Yan Kaden, Lau Kay Kye Lennart, Kaela Kwok Yi Xuan, Pang Eu Min Celeste &amp; Wee Zhi Xin Janelle</td>
+    <td class="tg-ii8k">6 Students</td>
   </tr>
   <tr>
     <td class="tg-ku5w">Class</td>
@@ -61,7 +61,7 @@ To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers 
 <tbody>
   <tr>
     <td class="tg-ku5w">Students</td>
-    <td class="tg-ii8k">Chia Yu Hao, Cody, Julian Oh Yong Wen, Ng Jin Yong Asher, Ong Shi En, Alyssa Faith &amp; Yuna Tano Chen Min Zi</td>
+    <td class="tg-ii8k">7 Students</td>
   </tr>
   <tr>
     <td class="tg-ku5w">Class</td>
@@ -74,9 +74,9 @@ To boost Singapore's Smart Nation capabilities, the inaugural National Thinkers 
 </tbody>
 </table>
 
-2\.       Future Problem Solving Program International Competition 2022
+2\.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Future Problem Solving Program International Competition 2022
 
-Two teams of P6 students continued their CmPS journey which they started in 2021 by accepting an invitation to participate in the Future Problem Solving International Conference where Future Problem Solvers from around the globe come together to celebrate the final round of their competitive season. The FPSPI International Competition occurs each June at a university in the USA. This annual competition draws 2,500+ problem solving champions from all over the world who compete at local and regional levels throughout the school year. The 2 teams of students representing ATS and their achievements are as documented below:
+Two teams of P6 students continued their CmPS journey which they started in 2021 by accepting an invitation to participate in the Future Problem Solving International Conference where Future Problem Solvers from around the globe come together to celebrate the final round of their competitive season. The FPSPI International Competition occurs each June at a university in the USA. This annual competition draws&nbsp;2,500+ problem solving champions&nbsp;from all over the world who compete at local and regional levels throughout the school year. The 2 teams of students representing ATS and their achievements are as documented below:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -99,7 +99,7 @@ Two teams of P6 students continued their CmPS journey which they started in 2021
   </tr>
   <tr>
     <td class="tg-ku5w">Students</td>
-    <td class="tg-ii8k">Ong Jun Xi, Rayner Young , Caden Chin, Oliver Lim, Reyes Loh,<br>Ng Chen Kai, Liu Jia Chen, Weng Caini &amp; Verrill Sim</td>
+    <td class="tg-ii8k">9 Students</td>
   </tr>
   <tr>
     <td class="tg-ku5w">Class</td>
@@ -135,7 +135,7 @@ Two teams of P6 students continued their CmPS journey which they started in 2021
   </tr>
   <tr>
     <td class="tg-ku5w">Awardees</td>
-    <td class="tg-ii8k">Sean Chin, Tan Sze Ya, Ilyshia Foo, Khoo Yan Shan, Gerald Sng &amp; Lewis Lee</td>
+    <td class="tg-ii8k">6 Students</td>
   </tr>
   <tr>
     <td class="tg-ku5w">Class</td>
@@ -151,11 +151,11 @@ Two teams of P6 students continued their CmPS journey which they started in 2021
 
 ### 2021 Achievement
 
-**<u>Applied Learning Programme (Innovation & Project Work)</u>**
+**<u>Applied Learning Programme (Innovation &amp; Project Work)</u>**
 
-1\.       SHHK Thinkers Programme
+1\.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHHK Thinkers Programme
 
-Organised by Singapore Hokkien Huay Kuan, this programme aims to develop students’ confidence, analytical and problem-solving competencies and to expose students to areas of STEM and how technology can improve our way of life. Over a span of 8 months, 8 teams of 3 students and teachers undergo training in Artificial Intelligence (A.I.), Coding, Design Thinking (DT) and Presentation & Pitching via virtual and physical setting. 2 teams were shortlisted to represent ATS in the Final Showcase. One of the teams was presented with the following award:
+Organised by Singapore Hokkien Huay Kuan, this programme aims to&nbsp;develop students’ confidence, analytical and problem-solving competencies and to expose students to areas of STEM and how technology can improve our way of life.&nbsp;Over a span of 8 months, 8 teams of 3 students and teachers undergo training in Artificial Intelligence (A.I.), Coding, Design Thinking (DT) and Presentation &amp; Pitching via virtual and physical setting. 2 teams were shortlisted to represent ATS in the Final Showcase. One of the teams was presented with the following award:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -178,7 +178,7 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
   </tr>
   <tr>
     <td class="tg-ku5w">Students</td>
-    <td class="tg-ii8k">Renee Aw, Yeong Ze Ee &amp; Jareth Koh </td>
+    <td class="tg-ii8k">3 Students</td>
   </tr>
   <tr>
     <td class="tg-ku5w">Class</td>
@@ -193,7 +193,7 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
 
 <br>
 
-2\.       Community Problem Solving (CmPS) National Finals 2021
+2\.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Community Problem Solving (CmPS) National Finals 2021
 
 4 teams of P5 students were identified to represent ATS to participate in the annual CmPS Competition organized by Future Problem Solving Programme (Singapore). 3 teams were shortlisted and represented the school at the National Finals 2021.
 
@@ -218,7 +218,7 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
   </tr>
   <tr>
     <td class="tg-ku5w">Awardees</td>
-    <td class="tg-ii8k">Steffi Yeo, Felicia See, Tanya Koh, Desiree Lee, Kelly Kwok, Lucas Lim, Ng Yanci, Valerie Lim, Wang Yan Ting &amp; Neo Ky-Sheng</td>
+    <td class="tg-ii8k">10 Students</td>
   </tr>
   <tr>
     <td class="tg-ku5w">Class</td>
@@ -254,7 +254,7 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
   </tr>
   <tr>
     <td class="tg-ku5w">Awardees</td>
-    <td class="tg-ii8k">Manfred Khor, Emma Yeo, Sean Chin, Tan Sze Ya, Megan Yo, Ilyshia Foo, Khoo Yan Shan, Gerald Sng &amp; Lewis Lee</td>
+    <td class="tg-ii8k">9 Students</td>
   </tr>
   <tr>
     <td class="tg-ku5w">Class</td>
@@ -290,7 +290,7 @@ Organised by Singapore Hokkien Huay Kuan, this programme aims to develop studen
   </tr>
   <tr>
     <td class="tg-ku5w">Awardees</td>
-    <td class="tg-ii8k">Ong Jun Xi, Rayner Young , Caden Chin, Oliver Lim, Reyes Loh,<br>Ng Chen Kai, Liu Jia Chen, Weng Caini &amp; Verrill Sim</td>
+    <td class="tg-ii8k">9 Students</td>
   </tr>
   <tr>
     <td class="tg-ku5w">Class</td>

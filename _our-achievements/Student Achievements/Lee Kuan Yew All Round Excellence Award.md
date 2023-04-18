@@ -4,8 +4,6 @@ permalink: /our-achievements/Student-Achievements/lky-all-round-excellence-award
 description: ""
 third_nav_title: Student Achievements
 ---
-
-
 To recognise well-rounded students who have excelled in both academic and non-academic spheres, and who exemplify the qualities articulated in the desired outcomes of education.
 
 <style type="text/css">
@@ -29,11 +27,11 @@ To recognise well-rounded students who have excelled in both academic and non-ac
   </tr>
   <tr>
     <td class="tg-56tu">2017</td>
-    <td class="tg-56tu">Allyssia Wu I-Shuan</td>
+    <td class="tg-56tu">1 Student</td>
   </tr>
   <tr>
     <td class="tg-56tu">2019</td>
-    <td class="tg-56tu">Matthew Ang Yuzhe</td>
+    <td class="tg-56tu">1 Student</td>
   </tr>
 </tbody>
 </table>
