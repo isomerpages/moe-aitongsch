@@ -8,11 +8,11 @@ third_nav_title: Student Achievements
 
 RoboMaster Youth Championship (RMYC) is organized to evolve the current robotic competition standards into the whole new level that excite and interests of our next generation in engineering and robotic. It is a national level competition and these students won the champion.
 
-1 Student from 5 Harmony   
-2 Students from 5 Responsibility
-1 Student from 5 Respect   
-1 Student from 5 Diligence
-1 Student from 5 Patience
+* 1 Student from 5 Harmony   
+* 2 Students from 5 Responsibility
+* 1 Student from 5 Respect   
+* 1 Student from 5 Diligence
+* 1 Student from 5 Patience
 
 <img src="/images/csa1.png" style="width:65%">
 		 
@@ -26,8 +26,8 @@ Drone Odyssey Challenge 2022 (DOC 2022) is an exciting game-based competition th
 
 The team of three boys from Ai Tong School won Champion in the Drone Swarming Challenge- Drone Swarming (Open Category: 9 to 16 years old)&nbsp;&nbsp;
 
-1 Student from 5 Harmony   
-2 Students from 5 Responsibility 
+* 1 Student from 5 Harmony   
+* 2 Students from 5 Responsibility 
 
 <img src="/images/csa2.png" style="width:65%">
 
