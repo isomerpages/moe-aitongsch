@@ -20,11 +20,7 @@ third_nav_title: Student Achievements
 <col style="width: 799px">
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-5ywe"><span style="font-weight:bold;text-decoration:underline;color:black">Temasek Junior College (TJC) THINK© Challenge</span><br><br> <span style="color:black">Temasek Junior College (TJC) THINK© Challenge is an annual Science competition for primary schools. Since 2008, the THINK© Challenge has exposed hundreds of students to the THINK© Cycle. THINK© is an acronym for the 5 distinct learning phases of science: Trigger, Harness, Investigate, Network and Know – a pedagogical approach pioneered by TJC that infuses problem-based learning and scientific inquiry with a focus on collaboration.</span><br><span style="color:black"> </span><br><span style="color:black">The Integrated Programme (IP) Science Department presented the inaugural e-THINK© Challenge in 2020 with the onset of COVID-19. e-THINK© Challenge is a science digital video competition to engage younger students to explore experimentation and explanation of scientific principles and concepts. The competition provides a platform for students to develop their curiosity in science by utilising given materials and various ICT tools to harness their concepts. Participants are required to introduce and explain relevant scientific phenomena, using novel and innovative approaches in producing the content.</span><br><br><img src="/images/sa1.png" style="width:85%">
-</td>
-  </tr>
-  <tr>
+ <tr>
     <td class="tg-1l4m"><span style="font-weight:bold;text-decoration:underline">Creative Writing Programme 2021</span><br><br>The following students represented Ai Tong School in the Creative Writing Programme 2021. The programme aims to nurture budding writers in creative writing by helping them cultivate a critical awareness of literary technique and craftsmanship, and is one of a suite of provisions by Gifted Education Branch  (MOE). These students completed the programme this year.<br><br><img src="/images/sa2.png" style="width:65%">
 </td>
   </tr>
