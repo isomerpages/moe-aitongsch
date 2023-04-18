@@ -341,7 +341,7 @@ JSWC is guided by different themes every year. It seeks to allow participants to
 </table>
 
 ### TJC e-Think
-
+Temasek Junior College (TJC) THINK© Challenge is an annual Science competition for primary schools. Since 2008, the THINK© Challenge has exposed hundreds of students to the THINK© Cycle. THINK© is an acronym for the 5 distinct learning phases of science: Trigger, Harness, Investigate, Network and Know – a pedagogical approach pioneered by TJC that infuses problem-based learning and scientific inquiry with a focus on collaboration.
 
 <table class="tg" style="undefined;table-layout: fixed; width: 440px">
 <colgroup>
@@ -355,6 +355,15 @@ JSWC is guided by different themes every year. It seeks to allow participants to
     <td class="tg-sil7"><span style="color:white">Recipients</span></td>
     <td class="tg-sil7"><span style="color:white">Award</span></td>
   </tr>
+	<tr>
+    <td class="tg-ncov" rowspan="2">2021</td>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1 Student</td>
+    <td class="tg-sxkx">Honourable Mention Award</td>
+  </tr>
   <tr>
     <td class="tg-ncov" rowspan="3">2022</td>
     <td class="tg-sxkx">1 Student</td>
@@ -366,7 +375,7 @@ JSWC is guided by different themes every year. It seeks to allow participants to
   </tr>
   <tr>
     <td class="tg-sxkx">2 Students</td>
-    <td class="tg-sxkx">Honourable Mention</td>
+    <td class="tg-sxkx">Honourable Mention Award</td>
   </tr>
 	
 </tbody>
