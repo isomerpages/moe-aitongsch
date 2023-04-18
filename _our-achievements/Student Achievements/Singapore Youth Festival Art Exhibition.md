@@ -21,7 +21,7 @@ We have achieved&nbsp;**CERTIFICATE OF RECOGNITION**&nbsp;for&nbsp;**Category B*
 <br>
 
 **Imagining the Future**
-<img src="/images/Imagining%20the%20Future.jpeg" alt="Imagining the Future.jpg" width="28" height="24">
+<img src="/images/Imagining%20the%20Future.jpeg" alt="Imagining the Future.jpg">
 <br>
 **ARTISTS**
 * 2 Students from 5CA
