@@ -53,6 +53,7 @@ The Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS), organised b
     <td class="tg-sxkx"> 8 Students</td>
     <td class="tg-sxkx">Bronze Award </td>
   </tr>
+	
 </tbody>
 </table>
 
