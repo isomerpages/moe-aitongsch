@@ -1,5 +1,5 @@
 ---
-title: Executive & Administrative Staff
+title: Executive &amp; Administrative Staff
 permalink: /our-people/executive-and-administrative-staff/
 description: ""
 ---
@@ -80,6 +80,14 @@ description: ""
   <tr>
     <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
     <td class="tg-huu4">Mdm Oh Mee Suan</td>
+  </tr>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
+    <td class="tg-huu4">Mr Fong Kee Keong</td>
+  </tr>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
+    <td class="tg-huu4">Mr Alvin Ng</td>
   </tr>
   
 </tbody>
