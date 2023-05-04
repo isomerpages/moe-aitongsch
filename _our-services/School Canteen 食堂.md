@@ -4,7 +4,7 @@ permalink: /our-services/school-canteen/
 description: ""
 ---
 # School Canteen Stall Menu
-Click here to view menu ---> [Ai Tong School Canteen Stall Menu](/files/ai%20tong%20school%20canteen%20stall%20menu.pdf)
+Click [here](/files/ai%20tong%20school%20canteen%20stall%20menu.pdf) to view menu.
 
 # School Canteen Advertisement
 
