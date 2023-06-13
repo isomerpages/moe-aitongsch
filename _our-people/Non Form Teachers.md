@@ -4,64 +4,90 @@ permalink: /our-people/non-form-teachers/
 description: ""
 ---
 **Non-Form Teachers**
-<table class="MsoTable15Plain4" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
-  height:44.75pt"><td width="288" style="width:215.8pt;padding:0in 5.4pt 0in 5.4pt;height:44.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-yfti-cnfc:5"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif">Mrs Stephanie Pung</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:eu_yue_kai@schools.gov.sg"><span style="color:#C00000">eu_yue_kai@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td><td width="288" style="width:215.85pt;padding:0in 5.4pt 0in 5.4pt;height:44.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-yfti-cnfc:1"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif">Mrs Sashi</span></b><span style="font-size:
-  10.0pt;font-family:&quot;Arial&quot;,sans-serif"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:kanna_dhatchayani@schools.gov.sg"><span style="color:#C00000">kanna_dhatchayani@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td><td width="288" style="width:215.85pt;padding:0in 5.4pt 0in 5.4pt;height:44.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-yfti-cnfc:1"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif">Mdm Tan Ellene</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:tan_ellene@schools.gov.sg"><span style="color:#C00000">tan_ellene@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td></tr><tr style="mso-yfti-irow:0;mso-yfti-lastrow:yes;height:44.75pt"><td width="288" style="width:215.8pt;background:#F2F2F2;mso-background-themecolor:
-  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
-  height:44.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-yfti-cnfc:68"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Mrs Chun-Hong Lin</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:hong_lin@schools.gov.sg"><span style="color:#C00000">hong_lin@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td><td width="288" style="width:215.85pt;background:#F2F2F2;mso-background-themecolor:
-  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
-  height:44.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-yfti-cnfc:64"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Mdm Jessie Lee<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:lee_swee_kee_jessie@schools.gov.sg"><span style="color:#C00000">lee_swee_kee_jessie@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td><td width="288" style="width:215.85pt;background:#F2F2F2;mso-background-themecolor:
-  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
-  height:44.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-yfti-cnfc:64"><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span>
-	<span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><b>Mdm Lim Lily<br></b></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:lim_lily_c@schools.gov.sg"><span style="color:#C00000">lim_lily_c@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td><td width="288" style="width:215.85pt;background:#F2F2F2;mso-background-themecolor:
-  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
-  height:44.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal;mso-yfti-cnfc:64"><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span>
-	</p>
-	</td>
-	</tr>
-	</tbody>
-</table>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="682" style="width:511.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:44.75pt"><td width="217" valign="top" style="width:162.95pt;padding:0in 5.4pt 0in 5.4pt;
+  height:44.75pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none">Mrs Stephanie Pung</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"><br><span style="color:#C00000"><a href="mailto:eu_yue_kai@schools.gov.sg"><span style="color:#C00000">eu_yue_kai@schools.gov.sg</span></a></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td width="251" valign="top" style="width:188.15pt;padding:0in 5.4pt 0in 5.4pt;
+  height:44.75pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none">Mrs Sashi</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"><br><span style="color:#C00000"><a href="mailto:kanna_dhatchayani@schools.gov.sg"><span style="color:#C00000">kanna_dhatchayani@schools.gov.sg</span></a></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td width="214" valign="top" style="width:160.7pt;padding:0in 5.4pt 0in 5.4pt;
+  height:44.75pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none">Mdm Tan Ellene</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"><br><span style="color:#C00000"><a href="mailto:tan_ellene@schools.gov.sg"><span style="color:#C00000">tan_ellene@schools.gov.sg</span></a></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:1;height:44.75pt"><td width="217" valign="top" style="width:162.95pt;background:#F2F2F2;padding:
+  0in 5.4pt 0in 5.4pt;height:44.75pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Mrs Chun-Hong Lin</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
+  0pt;mso-ligatures:none"><a href="mailto:hong_lin@schools.gov.sg"><span style="color:#C00000">hong_lin@schools.gov.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td width="251" valign="top" style="width:188.15pt;background:#F2F2F2;padding:
+  0in 5.4pt 0in 5.4pt;height:44.75pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Mdm Jessie Lee<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
+  0pt;mso-ligatures:none"><a href="mailto:lee_swee_kee_jessie@schools.gov.sg"><span style="color:#C00000">lee_swee_kee_jessie@schools.gov.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td width="214" valign="top" style="width:160.7pt;background:#F2F2F2;padding:
+  0in 5.4pt 0in 5.4pt;height:44.75pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt;
+  mso-ligatures:none">&nbsp;</span><b><span style="font-size:10.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-font-kerning:0pt;mso-ligatures:none">Mdm Lim Lily<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
+  0pt;mso-ligatures:none"><a href="mailto:lim_lily_c@schools.gov.sg"><span style="color:#C00000">lim_lily_c@schools.gov.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:44.75pt"><td width="217" valign="top" style="width:162.95pt;padding:0in 5.4pt 0in 5.4pt;
+  height:44.75pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none">Mr Alex Xie<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
+  0pt;mso-ligatures:none"><a href="mailto:alex_xie_huan@schools.gov.sg"><span style="color:#C00000">alex_xie_huan@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td width="251" valign="top" style="width:188.15pt;padding:0in 5.4pt 0in 5.4pt;
+  height:44.75pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></b></p></td><td width="214" valign="top" style="width:160.7pt;padding:0in 5.4pt 0in 5.4pt;
+  height:44.75pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td></tr></tbody></table>
 
 **School Counsellor &amp; SEN Officers**
 
-<table style="width:538.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 0in 0in 0in" width="718" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
-  height:70.25pt"><td style="width:106.8pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:70.25pt" width="142"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="718" style="width:538.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:70.25pt"><td width="142" style="width:106.8pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:70.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Mdm Koh Meow Kim<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:koh_meow_khim@schools.gov.sg"><span style="color:#C00000">koh_meow_khim@schools.gov.sg</span></a><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">School Counsellor</span><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:3.0in;padding:1.5pt 7.5pt 1.5pt 7.5pt;height:70.25pt" width="288"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;Times New Roman&quot;;color:#454545"></span></p></td><td width="288" style="width:3.0in;padding:1.5pt 7.5pt 1.5pt 7.5pt;height:70.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Mdm Yeo Sok Koon<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:yeo_sok_koon@schools.gov.sg"><span style="color:#C00000">yeo_sok_koon@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#CB181A"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Special Educational Needs Officer</span><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:3.0in;padding:0in 0in 0in 0in;height:70.25pt" width="288"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="288" style="width:3.0in;padding:0in 0in 0in 0in;height:70.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Ms Tedra Cher<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:tedra_cher_wei_ting@schools.gov.sg"><span style="color:#C00000">tedra_cher_wei_ting@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#CB181A"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -69,10 +95,10 @@ description: ""
 
 
 **Contract Flexi Adjunct Teachers**
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
- 1184;mso-padding-alt:0in 0in 0in 0in" width="712" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.5pt"><td style="width:193.25pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="258"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="712" style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.5pt"><td width="258" style="width:193.25pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -85,9 +111,9 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:162.85pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="217"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="217" style="width:162.85pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -107,9 +133,9 @@ description: ""
   12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#595959;mso-themecolor:text1;mso-themetint:166;mso-style-textfill-fill-color:
   #595959;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-alpha:
-  100.0%;mso-style-textfill-fill-colortransforms:&quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:178.05pt;padding:0in 0in 0in 0in;
-  height:34.5pt" valign="top" width="237"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  100.0%;mso-style-textfill-fill-colortransforms:&quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="237" valign="top" style="width:178.05pt;padding:0in 0in 0in 0in;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -118,9 +144,9 @@ description: ""
   &quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;mso-themetint:166;
   mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"><br>CAJT English<b></b></span></p></td></tr><tr style="mso-yfti-irow:1;height:34.5pt"><td style="width:193.25pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="258"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"><br>CAJT English<b></b></span></p></td></tr><tr style="mso-yfti-irow:1;height:34.5pt"><td width="258" style="width:193.25pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -133,9 +159,9 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:162.85pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="217"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="217" style="width:162.85pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -148,9 +174,9 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:178.05pt;background:#E5E5E5;padding:
-  0in 0in 0in 0in;height:34.5pt" valign="top" width="237"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="237" valign="top" style="width:178.05pt;background:#E5E5E5;padding:
+  0in 0in 0in 0in;height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -159,9 +185,9 @@ description: ""
   &quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;mso-themetint:166;
   mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"><br>FAJT&nbsp;English<b></b></span></p></td></tr><tr style="mso-yfti-irow:2;height:34.5pt"><td style="width:193.25pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="258"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"><br>FAJT&nbsp;English<b></b></span></p></td></tr><tr style="mso-yfti-irow:2;height:34.5pt"><td width="258" style="width:193.25pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -174,9 +200,9 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:162.85pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="217"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="217" style="width:162.85pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -189,9 +215,9 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:178.05pt;padding:0in 0in 0in 0in;
-  height:34.5pt" valign="top" width="237"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="237" valign="top" style="width:178.05pt;padding:0in 0in 0in 0in;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -200,9 +226,9 @@ description: ""
   &quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;mso-themetint:166;
   mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"><br>FAJT Music<b></b></span></p></td></tr><tr style="mso-yfti-irow:3;height:34.5pt"><td style="width:193.25pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="258"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"><br>FAJT Music<b></b></span></p></td></tr><tr style="mso-yfti-irow:3;height:34.5pt"><td width="258" style="width:193.25pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -215,9 +241,9 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:162.85pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="217"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="217" style="width:162.85pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -230,9 +256,9 @@ description: ""
   &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;
   mso-themecolor:text1;mso-themetint:166;mso-style-textfill-fill-color:#595959;
   mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-alpha:100.0%;
-  mso-style-textfill-fill-colortransforms:&quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:178.05pt;background:#E5E5E5;padding:
-  0in 0in 0in 0in;height:34.5pt" valign="top" width="237"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-style-textfill-fill-colortransforms:&quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="237" valign="top" style="width:178.05pt;background:#E5E5E5;padding:
+  0in 0in 0in 0in;height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -241,9 +267,9 @@ description: ""
   &quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;mso-themetint:166;
   mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"><br>FAJT<b></b></span></p></td></tr><tr style="mso-yfti-irow:4;height:34.5pt"><td style="width:193.25pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="258"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"><br>FAJT<b></b></span></p></td></tr><tr style="mso-yfti-irow:4;height:34.5pt"><td width="258" style="width:193.25pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -256,9 +282,9 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:162.85pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="217"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="217" style="width:162.85pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -268,9 +294,9 @@ description: ""
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
   &quot;lumm=65000 lumo=35000&quot;">FAJT</span><span style="font-size:10.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"></span></p></td><td style="width:178.05pt;padding:0in 0in 0in 0in;
-  height:34.5pt" valign="top" width="237"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"></span></p></td><td width="237" valign="top" style="width:178.05pt;padding:0in 0in 0in 0in;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -287,9 +313,9 @@ description: ""
   &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;
   mso-themecolor:text1;mso-themetint:166;mso-style-textfill-fill-color:#595959;
   mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-alpha:100.0%;
-  mso-style-textfill-fill-colortransforms:&quot;lumm=65000 lumo=35000&quot;"></span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:34.5pt"><td style="width:193.25pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="258"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-style-textfill-fill-colortransforms:&quot;lumm=65000 lumo=35000&quot;"></span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:34.5pt"><td width="258" style="width:193.25pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -302,9 +328,9 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:162.85pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
-  height:34.5pt" width="217"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="217" style="width:162.85pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -317,9 +343,9 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td style="width:178.05pt;background:#E5E5E5;padding:
-  0in 0in 0in 0in;height:34.5pt" valign="top" width="237"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;lumm=65000 lumo=35000&quot;"></span></p></td><td width="237" valign="top" style="width:178.05pt;background:#E5E5E5;padding:
+  0in 0in 0in 0in;height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-themecolor:text1;
   mso-themetint:166;mso-style-textfill-fill-color:#595959;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
