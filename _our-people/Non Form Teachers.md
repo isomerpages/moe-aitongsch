@@ -30,7 +30,19 @@ description: ""
   background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
   height:44.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-yfti-cnfc:64"><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p></td></tr></tbody></table>
+  font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span>
+	<span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><b>Mdm Lim Lily<br></b></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:lim_lily_c@schools.gov.sg"><span style="color:#C00000">lim_lily_c@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td><td width="288" style="width:215.85pt;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:44.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64"><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span>
+	</p>
+	</td>
+	</tr>
+	</tbody>
+</table>
 
 **School Counsellor &amp; SEN Officers**
 
