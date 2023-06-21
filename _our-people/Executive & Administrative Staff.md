@@ -40,6 +40,10 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
     <td class="tg-15z8">Mdm Sally Tan<br><a href="mailto:tan_kui_wang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_kui_wang@schools.gov.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
+    <td class="tg-15z8">Ms Margaret Chang<br><a href="mailto:Chang_Quek_Poh_Margaret@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">chang_quek_poh_margaret@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-jxqz">Receptionist</td>
     <td class="tg-15z8">Mdm Lilian Ngiam</td>
