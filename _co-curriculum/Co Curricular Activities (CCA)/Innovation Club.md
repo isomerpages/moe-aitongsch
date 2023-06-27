@@ -4,9 +4,7 @@ permalink: /co-curriculum/Co-Curricular-Activities/innovation/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-In the Innovation Club, students will look at Science in a different light. Explore scientific concepts through a variety of engaging hands-on experiments. Stimulate their curious young minds and learn how the world functions and operates through fun and exciting activities. There will also be platforms provided for students to express their creativity and unleash their potential for innovation. The explorer Club is ideal for the inquisitive student who wants to develop their inner Albert Einstein.
-
-
+The Innovation Club CCA creates a platform for students to discover the world around them, be marveled by their own creativity and unleash their potential for innovation. There will be myriad opportunities for the students to be engaged in self-directed and cooperative learning. Students will also get to explore creative problem-solving approaches which help in broadening their imaginative space. The Innovation Club is ideal for inquisitive students looking beyond the horizon and aiming to harness their creativity to fuel the changes around them.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
