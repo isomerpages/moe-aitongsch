@@ -4,17 +4,98 @@ permalink: /co-curriculum/Co-Curricular-Activities/sports-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-Sports Club as a CCA helps to develop character and resilience. In Sports Club, we offer your child an exposure to a variety of sports such as floorball and netball. Through these sports, we aim to help students cultivate a physically active and healthy lifestyle. At the same time, to develop your child’s character and resilience.  We hope that your child will enjoy the sports offered and participate actively to gain the most out of Sports Club.
+Sports Club as a CCA helps to develop character and resilience. In Sports Club, we offer your child an exposure to a variety of sports such as floorball and netball.&nbsp;Through these sports, we aim to help students cultivate a physically active and healthy lifestyle. At the same time, to develop your child’s character and resilience.&nbsp; We hope that your child will enjoy the sports offered and participate actively to gain the most out of Sports Club.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-vfvg{background-color:#FFF;color:#444;text-align:center;vertical-align:middle}
-</style>
-<table width="682" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="32" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="32" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></font></td><td class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teachers-in-charge</b></font></td><td class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="40" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Tuesday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P6<span>&nbsp;</span><font class="" style="margin: 0px; outline: 0px; padding: 0px;">(Term 1 only)<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Thursday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 to P5</font></font></td><td rowspan="2" class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">2.15pm to 4pm</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mr Hazli</font></td><td rowspan="2" class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Parade Square / Field</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Rachel Ong</font></td></tr></tbody></table>
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="803" style="width:602.0pt;background:white;border-collapse:collapse;border:none;
+ mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:16.0pt"><td width="203" valign="top" style="width:152.25pt;border:solid #AAAAAA 1.0pt;
+  mso-border-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+  height:16.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">Day</span></b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></p></td><td width="150" valign="top" style="width:112.5pt;border:solid #AAAAAA 1.0pt;
+  border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:16.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">Time</span></b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></p></td><td width="191" valign="top" style="width:143.25pt;border:solid #AAAAAA 1.0pt;
+  border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:16.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">Teachers-in-charge</span></b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#454545;
+  mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td width="138" valign="top" style="width:103.5pt;border:solid #AAAAAA 1.0pt;
+  border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:16.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">Venue</span></b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:1;height:10.0pt"><td width="203" rowspan="2" valign="top" style="width:152.25pt;border:solid #AAAAAA 1.0pt;
+  border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">Thursday<br>P3, P4 &amp; P5</span><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></p></td><td width="150" rowspan="2" valign="top" style="width:112.5pt;border-top:none;
+  border-left:none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt;
+  mso-border-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+  height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">2.15pm to 4pm</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#454545;
+  mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td width="191" valign="top" style="width:143.25pt;border-top:none;border-left:
+  none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt;
+  mso-border-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+  height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">*Mr Hazli</span><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></p></td><td width="138" rowspan="2" valign="top" style="width:103.5pt;border-top:none;
+  border-left:none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt;
+  mso-border-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+  height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">Parade Square</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#454545;
+  mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:10.0pt"><td width="191" valign="top" style="width:143.25pt;border-top:none;border-left:
+  none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt;
+  mso-border-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+  height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">*Mr Lloyd Nicholas</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#454545;
+  mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr></tbody></table>
 
 \* Teacher-in-Charge

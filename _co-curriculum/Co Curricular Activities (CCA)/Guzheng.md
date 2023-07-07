@@ -4,7 +4,7 @@ permalink: /co-curriculum/Co-Curricular-Activities/guzheng/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-The Guzheng - robust, crisp, melancholy, haunting! Guzheng is another emblem of Chinese culture in our performing arts. Applying their dexterous fingers to their instruments and in serious concentration. Our Guzheng players display theirs skills with their fingering technique, memorable melodic strains and specially created repetoire.
+The Guzheng - robust, crisp, melancholy, haunting! Guzheng is another emblem of Chinese culture in our performing arts.&nbsp;Applying their dexterous fingers to their instruments&nbsp;and in serious concentration. Our Guzheng players display theirs skills with their fingering technique, memorable melodic strains and specially created repetoire.
 
 Members will get to take part in the Singapore Youth Festival (SYF). They will also be given opportunities to put up performances for their fellow schoolmates during assembly.
 
@@ -18,7 +18,71 @@ Members will get to take part in the Singapore Youth Festival (SYF). They will a
 .tg .tg-d8lx{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-vfvg{background-color:#FFF;color:#444;text-align:center;vertical-align:middle}
 </style>
-<table width="682" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="21" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="21" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></font></td><td class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teachers-in-charge</b></font></td><td class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" height="60" class="" width="203" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Tuesday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 to P6<br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;">Thursday<br class="" style="margin: 0px; outline: 0px; padding: 0px;">P3 to P6</font></td><td rowspan="3" class="" width="150" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">2.15pm to 4pm</font></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Wu Mei Hui</font></td><td rowspan="3" class="" width="138" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Music Room<br class="" style="margin: 0px; outline: 0px; padding: 0px;">A41 &amp; F41</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">*Mdm Fan Xiaoxia</font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Ms Aileen Lui</font></td></tr></tbody></table>
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="719" style="width:539.6pt;border-collapse:collapse;border:none;mso-border-alt:solid #AAAAAA .75pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:10.5pt"><td width="167" style="width:125.6pt;border:solid #AAAAAA 1.0pt;mso-border-alt:
+  solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">Day</span></p></td><td width="138" style="width:103.5pt;border:solid #AAAAAA 1.0pt;border-left:
+  none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">Time</span></p></td><td width="240" style="width:2.5in;border:solid #AAAAAA 1.0pt;border-left:none;
+  mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">Teachers-in-charge</span></p></td><td width="174" style="width:130.5pt;border:solid #AAAAAA 1.0pt;border-left:
+  none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">Venue</span></p></td></tr><tr style="mso-yfti-irow:1;height:10.0pt"><td width="167" rowspan="4" style="width:125.6pt;border:solid #AAAAAA 1.0pt;
+  border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">Tuesday<br>P3 to P6 (C)<br><br>Thursday<br>P3 to P6 (C)</span></p></td><td width="138" rowspan="4" style="width:103.5pt;border-top:none;border-left:
+  none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt;
+  mso-border-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+  height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">2.15pm to 4pm</span></p></td><td width="240" style="width:2.5in;border-top:none;border-left:none;border-bottom:
+  solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">*Mdm Ong Yen San</span></p></td><td width="174" rowspan="4" style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt;
+  mso-border-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+  height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">Guzheng Room &amp; PAL Rooms (D22/ D23)</span></p></td></tr><tr style="mso-yfti-irow:2;height:10.0pt"><td width="240" style="width:2.5in;border-top:none;border-left:none;border-bottom:
+  solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">Mdm Xia Xiao Ling</span></p></td></tr><tr style="mso-yfti-irow:3;height:10.0pt"><td width="240" style="width:2.5in;border-top:none;border-left:none;border-bottom:
+  solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">Mrs Stephanie Pung</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:10.0pt"><td width="240" style="width:2.5in;border-top:none;border-left:none;border-bottom:
+  solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#454545;mso-font-kerning:0pt;mso-ligatures:none">*Mdm Zha Fangyu</span></p></td></tr></tbody></table>
 
 (C) denotes Competitive Team  
 \*Teacher-in-Charge
