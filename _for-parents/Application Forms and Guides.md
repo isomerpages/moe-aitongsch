@@ -38,4 +38,4 @@ Click **[here](https://go.gov.sg/ats-waiting-list-form)** to access the Waitin
 
 **Please note that the waiting list does not guarantee your child a place in the school. If you do not hear from us within 6 months from the date you applied, you will need to resubmit your application again.** 
 
-**Note:** P1 (2023) Waiting List application is available from 5th Sep 2022.
+**Note:** P1 (2024) Waiting List application is available from 1st Sep 2023.
