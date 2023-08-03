@@ -5,14 +5,14 @@ description: ""
 ---
 ### Pacific Book Store Pte Ltd
 
- **Operating Hours:**    
-**Mon - Fri:** 8.30am to 3pm (lunch: 11am to 12nn)    
-**Contact Number:** 64511069    
-**Email:** [ats@pacificbookstores.com](mailto:ats@pacificbookstores.com)
+&nbsp;**Operating Hours:**    
+**Mon - Fri:**&nbsp;8.30am to 3pm (lunch:&nbsp;11am to 12nn)    
+**Contact Number:**&nbsp;64511069    
+**Email:**&nbsp;[ats@pacificbookstores.com](mailto:ats@pacificbookstores.com)
 
 **Note to Parents:**  
 
-The bookshop will be open to parents for the purchase of books and school uniform from **2pm to 3pm**. This arrangement is to give priority to pupils who need to purchase items from the bookshop during recess and immediately after school dismissal. It is also part of the school's security measures to ensure the safety of our pupils during curriculum hours. We seek your understanding, and we apologise for any inconvenience caused.
+The bookshop will be open to parents for the purchase of books and school uniform from&nbsp;**2pm to 3pm**. This arrangement is to give priority to pupils who need to purchase items from the bookshop during recess and immediately after school dismissal. It is also part of the school's security measures to ensure the safety of our pupils during curriculum hours. We seek your understanding, and we apologise for any inconvenience caused.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -90,6 +90,6 @@ The bookshop will be open to parents for the purchase of books and school unifor
 
 ### 2023 ATS Uniform and Name Tag
 
-[ATS Uniform Measurement Chart.pdf](/files/ATS%20Uniform%20Measurement%20Chart.pdf)   
-[Uniform List 2023.pdf](/files/Uniform%20List%202023.pdf)   
-[Name Tag Order Form 2023.pdf](/files/Name%20Tag%20Order%20Form%202023.pdf)
+[ATS Uniform Measurement Chart](/files/ATS%20Uniform%20Measurement%20Chart.pdf)   
+[New Uniform Price List 2023](/files/new%20uniform%20price%20list%202023.pdf)  
+[Name Tag Order Form 2023](/files/Name%20Tag%20Order%20Form%202023.pdf)
