@@ -310,9 +310,7 @@ description: ""
 .tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nc7t{background-color:#E7E6E6;color:#454545;text-align:left;vertical-align:middle}
 </style>
-
-	tr&gt;
-    <table class="tg">
+<table class="tg">
 <tbody>
   <tr>
     <td class="tg-jxqz"><span style="color:white">HOD SM</span></td>
@@ -333,9 +331,12 @@ description: ""
   <tr>
     <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
     <td class="tg-nc7t">Ms Tedra Cher Wei Ting<br><a href="mailto:tedra_cher_wei_ting@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tedra_cher_wei_ting@schools.gov.sg</span></a></td>
-  </tr><tr><td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
+  </tr>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
     <td class="tg-nc7t">Ms Mandy Tan Yam Peng<br><a href="mailto:tan_yam_peng@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_yam_peng@schools.gov.sg</span></a></td>
   </tr>
+	
   </tbody>
 </table>
 
