@@ -336,7 +336,6 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
     <td class="tg-nc7t">Ms Mandy Tan Yam Peng<br><a href="mailto:tan_yam_peng@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_yam_peng@schools.gov.sg</span></a></td>
   </tr>
-	
   </tbody>
 </table>
 
