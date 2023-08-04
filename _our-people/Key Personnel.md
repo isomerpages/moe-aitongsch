@@ -292,12 +292,7 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">HOD PE/CCA</span></td>
     <td class="tg-nc7t">Mr Lloyd Nicholas<br><a href="mailto:lloyd_nicholas_morand@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lloyd_nicholas_morand@schools.gov.sg</span></a></td>
   </tr>
-  
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">LT PE</span></td>
-    <td class="tg-nc7t">Mr Matthew Yap<br><a href="mailto:yap_kheng_wai_matthew@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">yap_kheng_wai_matthew@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-jxqz">ST PE</td>
     <td class="tg-nc7t">Mr Jay Sng<br><a href="mailto:sng_yuan_zhi_jay@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">sng_yuan_zhi_jay@schools.gov.sg</span></a></td>
   </tr>
@@ -336,6 +331,10 @@ description: ""
   <tr>
     <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
     <td class="tg-nc7t">Ms Tedra Cher Wei Ting<br><a href="mailto:tedra_cher_wei_ting@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tedra_cher_wei_ting@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">SEN Officer</span></td>
+    <td class="tg-nc7t">Ms Mandy Tan Yam Peng<br><a href="mailto:tan_yam_peng@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_yam_peng@schools.gov.sg</span></a></td>
   </tr>
   </tbody>
 </table>
@@ -430,7 +429,7 @@ description: ""
 </tbody>
 </table>
 
-### Innovation & Project Work
+### Innovation &amp; Project Work
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}

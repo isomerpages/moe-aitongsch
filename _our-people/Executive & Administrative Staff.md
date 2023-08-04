@@ -124,6 +124,10 @@ description: ""
     <td class="tg-sdzj">Mdm Susan</td>
   </tr>
   <tr>
+    <td class="tg-jxqz"><span style="color:white">Printing Assistant</span></td>
+    <td class="tg-sdzj">Mdm Chai Bee Leng</td>
+  </tr>
+	<tr>
     <td class="tg-jxqz"><span style="color:white">Library Assistant</span></td>
     <td class="tg-sdzj">Mr Ong Ah Lek</td>
   </tr>
