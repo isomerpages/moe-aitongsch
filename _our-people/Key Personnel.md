@@ -292,12 +292,7 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">HOD PE/CCA</span></td>
     <td class="tg-nc7t">Mr Lloyd Nicholas<br><a href="mailto:lloyd_nicholas_morand@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lloyd_nicholas_morand@schools.gov.sg</span></a></td>
   </tr>
-  
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">LT PE</span></td>
-    <td class="tg-nc7t">Mr Matthew Yap<br><a href="mailto:yap_kheng_wai_matthew@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">yap_kheng_wai_matthew@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-jxqz">ST PE</td>
     <td class="tg-nc7t">Mr Jay Sng<br><a href="mailto:sng_yuan_zhi_jay@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">sng_yuan_zhi_jay@schools.gov.sg</span></a></td>
   </tr>
@@ -430,7 +425,7 @@ description: ""
 </tbody>
 </table>
 
-### Innovation & Project Work
+### Innovation &amp; Project Work
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
