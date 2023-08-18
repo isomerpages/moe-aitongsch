@@ -9,9 +9,9 @@ description: ""
 *   [MOE FAS Pamphlet 2023](/files/MOE%20FAS%20pamphlet%202023.pdf) _\*updated as of_ _8 November 2022_  
     
 
-### Bursary 2023 for Students of SHHK Affiliated Schools
+### Bursary 2024 for Students of SHHK Affiliated Schools
 
-*   [Application of Bursary for SHHK Affiliated Schools](/files/2023年福建会馆属校学生助学金申请表格(2月2023年)-Batch%202.pdf) *updated as of 8 Feb 2023*
+*  [2024 Application of Bursary for SHHK Affiliated Schools](/files/2024%20application%20of%20bursary%20for%20shhk%20affiliated%20schools%20students.pdf)  **updated as of 18 Aug 2023*
 
 
 ### NEU PC Plus Programme
