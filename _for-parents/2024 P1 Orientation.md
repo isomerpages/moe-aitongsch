@@ -6,6 +6,7 @@ description: ""
 # 2024 - P1  Orientation
 
 Dear parents, 
+
 This is a brief outline of the P1 orientation programme for 2024.  More information will be put up nearer the end of September. Please note that the timings for the events are tentative and are subjected to changes. 
 
 1. **Orientation Part 1** - Webinar (School Management Talk) - 27 Oct, 4-5.30pm
