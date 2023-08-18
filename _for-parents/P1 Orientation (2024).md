@@ -12,14 +12,3 @@ This is a brief outline of the P1 orientation programme for 2024.  More informat
 1. **Orientation Part 1** - Webinar (School Management Talk) - 27 Oct 2023, 4-5.30pm
 2. **Orientation Part 2** -  Face to Face (School Management Talk & Class Time) - 17 Nov 2023, 9-11.00am
 3. **Orientation Part 3** - (School Management Talk & Form Teacher Time) - 2 Jan 2024, 7.30-11.30am
-
-
-
-
-
-
-
-
-
-
- 
