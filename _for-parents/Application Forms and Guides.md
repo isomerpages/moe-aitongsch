@@ -11,7 +11,7 @@ description: ""
 
 ### Bursary 2024 for Students of SHHK Affiliated Schools
 
-[2024 Application of Bursary for SHHK Affiliated Schools](/files/2024%20application%20of%20bursary%20for%20shhk%20affiliated%20schools%20students.pdf)  **updated as of 18 Aug 2024*
+*  [2024 Application of Bursary for SHHK Affiliated Schools](/files/2024%20application%20of%20bursary%20for%20shhk%20affiliated%20schools%20students.pdf)  **updated as of 18 Aug 2024*
 
 
 ### NEU PC Plus Programme
