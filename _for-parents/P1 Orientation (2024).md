@@ -13,6 +13,6 @@ This is a brief outline of the P1 orientation programme for 2024.  More informat
 2. **Orientation Part 2** -  Face to Face (School Management Talk &amp; Class Time) - 17 Nov 2023, 9-11.00am
 3. **Orientation Part 3** - (School Management Talk &amp; Form Teacher Time) - 2 Jan 2024, 7.30-11.30am
 
-#### <u>**Student Care Request**</u>
+#### <u>Student Care Request</u>
 1. [Cover Letter for New Parents_2024](/files/cover%20letter%20for%20new%20parents_2024.pdf)
 2. [2024 P1 REQUEST FORM](/files/2024%20p1%20request%20form.pdf)
