@@ -3,7 +3,6 @@ title: Primary 5 Form Teachers
 permalink: /our-people/primary-5-form-teachers/
 description: ""
 ---
-         
 <table style="mso-cellspacing:.7pt;background:#AFAFAF;mso-table-layout-alt:fixed;
  border:solid black 1.0pt;mso-border-alt:solid black .25pt;mso-yfti-tbllook:
  1184;mso-padding-alt:0in 0in 0in 0in;mso-border-insideh:.25pt solid black;
@@ -115,10 +114,10 @@ description: ""
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:219.8pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:white;padding:0in 0in 0in 0in;height:.5in" width="293"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Mr Chan Melzone</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#454545"><br></span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:chan_melzone@schools.gov.sg"><span style="font-size:10.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Mrs Sashi</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"><br></span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:kanna_dhatchayani@schools.gov.sg"><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#C00000;text-decoration:none;text-underline:none">chan_melzone@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  color:#C00000;text-decoration:none;text-underline:none">kanna_dhatchayani@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:201.45pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:white;padding:0in 0in 0in 0in;height:.5in" width="269"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
