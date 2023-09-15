@@ -16,8 +16,8 @@ description: ""
   height:44.75pt" valign="top" width="251"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-font-kerning:0pt;mso-ligatures:none">Mrs Sashi</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"><br><span style="color:#C00000"><a href="mailto:kanna_dhatchayani@schools.gov.sg"><span style="color:#C00000">kanna_dhatchayani@schools.gov.sg</span></a></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  mso-font-kerning:0pt;mso-ligatures:none">Mr Alex Xie</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"><br><span style="color:#C00000"><a href="mailto:alex_xie_huan@schools.gov.sg"><span style="color:#C00000">alex_xie_huan@schools.gov.sg</span></a></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:160.7pt;padding:0in 5.4pt 0in 5.4pt;
   height:44.75pt" valign="top" width="214"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
@@ -56,15 +56,7 @@ description: ""
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span><span style="font-size:
   12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none">Mr Alex Xie<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
-  0pt;mso-ligatures:none"><a href="mailto:alex_xie_huan@schools.gov.sg"><span style="color:#C00000">alex_xie_huan@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.15pt;padding:0in 5.4pt 0in 5.4pt;
-  height:44.75pt" valign="top" width="251"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-  auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></b></p></td><td style="width:160.7pt;padding:0in 5.4pt 0in 5.4pt;
+  mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td><td style="width:160.7pt;padding:0in 5.4pt 0in 5.4pt;
   height:44.75pt" valign="top" width="214"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
@@ -298,4 +290,3 @@ description: ""
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
   0pt;mso-ligatures:none"></span></p></td><td width="237" style="width:178.05pt;background:#E5E5E5;padding:0in 0in 0in 0in;
   height:34.5pt"></td></tr></tbody></table>
-
