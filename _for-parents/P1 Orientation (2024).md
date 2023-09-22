@@ -18,6 +18,3 @@ This is a brief outline of the P1 orientation programme for 2024.  More informat
 
 **22 September 2023:**
 An email has been sent to parents today. Please check your email for more information. If you have any concerns, please send your queries to this email: aitong_sch@moe.edu.sg
-
-
-
