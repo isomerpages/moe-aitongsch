@@ -7,7 +7,7 @@ description: ""
 
 &nbsp;**Operating Hours:**    
 **Mon - Fri:**&nbsp;8.30am to 3pm (lunch:&nbsp;11am to 12nn)    
-**Contact Number:**&nbsp;64511069    
+**Contact Number:**&nbsp;93653962 (avoid recess time 0850am - 1110am)  
 **Email:**&nbsp;[ats@pacificbookstores.com](mailto:ats@pacificbookstores.com)
 
 **Note to Parents:**  
