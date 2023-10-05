@@ -40,7 +40,7 @@ Ai Tong School’s Infocomm Club has won two team awards. The details are as fol
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:31.45pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">JUDGES AWARD</p></td></tr></tbody></table>
 
-
+Results can be found [here](https://codejam.sg/wp-content/uploads/2023/10/Hackcode-2023-Scratch-Results.pdf).
 
 **<u>DJI RoboMaster Youth Championship 2022 Singapore</u>**
 
