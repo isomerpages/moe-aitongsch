@@ -1,9 +1,47 @@
 ---
-title: Clubs &amp; Societies Award
+title: Clubs & Societies Award
 permalink: /our-achievements/Student-Achievements/clubs-and-societies-award/
 description: ""
 third_nav_title: Student Achievements
 ---
+**<u>HACK@CODE</u>**
+
+HACK@CODE is a National Online Thematic Coding Competition jointly organized by Code.JAM and Tribal Studioz for young coders of any ages between 7 to 14 years old to put their coding skills into actions.
+The theme for 2023’s competition is The Future of Artificial Intelligence, Where Innovation Knows No Bounds!
+Ai Tong School’s Infocomm Club has won two team awards. The details are as follows:
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="598" style="width:448.55pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.95pt"><td width="199" valign="top" style="width:149.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#92D050;padding:0in 5.4pt 0in 5.4pt;
+  height:13.95pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;tab-stops:
+  center 69.35pt right 138.7pt"><b><span style="color:black;mso-color-alt:windowtext"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Team Name</span></b></p></td><td width="199" valign="top" style="width:149.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#92D050;padding:0in 5.4pt 0in 5.4pt;
+  height:13.95pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="color:black;mso-color-alt:windowtext">Team members</span></b></p></td><td width="199" valign="top" style="width:149.55pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#92D050;padding:0in 5.4pt 0in 5.4pt;
+  height:13.95pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="color:black;mso-color-alt:windowtext">Awards</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:31.45pt"><td width="199" valign="top" style="width:149.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:31.45pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">NEIGHBOURHOOD WONDER</p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="199" valign="top" style="width:149.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:31.45pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">LEE JUN HONG, CALLUM<br>LUCIUS TONG PENG XUN<br>JERMAINE LIM</p></td><td width="199" valign="top" style="width:149.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:31.45pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">MOST INSPIRATIONAL AWARD</p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:31.45pt"><td width="199" valign="top" style="width:149.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:31.45pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">MARVEL BOB</p></td><td width="199" valign="top" style="width:149.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:31.45pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">LEE QUAN MING<br>CASTIEL TAN YU JUN<br>LEE MIN JIA</p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="199" valign="top" style="width:149.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:31.45pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">JUDGES AWARD</p></td></tr></tbody></table>
+
+
+
 **<u>DJI RoboMaster Youth Championship 2022 Singapore</u>**
 
 RoboMaster Youth Championship (RMYC) is organized to evolve the current robotic competition standards into the whole new level that excite and interests of our next generation in engineering and robotic. It is a national level competition and these students won the champion.
@@ -14,7 +52,7 @@ RoboMaster Youth Championship (RMYC) is organized to evolve the current robotic 
 * 1 Student from 5 Diligence
 * 1 Student from 5 Patience
 
-<img src="/images/csa1.png" style="width:65%">
+<img style="width:65%" src="/images/csa1.png">
 		 
 --------------
 
@@ -29,7 +67,7 @@ The team of three boys from Ai Tong School won Champion in the Drone Swarming Ch
 * 1 Student from 5 Harmony   
 * 2 Students from 5 Responsibility 
 
-<img src="/images/csa2.png" style="width:65%">
+<img style="width:65%" src="/images/csa2.png">
 
 ----------
 <br><br>
@@ -45,7 +83,7 @@ The team of three boys from Ai Tong School won Champion in the Drone Swarming Ch
 .tg .tg-l1tw{background-color:#E2EFD9;color:#454545;text-align:center;vertical-align:top}
 .tg .tg-cyxe{background-color:#ffffff;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 658px">
+<table style="undefined;table-layout: fixed; width: 658px" class="tg">
 <colgroup>
 <col style="width: 247px">
 <col style="width: 411px">
