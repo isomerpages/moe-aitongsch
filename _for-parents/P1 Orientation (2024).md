@@ -16,6 +16,9 @@ This is a brief outline of the P1 orientation programme for 2024.  More informat
 
 ### **Latest Announcements**
 
+**13 October 2023:**
+An email and a Parents Gateway (PG) notification have been sent to parents today. Please refer to PG for more information and details about the upcoming webinar on 20 October 2023.
+
 **22 September 2023:**
 An email has been sent to parents today. Please check your email for more information. If you have any concerns, please send your queries to this email: <a href="mailto:“aitong_sch@moe.edu.sg”">aitong_sch@moe.edu.sg</a>
 
