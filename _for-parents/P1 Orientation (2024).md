@@ -7,7 +7,7 @@ description: ""
 
 Dear parents, 
 
-This is a brief outline of the P1 orientation programme for 2024.  More information will be put up nearer the end of September. Please note that the timings for the events are tentative and are subjected to changes. 
+This is a brief outline of the P1 orientation programme for 2024. Please note that the timings for the events are tentative and are subjected to changes. 
 
 1. **Orientation Part 1** - Webinar (School Management Talk) - 20 Oct 2023, 4-5.30pm
 2. **Orientation Part 2** -  Face to Face (School Management Talk &amp; Class Time) - 17 Nov 2023, 9-11.00am
@@ -21,7 +21,3 @@ An email and a Parents Gateway (PG) notification have been sent to parents today
 
 **22 September 2023:**
 An email has been sent to parents today. Please check your email for more information. If you have any concerns, please send your queries to this email: <a href="mailto:“aitong_sch@moe.edu.sg”">aitong_sch@moe.edu.sg</a>
-
-
-
-
