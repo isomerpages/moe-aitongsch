@@ -4,9 +4,8 @@ permalink: /for-parents/application-forms-and-guides/
 description: ""
 ---
 ### MOE Financial Assistance Scheme (FAS) 经济援助计划
-*   [Application of 2023 MOE FAS](/files/Application%20of%202023%20MOE%20FAS.pdf) _\*updated as of_ _10 October 2022_
-*   [eFAS](https://go.gov.sg/moe-efas)
-*   [MOE FAS Pamphlet 2023](/files/MOE%20FAS%20pamphlet%202023.pdf) _\*updated as of_ _8 November 2022_  
+*  [Letter for FAS Application for 2024](/files/letter%20for%20fas%20application%20for%202024.pdf) \**updated as of 17 October 2023*
+* [MOE FAS Pamphlet](/files/moe%20fas%20pamphlet%20el.pdf) \**updated as of 17 October 2023*
     
 
 ### Bursary 2024 for Students of SHHK Affiliated Schools
