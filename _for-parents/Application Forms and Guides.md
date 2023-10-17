@@ -5,6 +5,7 @@ description: ""
 ---
 ### MOE Financial Assistance Scheme (FAS) 经济援助计划
 *  [Letter for FAS Application for 2024](/files/letter%20for%20fas%20application%20for%202024.pdf) \**updated as of 17 October 2023*
+*  [e-FAS](https://go.gov.sg/moe-efas)
 * [MOE FAS Pamphlet](/files/moe%20fas%20pamphlet%20el.pdf) \**updated as of 17 October 2023*
     
 
