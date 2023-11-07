@@ -24,4 +24,5 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/aitong
       alt: Image alt text
+      image: /images/aitong-askgov (1).png
 ---
