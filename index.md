@@ -17,4 +17,11 @@ sections:
       subtitle: E-resources in one place
       button: View All
       url: /useful-links/
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A question?
+      id: infopic
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/aitong
+      alt: Image alt text
 ---
