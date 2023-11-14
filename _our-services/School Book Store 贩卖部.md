@@ -38,42 +38,42 @@ The bookshop will be open to parents for the purchase of books and school unifor
   </tr>
   <tr>
     <td class="tg-6o7l">Shirt (Boy)</td>
-    <td class="tg-6o7l">$11</td>
+    <td class="tg-6o7l">$11.10</td>
     <td class="tg-6o7l"></td>
   </tr>
   <tr>
     <td class="tg-6o7l">Pant (Boy)</td>
-    <td class="tg-6o7l">$11</td>
+    <td class="tg-6o7l">$11.10</td>
     <td class="tg-6o7l"></td>
   </tr>
   <tr>
     <td class="tg-6o7l"> Blouse (Girl)</td>
-    <td class="tg-6o7l">$7</td>
+    <td class="tg-6o7l">$7.10</td>
     <td class="tg-6o7l"> </td>
   </tr>
   <tr>
     <td class="tg-6o7l">Pinafore (Girl)</td>
-    <td class="tg-6o7l">$12.50</td>
+    <td class="tg-6o7l">$12.65</td>
     <td class="tg-6o7l"> </td>
   </tr>
   <tr>
     <td class="tg-6o7l"> PE T-Shirt (Boy &amp; Girl)</td>
-    <td class="tg-6o7l">$8</td>
+    <td class="tg-6o7l">$8.10</td>
     <td class="tg-6o7l"> </td>
   </tr>
   <tr>
     <td class="tg-6o7l">PE Shorts (Boy &amp; Girl)</td>
-    <td class="tg-6o7l">$8</td>
+    <td class="tg-6o7l">$8.10</td>
     <td class="tg-6o7l"> </td>
   </tr>
   <tr>
-    <td class="tg-6o7l"> White Shoe</td>
-    <td class="tg-6o7l"> $18.90</td>
+    <td class="tg-6o7l"> White Shoes</td>
+    <td class="tg-6o7l"> $19.50</td>
     <td class="tg-6o7l" rowspan="2">This is not a compulsory item. Parents may choose to purchase white shoes and white socks elsewhere.</td>
   </tr>
   <tr>
-    <td class="tg-6o7l">  ATS Sock</td>
-    <td class="tg-6o7l"> $2.20</td>
+    <td class="tg-6o7l">  ATS Socks</td>
+    <td class="tg-6o7l"> $2.50</td>
   </tr>
 </tbody>
 </table>
