@@ -89,7 +89,7 @@ The bookshop will be open to parents for the purchase of books and school unifor
 * [P6 Booklist 2024](/files/P6_Booklist_2024.pdf)
     
 
-### 2024ATS Uniform and Name Tag
+### 2024 ATS Uniform and Name Tag
 
 * [ATS Uniform Measurement Chart](/files/ATS%20Uniform%20Measurement%20Chart.pdf)
 * [Uniform Price List 2024](/files/Uniform_Price_List_2024.pdf)
