@@ -2,6 +2,7 @@
 title: School Book Store 贩卖部
 permalink: /our-services/school-book-store/
 description: ""
+variant: markdown
 ---
 ### Pacific Book Store Pte Ltd
 
@@ -81,10 +82,15 @@ The bookshop will be open to parents for the purchase of books and school unifor
 ### 2024 Booklist
 
 * [P1 Booklist 2024](/files/p1%20booklist%202024.pdf)
+* [P2 Booklist 2024](/files/P2_Booklist_2024.pdf)
+* [P3 Booklist 2024](/files/P3_Booklist_2024.pdf)
+* [P4 Booklist 2024](/files/P4_Booklist_2024.pdf)
+* [P5 Booklist 2024](/files/P5_Booklist_2024.pdf)
+* [P6 Booklist 2024](/files/P6_Booklist_2024.pdf)
     
 
-### 2023 ATS Uniform and Name Tag
+### 2024ATS Uniform and Name Tag
 
 * [ATS Uniform Measurement Chart](/files/ATS%20Uniform%20Measurement%20Chart.pdf)
-* [New Uniform Price List 2023](/files/new%20uniform%20price%20list%202023.pdf)
-* [Name Tag Order Form 2023](/files/Name%20Tag%20Order%20Form%202023.pdf)
+* [Uniform Price List 2024](/files/Uniform_Price_List_2024.pdf)
+* [ Name Tag Order Form 2024](/files/Name_Tag_Order_Form_2024.pdf)
