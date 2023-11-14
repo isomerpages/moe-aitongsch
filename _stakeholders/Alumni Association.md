@@ -30,5 +30,5 @@ variant: markdown
 
 ### Enrichment Programs
 
-* [ATS Prospectus 2024](https://go.gov.sg/ats-prospectus-2024)
 * [Ai Tong School Alumni Association Courses](http://qrco.de/beXITb)
+* [ATS Prospectus 2024](https://go.gov.sg/ats-prospectus-2024)
