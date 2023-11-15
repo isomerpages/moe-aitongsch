@@ -2,6 +2,7 @@
 title: School Book Store 贩卖部
 permalink: /our-services/school-book-store/
 description: ""
+variant: markdown
 ---
 ### Pacific Book Store Pte Ltd
 
@@ -37,42 +38,42 @@ The bookshop will be open to parents for the purchase of books and school unifor
   </tr>
   <tr>
     <td class="tg-6o7l">Shirt (Boy)</td>
-    <td class="tg-6o7l">$11</td>
+    <td class="tg-6o7l">$11.10</td>
     <td class="tg-6o7l"></td>
   </tr>
   <tr>
     <td class="tg-6o7l">Pant (Boy)</td>
-    <td class="tg-6o7l">$11</td>
+    <td class="tg-6o7l">$11.10</td>
     <td class="tg-6o7l"></td>
   </tr>
   <tr>
     <td class="tg-6o7l"> Blouse (Girl)</td>
-    <td class="tg-6o7l">$7</td>
+    <td class="tg-6o7l">$7.10</td>
     <td class="tg-6o7l"> </td>
   </tr>
   <tr>
     <td class="tg-6o7l">Pinafore (Girl)</td>
-    <td class="tg-6o7l">$12.50</td>
+    <td class="tg-6o7l">$12.65</td>
     <td class="tg-6o7l"> </td>
   </tr>
   <tr>
     <td class="tg-6o7l"> PE T-Shirt (Boy &amp; Girl)</td>
-    <td class="tg-6o7l">$8</td>
+    <td class="tg-6o7l">$8.10</td>
     <td class="tg-6o7l"> </td>
   </tr>
   <tr>
     <td class="tg-6o7l">PE Shorts (Boy &amp; Girl)</td>
-    <td class="tg-6o7l">$8</td>
+    <td class="tg-6o7l">$8.10</td>
     <td class="tg-6o7l"> </td>
   </tr>
   <tr>
-    <td class="tg-6o7l"> White Shoe</td>
-    <td class="tg-6o7l"> $18.90</td>
+    <td class="tg-6o7l"> White Shoes</td>
+    <td class="tg-6o7l"> $19.50</td>
     <td class="tg-6o7l" rowspan="2">This is not a compulsory item. Parents may choose to purchase white shoes and white socks elsewhere.</td>
   </tr>
   <tr>
-    <td class="tg-6o7l">  ATS Sock</td>
-    <td class="tg-6o7l"> $2.20</td>
+    <td class="tg-6o7l">  ATS Socks</td>
+    <td class="tg-6o7l"> $2.50</td>
   </tr>
 </tbody>
 </table>
@@ -81,10 +82,15 @@ The bookshop will be open to parents for the purchase of books and school unifor
 ### 2024 Booklist
 
 * [P1 Booklist 2024](/files/p1%20booklist%202024.pdf)
+* [P2 Booklist 2024](/files/P2_Booklist_2024.pdf)
+* [P3 Booklist 2024](/files/P3_Booklist_2024.pdf)
+* [P4 Booklist 2024](/files/P4_Booklist_2024.pdf)
+* [P5 Booklist 2024](/files/P5_Booklist_2024.pdf)
+* [P6 Booklist 2024](/files/P6_Booklist_2024.pdf)
     
 
-### 2023 ATS Uniform and Name Tag
+### 2024 ATS Uniform and Name Tag
 
 * [ATS Uniform Measurement Chart](/files/ATS%20Uniform%20Measurement%20Chart.pdf)
-* [New Uniform Price List 2023](/files/new%20uniform%20price%20list%202023.pdf)
-* [Name Tag Order Form 2023](/files/Name%20Tag%20Order%20Form%202023.pdf)
+* [Uniform Price List 2024](/files/Uniform_Price_List_2024.pdf)
+* [ Name Tag Order Form 2024](/files/Name_Tag_Order_Form_2024.pdf)
