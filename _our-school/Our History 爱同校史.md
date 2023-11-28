@@ -2,6 +2,7 @@
 title: Our History 爱同校史
 permalink: /our-school/our-history/
 description: ""
+variant: markdown
 ---
 **Our History** **校史**
 ![](/images/ourhist.jpeg)
@@ -77,6 +78,13 @@ description: ""
 **2022:** The school celebrated her 110th Anniversary with a series of celebratory activities throughout the year such as producing an Oral History and having our very own theme song to mark the occasion. The school also entered the Singapore Book of Records by having the "Most number of people tying Chinese knots".
 
 学校迎来110周年校庆。学校举办了一系列庆祝活动，例如邀请师友们口述爱同校史，制作纪录片；爱同师生共同创作校庆主题曲等。学校还于校庆当天，举办师生共同结中国结活动，并以“最多人同时结中国结”的成绩刷新记录，载入《新加坡纪录大全》。
+
+
+**Our Past Principals 爱同历任校长**
+
+![](/images/Past_Principals.png)
+
+
 
 
 ![](/images/Ai%20Tong,%202016.jpeg)
