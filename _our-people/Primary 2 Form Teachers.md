@@ -2,6 +2,7 @@
 title: Primary 2 Form Teachers
 permalink: /our-people/primary-2-form-teachers/
 description: ""
+variant: markdown
 ---
 <table style="width:553.5pt;mso-cellspacing:.7pt;background:#AFAFAF;border:solid black 1.0pt;
  mso-border-alt:solid black .25pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in;
@@ -24,9 +25,9 @@ description: ""
   &quot;Times New Roman&quot;;color:#222222"></span></b></p></td><td style="width:210.8pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#D1D0D0;padding:0in 0in 0in 0in;height:.5in" width="281"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mrs Teo Joseph<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:tan_pei_tze@schools.gov.sg"><span style="color:#C00000;
-  text-decoration:none;text-underline:none">tan_pei_tze@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Jeslyn Yeo<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:yeo_siew_hoon@schools.gov.sg"><span style="color:#C00000;
+  text-decoration:none;text-underline:none">yeo_siew_hoon@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#222222"></span></b></p></td><td style="width:214.95pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#D1D0D0;padding:0in 0in 0in 0in;height:.5in" width="287"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
