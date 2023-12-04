@@ -79,9 +79,9 @@ variant: markdown
   &quot;Times New Roman&quot;;color:#222222"></span></b></p></td><td style="width:214.95pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:white;padding:0in 0in 0in 0in;height:.5in" width="287"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Xia Xiaoling<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:xia_xiaoling@schools.gov.sg"><span style="color:#C00000;
-  text-decoration:none;text-underline:none">xia_xiaoling@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mdm Tan Kang Li<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:tan_kang_li@schools.gov.sg"><span style="color:#C00000;
+  text-decoration:none;text-underline:none">tan_kang_li@schools.gov.sg</span></a></span><b><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#222222"></span></b></p></td></tr><tr style="mso-yfti-irow:5;height:.5in"><td style="width:124.95pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#CCCCCC;padding:0in 0in 0in 0in;height:.5in" width="167"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
