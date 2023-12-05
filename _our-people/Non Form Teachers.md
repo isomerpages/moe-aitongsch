@@ -67,7 +67,7 @@ variant: markdown
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444;mso-font-kerning:
   0pt;mso-ligatures:none">Special Educational Needs Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#484848;
-  mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:70.25pt"><td style="width:2.75in;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:70.25pt;"><td style="width:2.75in;padding:1.5pt 7.5pt 1.5pt 7.5pt;
   height:70.25pt" valign="top" width="264"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
