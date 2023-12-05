@@ -129,5 +129,8 @@ variant: markdown
   solid black .25pt;background:white;padding:0in 0in 0in 0in;height:.5in" width="269"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Mdm Shahira<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:s_shahira@schools.gov.sg"><span style="color:#C00000">os_shahira@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr></tbody></table>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:s_shahira@schools.gov.sg"><span style="color:#C00000">s_shahira@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"></span></p><br></td>
+	
+	
+	</tr></tbody></table>
