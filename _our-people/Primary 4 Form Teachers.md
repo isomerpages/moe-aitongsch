@@ -72,8 +72,8 @@ variant: markdown
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:201.45pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:white;padding:0in 0in 0in 0in;height:.5in" width="269"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Mdm Kandy Heng<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:kandy_heng@schools.gov.sg"><span style="color:#C00000">kandy_heng@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Mrs Eileen Peh<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:ong_hui_san_eileen@schools.gov.sg"><span style="color:#C00000">ong_hui_san_eileen@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:5;height:.5in"><td style="width:129.3pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#CCCCCC;padding:0in 0in 0in 0in;height:.5in" width="172"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
