@@ -2,6 +2,7 @@
 title: Primary 6 Form Teachers
 permalink: /our-people/p6-form-teachers/
 description: ""
+variant: markdown
 ---
 <table style="width:553.35pt;mso-cellspacing:.7pt;background:#AFAFAF;border:solid black 1.0pt;
  mso-border-alt:solid black .25pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in;
@@ -24,9 +25,9 @@ description: ""
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:219.8pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#D1D0D0;padding:0in 0in 0in 0in;height:.5in" width="293"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Ms Magdelene Voo<br></span></b><span style="color:black;mso-color-alt:windowtext"><a href="mailto:voo_mun_pan@schools.gov.sg"><span style="font-size:10.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Ms Shermaine Chong<br></span></b><span style="color:black;mso-color-alt:windowtext"><a href="mailto:chong_shu-en_shermaine@schools.gov.sg"><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#C00000;text-decoration:none;text-underline:none">voo_mun_pan@schools.gov.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  color:#C00000;text-decoration:none;text-underline:none">chong_shu-en_shermaine@schools.gov.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:201.45pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#D1D0D0;padding:0in 0in 0in 0in;height:.5in" width="269"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
