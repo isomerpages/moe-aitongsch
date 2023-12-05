@@ -2,6 +2,7 @@
 title: Non Form Teachers
 permalink: /our-people/non-form-teachers/
 description: ""
+variant: markdown
 ---
 **Non-Form Teachers**
 
@@ -276,7 +277,10 @@ description: ""
   height:34.5pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mdm Ng Kim Eng<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mrs Chong Chow Yong<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
+  0pt;mso-ligatures:none"><a href="mailto:chong_chow_yong@schools.gov.sg"><span style="color:#C00000">chong_chow_yong@schools.gov.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#595959;mso-font-kerning:0pt;mso-ligatures:none"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-font-kerning:
   0pt;mso-ligatures:none">FAJT</span><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
@@ -286,8 +290,3 @@ description: ""
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
   0pt;mso-ligatures:none"></span></b></p></td><td width="237" style="width:178.05pt;background:#E5E5E5;padding:0in 0in 0in 0in;
   height:34.5pt"></td></tr></tbody></table>
-	
-	
-	
-	
-	
