@@ -116,10 +116,6 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Ms Janice Yap<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:yap_yi_hui_janice@schools.gov.sg"><span style="color:#C00000">yap_yi_hui_janice@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#454545"></span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#444444">Mr Ng Chao Hsien<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:ng_chao_hsien_charles@schools.gov.sg"><span style="color:#C00000">ng_chao_hsien_charles@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#454545"></span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:.5in"><td style="width:129.3pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:white;padding:0in 0in 0in 0in;height:.5in" width="172"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -127,8 +123,8 @@ variant: markdown
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:219.8pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:white;padding:0in 0in 0in 0in;height:.5in" width="293"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Ms Cheryl Cheng<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:cheryl_cheng_jia_yin@schools.gov.sg"><span style="color:#C00000">cheryl_cheng_jia_yin@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Mrs Tan Qili<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000"><a href="mailto:cheng_qili@schools.gov.sg"><span style="color:#C00000">cheng_qili@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:201.45pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:white;padding:0in 0in 0in 0in;height:.5in" width="269"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
