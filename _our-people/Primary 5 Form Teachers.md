@@ -133,10 +133,10 @@ variant: markdown
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:219.8pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#CCCCCC;padding:0in 0in 0in 0in;height:.5in" width="293"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Mr Andric Sim</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#454545"><br></span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:sim_hock_thiam@schools.gov.sg"><span style="font-size:10.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545">Mrs Janice Toh</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#454545"><br></span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:janice_toh_hong_boon@schools.gov.sg"><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#C00000;text-decoration:none;text-underline:none">sim_hock_thiam@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  color:#C00000;text-decoration:none;text-underline:none">janice_toh_hong_boon@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#454545"></span></p></td><td style="width:201.45pt;border:solid black 1.0pt;mso-border-alt:
   solid black .25pt;background:#CCCCCC;padding:0in 0in 0in 0in;height:.5in" width="269"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
