@@ -17,8 +17,8 @@ variant: markdown
   height:44.75pt" valign="top" width="251"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-font-kerning:0pt;mso-ligatures:none">Mr Alex Xie</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"><br><span style="color:#C00000"><a href="mailto:alex_xie_huan@schools.gov.sg"><span style="color:#C00000">alex_xie_huan@schools.gov.sg</span></a></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  mso-font-kerning:0pt;mso-ligatures:none">Ms Kassandra Wong</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"><br><span style="color:#C00000"><a href="mailto:wong_yen_li_kassandra@schools.gov.sg"><span style="color:#C00000">wong_yen_li_kassandra@schools.gov.sg</span></a></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:160.7pt;padding:0in 5.4pt 0in 5.4pt;
   height:44.75pt" valign="top" width="214"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
