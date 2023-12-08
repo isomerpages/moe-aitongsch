@@ -101,7 +101,7 @@ Sports Club as a CCA helps to develop character and resilience. In Sports Club, 
   line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
   &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
-  mso-ligatures:none">*Mr Lloyd Nicholas</span><span style="font-size:12.0pt;
+  mso-ligatures:none">*Ms Teo Yuan May</span><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#454545;
   mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr></tbody></table>
