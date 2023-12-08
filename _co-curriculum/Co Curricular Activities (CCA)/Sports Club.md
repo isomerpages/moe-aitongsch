@@ -3,6 +3,7 @@ title: Sports Club
 permalink: /co-curriculum/Co-Curricular-Activities/sports-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 Sports Club as a CCA helps to develop character and resilience. In Sports Club, we offer your child an exposure to a variety of sports such as floorball and netball.&nbsp;Through these sports, we aim to help students cultivate a physically active and healthy lifestyle. At the same time, to develop your child’s character and resilience.&nbsp; We hope that your child will enjoy the sports offered and participate actively to gain the most out of Sports Club.
 
@@ -49,10 +50,17 @@ Sports Club as a CCA helps to develop character and resilience. In Sports Club, 
   line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
   &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
-  mso-ligatures:none">Thursday<br>P3, P4 &amp; P5</span><span style="font-size:12.0pt;mso-fareast-font-family:
+  mso-ligatures:none">Tuesday<br>P3 &amp; P6</span><span style="font-size:12.0pt;mso-fareast-font-family:
   &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
-  mso-ligatures:none"></span></p></td><td width="150" rowspan="2" valign="top" style="width:112.5pt;border-top:none;
+  mso-ligatures:none"><br></span></p><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none">Thursday<br>P4 &amp; P5</span><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;DengXian Light&quot;;mso-fareast-theme-font:major-fareast;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#454545;mso-font-kerning:0pt;
+  mso-ligatures:none"><br></span></p></td><td width="150" rowspan="2" valign="top" style="width:112.5pt;border-top:none;
   border-left:none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
   mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt;
   mso-border-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
