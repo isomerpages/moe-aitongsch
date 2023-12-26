@@ -21,7 +21,7 @@ Term 2 : Monday, 18 March to Friday, 24 May
 Term 3 : Monday, 24 June to Friday, 30 August     
 Term 4 : Monday, 9 September to Friday, 15 November&nbsp;
 
-### SCHOOL HOLIDAYS FOR 2023
+### SCHOOL HOLIDAYS FOR 2024
 
 * **March Holidays** : Saturday, 11 March to Sunday, 19 March     
 * **June Holidays** : Saturday, 27 May to Sunday, 25 June
