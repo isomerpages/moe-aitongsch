@@ -29,10 +29,9 @@ Term 4 : Monday, 9 September to Friday, 15 November&nbsp;
 * **December Holidays** : Saturday, 18 November to Friday, 31 December
 
 ### SCHEDULED SCHOOL HOLIDAYS FOR 2024
-* **Youth Day** : Sunday 2 July *(Monday 3 July is a school holiday)*
-* **Day after National Day**: Thursday 10 August  
-* **Teachers' Day** : Friday 1 September  
-* **Children's Day** : Friday 6 October  
+* **Youth Day** : Sunday 30 June *(Monday 1 July is a school holiday)* 
+* **Teachers' Day** : Friday 30 August 
+* **Children's Day** : Friday 4 October  
 
 ### SCHEDULED PUBLIC HOLIDAYS FOR 2023
 * **New Year's Day** : Saturday 1 January *(Monday 2 January will be a public holiday)*
