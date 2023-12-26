@@ -2,6 +2,7 @@
 title: Key Personnel
 permalink: /our-people/key-personnel/
 description: ""
+variant: markdown
 ---
 ### School Leaders
 
@@ -18,7 +19,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-jxqz">Principal</td>
-    <td class="tg-nc7t">Mdm Diane Goh<br><a href="mailto:diane_goh@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">diane_goh@schools.gov.sg</span></a></td>
+    <td class="tg-nc7t">Mr Wong Jia Wang<br><a href="mailto:wong_jia_wang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">wong_jia_wang@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-jxqz">Vice-Principal 1</td>
