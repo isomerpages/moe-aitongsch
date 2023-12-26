@@ -33,14 +33,17 @@ Term 4 : Monday, 9 September to Friday, 15 November&nbsp;
 * **Teachers' Day** : Friday 30 August 
 * **Children's Day** : Friday 4 October  
 
-### SCHEDULED PUBLIC HOLIDAYS FOR 2023
-* **New Year's Day** : Saturday 1 January *(Monday 2 January will be a public holiday)*
-* **Chinese New Year** : Sunday 22 January &amp; Monday 23 January *(Tuesday 24 January will be a public holiday)*
-* **Good Friday** : Friday 7 April
-* **Hari Raya Puasa**: Saturday 22 April *(Monday 24 April will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office and Student Care Centre)*
-* **Labour Day** : Monday 1 May
-* **Vesak Day** : Friday 2 June
-* **Hari Raya Haji** : Thursday 29 June
-* **National Day** : Wednesday 9 August  
-* **Deepavali** : Sunday 12 November *(Monday 13 November will be a public holiday)*
-* **Christmas Day** : Monday 25 December
+### SCHEDULED PUBLIC HOLIDAYS FOR 2024
+* **New Year's Day** : Monday 1 January
+* **Chinese New Year** : Saturday 10 February &amp; Sunday 11 February *(Monday, 12 February will be a public holiday and Tuesday, 13 February will be a school holiday and a designated day off-in-lieu. Schools will be closed, including the General Office and Student Care Centre)*
+* **Good Friday** : Friday 29 March
+* **Hari Raya Puasa**: Wednesday 10 April
+* **Labour Day** : Wednesday 1 May
+* **Vesak Day** : Wednesday 22 May
+* **Hari Raya Haji** : Monday 17 June
+* **National Day** : Friday 9 August  
+* **Deepavali** : Thursday 31 October
+* **Christmas Day** : Wednesday 25 December
+
+
+
