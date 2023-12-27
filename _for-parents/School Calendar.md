@@ -23,10 +23,10 @@ Term 4 : Monday, 9 September to Friday, 15 November&nbsp;
 
 ### SCHOOL HOLIDAYS FOR 2024
 
-* **March Holidays** : Saturday, 11 March to Sunday, 19 March     
-* **June Holidays** : Saturday, 27 May to Sunday, 25 June
-* **September Holidays** : Saturday, 2 September to Sunday, 10 September   
-* **December Holidays** : Saturday, 18 November to Friday, 31 December
+* **March Holidays** : Saturday, 9 March to Sunday, 17 March     
+* **June Holidays** : Saturday, 25 May to Sunday, 23 June
+* **September Holidays** : Saturday, 31 August to Sunday, 8 September   
+* **December Holidays** : Saturday, 16 November to Friday, 31 December
 
 ### SCHEDULED SCHOOL HOLIDAYS FOR 2024
 * **Youth Day** : Sunday 30 June *(Monday 1 July is a school holiday)* 
@@ -44,6 +44,3 @@ Term 4 : Monday, 9 September to Friday, 15 November&nbsp;
 * **National Day** : Friday 9 August  
 * **Deepavali** : Thursday 31 October
 * **Christmas Day** : Wednesday 25 December
-
-
-
