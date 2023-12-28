@@ -370,10 +370,7 @@ variant: markdown
     <td class="tg-jxqz"><span style="color:white">SH CCE</span></td>
     <td class="tg-nc7t">Mrs Chun-Hong Lin<br><a href="mailto:hong_lin@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">hong_lin@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">SH CCE (Internal)</span></td>
-    <td class="tg-nc7t">Mrs Sashi<br><a href="mailto:kanna_dhatchayani@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">kanna_dhatchayani@schools.gov.sg</span></a></td>
-  </tr>
+  
 </tbody>
 </table>
 
