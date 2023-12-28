@@ -297,6 +297,10 @@ variant: markdown
     <td class="tg-jxqz">ST PE</td>
     <td class="tg-nc7t">Mr Jay Sng<br><a href="mailto:sng_yuan_zhi_jay@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">sng_yuan_zhi_jay@schools.gov.sg</span></a></td>
   </tr>
+	  <tr>
+    <td class="tg-jxqz">SH PE/CCA</td>
+    <td class="tg-nc7t">Mr Joseph Ang<br><a href="mailto:ang_wei_loon_joseph@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">ang_wei_loon_joseph@schools.gov.sg</span></a></td>
+  </tr>
 </tbody>
 </table>
 
