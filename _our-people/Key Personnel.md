@@ -322,6 +322,11 @@ variant: markdown
     <td class="tg-nc7t">Mr Daniel Lim<br><a href="mailto:lim_wan_seng_daniel@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_wan_seng_daniel@schools.gov.sg</span></a></td>
   </tr>
     <tr>
+			</tr><tr>
+    <td class="tg-jxqz"><span style="color:white">SH SM(Internal)</span></td>
+    <td class="tg-nc7t">Mr Na Kok Yong<br><a href="mailto:na_kok_yong@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">na_kok_yong@schools.gov.sg</span></a></td>
+  </tr>
+    <tr>
     <td class="tg-jxqz"><span style="color:white">ST Special Needs</span></td>
     <td class="tg-nc7t">Mrs Sharon Tan<br><a href="mailto:tan_quee_leng@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_quee_leng@schools.gov.sg</span></a></td>
   </tr>
