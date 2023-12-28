@@ -2,6 +2,7 @@
 title: Insurance Claim
 permalink: /for-parents/insurance-claim/
 description: ""
+variant: markdown
 ---
 ### GROUP PERSONAL ACCIDENT (GPA) INSURANCE FOR STUDENTS:
 
@@ -40,5 +41,4 @@ Please note that the list of documents above is not exhaustive. Other documents 
 
   
 For more details on the GPA Plan, please refer to:
-
-[Product Fact Sheet Year 2022 Sep 2022.pdf](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
+[Product Fact Sheet Year 2024](/files/Product_Fact_Sheet_Year_2024.pdf)
