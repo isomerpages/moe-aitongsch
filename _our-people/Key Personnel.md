@@ -162,7 +162,7 @@ variant: markdown
     <td class="tg-nc7t">Mr Peck Yong Xiang<br><a href="mailto:peck_yong_xiang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">peck_yong_xiang@schools.gov.sg</span></a></td>
   </tr>
 	<tr>
-    <td class="tg-jxqz"><span style="color:white">LH EL Internal</span></td>
+    <td class="tg-jxqz"><span style="color:white">LH EL(Internal)</span></td>
     <td class="tg-nc7t">Mrs Yap Pei Ni<br><a href="mailto:lim_pei_n@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_pei_ni@schools.gov.sg</span></a></td>
   </tr>
   <tr>
