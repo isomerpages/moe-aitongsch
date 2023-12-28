@@ -162,7 +162,7 @@ variant: markdown
     <td class="tg-nc7t">Mr Peck Yong Xiang<br><a href="mailto:peck_yong_xiang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">peck_yong_xiang@schools.gov.sg</span></a></td>
   </tr>
 	<tr>
-    <td class="tg-jxqz"><span style="color:white">LH EL Internal</span></td>
+    <td class="tg-jxqz"><span style="color:white">LH EL(Internal)</span></td>
     <td class="tg-nc7t">Mrs Yap Pei Ni<br><a href="mailto:lim_pei_n@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_pei_ni@schools.gov.sg</span></a></td>
   </tr>
   <tr>
@@ -297,6 +297,10 @@ variant: markdown
     <td class="tg-jxqz">ST PE</td>
     <td class="tg-nc7t">Mr Jay Sng<br><a href="mailto:sng_yuan_zhi_jay@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">sng_yuan_zhi_jay@schools.gov.sg</span></a></td>
   </tr>
+	  <tr>
+    <td class="tg-jxqz">SH PE/CCA(Internal)</td>
+    <td class="tg-nc7t">Mr Joseph Ang<br><a href="mailto:ang_wei_loon_joseph@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">ang_wei_loon_joseph@schools.gov.sg</span></a></td>
+  </tr>
 </tbody>
 </table>
 
@@ -316,6 +320,11 @@ variant: markdown
   <tr>
     <td class="tg-jxqz"><span style="color:white">HOD SM</span></td>
     <td class="tg-nc7t">Mr Daniel Lim<br><a href="mailto:lim_wan_seng_daniel@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_wan_seng_daniel@schools.gov.sg</span></a></td>
+  </tr>
+    <tr>
+			</tr><tr>
+    <td class="tg-jxqz"><span style="color:white">SH SM(Internal)</span></td>
+    <td class="tg-nc7t">Mr Na Kok Yong<br><a href="mailto:na_kok_yong@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">na_kok_yong@schools.gov.sg</span></a></td>
   </tr>
     <tr>
     <td class="tg-jxqz"><span style="color:white">ST Special Needs</span></td>
@@ -366,10 +375,7 @@ variant: markdown
     <td class="tg-jxqz"><span style="color:white">SH CCE</span></td>
     <td class="tg-nc7t">Mrs Chun-Hong Lin<br><a href="mailto:hong_lin@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">hong_lin@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">SH CCE (Internal)</span></td>
-    <td class="tg-nc7t">Mrs Sashi<br><a href="mailto:kanna_dhatchayani@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">kanna_dhatchayani@schools.gov.sg</span></a></td>
-  </tr>
+  
 </tbody>
 </table>
 
