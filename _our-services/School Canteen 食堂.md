@@ -30,6 +30,11 @@ Click [here](/files/ai%20tong%20school%20canteen%20stall%20menu.pdf) to view men
 * Email: aitong_sch@moe.edu.sg
 * Contact Person: Ms Khaliesah  
 
+**How to get there?** <br>
+* Nearest MRT: Bright Hill MRT (TE7)
+* Bus number: 52. 162, 410
+
+
 
 
 
