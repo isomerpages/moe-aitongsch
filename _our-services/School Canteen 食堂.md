@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### School Canteen Stall Menu
-Click [here](/files/ai%20tong%20school%20canteen%20stall%20menu.pdf) to view menu.
+Click [here](/files/2024_Canteen_Menu.pdf) to view menu.
 
 ###  School Canteen Advertisement
 
