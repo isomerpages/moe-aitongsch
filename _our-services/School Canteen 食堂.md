@@ -35,7 +35,7 @@ Click [here](/files/2024_Canteen_Menu.pdf) to view menu.
 * Bus number: 52. 162, 410
 
 **Interest applicants must meet the following criteria:**
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+* Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the [Healthy Meals in Schools Programme (HMSP)](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) guidelines.
 * Able to maintain high standard of food safety, personal hygiene and cleanliness of the canteen area.
