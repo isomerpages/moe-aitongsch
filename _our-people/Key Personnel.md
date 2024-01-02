@@ -426,7 +426,7 @@ variant: markdown
     <td class="tg-nc7t">Mrs Wendy Tan<br><a href="mailto:tan_khor_kiah@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_khor_kiah@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-jxqz"><span style="color:white">SH ICT</span></td>
+    <td class="tg-jxqz"><span style="color:white">SH ICT &amp; PW</span></td>
     <td class="tg-nc7t">Mr Alex Xie<br><a href="mailto:alex_xie_huan@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">alex_xie_huan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
