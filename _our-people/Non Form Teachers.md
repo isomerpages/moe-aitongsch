@@ -99,7 +99,7 @@ variant: markdown
   color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mdm Enid Sim<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
   0pt;mso-ligatures:none"><a href="mailto:sim_lin_enid@schools.gov.sg"><span style="color:#C00000">sim_lin_enid@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#595959;mso-font-kerning:0pt;mso-ligatures:none"><br>CAJT Mathematics</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;Times New Roman&quot;;color:#595959;mso-font-kerning:0pt;mso-ligatures:none"><br>FAJT</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
   none"></span></p></td><td width="217" style="width:162.85pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
   height:34.5pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
