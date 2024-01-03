@@ -253,4 +253,30 @@ variant: markdown
   0pt;mso-ligatures:none"><a href="mailto:tew_chiou_wan@schools.gov.sg"><span style="color:#C00000">tew_chiou_wan@schools.gov.sg</span></a><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-font-kerning:
   0pt;mso-ligatures:none">FAJT</span></p></td><td width="237" style="width:178.05pt;background:#E5E5E5;padding:0in 0in 0in 0in;
-  height:34.5pt"></td></tr></tbody></table>
+  height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
+  0pt;mso-ligatures:none"></span></b><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mr Pong Chee Yung<br></span></b><br><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-font-kerning:
+  0pt;mso-ligatures:none">FAJT</span></p></td></tr><tr style="mso-yfti-irow:4;height:34.5pt"><td width="258" style="width:193.25pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mr Seth Tan<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
+  0pt;mso-ligatures:none"></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#595959;mso-font-kerning:0pt;mso-ligatures:none"><br>FAJT</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none"></span></p></td><td width="217" style="width:162.85pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
+  height:34.5pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Ms Abby Wong<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
+  0pt;mso-ligatures:none"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-font-kerning:
+  0pt;mso-ligatures:none">FAJT</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
+  0pt;mso-ligatures:none"></span></p></td><td width="237" style="width:178.05pt;padding:0in 0in 0in 0in;height:34.5pt"></td></tr></tbody></table>
