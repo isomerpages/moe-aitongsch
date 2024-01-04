@@ -238,7 +238,7 @@ variant: markdown
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mrs Chong Chow Yong<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
-  0pt;mso-ligatures:none"><a href="mailto:chong_chow_yong@schools.gov.sg"><span style="color:#C00000">chong_chow_yong@schools.gov.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  0pt;mso-ligatures:none"><a href="mailto:chong_chow_yong@schools.gov.sg"><span style="color:#C00000">chong_chow_yong_a@schools.gov.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#595959;mso-font-kerning:0pt;mso-ligatures:none"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-font-kerning:
   0pt;mso-ligatures:none">FAJT</span><span style="font-size:12.0pt;font-family:
