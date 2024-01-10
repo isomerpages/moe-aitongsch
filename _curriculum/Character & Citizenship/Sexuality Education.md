@@ -80,4 +80,4 @@ b. Character and Citizenship Education (CCE)
 
 **At AI TONG SCHOOL, the following Sexuality Education lessons will be taught in 2024:**
 
-[ATS MOE SEd 2023](/files/ATS%20MOE%20SEd%202023.pdf)
+[ATS MOE SEd 2024](/files/ATS_MOE_SEd_2024.pdf)
