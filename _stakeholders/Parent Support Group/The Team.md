@@ -65,7 +65,7 @@ variant: markdown
 
 **Mental Wellness I/C**: Peggun Leung
 
-**IT/WhatsAppI/C**: Chan Yaoxian
+**IT/WhatsApp I/C**: Chan Yaoxian
 
 **PV Appreciation I/C**: Ivy Khoo
 
