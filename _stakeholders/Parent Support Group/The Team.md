@@ -44,7 +44,7 @@ variant: markdown
 ### School Advisors
 
 **Mr Wong Jia Wang​ (Principal)**  
-**Mrs Teo-Mok Ling Ling (PSG Coordinator)**
+**Mrs Teo-Mok Ling Ling (PSG Liaison Person)**
 
 ### ATS Parent Support Group
 
@@ -59,22 +59,21 @@ variant: markdown
 
 **Auditor**: Chua Mooi Yen 
 
-**Events head**: Bernice Xu
+**Events Head**: Bernice Xu
 
-**Social Media head**: Chen Meiyue
+**Social Media Head**: Chen Meiyue
 
-**Mental Wellness head**: Peggun Leung
+**Mental Wellness Head**: Peggun Leung
 
-**IT/WhatsApp head**: Chan Yaoxian
+**IT/WhatsApp Head**: Chan Yaoxian
 
-**PV appreciation IC**: Ivy Khoo
+**PV Appreciation IC**: Ivy Khoo
 
 **Other Members**: Irene Yee, Jasmine Koh, Tresa Lim
 
-**P6 team:** 
+**P6 Team:** 
 * Lynette Choong
 * Sharon Wong
 * Irene Yee
 * Chan Yaoxian
 * Max Tay
-
