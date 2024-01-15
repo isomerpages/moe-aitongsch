@@ -69,9 +69,9 @@ variant: markdown
 
 **PV Appreciation IC**: Ivy Khoo
 
-**Other Members**: Irene Yee, Jasmine Koh, Tresa Lim
-
  **Fathers@ATS Chairman**: Kelvin Tan
+
+**Other Members**: Irene Yee, Jasmine Koh, Tresa Lim
 
 **P6 Team:** 
 * Lynette Choong
