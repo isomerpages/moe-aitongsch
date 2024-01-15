@@ -71,6 +71,8 @@ variant: markdown
 
 **Other Members**: Irene Yee, Jasmine Koh, Tresa Lim
 
+ **Fathers@ATS Chairman**: Kelvin Tan
+
 **P6 Team:** 
 * Lynette Choong
 * Sharon Wong
