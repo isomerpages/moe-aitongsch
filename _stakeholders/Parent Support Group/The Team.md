@@ -3,6 +3,7 @@ title: The Team
 permalink: /stakeholders/Parent-Support-Group/the-team/
 description: ""
 third_nav_title: Parent Support Group
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -23,19 +24,18 @@ third_nav_title: Parent Support Group
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-baqh" colspan="5"><img src="/images/PSG%20Banner.jpeg" 
-     style="width:100%"></td>
+    <td class="tg-baqh" colspan="5"><img src="/images/PSG%20Banner.jpeg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/parent-support-group/" target = "_self"> 
+    <td class="tg-8d8j"><a href="/stakeholders/Parent-Support-Group/parent-support-group/" target="_self"> 
 <img src="/images/home.jpeg"></a></td>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/the-team/" target = "_self"> 
+    <td class="tg-8d8j"><a href="/stakeholders/Parent-Support-Group/the-team/" target="_self"> 
 <img src="/images/team.jpeg"></a></td>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/event/" target = "_self"> 
+    <td class="tg-8d8j"><a href="/stakeholders/Parent-Support-Group/event/" target="_self"> 
 <img src="/images/event.jpeg"></a></td>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/for-parent/" target = "_self"> 
+    <td class="tg-8d8j"><a href="/stakeholders/Parent-Support-Group/for-parent/" target="_self"> 
 <img src="/images/parent.jpeg"></a></td>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/contact-us/" target = "_self"> 
+    <td class="tg-8d8j"><a href="/stakeholders/Parent-Support-Group/contact-us/" target="_self"> 
 <img src="/images/contact.jpeg"></a></td>
   </tr>
 </tbody>
@@ -43,7 +43,38 @@ third_nav_title: Parent Support Group
 
 ### School Advisors
 
-**Mdm Diane Goh (Principal)**.  
+**Mr Wong Jia Wang​ (Principal)**  
 **Mrs Teo-Mok Ling Ling (PSG Coordinator)**
 
-![](/images/PSG%20org%20chart%202021.jpeg)
+### ATS Parent Support Group
+
+**Chairperson**: Eline Peh
+
+**Vice Chair**: Victor Peh,  Lynette Choong, Sharon Wong
+
+**Secretary**: Kareen Lui
+
+**Treasurer**: Bernice Xu
+<br>**Asst Treasurer**: Kelvin Tan
+
+**Auditor**: Chua Mooi Yen 
+
+**Events head**: Bernice Xu
+
+**Social Media head**: Chen Meiyue
+
+**Mental Wellness head**: Peggun Leung
+
+**IT/WhatsApp head**: Chan Yaoxian
+
+**PV appreciation IC**: Ivy Khoo
+
+**Other Members**: Irene Yee, Jasmine Koh, Tresa Lim
+
+**P6 team:** 
+* Lynette Choong
+* Sharon Wong
+* Irene Yee
+* Chan Yaoxian
+* Max Tay
+
