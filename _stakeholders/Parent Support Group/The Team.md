@@ -59,15 +59,15 @@ variant: markdown
 
 **Auditor**: Chua Mooi Yen 
 
-**Events Head**: Bernice Xu
+**Events I/C**: Bernice Xu
 
-**Social Media Head**: Chen Meiyue
+**Social Media I/C**: Chen Meiyue
 
-**Mental Wellness Head**: Peggun Leung
+**Mental Wellness I/C**: Peggun Leung
 
-**IT/WhatsApp Head**: Chan Yaoxian
+**IT/WhatsAppI/C**: Chan Yaoxian
 
-**PV Appreciation IC**: Ivy Khoo
+**PV Appreciation I/C**: Ivy Khoo
 
  **Fathers@ATS Chairperson**: Kelvin Tan
 
