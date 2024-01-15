@@ -50,7 +50,7 @@ variant: markdown
 
 **Chairperson**: Eline Peh
 
-**Vice Chair**: Victor Peh,  Lynette Choong, Sharon Wong
+**Vice Chairperson**: Victor Peh,  Lynette Choong, Sharon Wong
 
 **Secretary**: Kareen Lui
 
@@ -69,7 +69,7 @@ variant: markdown
 
 **PV Appreciation IC**: Ivy Khoo
 
- **Fathers@ATS Chairman**: Kelvin Tan
+ **Fathers@ATS Chairperson**: Kelvin Tan
 
 **Other Members**: Irene Yee, Jasmine Koh, Tresa Lim
 
