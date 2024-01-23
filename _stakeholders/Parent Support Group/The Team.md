@@ -71,7 +71,7 @@ variant: markdown
 
  **Fathers@ATS Chairperson**: Kelvin Tan
 
-**Other Members**: Irene Yee, Jasmine Koh, Tresa Lim
+**Other Members**: Irene Yee, Jasmine Koh, Tresa Lim, Wong Siew Yong
 
 **P6 Team:** 
 * Lynette Choong
