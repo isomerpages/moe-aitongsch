@@ -1,0 +1,13 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - Key Personnel.md
+      - Primary 1 Form Teachers.md
+      - Primary 2 Form Teachers.md
+      - Primary 3 Form Teachers.md
+      - Primary 4 Form Teachers.md
+      - Primary 5 Form Teachers.md
+      - Primary 6 Form Teachers.md
+      - Non Form Teachers.md
+      - Executive & Administrative Staff.md

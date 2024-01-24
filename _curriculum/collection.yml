@@ -1,0 +1,30 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Curriculum.md
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art Curriculum.md
+      - Aesthetics/Music Curriculum.md
+      - Aesthetics/.keep
+      - Character & Citizenship/Character and Citizenship Education (CCE).md
+      - Character & Citizenship/National Education.md
+      - Character & Citizenship/Values in Action (VIA).md
+      - Character & Citizenship/Sexuality Education.md
+      - Character & Citizenship/CCE (CL).md
+      - Character & Citizenship/.keep
+      - Chinese.md
+      - Chinese Culture.md
+      - English.md
+      - ICT/.keep
+      - ICT/Information & Communication Technology.md
+      - ICT/Cyber Wellness.md
+      - ICT/Programmes.md
+      - ICT/Infrastructure.md
+      - ICT/Resources.md
+      - ICT/Frequently Asked Questions.md
+      - Mathematics.md
+      - Physical Education Department/.keep
+      - Physical Education Department/Physical Education Department.md
+      - Physical Education Department/NAPFA Standard Charts.md
+      - Science.md
