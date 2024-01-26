@@ -1,5 +1,5 @@
 ---
-title: Innovators Club
+title: Innovators' Club
 permalink: /co-curriculum/co-curricular-activities/innovators-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
