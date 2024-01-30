@@ -2,7 +2,7 @@
 layout: homepage
 title: Ai Tong School
 description: An Isomer site of the Singapore Government
-image: /images/ATS-Logo-web.png
+image: /images/ATS_Logo__High_Res_.png
 permalink: /
 notification: ""
 sections:
