@@ -2,6 +2,7 @@
 title: Executive & Administrative Staff
 permalink: /our-people/executive-and-administrative-staff/
 description: ""
+variant: markdown
 ---
 ### ADMINISTRATION
 
@@ -89,10 +90,7 @@ description: ""
     <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
     <td class="tg-huu4">Mr Fong Kee Keong</td>
   </tr>
-	<tr>
-    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
-    <td class="tg-huu4">Mr Alvin Ng</td>
-  </tr>
+	
   
 </tbody>
 </table>
