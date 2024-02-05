@@ -2,6 +2,7 @@
 title: Parking information 停车处信息
 permalink: /visitor-management/parking-information/
 description: ""
+variant: markdown
 ---
 ### Implementation of Season Parking in Ai Tong School with effect from 1 August 2018
 
@@ -24,7 +25,7 @@ LTA has advised on the following: 
     
 *   No stopping or parking abreast to another vehicle at all times (offence attracts demerit points).
 
-If you require more information on this, you may wish to refer to the following: **[Illegal Parking](https://www.onemotoring.com.sg/content/onemotoring/en/lta_information_guidelines/modifications_and_vehoffences/vehicle_related_offences/illegal_parking.html)**  
+If you require more information on this, you may wish to refer to the following: **[Illegal Parking](https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/ongoing-car-costs/parking.html)**  
 
 Parents are kindly advised not to arrive too early before dismissal times. Should you arrive early, you may consider parking your vehicles at Midview City or the nearby HDB car parks.  
 
