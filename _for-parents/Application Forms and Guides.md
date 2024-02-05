@@ -30,8 +30,8 @@ variant: tiptap
 </ul>
 <h3>IMDA DigitalAccess@Home Scheme</h3>
 <p>If you need help to get a digital device and/or broadband internet access,
-you can apply for IMDA’s</p>
-<p>DigitalAccess@Home scheme*. For details, please visit <a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a>
+you can apply for IMDA’s DigitalAccess@Home scheme*.
+<br>For details, please visit <a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a>
 </p>
 <p>For enquiries, please contact IMDA hotline 6377 3800 or email: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
