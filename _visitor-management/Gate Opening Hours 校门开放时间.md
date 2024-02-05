@@ -24,7 +24,7 @@ students.</p>
 <p>Gate A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.15pm - 2pm (Dismissal gate for P1, P3 &amp; P5)
+<p>1.25pm - 2pm (Dismissal gate for P1, P3 &amp; P5)
 <br>6pm - 6.45pm (for SCC dismissal only)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30am - 7.30am
-<br>1.15pm - 2pm (Dismissal gate for P2, P4 &amp; P6)
+<br>1.25pm - 2pm (Dismissal gate for P2, P4 &amp; P6)
 <br>4pm - 4.30pm (subject to after school programme)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +97,7 @@ students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30am - 7.30am
-<br>1.15pm - 2pm
+<br>1.25pm - 2pm
 <br>4pm - 4.30pm (subject to after school programme)</p>
 </td>
 <td rowspan="1" colspan="1">
