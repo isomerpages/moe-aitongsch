@@ -32,8 +32,8 @@ variant: tiptap
 <p>If you need help to get a digital device and/or broadband internet access,
 you can apply for IMDA’s DigitalAccess@Home scheme*.
 <br>
-<br>For details, please visit <a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> 
-<br>For enquiries, please contact IMDA hotline 6377 3800 or email: <a rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
+<br>For details, please visit <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a> 
+<br>For enquiries, please contact IMDA hotline 6377 3800 or email: <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>
 </p>
 <p>* Subject to eligibility and availability</p>
 <h3>Parent Volunteers @ Ai Tong School</h3>
