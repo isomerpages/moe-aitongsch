@@ -2,8 +2,9 @@
 title: Application Forms and Guides
 permalink: /for-parents/application-forms-and-guides/
 description: ""
+variant: markdown
 ---
-### MOE Financial Assistance Scheme (FAS) 经济援助计划
+### MOE Financial Assistance Scheme (FAS)&nbsp;经济援助计划
 *  [Letter for FAS Application for 2024](/files/letter%20for%20fas%20application%20for%202024.pdf) \**updated as of 17 October 2023*
 *  [e-FAS](https://go.gov.sg/moe-efas)
 * [MOE FAS Pamphlet](/files/moe%20fas%20pamphlet%20el.pdf) \**updated as of 17 October 2023*
@@ -11,7 +12,8 @@ description: ""
 
 ### Bursary 2024 for Students of SHHK Affiliated Schools
 
-*  [2024 Application of Bursary for SHHK Affiliated Schools](/files/2024%20application%20of%20bursary%20for%20shhk%20affiliated%20schools%20students.pdf)  **updated as of 18 Aug 2023*
+*  [2024 Application of Bursary for SHHK Affiliated Schools](/files/2024_Application_of_Bursary_for_SHHK_Affiliated_Schools.pdf)<br>
+Application will close on 17 Mar 2024. <br>**updated as of 5 Feb 2024*
 
 
 ### NEU PC Plus Programme
@@ -24,18 +26,18 @@ The NEU PC Plus Programme offers low-income households with student or person wi
 
 _\*updated as of 10 Feb 2023_  
 
-### School Smart Cards (SSCs) 学生证
+### School Smart Cards (SSCs)&nbsp;学生证
 
-Students can now top-up their School Smart Cards (SSCs) at all DBS/POSB ATMs. Students who have lost their SSCs can do an online enquiry at [http://www.transitlink.com.sg/eservice.aspx](http://www.transitlink.com.sg/eservice.aspx) to check if their card has been found.  Replacement of lost cards can also be made online.
+Students can now top-up their School Smart Cards (SSCs) at all DBS/POSB ATMs. Students who have lost their SSCs can do an online enquiry at&nbsp;[http://www.transitlink.com.sg/eservice.aspx](http://www.transitlink.com.sg/eservice.aspx)&nbsp;to check if their card has been found.&nbsp; Replacement of lost cards can also be made online.
 
 ### Parent Volunteers @ Ai Tong School
 
-The School-based Member Volunteer Scheme is administered by the Singapore Hokkien Huay Kuan (SHHK).  Interested parents may refer to SHHK’s website ([http://www.shhk.com.sg/faq-on-becoming-a-volunteer/](http://www.shhk.com.sg/faq-on-becoming-a-volunteer/)) or contact SHHK at Tel: 6222 8212 for application details and terms & conditions.
+The School-based Member Volunteer Scheme is administered by the Singapore Hokkien Huay Kuan (SHHK).&nbsp; Interested parents may refer to SHHK’s website&nbsp;([http://www.shhk.com.sg/faq-on-becoming-a-volunteer/](http://www.shhk.com.sg/faq-on-becoming-a-volunteer/))&nbsp;or&nbsp;contact SHHK at Tel: 6222 8212 for application details and terms &amp; conditions.
 
 ### Application for Waiting List
 
-Click **[here](https://go.gov.sg/ats-waiting-list-form)** to access the Waiting List Online Application Form
+Click&nbsp;**[here](https://go.gov.sg/ats-waiting-list-form)**&nbsp;to access the Waiting List Online Application Form
 
-**Please note that the waiting list does not guarantee your child a place in the school. If you do not hear from us within 6 months from the date you applied, you will need to resubmit your application again.** 
+**Please note that the waiting list does not guarantee your child a place in the school. If you do not hear from us within 6 months from the date you applied, you will need to resubmit your application again.**&nbsp;
 
-**Note:** P1 (2024) Waiting List application is available from 1st Sep 2023.
+**Note:**&nbsp;P1 (2024) Waiting List application is available from 1st Sep 2023.
