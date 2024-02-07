@@ -53,7 +53,7 @@ We, the students of Ai Tong School,<br>
 
 
 <center>诚毅 <br>Sincerity and Perseverance
-
 	
+<br>
 以诚待人，以毅处事
 </center>
