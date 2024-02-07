@@ -13,29 +13,31 @@ treatment, please contact&nbsp;<strong>School Dental Centre(SDC), Heath Promotio
 <br>3 Second Hospital Ave, S(168937)
 <br>Email Address: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
-<p><strong><u>Location of Dental Clinic in Ai Tong School</u></strong>
+<p><strong><u>Location of Dental Clinic in Ai Tong School</u></strong> 
 <br>Room: Block A11a
 <br>Dental Therapist: Ms&nbsp;Jiang Tian
 <br>Contact No: 8764 5447</p>
-<p><strong>Operating Hours:</strong>
+<p><strong>Operating Hours:</strong> 
 <br>Mon and Wed: 8:00am to 5:00pm
 <br>Tue: 8:00am to 5:30pm
 <br>Lunch: 12:30pm to 1:30pm</p>
-<p><strong>Notice of Buddy Clinic</strong>
+<p><strong>Notice of Buddy Clinic</strong> 
 <br>For pupils who require emergency dental treatment in case of clinic closure,
 parents may contact any of the "buddy clinics" below for assistance:</p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Dental Clinic</p>
+<p><strong>School Dental Clinic</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Telephone
-<br>Numbers</p>
+<p><strong>Telephone <br>Numbers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Address</p>
+<p><strong>Address</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +48,7 @@ parents may contact any of the "buddy clinics" below for assistance:</p>
 <p>87648106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Lor 3 Toa Payoh, Singapore 319580</p>
+<p>15 Lor 3 Toa Payoh, Singapore (319580)</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +87,7 @@ parents may contact any of the "buddy clinics" below for assistance:</p>
 <p>89400243</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Ang Mo Kio Ave 10, Singapore 569730</p>
+<p>3 Ang Mo Kio Ave 10, Singapore (569730)</p>
 </td>
 </tr>
 </tbody>
