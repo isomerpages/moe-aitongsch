@@ -21,9 +21,10 @@ seeking higher aspirations and excellence. The character “同” gives the sch
 
 ### Our School Song 校歌
 
-[Ai Tong School Song](https://drive.google.com/file/d/1mKTwdSwU3qAPcKsVksV47Fv0oPgnmbTU/view?usp=drive_link)
+[Ai Tong School Song](https://drive.google.com/file/d/1XNS_3fY4bJ5AN-0U8hRfMydmmHsXSCWy/view?usp=drive_link)
 
 <center><b>THE MEANING OF THE AI TONG SCHOOL SONG</b><br><br>The pupils and the alumni of Ai Tong School will serve the school wholeheartedly. The love for the school will never change.<br><br>We will build a strong foundation of languages and the sciences, so as to prepare ourselves to contribute to the society, to be future leaders.<br><br>Together, we pledge our loyalty to our nation.</center>
+
 
 
 ### Students Pledge 学生誓约
@@ -46,3 +47,13 @@ We, the students of Ai Tong School,<br>
 	勤奋求学　尊敬师长<br>
 	以毅处事　以诚待人<br>
 	共同创造一个美好的学习环境</center>
+	
+	
+### School Motto 校训
+
+
+<center>诚毅 <br>Sincerity and Perseverance
+
+以诚待人，以毅处事
+</center>
+	
