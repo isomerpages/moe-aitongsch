@@ -56,4 +56,3 @@ We, the students of Ai Tong School,<br>
 
 以诚待人，以毅处事
 </center>
-	
