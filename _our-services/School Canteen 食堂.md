@@ -12,7 +12,7 @@ Click [here](/files/2024_Canteen_Menu.pdf) to view menu.
 
 | Type of Stall | Closing Date | 
 | -------- | -------- |
-| Halal Asian Food Stall|21 February 2024| 
+| Halal Asian Food Stall|31 December 2024| 
 
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
