@@ -27,7 +27,7 @@ To support the school’s effort in creating a conducive learning environment th
 
 ### Gallery
 
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6_FswmCE5GsOYwMsspjp4glw3uH8COTlQfTLG5xi_nXnBuTMZPG-EaQn_Ar7JiMDS1N73w8_Mg3y/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
+![](/images/WhatsApp_Image_2024_03_18_at_15_11_55.jpg)
 
 
 Follow us on our socials📱
