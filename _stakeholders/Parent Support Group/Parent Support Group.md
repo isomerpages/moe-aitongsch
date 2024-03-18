@@ -3,47 +3,9 @@ title: Parent Support Group
 permalink: /stakeholders/Parent-Support-Group/parent-support-group/
 description: ""
 third_nav_title: Parent Support Group
+variant: markdown
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-8d8j{text-align:center;vertical-align:bottom}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
-<colgroup>
-<col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 150px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-baqh" colspan="5"><img src="/images/PSG%20Banner.jpeg" 
-     style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/parent-support-group/" target = "_self"> 
-<img src="/images/home.jpeg"></a></td>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/the-team/" target = "_self"> 
-<img src="/images/team.jpeg"></a></td>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/event/" target = "_self"> 
-<img src="/images/event.jpeg"></a></td>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/for-parent/" target = "_self"> 
-<img src="/images/parent.jpeg"></a></td>
-    <td class="tg-8d8j"><a href = "/stakeholders/Parent-Support-Group/contact-us/" target = "_self"> 
-<img src="/images/contact.jpeg"></a></td>
-  </tr>
-</tbody>
-</table>
-
-
-
-
+![](/images/PSG%20Banner.jpeg)
 ### Being a PSG Member
 
 **Being A PSG Member**
@@ -65,4 +27,11 @@ To support the school’s effort in creating a conducive learning environment th
 
 ### Gallery
 
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6_FswmCE5GsOYwMsspjp4glw3uH8COTlQfTLG5xi_nXnBuTMZPG-EaQn_Ar7JiMDS1N73w8_Mg3y/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
+![](/images/WhatsApp_Image_2024_03_18_at_15_11_55.jpg)
+
+
+Follow us on our socials📱
+
+IG: [ https://instagram.com/aitong.psg]( https://instagram.com/aitong.psg)
+
+FB: [https://www.facebook.com/aitong.psg](https://www.facebook.com/aitong.psg)
