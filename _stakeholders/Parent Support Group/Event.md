@@ -186,11 +186,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Follow us on our socials📱</p>
-<p>IG: <a rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/aitong.psg</a>
-</p>
-<p>FB: <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/aitong.psg</a>
-</p>
 <p></p>
 <p></p>
 <p></p>
