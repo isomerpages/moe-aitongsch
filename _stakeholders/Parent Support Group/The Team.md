@@ -6,6 +6,7 @@ third_nav_title: Parent Support Group
 variant: markdown
 ---
 
+![](/images/PSG%20Banner.jpeg)
 ### School Advisors
 
 **Mr Wong Jia Wang​ (Principal)**  
