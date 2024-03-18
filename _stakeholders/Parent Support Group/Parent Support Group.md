@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-
 ![](/images/PSG%20Banner.jpeg)
 ### Being a PSG Member
 
@@ -29,3 +28,10 @@ To support the school’s effort in creating a conducive learning environment th
 ### Gallery
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe6_FswmCE5GsOYwMsspjp4glw3uH8COTlQfTLG5xi_nXnBuTMZPG-EaQn_Ar7JiMDS1N73w8_Mg3y/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
+
+
+Follow us on our socials📱
+
+IG: https://instagram.com/aitong.psg
+
+FB: https://www.facebook.com/aitong.psg
