@@ -32,6 +32,6 @@ To support the school’s effort in creating a conducive learning environment th
 
 Follow us on our socials📱
 
-IG: https://instagram.com/aitong.psg
+IG: [ https://instagram.com/aitong.psg]( https://instagram.com/aitong.psg)
 
-FB: https://www.facebook.com/aitong.psg
+FB: [https://www.facebook.com/aitong.psg](https://www.facebook.com/aitong.psg)
