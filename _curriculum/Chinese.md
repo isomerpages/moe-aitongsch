@@ -2,6 +2,7 @@
 title: Chinese
 permalink: /curriculum/chinese/
 description: ""
+variant: markdown
 ---
 ![](/images/Chinese-banner2.jpeg)
 
@@ -122,7 +123,7 @@ description: ""
 为了推广华文华语，让学生有更多的机会接触华语，使华语变成生活语言，华文老师会在每周的星期五的晨读时间，跟学生讲故事或者安排跟华文华语有关的表演（例如：演唱华语流行歌曲）。
 
 
-2. **校内讲故事比赛**
+2.&nbsp;**校内讲故事比赛**
 
 为了鼓励学生多说华语，学校举办校内讲故事比赛。有兴趣参加的学生会参与甄选活动。表现优异的学生有机会在晨读时间表演，也有机会代表学校参加全国讲故事比赛。
 
@@ -132,7 +133,7 @@ description: ""
 部门会选择以华语为媒介语，适合不同年级的演出（例如：戏剧、相声），带学生走入剧场，体验剧场。
 
 
-4. **华文部网页**
+4.&nbsp;**华文部网页**
 
 华文部专为爱同学生设计了网页，学生可以上网学习华文知识，了解华人文化，进行互动游戏。
 
@@ -194,13 +195,13 @@ description: ""
 </tbody>
 </table>
 
-2、 **校本资源**  
+2、&nbsp;**校本资源**  
 
 部门为一至四年级的学生设计补充练习，为五和六年级设计每课活动纸（取代活动本）。部门也提供所有一二年级的学生汉语拼音卡，让他们以游戏的方式，来学习和温习汉语拼音。
 
   
 
-3、 **渐进式的作文和口试教学**
+3、&nbsp;**渐进式的作文和口试教学**
 
 部门的作文配套，让学生从句到段到篇，系统式、渐进式地掌握写作技巧。部门的口试配套，引导学生观察图意/录像，找出主题，掌握叙事和表达看法感受的口语技能。五六年级的学生利用手机进行录音，以便在家里进行自学。
 
@@ -275,14 +276,6 @@ description: ""
     <td class="tg-ytqh"></td>
     <td class="tg-ytqh"></td>
   </tr>
-  <tr>
-    <td class="tg-okzk">乐学善用平台iMTL Portal: <br><a href="http://imtl.sg/" target="_blank" rel="noopener noreferrer"><span style="color:#ED2125">http://imtl.sg</span></a><span style="color:#ED2125"> </span></td>
-    <td class="tg-ytqh"></td>
-    <td class="tg-ytqh"></td>
-    <td class="tg-ytqh"></td>
-    <td class="tg-ytqh"></td>
-    <td class="tg-jv5y">√</td>
-    <td class="tg-ytqh"></td>
-  </tr>
+  
 </tbody>
 </table>
