@@ -247,7 +247,9 @@ variant: markdown
   height:34.5pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mr Pong Chee Yung<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mrs Liyu Sara<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
+  0pt;mso-ligatures:none"><a href="mailto:sara_frances_ngar_lee_a@moe.edu.sg"><span style="color:#C00000">sara_frances_ngar_lee_a@moe.edu.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
   0pt;mso-ligatures:none"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
