@@ -135,7 +135,7 @@ variant: markdown
  
   <tr>
     <td class="tg-jxqz"><span style="color:white">ST Lower Primary</span></td>
-    <td class="tg-nc7t">Mrs Teo Joseph (Tan Pei Zhe)<br><a href="mailto:tan_pei_tze@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">tan_pei_tze@schools.gov.sg</span></a></td>
+    <td class="tg-nc7t">Mrs Teo Joseph (Tan Pei Tze)<br><a href="mailto:tan_pei_tze@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">tan_pei_tze@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
