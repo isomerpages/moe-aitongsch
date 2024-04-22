@@ -110,7 +110,7 @@ variant: markdown
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-jxqz"><span style="color:white">ICT Associate</span></td>
+    <td class="tg-jxqz"><span style="color:white">ICT Manager</span></td>
     <td class="tg-sdzj">Mdm Nur Azean<br><a href="mailto:nur_azean_nordin@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">nur_azean_nordin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
