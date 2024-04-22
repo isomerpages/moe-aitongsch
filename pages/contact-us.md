@@ -6,7 +6,7 @@ agency_name: Ai Tong School
 contacts:
   - content:
       - phone: +65 6454 7672
-      - email: ""
+      - email: aitong_sch@moe.edu.sg
       - other: '<b>Fax</b>: 6453 2726 <br><br> <p>Got a Question? Ask here:<br> <a
           href="https://ask.gov.sg/aitong#home">https://ask.gov.sg/aitong</a></p>'
     title: Contacts
