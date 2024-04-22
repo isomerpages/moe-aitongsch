@@ -68,7 +68,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-jxqz"><span style="color:white"> ICT Manager</span></td>
-    <td class="tg-nc7t">Mdm Nur Azean<br><a href="mailto:nur_azean_nordin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">nur_azean_nordin@schools.gov.sg</span></a></td>
+    <td class="tg-nc7t">Mdm Nur Azean Nordin<br><a href="mailto:nur_azean_nordin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#CB181A">nur_azean_nordin@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
