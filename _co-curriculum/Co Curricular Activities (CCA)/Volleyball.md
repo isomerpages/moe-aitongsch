@@ -13,7 +13,12 @@ operating as a powerful team against their opponents.</p>
 <p>A competitive CCA, introduced in the 1980s, volleyball has entrenched
 itself at Ai Tong, attracting students who aspire to play for the school.</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,7 +60,4 @@ itself at Ai Tong, attracting students who aspire to play for the school.</p>
 <br>* Teacher-in-Charge</p>
 <hr>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball_Schedule_Term_2.jpg">
-</div>
 <p></p>
