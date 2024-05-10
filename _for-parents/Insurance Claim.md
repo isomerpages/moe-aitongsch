@@ -40,5 +40,7 @@ b. Copy of the Shield Plan's settlement letter if there is any payment by Medisa
 Please note that the list of documents above is not exhaustive. Other documents may be requested if necessary.
 
   
-For more details on the GPA Plan, please refer to:
-[Product Fact Sheet Year 2024](/files/Product_Fact_Sheet_Year_2024.pdf)
+For more details on the GPA Plan, please refer [here,](/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf)
+
+
+
