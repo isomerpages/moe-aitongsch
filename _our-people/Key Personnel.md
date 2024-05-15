@@ -190,8 +190,12 @@ variant: markdown
 </style>
 <table class="tg">
 <tbody>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">HOD MA</span></td>
+    <td class="tg-nc7t">Ms Priscilla Kek<br><a href="mailto:priscilla_kek@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">priscilla_kek@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
-    <td class="tg-jxqz"><span style="color:white">HOD MA(Covering)</span></td>
+    <td class="tg-jxqz"><span style="color:white">LH MA</span></td>
     <td class="tg-nc7t">Mdm Lily Lim<br><a href="mailto:lim_lily_c@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lim_lily_c@schools.gov.sg</span></a></td>
   </tr>
   <tr>
