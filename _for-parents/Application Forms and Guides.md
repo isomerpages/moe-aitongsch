@@ -39,8 +39,8 @@ you can apply for IMDA’s DigitalAccess@Home scheme*.
 <h3>Parent Volunteers @ Ai Tong School</h3>
 <p>The School-based Member Volunteer Scheme is administered by the Singapore
 Hokkien Huay Kuan (SHHK).&nbsp; Interested parents may refer to SHHK’s
-website&nbsp;(<a href="http://www.shhk.com.sg/faq-on-becoming-a-volunteer/" rel="noopener noreferrer nofollow" target="_blank">http://www.shhk.com.sg/faq-on-becoming-a-volunteer/</a>)&nbsp;or&nbsp;contact
-SHHK at Tel: 6222 8212 for application details and terms &amp; conditions.</p>
+<a href="https://www.shhk.com.sg/faqs/" rel="noopener noreferrer nofollow" target="_blank">FAQs page.</a>Please contact SHHK at Tel: 6222 8212 for application details
+and terms &amp; conditions.</p>
 <h3>Application for Waiting List</h3>
 <p>Click&nbsp;<strong><a href="https://go.gov.sg/ats-waiting-list-form" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 access the Waiting List Online Application Form</p>
