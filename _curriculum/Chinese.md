@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>“爱同悦阅”旗舰课程</strong>
+<p><strong>“爱同悦阅”旗舰课程</strong> 
 <br>为了推广阅读风气，营造书香氛围、培养学生的文学素养和人文素养（包括价值观、华族文化），华文部遴选适合不同年级学生的优秀华文故事书，在各年级进行故事书导读活动。导读时，教师引导学生理解并欣赏故事，在讨论中引发内在思考；进行读后活动时，教师训练学生理解、口语与书面的表达能力。</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -103,7 +103,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>“美食文化在爱同”文化旗舰课程</strong>
+<p><strong>“美食文化在爱同”文化旗舰课程</strong> 
 <br>配合本土饮食文化的主题，母语双周活动让一至六年级的学生通过五官的感知，认识本地美食。学生不但能品尝不同籍贯的传统美食，还能够了解美食的由来和含义，甚至有机会动手制作。五六年级的学生在上漫画课时，除了学习画漫画的技巧外，也会进一步了解美食文化，并以此为主题，设计漫画故事和对白。三四年级的学生在上桥梁书导读课时，所阅读的读物也是跟美食文化挂钩。为二年级学生所举办的华文学习营，部门也选择了一系列跟美食文化挂钩的的故事，让学生通过制作布偶和演出布偶剧，培养他们的口语能力。</p>
 <p>
 <br>
@@ -296,31 +296,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>√</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>听说E乐园:
-<br><a href="http://oracyeland.moe.edu.sg/" rel="noopener noreferrer" target="_blank">http://oracyeland.moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>√</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>√</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
