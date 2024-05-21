@@ -36,9 +36,9 @@ which contributes to an active and healthy lifestyle.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>*Tuesdays: 2:15pm - 4.30pm</strong>
+<p><strong>*Tuesdays: 2:15pm - 4.30pm</strong> 
 <br>(P4, P5, P6)</p>
-<p><strong>*Thursdays: 2:15pm - 4.30pm</strong>
+<p><strong>*Thursdays: 2:15pm - 4.30pm</strong> 
 <br>(P3)</p>
 <p>School Team trains on both days</p>
 </td>
@@ -60,8 +60,6 @@ which contributes to an active and healthy lifestyle.</p>
 </table>
 <hr>
 <p>* Dismissal from ATS is 4.30pm and hence there is no school bus service
-back home from school after training.</p>
-<p>
-<br>
+back home from school after training.
 <br>
 </p>
