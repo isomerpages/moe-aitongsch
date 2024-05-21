@@ -162,7 +162,7 @@ this year are:</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National Library Board</strong>
+<p><strong>National Library Board</strong> 
 <br>Pick up some research skills and learn more about the S.U.R.E. method
 from NLB.
 <br><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer" target="_blank">https://sure.nlb.gov.sg/</a>
@@ -176,7 +176,7 @@ from NLB.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National Crime Prevention Council</strong>
+<p><strong>National Crime Prevention Council</strong> 
 <br><a href="https://www.scamalert.sg/resources/videos" rel="noopener noreferrer" target="_blank">https://www.scamalert.sg/resources/videos</a>
 </p>
 </td>
@@ -188,10 +188,10 @@ from NLB.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Personal Data Protection Commission</strong>
+<p><strong>Personal Data Protection Commission</strong> 
 <br>Personal Data Protection Commission Singapore has useful information and
 tips on protecting personal data.
-<br><a href="https://www.pdpc.gov.sg/Overview-of-PDPA/Data-Protection/Individual/Protecting-Your-Personal-Data" rel="noopener noreferrer" target="_blank">https://www.pdpc.gov.sg/Overview-of-PDPA/Data-Protection/Individual/Protecting-Your-Personal-Data</a>
+<br><a href="https://www.pdpc.gov.sg/Overview-of-PDPA/Data-Protection/Individual/Protecting-Your-Personal-Data" rel="noopener noreferrer" target="_blank">https://www.pdpc.gov.sg/Overview-of-PDPA/Data-Protection/Individual/Protecting-Your-Personal-Data</a> 
 <br>
 </p>
 </td>
@@ -203,7 +203,7 @@ tips on protecting personal data.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Cyber Security Agency</strong>
+<p><strong>Cyber Security Agency</strong> 
 <br><a href="https://www.csa.gov.sg/gosafeonline" rel="noopener noreferrer" target="_blank">https://www.csa.gov.sg/gosafeonline</a>
 </p>
 </td>
