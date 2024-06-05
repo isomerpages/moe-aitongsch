@@ -21,12 +21,9 @@ variant: markdown
     <td class="tg-jxqz">Principal</td>
     <td class="tg-nc7t">Mr Wong Jia Wang<br><a href="mailto:wong_jia_wang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">wong_jia_wang@schools.gov.sg</span></a></td>
   </tr>
+ 
   <tr>
-    <td class="tg-jxqz">Vice-Principal 1</td>
-    <td class="tg-nc7t">Mdm Cindy Ng<br><a href="mailto:cindy_be_ng@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">cindy_be_ng@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz">Vice-Principal 2</td>
+    <td class="tg-jxqz">Vice-Principal</td>
     <td class="tg-nc7t">Mr Daniel Yak<br><a href="mailto:yak_beng_wei@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">yak_beng_wei@schools.gov.sg</span></a></td>
   </tr>
   <tr>
