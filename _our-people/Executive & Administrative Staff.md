@@ -117,6 +117,10 @@ variant: markdown
     <td class="tg-jxqz"><span style="color:white">Desktop Engineer</span></td>
     <td class="tg-sdzj">Ms Hazwani<br></td>
   </tr>
+	<tr>
+    <td class="tg-jxqz"><span style="color:white">Desktop Engineer</span></td>
+    <td class="tg-sdzj">Mr Eric Khoo<br></td>
+  </tr>
   <tr>
     <td class="tg-jxqz"><span style="color:white">Science Lab Assistant</span></td>
     <td class="tg-sdzj">Mdm Susan</td>
