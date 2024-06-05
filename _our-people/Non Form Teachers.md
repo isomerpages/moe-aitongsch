@@ -215,9 +215,9 @@ variant: markdown
   height:34.5pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Ms Lo Sik Yuen<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Ms Lee Suet Yin<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
-  0pt;mso-ligatures:none"><a href="mailto:Lo_Sik_Yuen@schools.gov.sg"><span style="color:#C00000">Lo_Sik_Yuen@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  0pt;mso-ligatures:none"><a href="mailto:lee_suet_yin@schools.gov.sg"><span style="color:#C00000">lee_suet_yin@schools.gov.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#595959;mso-font-kerning:0pt;mso-ligatures:none"><br>FAJT</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
   none"></span></p></td><td width="217" style="width:162.85pt;padding:1.5pt 7.5pt 1.5pt 7.5pt;
@@ -233,9 +233,9 @@ variant: markdown
   0pt;mso-ligatures:none"></span></p></td><td width="237" style="width:178.05pt;padding:0in 0in 0in 0in;height:34.5pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mr Low Joo Tatt<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mr Seth Tan<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
-  0pt;mso-ligatures:none"><a href="mailto:Low_Joo_Tatt@schools.gov.sg"><span style="color:#C00000">Low_Joo_Tatt@schools.gov.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  0pt;mso-ligatures:none"></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#595959;mso-font-kerning:0pt;mso-ligatures:none"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-font-kerning:
   0pt;mso-ligatures:none">FAJT</span><span style="font-size:12.0pt;font-family:
@@ -253,24 +253,8 @@ variant: markdown
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
   0pt;mso-ligatures:none"></span></p></td><td width="217" style="width:162.85pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt;
   height:34.5pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-  auto;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mrs Liyu Sara<br></span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
-  0pt;mso-ligatures:none"><a href="mailto:sara_frances_ngar_lee_a@moe.edu.sg"><span style="color:#C00000">sara_frances_ngar_lee_a@moe.edu.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
-  0pt;mso-ligatures:none"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#C00000;mso-font-kerning:
-  0pt;mso-ligatures:none"><br></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-font-kerning:
-  0pt;mso-ligatures:none">FAJT</span><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
-  0pt;mso-ligatures:none"></span></span></p></td><td width="237" style="width:178.05pt;background:#E5E5E5;padding:0in 0in 0in 0in;
+  auto;text-align:center;line-height:normal"><b></b></p></td><td width="237" style="width:178.05pt;background:#E5E5E5;padding:0in 0in 0in 0in;
   height:34.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><b><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
-  0pt;mso-ligatures:none"></span></b><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#595959;mso-font-kerning:0pt;mso-ligatures:none">Mr Seth Tan<br></span></b><br><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#595959;mso-font-kerning:
-  0pt;mso-ligatures:none">FAJT</span></p></td></tr></tbody></table>
+  0pt;mso-ligatures:none"></span></b></p></td></tr></tbody></table>
