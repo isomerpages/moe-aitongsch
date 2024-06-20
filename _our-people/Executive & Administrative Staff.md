@@ -2,136 +2,217 @@
 title: Executive & Administrative Staff
 permalink: /our-people/executive-and-administrative-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### ADMINISTRATION
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-15z8{background-color:#FAFAFA;color:#454545;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<h3>ADMINISTRATION</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">A</span>dministration Manager</td>
-    <td class="tg-15z8">Miss Wong Yu Chun<br><a href="mailto:wong_yu_chun@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">wong_yu_chun@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Admin Executive</span></td>
-    <td class="tg-15z8">Mdm Chng Kwai Chan<br><a href="mailto:chng_kwai_chan@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">chng_kwai_chan@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Admin Executive</span></td>
-    <td class="tg-15z8">Ms Nur Khaliesah Binte Shawalri<br><a href="mailto:nur_khaliesah_shawalri@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">nur_khaliesah_shawalri@schools.gov.sg</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
-    <td class="tg-15z8">Mdm Cindy Chan<br><a href="mailto:ngeow_chai_lian@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">chan_chie_har@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
-    <td class="tg-15z8">Mdm Lee Siok Noi<br><a href="mailto:lee_siok_noi@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">lee_siok_noi@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
-    <td class="tg-15z8">Mdm Sally Tan<br><a href="mailto:tan_kui_wang@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">tan_kui_wang@schools.gov.sg</span></a></td>
-  </tr>
-	<tr>
-    <td class="tg-jxqz"><span style="color:white">Corporate Support Officer</span></td>
-    <td class="tg-15z8">Ms Margaret Chang<br><a href="mailto:Chang_Quek_Poh_Margaret@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">chang_quek_poh_margaret@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz">Receptionist</td>
-    <td class="tg-15z8">Mdm Lilian Ngiam</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Wong Yu Chun
+<br><a href="mailto:wong_yu_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yu_chun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chng Kwai Chan
+<br><a href="mailto:chng_kwai_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_kwai_chan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Khaliesah Binte Shawalri
+<br><a href="mailto:nur_khaliesah_shawalri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khaliesah_shawalri@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cindy Chan
+<br><a href="mailto:ngeow_chai_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chie_har@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Siok Noi
+<br><a href="mailto:lee_siok_noi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siok_noi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sally Tan
+<br><a href="mailto:tan_kui_wang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kui_wang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Margaret Chang
+<br><a href="mailto:Chang_Quek_Poh_Margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_quek_poh_margaret@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Receptionist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lilian Ngiam</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-### OPERATIONS
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-huu4{background-color:#FAFAFA;color:#454545;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<h3>OPERATIONS</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Operations Manager 1</span></td>
-    <td class="tg-huu4">Mr Ng Lik Yong<br><a href="mailto:ng_lik_yong@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">ng_lik_yong@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Operations Manager 2</span></td>
-    <td class="tg-huu4">Mr Low Heng Moh<br><a href="mailto:low_heng_moh@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">low_heng_moh@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
-    <td class="tg-huu4">Mdm Lim Ah Moy</td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
-    <td class="tg-huu4">Mr Yeo Eng Liat</td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
-    <td class="tg-huu4">Mdm Oh Mee Suan</td>
-  </tr>
-	<tr>
-    <td class="tg-jxqz"><span style="color:white">Operations Support Officer</span></td>
-    <td class="tg-huu4">Mr Fong Kee Keong</td>
-  </tr>
-	
-  
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Lik Yong
+<br><a href="mailto:ng_lik_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lik_yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Heng Moh
+<br><a href="mailto:low_heng_moh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_heng_moh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Ah Moy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Eng Liat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Oh Mee Suan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Kee Keong</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-### SUPPORT
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jxqz{background-color:#265999;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<h3>SUPPORT</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">ICT Manager</span></td>
-    <td class="tg-sdzj">Mdm Nur Azean Nordin<br><a href="mailto:nur_azean_nordin@schools.gov.sg"><span style="text-decoration:none;color:#CB181A">nur_azean_nordin@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Desktop Engineer</span></td>
-    <td class="tg-sdzj">Ms Hazwani<br></td>
-  </tr>
-	<tr>
-    <td class="tg-jxqz"><span style="color:white">Desktop Engineer</span></td>
-    <td class="tg-sdzj">Mr Eric Khoo<br></td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Science Lab Assistant</span></td>
-    <td class="tg-sdzj">Mdm Susan</td>
-  </tr>
-  <tr>
-    <td class="tg-jxqz"><span style="color:white">Printing Assistant</span></td>
-    <td class="tg-sdzj">Mdm Chai Bee Leng</td>
-  </tr>
-	<tr>
-    <td class="tg-jxqz"><span style="color:white">Library Assistant</span></td>
-    <td class="tg-sdzj">Mr Ong Ah Lek</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Azean Nordin
+<br><a href="mailto:nur_azean_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azean_nordin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hazwani
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Eric Khoo
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Lab Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Susan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Printing Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tee Yu Chuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Library Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Ah Lek</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
