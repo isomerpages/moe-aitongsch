@@ -40,7 +40,8 @@ variant: tiptap
 <br>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yeo Sok Koon<br></strong><a href="mailto:yeo_sok_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_sok_koon@schools.gov.sg</a>
+<p><strong>Mdm Yeo Sok Koon</strong>
+<br><a href="mailto:yeo_sok_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_sok_koon@schools.gov.sg</a>
 <br>Special Educational Needs Officer</p>
 </td>
 </tr>
