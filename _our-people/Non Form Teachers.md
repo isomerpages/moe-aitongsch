@@ -20,8 +20,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chua Siew Jin, Erika</strong>
-</p>
-<p><a href="mailto:chua_siew_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_jin@schools.gov.sg</a>
+<br><a href="mailto:chua_siew_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_jin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
