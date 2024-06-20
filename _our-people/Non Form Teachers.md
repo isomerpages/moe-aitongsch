@@ -139,17 +139,32 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Seth Tan<br></strong>
+<p><strong>Mrs Chong Chow Yong<br></strong><a href="mailto:chong_chow_yong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chow_yong_a@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Chong Chow Yong<br></strong><a href="mailto:chong_chow_yong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chow_yong_a@schools.gov.sg</a>
+<p><strong>Mdm Paige Lee</strong>
+<br><a href="mailto:Lee_Suet_Yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Suet_Yin@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Ang Tze Yin</strong>
+<br>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Seth Tan<br></strong>FAJT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ang Teck Keng</strong>
+<br>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Tina Tang</strong>
+<br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
