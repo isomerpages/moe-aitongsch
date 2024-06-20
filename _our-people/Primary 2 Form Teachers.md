@@ -115,7 +115,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chua Siew Jin, Erika<br></strong><a href="mailto:chua_siew_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_jin@schools.gov.sg</a>
+<p><strong>Ms Jowie Koh</strong>
+<br><a href="mailto:koh_hui_ling_jowie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hui_ling_jowie@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
