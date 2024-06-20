@@ -2,7 +2,7 @@
 title: Key Personnel
 permalink: /our-people/key-personnel/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>School Leaders</h3>
 <table style="minWidth: 50px">
