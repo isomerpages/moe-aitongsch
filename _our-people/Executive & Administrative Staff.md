@@ -202,7 +202,7 @@ variant: tiptap
 <p>Printing Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chai Bee Leng</p>
+<p>Ms Tee Yu Chuan</p>
 </td>
 </tr>
 <tr>
