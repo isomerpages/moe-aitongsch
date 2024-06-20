@@ -14,8 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zeng Jing</strong>
-<br><a href="mailto:zeng_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zeng_jing@schools.gov.sg</a>
+<p><strong>Mdm Tan Kang Li</strong>
+<br><a href="mailto:tan_kang_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kang_li@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
