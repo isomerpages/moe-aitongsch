@@ -2,7 +2,9 @@
 title: Useful Links
 permalink: /useful-links/
 description: ""
+variant: markdown
 ---
+*   [ATS Student iCON & SLS Help Centre](https://go.gov.sg/ats-sls-studenticon-issues)
 *   [ATS Student Resource Hub](https://sites.google.com/moe.edu.sg/ats-student/home)
 *   [eCareers](https://ecareers.sg/)    
 *   [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)    
