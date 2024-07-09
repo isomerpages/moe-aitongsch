@@ -47,5 +47,9 @@ Hokkien Huay Kuan (SHHK).&nbsp; Interested parents may refer to SHHK’s
 <p>Click&nbsp;<strong><a href="https://go.gov.sg/ats-waiting-list-form" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 access the Waiting List Online Application Form</p>
 <p><strong>Please note that the waiting list does not guarantee your child a place in the school. If you do not hear from us within 6 months from the date you applied, you will need to resubmit your application again.</strong>&nbsp;</p>
-<p><strong>Note:</strong>&nbsp;P1 (2024) Waiting List application is available
-from 1st Sep 2023.</p>
+<p><strong>Note:</strong>&nbsp;P1 (2025) Waiting List application is available
+from 2nd Sep 2024.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
