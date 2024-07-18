@@ -5,6 +5,45 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CLUBS &amp; SOCIETIES</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROBOTICS CLUB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022 FIRST® LEGO® League (FLL) </strong>
+<br>ROBOT DESIGN AWARD
+<br>3rd Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Coder Passion Scratch Hackathon 2024</strong>
+<br>2nd Runner up Two Merit Awards</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
 <p><strong><u>HACK@CODE</u></strong>
 </p>
 <p>HACK@CODE is a National Online Thematic Coding Competition jointly organized
@@ -22,7 +61,7 @@ The details are as follows:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team Name</strong>
+<p><strong>Team Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,43 +159,5 @@ Challenge- Drone Swarming (Open Category: 9 to 16 years old)&nbsp;&nbsp;</p>
 <img style="width:65%" height="auto" width="100%" src="/images/csa2.png">
 </div>
 <hr>
-<p>
-<br>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CLUBS &amp; SOCIETIES</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WEIQI</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ROBOTICS CLUB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022 FIRST® LEGO® League (FLL)
-<br>
-<br>ROBOT DESIGN AWARD
-<br>3rd Place</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
