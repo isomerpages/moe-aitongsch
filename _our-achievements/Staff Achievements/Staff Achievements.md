@@ -284,6 +284,15 @@ Respect and Shared Responsibility for the Public Good).</p>
 <br>Mdm Klera Kwa</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Platinum</u></strong>
+<br>Mr Casey Low</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>MOE Innergy (Schools) Award -Team Commendation Award</h3>
