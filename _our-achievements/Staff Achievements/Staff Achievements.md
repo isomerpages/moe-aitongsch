@@ -14,10 +14,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year of Award</p>
+<p><strong>Year of Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Staff</p>
+<p><strong>Name of Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,10 +45,12 @@ to the professional development of the teaching fraternity.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year of Award</p>
+<p><strong>Year of Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Staff</p>
+<p><strong>Name of Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,10 +114,12 @@ and devotion to duty.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year of Award</p>
+<p><strong>Year of Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Staff</p>
+<p><strong>Name of Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -172,10 +178,12 @@ in the service of the Government.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year of Award</p>
+<p><strong>Year of Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Staff</p>
+<p><strong>Name of Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -211,10 +219,12 @@ formerly known as the Inspiring Chinese Language Teachers Awards.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year of Award</p>
+<p><strong>Year of Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Staff</p>
+<p><strong>Name of Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -260,10 +270,12 @@ Respect and Shared Responsibility for the Public Good).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year of Award</p>
+<p><strong>Year of Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Staff</p>
+<p><strong>Name of Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -306,10 +318,12 @@ teaching and learning.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year of Award</p>
+<p><strong>Year of Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Staff</p>
+<p><strong>Name of Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -337,6 +351,34 @@ teaching and learning.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Ong Hui San
 <br>Mdm Felice Tang Chai Chin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>The Caring Teacher Award</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year of Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Staff</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Yee Teng</p>
 </td>
 </tr>
 </tbody>
