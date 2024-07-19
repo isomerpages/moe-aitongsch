@@ -32,6 +32,35 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3>The Caring Teacher Award</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year of Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Staff</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Yee Teng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h3>Academy Awards for Professional Development</h3>
 <p>The Academy Awards for Professional Development awarded by the Academy
 of Singapore Teachers (AST) recognise and affirm the efforts of officers
@@ -351,34 +380,6 @@ teaching and learning.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Ong Hui San
 <br>Mdm Felice Tang Chai Chin</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h3>The Caring Teacher Award</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Year of Award</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Staff</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yeo Yee Teng</p>
 </td>
 </tr>
 </tbody>
