@@ -59,8 +59,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <h3>Academy Awards for Professional Development</h3>
 <p>The Academy Awards for Professional Development awarded by the Academy
 of Singapore Teachers (AST) recognise and affirm the efforts of officers
