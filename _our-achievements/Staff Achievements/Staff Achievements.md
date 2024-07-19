@@ -85,6 +85,17 @@ to the professional development of the teaching fraternity.</p>
 <br>Mdm Tan Kang Li</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Teo Joseph (Tan Pei Tze)
+<br>Mr Casey Low
+<br>Mrs Eileen Peh
+<br>Mdm Lily Lim</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>National Day Award - Commendation</h3>
