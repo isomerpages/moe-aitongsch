@@ -37,7 +37,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Coder Passion Scratch Hackathon 2024</strong>
-<br>2nd Runner up Two Merit Awards</p>
+<br>- 2nd Runner up
+<br>- Two Merit Awards</p>
 </td>
 </tr>
 </tbody>
