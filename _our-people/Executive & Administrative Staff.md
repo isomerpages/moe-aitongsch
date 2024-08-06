@@ -175,7 +175,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lai Chee Kiong
-<br><a href="mailto:lai_chee_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azean_nordin@schools.gov.sg</a>
+<br><a href="mailto:lai_chee_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chee_kiong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
