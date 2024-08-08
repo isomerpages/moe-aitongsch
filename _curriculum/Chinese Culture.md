@@ -2,6 +2,7 @@
 title: Chinese Culture
 permalink: /curriculum/chinese-culture/
 description: ""
+variant: markdown
 ---
 ![](/images/ATS_Chinese-Culture.jpeg)
 
@@ -14,9 +15,6 @@ description: ""
 以下是部门的活动
 
 ![](/images/SAP%20Blueprint%202023.jpeg)
-
-<img src="/images/P5%20Immersion%20Programme%20(1).jpeg" 
-     style="width:65%">
 
 
 ### 双文化华文优选课程（BiCEP – Bi-cultural Chinese Elective Programme）
