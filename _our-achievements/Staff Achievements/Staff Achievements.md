@@ -245,8 +245,8 @@ in the service of the Government.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jeanny Wong</p>
-<p>Mrs Margaret Han</p>
+<p>Mrs Jeanny Wong
+<br>Mrs Margaret Han</p>
 </td>
 </tr>
 </tbody>
