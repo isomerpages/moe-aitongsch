@@ -191,6 +191,14 @@ and devotion to duty.</p>
 <p>Mdm Koh Khor Kiah (Tan Khor Kiah)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheng Qili</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>National Day Award - Long Service</h3>
@@ -230,6 +238,15 @@ in the service of the Government.</p>
 <p>Mdm Ang Kar Bee
 <br>Mr Matthew Yap Kheng Wai
 <br>Mdm Lim Li Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jeanny Wong</p>
+<p>Mrs Margaret Han</p>
 </td>
 </tr>
 </tbody>
