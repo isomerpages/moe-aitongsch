@@ -191,6 +191,14 @@ and devotion to duty.</p>
 <p>Mdm Koh Khor Kiah (Tan Khor Kiah)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheng Qili</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>National Day Award - Long Service</h3>
