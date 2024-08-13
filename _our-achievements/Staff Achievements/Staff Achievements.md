@@ -240,6 +240,15 @@ in the service of the Government.</p>
 <br>Mdm Lim Li Meng</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jeanny Wong</p>
+<p>Mrs Margaret Han</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Distinguished Chinese Language Teachers Award</h3>
