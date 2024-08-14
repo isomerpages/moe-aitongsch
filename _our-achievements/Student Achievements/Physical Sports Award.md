@@ -3,7 +3,298 @@ title: Physical Sports Award
 permalink: /our-achievements/Student-Achievements/physical-sports-award/
 description: ""
 third_nav_title: Student Achievements
+variant: tiptap
 ---
-
-
-<table class="iveo_table ives_tab_1 ive_eobj_center" width="863" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 892.656px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 147px;"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">PHYSICAL SPORTS</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 327px;"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">2021</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 418px;"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">2022</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></font></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">BADMINTON</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG Badminton Championships</b><br style="margin: 0px; outline: 0px; padding: 0px;"></span></span></font><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">(South Zone)<br style="margin: 0px; outline: 0px; padding: 0px;"></b></span></span><u class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior</span></u><u class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></u><u class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Division Boys – 7<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp;Team Placing</span></u></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">NSG Badminton Championships<br style="margin: 0px; outline: 0px; padding: 0px;"></span></b></font><b class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">(South Zone)</span></b></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior&nbsp;Division Boys – Top 8 Team Placing<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span></font><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior&nbsp;Division Girls – 2<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span>&nbsp;</span>Team Placing</span></span></font><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></font></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Junior Division Boys – Tier 2 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>Placing</span></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">GYMNASTICS</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">National Schools Artistic Gymnastics Championships</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Girls I - 3<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">rd</sup></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span>&nbsp;</span>Individual Apparatus Final - Floor<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span></font><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Girls II - 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st<span>&nbsp;</span></sup></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Individual Apparatus Final - Balance Beam<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Girls II - 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st<span>&nbsp;</span></sup></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Individual Apparatus Final - Uneven Bars<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Girls II - 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st<span>&nbsp;</span></sup></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Individual Apparatus Final - Floor<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Girls II - 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st<span>&nbsp;</span></sup></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">All Around Final</span></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">SWIMMING</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">NSG Swimming Championships</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></font></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Senior Girls – 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>100M: Meter 50 Fly 50 Backstroke<br style="margin: 0px; outline: 0px; padding: 0px;"></span></font><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Senior Girls – 1st 100M Butterfly<br style="margin: 0px; outline: 0px; padding: 0px;"></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Senior Girls – 1</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>50M Butterfly</span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Junior 2 Boys – 5<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>100M Freestyle<br style="margin: 0px; outline: 0px; padding: 0px;"></span></font><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Junior 2 Boys – 6th 100M Backstroke<br style="margin: 0px; outline: 0px; padding: 0px;"></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Junior 2 Boys – 4</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>100M: 50M Backstroke 50M Freestyle<br style="margin: 0px; outline: 0px; padding: 0px;"></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Junior 2 Boys – 5</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>200M Individual Medley<br style="margin: 0px; outline: 0px; padding: 0px;"></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Junior 1 Boys – 4</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>&amp; 7th 50M Backstroke<br style="margin: 0px; outline: 0px; padding: 0px;"></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Junior 1 Boys – 8</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>50M Freestyle<br style="margin: 0px; outline: 0px; padding: 0px;"></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Junior 1 Boys – 4</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>50M Breaststroke<br style="margin: 0px; outline: 0px; padding: 0px;"></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Junior 1 Boys – 4</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>25M: 25M Backstroke 25M Freestyle</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">TABLE TENNIS</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG Table Tennis Primary School&nbsp;</b></span></span></font><b class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Championships&nbsp;&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">(South Zone)</span></b></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Division Boys – 3<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">rd</sup><span>&nbsp;</span>Team Placing<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span></font><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Senior Division Girls - 1</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">&nbsp;Team Placing</span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Junior Division Girls/Boys – Doubles &amp; Singles Tier 1 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>and 2<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span>&nbsp;</span>Placing<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span></font><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Junior Division Girls – Singles Tier 2 1</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>and 2</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>Placing<br style="margin: 0px; outline: 0px; padding: 0px;"></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">Junior Division Girls – Doubles Tier 3 2</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>Placing</span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</font></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">TRACK &amp; FIELD</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">NSG Track and Field Championships</span></b></font></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Division Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></u></font><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">4 x 100m Relay - Top 8<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Short Put - 6<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Place<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">100m Hurdles 5th Place</span></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Junior Division Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></u></font><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;7th Long Jump Junior 1 Boys 7</font><sup class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">th</font><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.8333px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></sup></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">40m Sprint Junior 1 Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>60m Sprint Junior<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>40m Sprint Junior 1 Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">2<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span>&nbsp;</span>60m Sprint Junior 1 Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">2<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span>&nbsp;</span>Long Jump Junior 1 Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">2<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span>&nbsp;</span>80m Sprint Junior 2 Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">8<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Long Jump Junior 2 Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>80m Sprint Junior 2 Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>Long Jump Junior 2 Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>8x50m Relay Junior 1 Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>8x50m Relay Junior 2 Boys</span></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Junior Division Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></span></u></font><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">3<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">rd</sup><span>&nbsp;</span>60m Hurdles Junior 1 Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">8<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Long Jump Junior 1 Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">5<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>80m Sprint Junior 1 Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>Medicine Ball Throw Junior 1 Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">4<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>80m Sprint Junior 2 Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">6<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Shot Put Junior 2 Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">6<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>80m Sprint Junior 2 Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">2<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span>&nbsp;</span>8x50m Relay Junior 1 Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">4<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>8x50m Relay Junior 2 Girls</span></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">VOLLEYBALL</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG Volleyball Championships</b>&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span></font><b class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">(National)</span></b></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Division Girls – 4<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Team Placing<br style="margin: 0px; outline: 0px; padding: 0px;"></span></span></font><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Division Boys – 4<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Team Placing</span></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Junior Division Boys – Tier 2 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>Team Placing</span></span></font></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">WUSHU</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">NSG Wushu Championships</span></b></font><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</font></span></b></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Senior Division Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></b></span></u></font><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">4-Duan Broadsword – 1</font><sup class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">st</font><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.8333px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></sup></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">International Nan Gun – 5<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp;</span></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Junior Division Girls:<br style="margin: 0px; outline: 0px; padding: 0px;"></b></span></u></font><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">3 Duan Chang Quan - 1</font><sup class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">st</font><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.8333px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></sup></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">3 Duan Chang Quan - 2</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd<br style="margin: 0px; outline: 0px; padding: 0px;"></sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">1st International Nan Gun - 1</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">&nbsp; 5 Duan Sword - 1</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Junior Division Boys:</b></span></u><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></font></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>International Chang Quan - 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st<br style="margin: 0px; outline: 0px; padding: 0px;"></sup></span></span></font><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">1</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span>&nbsp;</span>International Chang Quan - 4</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th<br style="margin: 0px; outline: 0px; padding: 0px;"></sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">4 Duan Cudgel - 2</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd<br style="margin: 0px; outline: 0px; padding: 0px;"></sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">5 Duan Broadsword - 1</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st<br style="margin: 0px; outline: 0px; padding: 0px;"></sup><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small;">5 Duan Broadsword - 2</span><sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">TAEKWONDO</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">NSG Taekwondo Championships<br style="margin: 0px; outline: 0px; padding: 0px;"></span></b></font><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Senior Division Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></b></span></u></span><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Poomsae Individual Poom 1 – Individual 6<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Position</span></span></font><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</font></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">SAILING</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</font></span></b></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">NSG Sailing Championships</span></b></font><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></b></font></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Senior Girls Optimist - 1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>Position</span></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">GOLF</font></span></b></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</font></span></b></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG Golf Championship<br style="margin: 0px; outline: 0px; padding: 0px;"></b></span></span></font><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Open Category – 5<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Position</span></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">ROPE SKIPPING</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></font></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</font></span></b></p></td><td width="135" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG Rope Skipping Championship<br style="margin: 0px; outline: 0px; padding: 0px;"></b></span></span></font><span class="" style="margin: 0px; outline: 0px; padding: 0px; font-size: small;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Junior Boys – Individual Freestyle 8th Position</span></span></p></td></tr></tbody></table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PHYSICAL SPORTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>BADMINTON</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Badminton Championships</strong>
+<br><strong>(South Zone)<br></strong><u>Senior&nbsp;Division Boys – 7<sup>th</sup>&nbsp;Team Placing</u>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Badminton Championships<br>(South Zone)</strong>
+</p>
+<p>Senior&nbsp;Division Boys – Top 8 Team Placing
+<br>Senior&nbsp;Division Girls – 2<sup>nd</sup>&nbsp;Team Placing<strong>&nbsp;<br>&nbsp;</strong>Junior
+Division Boys – Tier 2 1<sup>st</sup>&nbsp;Placing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GYMNASTICS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Schools Artistic Gymnastics Championships</strong>
+</p>
+<p>Senior Girls I - 3<sup>rd</sup>&nbsp;Individual Apparatus Final - Floor
+<br>Senior Girls II - 1<sup>st&nbsp;</sup>Individual Apparatus Final - Balance
+Beam
+<br>Senior Girls II - 1<sup>st&nbsp;</sup>Individual Apparatus Final - Uneven
+Bars
+<br>Senior Girls II - 1<sup>st&nbsp;</sup>Individual Apparatus Final - Floor
+<br>Senior Girls II - 1<sup>st&nbsp;</sup>All Around Final</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SWIMMING</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Swimming Championships</strong>
+</p>
+<p>&nbsp;Senior Girls – 1<sup>st</sup>&nbsp;100M: Meter 50 Fly 50 Backstroke
+<br>Senior Girls – 1st 100M Butterfly
+<br>Senior Girls – 1<sup>st</sup>&nbsp;50M Butterfly</p>
+<p>
+<br>
+</p>
+<p>Junior 2 Boys – 5<sup>th</sup>&nbsp;100M Freestyle
+<br>Junior 2 Boys – 6th 100M Backstroke
+<br>Junior 2 Boys – 4<sup>th</sup>&nbsp;100M: 50M Backstroke 50M Freestyle
+<br>Junior 2 Boys – 5<sup>th</sup>&nbsp;200M Individual Medley
+<br>Junior 1 Boys – 4<sup>th</sup>&nbsp;&amp; 7th 50M Backstroke
+<br>Junior 1 Boys – 8<sup>th</sup>&nbsp;50M Freestyle
+<br>Junior 1 Boys – 4<sup>th</sup>&nbsp;50M Breaststroke
+<br>Junior 1 Boys – 4<sup>th</sup>&nbsp;25M: 25M Backstroke 25M Freestyle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TABLE TENNIS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Table Tennis Primary School&nbsp;Championships&nbsp;&nbsp;<br>(South Zone)</strong>
+</p>
+<p>Senior Division Boys – 3<sup>rd</sup>&nbsp;Team Placing
+<br>Senior Division Girls - 1<sup>st</sup>&nbsp;Team Placing</p>
+<p>
+<br>
+</p>
+<p>Junior Division Girls/Boys – Doubles &amp; Singles Tier 1 1<sup>st</sup>&nbsp;and
+2<sup>nd</sup>&nbsp;Placing
+<br>Junior Division Girls – Singles Tier 2 1<sup>st</sup>&nbsp;and 2<sup>nd</sup>&nbsp;Placing
+<br>Junior Division Girls – Doubles Tier 3 2<sup>nd</sup>&nbsp;Placing</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TRACK &amp; FIELD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Track and Field Championships</strong>
+</p>
+<p><u>Senior Division Boys<br></u>4 x 100m Relay - Top 8
+<br>Short Put - 6<sup>th</sup>&nbsp;Place
+<br>100m Hurdles 5th Place</p>
+<p><u>Junior Division Boys<br></u>&nbsp;7th Long Jump Junior 1 Boys 7<sup>th<br></sup>40m
+Sprint Junior 1 Boys
+<br>1<sup>st</sup>&nbsp;60m Sprint Junior
+<br>1<sup>st</sup>&nbsp;40m Sprint Junior 1 Boys
+<br>2<sup>nd</sup>&nbsp;60m Sprint Junior 1 Boys
+<br>2<sup>nd</sup>&nbsp;Long Jump Junior 1 Boys
+<br>2<sup>nd</sup>&nbsp;80m Sprint Junior 2 Boys
+<br>8<sup>th</sup>&nbsp;Long Jump Junior 2 Boys
+<br>1<sup>st</sup>&nbsp;80m Sprint Junior 2 Boys
+<br>1<sup>st</sup>&nbsp;Long Jump Junior 2 Boys
+<br>1<sup>st</sup>&nbsp;8x50m Relay Junior 1 Boys
+<br>1<sup>st</sup>&nbsp;8x50m Relay Junior 2 Boys</p>
+<p><u>Junior Division Girls<br></u>3<sup>rd</sup>&nbsp;60m Hurdles Junior
+1 Girls
+<br>8<sup>th</sup>&nbsp;Long Jump Junior 1 Girls
+<br>5<sup>th</sup>&nbsp;80m Sprint Junior 1 Girls
+<br>1<sup>st</sup>&nbsp;Medicine Ball Throw Junior 1 Girls
+<br>4<sup>th</sup>&nbsp;80m Sprint Junior 2 Girls
+<br>6<sup>th</sup>&nbsp;Shot Put Junior 2 Girls
+<br>6<sup>th</sup>&nbsp;80m Sprint Junior 2 Girls
+<br>2<sup>nd</sup>&nbsp;8x50m Relay Junior 1 Girls
+<br>4<sup>th</sup>&nbsp;8x50m Relay Junior 2 Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>VOLLEYBALL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Volleyball Championships</strong>&nbsp;
+<br><strong>(National)</strong>
+</p>
+<p>Senior Division Girls – 4<sup>th</sup>&nbsp;Team Placing
+<br>Senior Division Boys – 4<sup>th</sup>&nbsp;Team Placing</p>
+<p>Junior Division Boys – Tier 2 1<sup>st</sup>&nbsp;Team Placing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WUSHU</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Wushu Championships&nbsp;</strong>
+</p>
+<p><strong><u>Senior Division Girls<br></u></strong>4-Duan Broadsword – 1<sup>st<br></sup>International
+Nan Gun – 5<sup>th</sup>&nbsp;</p>
+<p><strong><u>Junior Division Girls:<br></u></strong>3 Duan Chang Quan -
+1<sup>st<br></sup>3 Duan Chang Quan - 2<sup>nd<br></sup>1st International
+Nan Gun - 1<sup>st</sup>&nbsp; 5 Duan Sword - 1<sup>st</sup>
+</p>
+<p><strong><u>Junior Division Boys:</u></strong>
+</p>
+<p>1<sup>st</sup>&nbsp;International Chang Quan - 1<sup>st<br></sup>1<sup>st</sup>&nbsp;International
+Chang Quan - 4<sup>th<br></sup>4 Duan Cudgel - 2<sup>nd<br></sup>5 Duan
+Broadsword - 1<sup>st<br></sup>5 Duan Broadsword - 2<sup>nd</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TAEKWONDO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Taekwondo Championships<br><u>Senior Division Girls<br></u></strong>Poomsae
+Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SAILING</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Sailing Championships&nbsp;<br></strong>Senior Girls Optimist
+- 1<sup>st</sup>&nbsp;Position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GOLF</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Golf Championship<br></strong>Open Category – 5<sup>th</sup>&nbsp;Position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ROPE SKIPPING</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Rope Skipping Championship<br></strong>Junior Boys – Individual
+Freestyle 8th Position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
