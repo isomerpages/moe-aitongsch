@@ -5,6 +5,74 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
+<h4><strong>BADMINTON</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Badminton Championships</strong>
+<br><strong>(South Zone)<br></strong>Senior&nbsp;Division Boys – 7<sup>th</sup>&nbsp;Team
+Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Badminton Championships<br>(South Zone)</strong>
+<br>Senior&nbsp;Division Boys – Top 8 Team Placing
+<br>Senior&nbsp;Division Girls – 2<sup>nd</sup>&nbsp;Team Placing<strong>&nbsp;<br></strong>Junior
+Division Boys – Tier 2 1<sup>st</sup>&nbsp;Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Badminton Championships<br>(South Zone)</strong>
+</p>
+<p>Senior&nbsp;Division Boys – 4<sup>th</sup>&nbsp;Team Placing</p>
+<p>Senior Division Girls - 6<sup>th</sup> Team Placing</p>
+<p></p>
+<p><strong>NSG Badminton Championships<br>(National)</strong>
+</p>
+<p>Senior&nbsp;Division Boys – 6<sup>th</sup>&nbsp;Team Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Badminton Championships</strong>
+</p>
+<p><strong>(League 2)</strong>
+</p>
+<p>Senior&nbsp;Division Boys – 2<sup>nd</sup>&nbsp;Team Placing</p>
+<p></p>
+<p><strong>NSG Badminton Championships</strong>
+</p>
+<p><strong>(League 3)</strong>
+</p>
+<p>Senior Division Girls - 2<sup>nd</sup> Team Placing</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -23,8 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -297,4 +364,8 @@ Freestyle 8th Position</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
