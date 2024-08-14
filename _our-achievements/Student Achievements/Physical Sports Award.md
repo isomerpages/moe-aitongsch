@@ -42,13 +42,11 @@ Division Boys – Tier 2 1<sup>st</sup>&nbsp;Placing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Badminton Championships<br>(South Zone)</strong>
-</p>
-<p>Senior&nbsp;Division Boys – 4<sup>th</sup>&nbsp;Team Placing</p>
-<p>Senior Division Girls - 6<sup>th</sup> Team Placing</p>
+<br>Senior&nbsp;Division Boys – 4<sup>th</sup>&nbsp;Team Placing
+<br>Senior Division Girls - 6<sup>th</sup> Team Placing</p>
 <p></p>
 <p><strong>NSG Badminton Championships<br>(National)</strong>
-</p>
-<p>Senior&nbsp;Division Boys – 6<sup>th</sup>&nbsp;Team Placing</p>
+<br>Senior&nbsp;Division Boys – 6<sup>th</sup>&nbsp;Team Placing</p>
 </td>
 </tr>
 <tr>
@@ -58,20 +56,72 @@ Division Boys – Tier 2 1<sup>st</sup>&nbsp;Placing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Badminton Championships</strong>
-</p>
-<p><strong>(League 2)</strong>
-</p>
-<p>Senior&nbsp;Division Boys – 2<sup>nd</sup>&nbsp;Team Placing</p>
+<br><strong>(League 2)</strong>
+<br>Senior&nbsp;Division Boys – 2<sup>nd</sup>&nbsp;Team Placing</p>
 <p></p>
 <p><strong>NSG Badminton Championships</strong>
-</p>
-<p><strong>(League 3)</strong>
-</p>
-<p>Senior Division Girls - 2<sup>nd</sup> Team Placing</p>
+<br><strong>(League 3)</strong>
+<br>Senior Division Girls - 2<sup>nd</sup> Team Placing</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>GYMNASTICS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>National Schools Artistic Gymnastics Championships</strong>
+<br>Senior Girls I - 3<sup>rd</sup>&nbsp;Individual Apparatus Final - Floor
+<br>Senior Girls II - 1<sup>st&nbsp;</sup>Individual Apparatus Final - Balance
+Beam
+<br>Senior Girls II - 1<sup>st&nbsp;</sup>Individual Apparatus Final - Uneven
+Bars
+<br>Senior Girls II - 1<sup>st&nbsp;</sup>Individual Apparatus Final - Floor
+<br>Senior Girls II - 1<sup>st&nbsp;</sup>All Around Final</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>SWIMMING</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Swimming Championships</strong>
+<br>Senior Girls – 1<sup>st</sup>&nbsp;100M: Meter 50 Fly 50 Backstroke
+<br>Senior Girls – 1st 100M Butterfly
+<br>Senior Girls – 1<sup>st</sup>&nbsp;50M Butterfly</p>
+<p></p>
+<p>Junior 2 Boys – 5<sup>th</sup>&nbsp;100M Freestyle
+<br>Junior 2 Boys – 6th 100M Backstroke
+<br>Junior 2 Boys – 4<sup>th</sup>&nbsp;100M: 50M Backstroke 50M Freestyle
+<br>Junior 2 Boys – 5<sup>th</sup>&nbsp;200M Individual Medley
+<br>Junior 1 Boys – 4<sup>th</sup>&nbsp;&amp; 7th 50M Backstroke
+<br>Junior 1 Boys – 8<sup>th</sup>&nbsp;50M Freestyle
+<br>Junior 1 Boys – 4<sup>th</sup>&nbsp;50M Breaststroke
+<br>Junior 1 Boys – 4<sup>th</sup>&nbsp;25M: 25M Backstroke 25M Freestyle</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -83,100 +133,8 @@ Division Boys – Tier 2 1<sup>st</sup>&nbsp;Placing</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PHYSICAL SPORTS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>BADMINTON</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG Badminton Championships</strong>
-<br><strong>(South Zone)<br></strong><u>Senior&nbsp;Division Boys – 7<sup>th</sup>&nbsp;Team Placing</u>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG Badminton Championships<br>(South Zone)</strong>
-</p>
-<p>Senior&nbsp;Division Boys – Top 8 Team Placing
-<br>Senior&nbsp;Division Girls – 2<sup>nd</sup>&nbsp;Team Placing<strong>&nbsp;<br>&nbsp;</strong>Junior
-Division Boys – Tier 2 1<sup>st</sup>&nbsp;Placing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GYMNASTICS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>National Schools Artistic Gymnastics Championships</strong>
-</p>
-<p>Senior Girls I - 3<sup>rd</sup>&nbsp;Individual Apparatus Final - Floor
-<br>Senior Girls II - 1<sup>st&nbsp;</sup>Individual Apparatus Final - Balance
-Beam
-<br>Senior Girls II - 1<sup>st&nbsp;</sup>Individual Apparatus Final - Uneven
-Bars
-<br>Senior Girls II - 1<sup>st&nbsp;</sup>Individual Apparatus Final - Floor
-<br>Senior Girls II - 1<sup>st&nbsp;</sup>All Around Final</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SWIMMING</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG Swimming Championships</strong>
-</p>
-<p>&nbsp;Senior Girls – 1<sup>st</sup>&nbsp;100M: Meter 50 Fly 50 Backstroke
-<br>Senior Girls – 1st 100M Butterfly
-<br>Senior Girls – 1<sup>st</sup>&nbsp;50M Butterfly</p>
-<p>
-<br>
-</p>
-<p>Junior 2 Boys – 5<sup>th</sup>&nbsp;100M Freestyle
-<br>Junior 2 Boys – 6th 100M Backstroke
-<br>Junior 2 Boys – 4<sup>th</sup>&nbsp;100M: 50M Backstroke 50M Freestyle
-<br>Junior 2 Boys – 5<sup>th</sup>&nbsp;200M Individual Medley
-<br>Junior 1 Boys – 4<sup>th</sup>&nbsp;&amp; 7th 50M Backstroke
-<br>Junior 1 Boys – 8<sup>th</sup>&nbsp;50M Freestyle
-<br>Junior 1 Boys – 4<sup>th</sup>&nbsp;50M Breaststroke
-<br>Junior 1 Boys – 4<sup>th</sup>&nbsp;25M: 25M Backstroke 25M Freestyle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>TABLE TENNIS</strong>
 </p>
 </td>
