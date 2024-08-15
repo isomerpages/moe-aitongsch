@@ -278,8 +278,8 @@ variant: tiptap
 <img style="width:65%" height="auto" width="100%" src="/images/2021cl.jpeg">
 </div>
 <hr>
-<p><strong><u>10th National Chinese Calligraphy Competition organized by Futsing Association and Poi Ching School<br><br>第十届全国中、小学书法比赛《翰墨馨香迎国庆》 培青学校与福清会馆联办</u></strong>佳作奖
-Merit award：胡文曦 Vincy Hu Wenxi (3 PE)</p>
+<p><strong><u>10th National Chinese Calligraphy Competition organized by Futsing Association and Poi Ching School<br><br>第十届全国中、小学书法比赛《翰墨馨香迎国庆》 培青学校与福清会馆联办</u></strong>
+<br>佳作奖 Merit award：胡文曦 Vincy Hu Wenxi (3 PE)</p>
 <hr>
 <p><strong><u>4th Text Recital Competition for Primary and Secondary Schools</u></strong>
 </p>
