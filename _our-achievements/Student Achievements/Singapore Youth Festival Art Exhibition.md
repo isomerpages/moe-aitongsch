@@ -12,7 +12,7 @@ It aims to highlight the artist’s role in utilising technology (past, present&
 future) to explore and express their views about how technology has shaped
 our lives.</p>
 <p>We have achieved&nbsp;<strong>CERTIFICATE OF RECOGNITION</strong>&nbsp;for&nbsp;<strong>Category B</strong>&nbsp;&amp;&nbsp;<strong>Category C</strong>.</p>
-<h3>Life Goes On...</h3>
+<h4>Life Goes On...</h4>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/Life%20Goes%20On.jpeg">
 </div>
@@ -40,7 +40,7 @@ our lives.</p>
 </p>
 </li>
 </ul>
-<h3>Imagining the Future</h3>
+<h4>Imagining the Future</h4>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/Imagining%20the%20Future.jpeg">
 </div>
