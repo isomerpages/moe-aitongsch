@@ -3,10 +3,11 @@ title: Resources
 permalink: /curriculum/ICT/resources/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 ### Educational Apps
 
-To deepen students’ learning and keep them actively engaged during lessons, our teachers use a wide range of apps such as MC Online Oral Buddy and Moo-O to bring out the joy of learning.
+To deepen students’ learning and keep them actively engaged during lessons, our teachers use a wide range of apps such as Moo-O to bring out the joy of learning.
 
 ![](/images/resource1.png)
 
