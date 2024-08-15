@@ -5,35 +5,27 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<h4><strong>ROBOTICS CLUB</strong></h4>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CLUBS &amp; SOCIETIES</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2022</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>
-</p>
+<p><strong>2022 FIRST® LEGO® League (FLL)<br></strong>ROBOT DESIGN AWARD
+<br>3rd Place</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ROBOTICS CLUB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2022 FIRST® LEGO® League (FLL) </strong>
-<br>ROBOT DESIGN AWARD
-<br>3rd Place</p>
+<p><strong>2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Coder Passion Scratch Hackathon 2024</strong>
@@ -44,9 +36,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p></p>
-<p><strong><u>HACK@CODE</u></strong>
-</p>
+<h4><strong><u>HACK@CODE</u></strong></h4>
 <p>HACK@CODE is a National Online Thematic Coding Competition jointly organized
 by Code.JAM and Tribal Studioz for young coders of any ages between 7 to
 14 years old to put their coding skills into actions. The theme for 2023’s
@@ -104,9 +94,8 @@ The details are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong><u>DJI RoboMaster Youth Championship 2022 Singapore</u></strong>
-</p>
+<hr>
+<h4><strong><u>DJI RoboMaster Youth Championship 2022 Singapore</u></strong></h4>
 <p>RoboMaster Youth Championship (RMYC) is organized to evolve the current
 robotic competition standards into the whole new level that excite and
 interests of our next generation in engineering and robotic. It is a national
@@ -132,8 +121,7 @@ level competition and these students won the champion.</p>
 <img style="width:65%" height="auto" width="100%" src="/images/csa1.png">
 </div>
 <hr>
-<p><strong><u>Drone Odyssey Challenge 2022</u></strong>
-</p>
+<h4><strong><u>Drone Odyssey Challenge 2022</u></strong></h4>
 <p>Drone Odyssey Challenge 2022 (DOC 2022) is an exciting game-based competition
 that promises plenty of fun. It inculcates technical skillsets, critical
 thinking, and an appreciation of new and disruptive technologies relevant
