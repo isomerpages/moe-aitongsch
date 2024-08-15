@@ -2,29 +2,23 @@
 title: Picking Up our Child Before Dismissal
 permalink: /for-parents/picking-up-our-child-before-dismissal/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Dear Parents / Guardians,  
-  
-
-For the safety and security of our students, we seek your understanding and cooperation to adhere to the following should you need to pick up your child/ward from school before the dismissal time of 1.30pm:
-
-  
-
-1\. Sign in at the Security Post for a Visitor Pass.
-
-  
-
-2\. Proceed to the General Office to inform our counter staff that you are here to pick up your child/ward.
-
-  
-
-3\. Before leaving the General Office, please ensure you collect the “**Pink Slip**” from our counter staff and submit it to our Security Officer when you sign out at the Security Post and return the Visitor Pass. The “**Pink Slip**” is a record for your child/ward to leave the school during school operating hours. Our Security Officer will allow your child/ward to leave with you upon your submission of the “**Pink Slip**”.
-
-  
-
-If you have any enquiries, please contact Mr. Ng Lik Yong, Operations Manager at 64547672 or email [ng\_lik\_yong@schools.gov.sg](mailto:ng_lik_yong@schools.gov.sg) .
-
-  
-
-Thank you for your understanding and cooperation.
+<p>Dear Parents / Guardians,</p>
+<p>For the safety and security of our students, we seek your understanding
+and cooperation to adhere to the following should you need to pick up your
+child/ward from school before the dismissal time of 1.15pm:</p>
+<p>The school follows the guidelines provided by MOE with regards to visitor
+management procedures. All visitors are to obtain a visitor’s sticker from
+the security post after scanning the ATS Visitor Management System. All
+visitors are required to produce NRIC or equivalent documents for verification
+by the Security Officer.</p>
+<p>Visitors are only allowed to enter from Gate C. All visitors should report
+to admin staff at the foyer or General Office (GO) after registration and
+verification of their identities at the security post. All parents are
+prohibited from going to the classroom, staff room and canteen on their
+own.</p>
+<p>No visitors are allowed during dismissal from 1315 till 1400 hrs.</p>
+<p>If you have any enquiries, please contact Mr. Ng Lik Yong, Operations
+Manager at 64547672 or email ng_lik_yong@schools.gov.sg .</p>
+<p>Thank you for your understanding and cooperation.</p>
