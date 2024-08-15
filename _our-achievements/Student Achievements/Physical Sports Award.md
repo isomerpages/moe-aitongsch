@@ -199,10 +199,9 @@ Sprint Junior 1 Boys
 <td rowspan="1" colspan="1">
 <p><strong>NSG Volleyball Championships</strong>&nbsp;
 <br><strong>(National)</strong>
-</p>
-<p>Senior Division Girls – 4<sup>th</sup>&nbsp;Team Placing
-<br>Senior Division Boys – 4<sup>th</sup>&nbsp;Team Placing</p>
-<p>Junior Division Boys – Tier 2 1<sup>st</sup>&nbsp;Team Placing</p>
+<br>Senior Division Girls – 4<sup>th</sup>&nbsp;Team Placing
+<br>Senior Division Boys – 4<sup>th</sup>&nbsp;Team Placing
+<br>Junior Division Boys – Tier 2 1<sup>st</sup>&nbsp;Team Placing</p>
 </td>
 </tr>
 </tbody>
@@ -221,13 +220,13 @@ Sprint Junior 1 Boys
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Wushu Championships&nbsp;</strong>
-<br><strong><u>Senior Division Girls<br></u></strong>4-Duan Broadsword – 1<sup>st<br></sup>International
-Nan Gun – 5<sup>th</sup>&nbsp;</p>
-<p><strong><u>Junior Division Girls:<br></u></strong>3 Duan Chang Quan -
-1<sup>st<br></sup>3 Duan Chang Quan - 2<sup>nd<br></sup>1st International
+<br><u>Senior Division Girls</u><strong><u><br></u></strong>4-Duan Broadsword
+– 1<sup>st<br></sup>International Nan Gun – 5<sup>th</sup>&nbsp;</p>
+<p><u>Junior Division Girls:</u><strong><u><br></u></strong>3 Duan Chang
+Quan - 1<sup>st<br></sup>3 Duan Chang Quan - 2<sup>nd<br></sup>1st International
 Nan Gun - 1<sup>st</sup>&nbsp; 5 Duan Sword - 1<sup>st</sup>
 </p>
-<p><strong><u>Junior Division Boys:</u></strong>
+<p><u>Junior Division Boys:</u>
 <br>1<sup>st</sup>&nbsp;International Chang Quan - 1<sup>st<br></sup>1<sup>st</sup>&nbsp;International
 Chang Quan - 4<sup>th<br></sup>4 Duan Cudgel - 2<sup>nd<br></sup>5 Duan
 Broadsword - 1<sup>st<br></sup>5 Duan Broadsword - 2<sup>nd</sup>
@@ -236,65 +235,41 @@ Broadsword - 1<sup>st<br></sup>5 Duan Broadsword - 2<sup>nd</sup>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<table style="minWidth: 100px">
+<h4><strong>TAEKWONDO</strong></h4>
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Taekwondo Championships<br><u>Senior Division Girls<br></u></strong>Poomsae
+Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WUSHU</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>TAEKWONDO</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG Taekwondo Championships<br><u>Senior Division Girls<br></u></strong>Poomsae
-Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SAILING</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Sailing Championships&nbsp;<br></strong>Senior Girls Optimist
 - 1<sup>st</sup>&nbsp;Position</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -303,14 +278,7 @@ Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</str
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>NSG Golf Championship<br></strong>Open Category – 5<sup>th</sup>&nbsp;Position</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -319,15 +287,8 @@ Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</str
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>NSG Rope Skipping Championship<br></strong>Junior Boys – Individual
 Freestyle 8th Position</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
