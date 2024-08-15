@@ -253,7 +253,7 @@ Broadsword - 1<sup>st<br></sup>5 Duan Broadsword - 2<sup>nd</sup>
 <p>2022</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>NSG Taekwondo Championships<br><u>Senior Division Girls<br></u></strong>Poomsae
+<p><strong>NSG Taekwondo Championships<br></strong><u>Senior Division Girls</u><strong><u><br></u></strong>Poomsae
 Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</strong>
 </p>
 </td>
