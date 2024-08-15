@@ -3,6 +3,7 @@ title: Music Curriculum
 permalink: /curriculum/Aesthetics/music-curriculum/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 Our Music Curriculum is designed to provide musically engaging music lessons through student-centric approaches where pupils learn through the musical experiences of listening, performing and creating.  
   
@@ -58,5 +59,3 @@ Our Music Curriculum is designed to provide musically engaging music lessons thr
   </tr>
 </tbody>
 </table>
-
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyWkkB8Xwk0LR9UqFm2TQ5hXULLqPfGJBMsNnvOEZqKKJJ4ZGNh7fWW_qXqSCiVLLpiR51kRTkPCHi/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>

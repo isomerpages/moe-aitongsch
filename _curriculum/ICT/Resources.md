@@ -3,10 +3,11 @@ title: Resources
 permalink: /curriculum/ICT/resources/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 ### Educational Apps
 
-To deepen students’ learning and keep them actively engaged during lessons, our teachers use a wide range of apps such as MC Online Oral Buddy and Moo-O to bring out the joy of learning.
+To deepen students’ learning and keep them actively engaged during lessons, our teachers use a wide range of apps such as Moo-O to bring out the joy of learning.
 
 ![](/images/resource1.png)
 
@@ -26,7 +27,12 @@ The SLS is MOE's core platform for teaching and learning and is one of MOE’s k
 
 Click here to access [SLS](https://vle.learning.moe.edu.sg/) Portal. Please refer to [ATS Student Resource Hub SLS](https://sites.google.com/moe.edu.sg/ats-student/account/student-learning-spacesls) Page for FAQs.
 
-Note: For students who do not have a computer or mobile device at home, they can check if they qualify for one via the NEU PC Plus Programme by IMDA ([click here for more information](https://www.imda.gov.sg/neupc)).
+Note: If you need help to get a digital device and/or broadband internet access, you can apply for IMDA’s DigitalAccess@Home scheme\*.  
+  
+For details, please visit [www.digitalaccess.gov.sg](https://eservice.imda.gov.sg/das/homepage)  
+For enquiries, please contact IMDA hotline 6377 3800 or email: [digitalaccess@imda.gov.sg](mailto:digitalaccess@imda.gov.sg)
+
+\* Subject to eligibility and availability
 
 ### Student iCON 
 Student iCON is a suite of Google apps such as Google Classroom, Doc, Sheets and Slides as well as other school-related apps. It helps to better support your learning and collaboration with others.

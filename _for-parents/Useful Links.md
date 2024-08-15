@@ -2,36 +2,10 @@
 title: Useful Links
 permalink: /for-parents/useful-links/
 description: ""
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 600px">
-<colgroup>
-<col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 150px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nrix"><a href = "https://www.schoolbag.sg/" target = "_self"> 
-          <img src="/images/school-bag.png" 
-     style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "https://www.ai-tong-alumni.org.sg/" target = "_self"> 
-          <img src="/images/ATS_Alumni.png" 
-     style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "https://www.family.sg/schoolsports-singapore.html" target = "_self"> 
-          <img src="/images/schoolsports.png" 
-     style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "https://www.moe.gov.sg/" target = "_self"> 
-          <img src="/images/moe.jpeg" 
-     style="width:100%"></a></td>
-  </tr>
-</tbody>
-</table>
+<p></p><a class="isomer-image-wrapper" href="https://www.schoolbag.edu.sg/"><img style="max-width: 100%; border: 0px; width: 168px; height: 50px;" height="auto" width="100%" alt="Schoolbag" src="https://www.schoolbag.edu.sg/wp-content/uploads/2024/01/site-logo.png"></a>
+<a class="isomer-image-wrapper" href="https://www.ai-tong-alumni.org.sg/">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ATS_Alumni.png">
+</a><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/"><img style="width: 30%;" height="auto" width="100%" alt="MOE Logo" src="https://www.moe.gov.sg/-/media/moe/assets/moe-logo.svg"></a>
+<p></p>

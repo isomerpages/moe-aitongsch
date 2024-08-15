@@ -2,6 +2,7 @@
 title: SAP
 permalink: /co-curriculum/sap/
 description: ""
+variant: markdown
 ---
 ### 特选学校
 爱同学校于1989年获选为特选学校。特选学校的成立目的在于保留华校优良传统和精神、传承华族文化和价值观以及培养双语、双文化人才。因此，特选学校的使命是强化华文和华族文化的教学，培养一批精通华文和华族文化，能在未来胜任与中国交流的本地人才。
@@ -34,24 +35,15 @@ description: ""
 </tbody>
 </table>
 
-  <img src="/images/SAP%20blueprint%202020.jpeg" 
-     style="width:80%">
-
-
-<img src="/images/P5%20Immersion%20Programme.jpeg" 
-     style="width:80%">
-
 
 ### 学生作品集
 
-<img src="/images/School%20Publications%20-%20SAP%20Page.jpeg" 
-     style="width:65%">
+<img src="/images/School%20Publications%20-%20SAP%20Page.jpeg" style="width:65%">
 
 
 ### 弟子规长廊
 
-<img src="/images/弟子规长廊%20-%20SAP%20page.jpeg" 
-     style="width:65%">
+<img src="/images/弟子规长廊%20-%20SAP%20page.jpeg" style="width:65%">
 
 
 ### 双文化华文优选课程（BiCEP – Bi-cultural Chinese Elective Programme）

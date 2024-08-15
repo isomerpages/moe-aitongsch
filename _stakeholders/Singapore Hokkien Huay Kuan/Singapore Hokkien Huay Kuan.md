@@ -3,6 +3,7 @@ title: Singapore Hokkien Huay Kuan
 permalink: /stakeholders/Singapore-Hokkien-Huay-Kuan/shhk/
 description: ""
 third_nav_title: Singapore Hokkien Huay Kuan
+variant: markdown
 ---
 ![](/images/SHHK_icon.jpeg)
 
@@ -55,5 +56,3 @@ Today, the six affiliated schools: Tao Nan School, Ai Tong School, Chongfu Schoo
   
 
 福建会馆是新加坡宗乡联合总会主要发起会馆之一。会馆所有理事及组员皆属义务性质。会员人数逐年增加，截至2015年10月，会员4500余名。会馆章程在2002年及2011年先后作了修订，分设监理会、理事会及名誉理事，使会馆能更有效地服务会员及社会大众，为广大社群谋福利。
-
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcwjLSwVJNLVX_e671QmJ-HjbVIGLJIdSA8AEe-kuoWx79SaH9TtpqBDgZJTZe56P-7YRbdasDIh2N/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
