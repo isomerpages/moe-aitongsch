@@ -121,6 +121,7 @@ Bars
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>TABLE TENNIS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -144,6 +145,7 @@ Bars
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>TRACK &amp; FIELD</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -186,6 +188,7 @@ Sprint Junior 1 Boys
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>VOLLEYBALL</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -207,6 +210,7 @@ Sprint Junior 1 Boys
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>WUSHU</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -236,6 +240,7 @@ Broadsword - 1<sup>st<br></sup>5 Duan Broadsword - 2<sup>nd</sup>
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>TAEKWONDO</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -255,8 +260,8 @@ Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</str
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<hr>
+<h4><strong>SAILING</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -264,15 +269,23 @@ Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</str
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>SAILING</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Sailing Championships&nbsp;<br></strong>Senior Girls Optimist
 - 1<sup>st</sup>&nbsp;Position</p>
 </td>
 </tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>GOLF</strong>
