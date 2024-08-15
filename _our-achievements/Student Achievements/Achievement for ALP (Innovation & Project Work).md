@@ -8,7 +8,7 @@ variant: tiptap
 <h3>2022 Achievement</h3>
 <p><strong><u>Applied Learning Programme (Innovation &amp; Project Work)</u></strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Thinkers Challenge
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Thinkers Challenge </strong>
 <br>To boost Singapore's Smart Nation capabilities, the inaugural National
 Thinkers Challenge (NTC), organised by Singapore Hokkien Huay Kuan, hopes
 to introduce to primary school students the concepts of design thinking,
@@ -90,8 +90,7 @@ achievements are as documented below:</p>
 </tbody>
 </table>
 <hr>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Future Problem Solving Program
-International Competition 2022
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Future Problem Solving Program International Competition 2022 </strong>
 <br>Two teams of P6 students continued their CmPS journey which they started
 in 2021 by accepting an invitation to participate in the Future Problem
 Solving International Conference where Future Problem Solvers from around
@@ -198,7 +197,7 @@ Conference
 <h3>2021 Achievement</h3>
 <p><strong><u>Applied Learning Programme (Innovation &amp; Project Work)</u></strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHHK Thinkers Programme
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHHK Thinkers Programme </strong>
 <br>Organised by Singapore Hokkien Huay Kuan, this programme aims to&nbsp;develop
 students’ confidence, analytical and problem-solving competencies and to
 expose students to areas of STEM and how technology can improve our way
@@ -253,8 +252,7 @@ the teams was presented with the following award:</p>
 </tbody>
 </table>
 <hr>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Community Problem Solving
-(CmPS) National Finals 2021
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Community Problem Solving (CmPS) National Finals 2021 </strong>
 <br>4 teams of P5 students were identified to represent ATS to participate
 in the annual CmPS Competition organized by Future Problem Solving Programme
 (Singapore). 3 teams were shortlisted and represented the school at the
