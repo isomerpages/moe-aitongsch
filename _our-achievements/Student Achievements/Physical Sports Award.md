@@ -318,6 +318,7 @@ Freestyle 8th Position</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <p></p>
 <p></p>
