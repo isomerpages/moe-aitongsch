@@ -8,8 +8,8 @@ variant: tiptap
 <h3>2022 Achievement</h3>
 <p><strong><u>Applied Learning Programme (Innovation &amp; Project Work)</u></strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Thinkers Challenge</p>
-<p>To boost Singapore's Smart Nation capabilities, the inaugural National
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Thinkers Challenge
+<br>To boost Singapore's Smart Nation capabilities, the inaugural National
 Thinkers Challenge (NTC), organised by Singapore Hokkien Huay Kuan, hopes
 to introduce to primary school students the concepts of design thinking,
 artificial intelligence (AI) and other emerging technologies. Participants
@@ -91,8 +91,8 @@ achievements are as documented below:</p>
 </table>
 <hr>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Future Problem Solving Program
-International Competition 2022</p>
-<p>Two teams of P6 students continued their CmPS journey which they started
+International Competition 2022
+<br>Two teams of P6 students continued their CmPS journey which they started
 in 2021 by accepting an invitation to participate in the Future Problem
 Solving International Conference where Future Problem Solvers from around
 the globe come together to celebrate the final round of their competitive
@@ -198,8 +198,8 @@ Conference
 <h3>2021 Achievement</h3>
 <p><strong><u>Applied Learning Programme (Innovation &amp; Project Work)</u></strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHHK Thinkers Programme</p>
-<p>Organised by Singapore Hokkien Huay Kuan, this programme aims to&nbsp;develop
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHHK Thinkers Programme
+<br>Organised by Singapore Hokkien Huay Kuan, this programme aims to&nbsp;develop
 students’ confidence, analytical and problem-solving competencies and to
 expose students to areas of STEM and how technology can improve our way
 of life.&nbsp;Over a span of 8 months, 8 teams of 3 students and teachers
@@ -254,8 +254,8 @@ the teams was presented with the following award:</p>
 </table>
 <hr>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Community Problem Solving
-(CmPS) National Finals 2021</p>
-<p>4 teams of P5 students were identified to represent ATS to participate
+(CmPS) National Finals 2021
+<br>4 teams of P5 students were identified to represent ATS to participate
 in the annual CmPS Competition organized by Future Problem Solving Programme
 (Singapore). 3 teams were shortlisted and represented the school at the
 National Finals 2021.</p>
