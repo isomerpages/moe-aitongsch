@@ -2,6 +2,7 @@
 title: Picking Up our Child Before Dismissal
 permalink: /for-parents/picking-up-our-child-before-dismissal/
 description: ""
+variant: markdown
 ---
 Dear Parents / Guardians,  
   
@@ -22,7 +23,7 @@ For the safety and security of our students, we seek your understanding and coop
 
   
 
-If you have any enquiries, please contact Mr. Ng Lik Yong, Operations Manager at 64547672 or email ng\_lik\_yong@moe.edu.sg.
+If you have any enquiries, please contact Mr. Ng Lik Yong, Operations Manager at 64547672 or email [ng\_lik\_yong@schools.gov.sg](mailto:ng_lik_yong@schools.gov.sg) .
 
   
 
