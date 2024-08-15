@@ -281,8 +281,6 @@ Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</str
 </table>
 <hr>
 <h4><strong>GOLF</strong></h4>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -291,16 +289,26 @@ Individual Poom 1 – Individual 6<sup>th</sup>&nbsp;Position<strong>&nbsp;</str
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GOLF</strong>
+<p><strong>2022</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Golf Championship<br></strong>Open Category – 5<sup>th</sup>&nbsp;Position</p>
 </td>
 </tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>ROPE SKIPPING</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ROPE SKIPPING</strong>
+<p><strong>2022</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
