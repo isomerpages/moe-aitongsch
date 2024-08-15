@@ -3,6 +3,7 @@ title: Art Curriculum
 permalink: /curriculum/Aesthetics/art-curriculum/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 Our Art Curriculum is designed to ignite passion, develop visual literacy and&nbsp;appreciation in Art. Art learning focuses on the three domains of Seeing, Expressing and Appreciating. They are exposed to broad themes, various art&nbsp;forms and artists to cultivate appreciation of art and culture.
 
@@ -56,6 +57,3 @@ Our Art Curriculum is designed to ignite passion, develop visual literacy and&nb
   </tr>
 </tbody>
 </table>
-
-
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzoB3RbZR_npfUlP0Y2crAY4UsYog3CuSV-t0D2aAYg-XrP3_w4gTOZb6-bDb7wJ2T-UCpYkj1B_wd/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
