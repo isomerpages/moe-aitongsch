@@ -66,7 +66,7 @@ Division Boys – Tier 2 1<sup>st</sup>&nbsp;Placing</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h4><strong>GYMNASTICS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -91,6 +91,7 @@ Bars
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>SWIMMING</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
