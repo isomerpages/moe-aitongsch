@@ -65,60 +65,54 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p></p>
 <h4><strong>CHOIR</strong></h4>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>DANCE CLUB</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Choir</strong>
+<p><strong>2022</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation</p>
 </td>
 </tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>DANCE CLUB</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dance Club</strong>
+<p><strong>2022</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Guzheng</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation</p>
