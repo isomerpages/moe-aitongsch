@@ -257,7 +257,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>易华文
-<br>http://www.ezhishi.net</p>
+<br><a href="http://www.ezhishi.net" rel="noopener noreferrer nofollow" target="_blank">http://www.ezhishi.net</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>√</p>
