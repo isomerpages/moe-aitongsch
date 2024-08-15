@@ -133,24 +133,17 @@ Bars
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Table Tennis Primary School&nbsp;Championships&nbsp;&nbsp;<br>(South Zone)</strong>
-</p>
-<p>Senior Division Boys – 3<sup>rd</sup>&nbsp;Team Placing
-<br>Senior Division Girls - 1<sup>st</sup>&nbsp;Team Placing</p>
-<p>
-<br>
-</p>
-<p>Junior Division Girls/Boys – Doubles &amp; Singles Tier 1 1<sup>st</sup>&nbsp;and
+<br>Senior Division Boys – 3<sup>rd</sup>&nbsp;Team Placing
+<br>Senior Division Girls - 1<sup>st</sup>&nbsp;Team Placing
+<br>Junior Division Girls/Boys – Doubles &amp; Singles Tier 1 1<sup>st</sup>&nbsp;and
 2<sup>nd</sup>&nbsp;Placing
 <br>Junior Division Girls – Singles Tier 2 1<sup>st</sup>&nbsp;and 2<sup>nd</sup>&nbsp;Placing
 <br>Junior Division Girls – Doubles Tier 3 2<sup>nd</sup>&nbsp;Placing</p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>TRACK &amp; FIELD</strong>
-</p>
+<h4><strong>TRACK &amp; FIELD</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -163,8 +156,7 @@ Bars
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Track and Field Championships</strong>
-</p>
-<p><u>Senior Division Boys<br></u>4 x 100m Relay - Top 8
+<br><u>Senior Division Boys<br></u>4 x 100m Relay - Top 8
 <br>Short Put - 6<sup>th</sup>&nbsp;Place
 <br>100m Hurdles 5th Place</p>
 <p><u>Junior Division Boys<br></u>&nbsp;7th Long Jump Junior 1 Boys 7<sup>th<br></sup>40m
@@ -193,6 +185,57 @@ Sprint Junior 1 Boys
 </tr>
 </tbody>
 </table>
+<h4><strong>VOLLEYBALL</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Volleyball Championships</strong>&nbsp;
+<br><strong>(National)</strong>
+</p>
+<p>Senior Division Girls – 4<sup>th</sup>&nbsp;Team Placing
+<br>Senior Division Boys – 4<sup>th</sup>&nbsp;Team Placing</p>
+<p>Junior Division Boys – Tier 2 1<sup>st</sup>&nbsp;Team Placing</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>WUSHU</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Wushu Championships&nbsp;</strong>
+<br><strong><u>Senior Division Girls<br></u></strong>4-Duan Broadsword – 1<sup>st<br></sup>International
+Nan Gun – 5<sup>th</sup>&nbsp;</p>
+<p><strong><u>Junior Division Girls:<br></u></strong>3 Duan Chang Quan -
+1<sup>st<br></sup>3 Duan Chang Quan - 2<sup>nd<br></sup>1st International
+Nan Gun - 1<sup>st</sup>&nbsp; 5 Duan Sword - 1<sup>st</sup>
+</p>
+<p><strong><u>Junior Division Boys:</u></strong>
+<br>1<sup>st</sup>&nbsp;International Chang Quan - 1<sup>st<br></sup>1<sup>st</sup>&nbsp;International
+Chang Quan - 4<sup>th<br></sup>4 Duan Cudgel - 2<sup>nd<br></sup>5 Duan
+Broadsword - 1<sup>st<br></sup>5 Duan Broadsword - 2<sup>nd</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <table style="minWidth: 100px">
@@ -205,27 +248,6 @@ Sprint Junior 1 Boys
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>VOLLEYBALL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG Volleyball Championships</strong>&nbsp;
-<br><strong>(National)</strong>
-</p>
-<p>Senior Division Girls – 4<sup>th</sup>&nbsp;Team Placing
-<br>Senior Division Boys – 4<sup>th</sup>&nbsp;Team Placing</p>
-<p>Junior Division Boys – Tier 2 1<sup>st</sup>&nbsp;Team Placing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>WUSHU</strong>
 </p>
 </td>
@@ -234,20 +256,7 @@ Sprint Junior 1 Boys
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NSG Wushu Championships&nbsp;</strong>
-</p>
-<p><strong><u>Senior Division Girls<br></u></strong>4-Duan Broadsword – 1<sup>st<br></sup>International
-Nan Gun – 5<sup>th</sup>&nbsp;</p>
-<p><strong><u>Junior Division Girls:<br></u></strong>3 Duan Chang Quan -
-1<sup>st<br></sup>3 Duan Chang Quan - 2<sup>nd<br></sup>1st International
-Nan Gun - 1<sup>st</sup>&nbsp; 5 Duan Sword - 1<sup>st</sup>
-</p>
-<p><strong><u>Junior Division Boys:</u></strong>
-</p>
-<p>1<sup>st</sup>&nbsp;International Chang Quan - 1<sup>st<br></sup>1<sup>st</sup>&nbsp;International
-Chang Quan - 4<sup>th<br></sup>4 Duan Cudgel - 2<sup>nd<br></sup>5 Duan
-Broadsword - 1<sup>st<br></sup>5 Duan Broadsword - 2<sup>nd</sup>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
