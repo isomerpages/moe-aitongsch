@@ -120,28 +120,17 @@ Bars
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<table style="minWidth: 100px">
+<h4><strong>TABLE TENNIS</strong></h4>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p><strong>TABLE TENNIS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Table Tennis Primary School&nbsp;Championships&nbsp;&nbsp;<br>(South Zone)</strong>
 </p>
@@ -156,6 +145,48 @@ Bars
 <br>Junior Division Girls – Doubles Tier 3 2<sup>nd</sup>&nbsp;Placing</p>
 <p><strong>&nbsp;</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
