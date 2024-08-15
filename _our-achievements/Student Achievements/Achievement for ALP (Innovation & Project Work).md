@@ -25,7 +25,8 @@ achievements are as documented below:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students</p>
+<p><strong>Students</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Students</p>
@@ -33,7 +34,8 @@ achievements are as documented below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Responsibility 2022</p>
@@ -41,7 +43,8 @@ achievements are as documented below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Achievement</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Certificate of Participation</p>
@@ -49,9 +52,7 @@ achievements are as documented below:</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -60,7 +61,8 @@ achievements are as documented below:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students</p>
+<p><strong>Students</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7 Students</p>
@@ -68,7 +70,8 @@ achievements are as documented below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Creativity 2022</p>
@@ -76,7 +79,8 @@ achievements are as documented below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Achievement</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Certificate of Participation
@@ -85,6 +89,7 @@ achievements are as documented below:</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Future Problem Solving Program
 International Competition 2022</p>
 <p>Two teams of P6 students continued their CmPS journey which they started
@@ -104,15 +109,18 @@ are as documented below:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Title</p>
+<p><strong>Title</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimising Food Wastage in Ai Tong School</p>
+<p><strong>Minimising Food Wastage in Ai Tong School</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students</p>
+<p><strong>Students</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 Students</p>
@@ -120,7 +128,8 @@ are as documented below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Diligence</p>
@@ -128,7 +137,8 @@ are as documented below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Achievement</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Participation in the Future Problem Solving Program International (FPSPI)
@@ -137,9 +147,7 @@ Conference</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -148,15 +156,18 @@ Conference</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Title</p>
+<p><strong>Title</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project DeSTRESS</p>
+<p><strong>Project DeSTRESS</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Awardees</p>
+<p><strong>Awardees</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Students</p>
@@ -164,7 +175,8 @@ Conference</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Creativity</p>
@@ -172,7 +184,8 @@ Conference</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Achievement</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Participation in the Future Problem Solving Program International (FPSPI)
@@ -202,15 +215,18 @@ the teams was presented with the following award:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Title of Project</p>
+<p><strong>Title of Project</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stop Covid-19 Transmission in Lifts</p>
+<p><strong>Stop Covid-19 Transmission in Lifts</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students</p>
+<p><strong>Students</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Students</p>
@@ -218,7 +234,8 @@ the teams was presented with the following award:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Creativity 2021</p>
@@ -226,7 +243,8 @@ the teams was presented with the following award:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Achievement</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Most Feasible &amp; Sustainable Idea</p>
@@ -234,9 +252,7 @@ the teams was presented with the following award:</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<hr>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Community Problem Solving
 (CmPS) National Finals 2021</p>
 <p>4 teams of P5 students were identified to represent ATS to participate
@@ -251,15 +267,18 @@ National Finals 2021.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Title</p>
+<p><strong>Title</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Personal Hygiene with Bobby</p>
+<p><strong>Personal Hygiene with Bobby</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Awardees</p>
+<p><strong>Awardees</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10 Students</p>
@@ -267,7 +286,8 @@ National Finals 2021.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Care</p>
@@ -275,7 +295,8 @@ National Finals 2021.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Achievement</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation</p>
@@ -283,9 +304,7 @@ National Finals 2021.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -294,15 +313,18 @@ National Finals 2021.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Title</p>
+<p><strong>Title</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project DeSTRESS</p>
+<p><strong>Project DeSTRESS</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Awardees</p>
+<p><strong>Awardees</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 Students</p>
@@ -310,7 +332,8 @@ National Finals 2021.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Creativity</p>
@@ -318,7 +341,8 @@ National Finals 2021.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Achievement</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· 2nd Place (Junior Division)
@@ -328,9 +352,7 @@ Competition &amp; Conference in June 2022.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -339,15 +361,18 @@ Competition &amp; Conference in June 2022.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Title</p>
+<p><strong>Title</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimising Food Wastage in Ai Tong School</p>
+<p><strong>Minimising Food Wastage in Ai Tong School</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Awardees</p>
+<p><strong>Awardees</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 Students</p>
@@ -355,7 +380,8 @@ Competition &amp; Conference in June 2022.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Diligence</p>
@@ -363,7 +389,8 @@ Competition &amp; Conference in June 2022.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Achievement</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Beyonder Award (Junior Division)
