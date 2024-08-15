@@ -147,59 +147,20 @@ Bars
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<table style="minWidth: 100px">
+<p><strong>TRACK &amp; FIELD</strong>
+</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>TRACK &amp; FIELD</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Track and Field Championships</strong>
 </p>
@@ -229,10 +190,19 @@ Sprint Junior 1 Boys
 <br>2<sup>nd</sup>&nbsp;8x50m Relay Junior 1 Girls
 <br>4<sup>th</sup>&nbsp;8x50m Relay Junior 2 Girls</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>VOLLEYBALL</strong>
