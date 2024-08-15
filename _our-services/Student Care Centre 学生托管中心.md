@@ -36,8 +36,10 @@ employed
 <p><strong>4. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Us</strong>
 <br>For further enquiries, please email us at&nbsp;<a href="mailto:aitong@pro-teach.com" rel="noopener noreferrer nofollow" target="_blank">aitong@pro-teach.com</a>&nbsp;or call
 us at <strong>6456 0919</strong> during the following hours:
-<br><strong>School Term Contact Hours (Mon-Fri):</strong> 10:00am to 6:00pm
-<br><strong>School Holiday Contact Hours (Mon-Fri):</strong> 8:00am to 6:00pm</p>
+<br><strong>School Term Contact Hours (Mon-Fri):</strong> 
+<br>10:00am to 6:00pm
+<br><strong>School Holiday Contact Hours (Mon-Fri):</strong> 
+<br>8:00am to 6:00pm</p>
 <p>*While we will try our best, our response can be limited by our operation
 and teaching duties.</p>
 <ol data-tight="true" class="tight">
