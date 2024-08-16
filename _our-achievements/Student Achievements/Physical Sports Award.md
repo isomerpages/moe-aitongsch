@@ -162,8 +162,9 @@ Bars
 <br><u>Senior Division Boys<br></u>4 x 100m Relay - Top 8
 <br>Short Put - 6<sup>th</sup>&nbsp;Place
 <br>100m Hurdles 5th Place</p>
-<p><u>Junior Division Boys<br></u>&nbsp;7th Long Jump Junior 1 Boys 7<sup>th<br></sup>40m
-Sprint Junior 1 Boys
+<p><u>Junior Division Boys<br></u>&nbsp;7<sup>th </sup> Long Jump Junior 1
+Boys
+<br>7<sup>th </sup>40m Sprint Junior 1 Boys
 <br>1<sup>st</sup>&nbsp;60m Sprint Junior
 <br>1<sup>st</sup>&nbsp;40m Sprint Junior 1 Boys
 <br>2<sup>nd</sup>&nbsp;60m Sprint Junior 1 Boys
