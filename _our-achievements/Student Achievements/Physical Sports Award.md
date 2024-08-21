@@ -165,18 +165,13 @@ J1 Girls 2<sup><sub>nd</sub></sup>, J2 Girls 4<sup>th</sup>
 <br><strong>Shot Put:</strong> S Boys 6<sup>th</sup>, J2 Girls 6<sup>th</sup>
 <br><strong>60m Hurdles: </strong>J1 Girls 3<sup>rd</sup>
 <br><strong>100m Hurdles:</strong> S Boys 5<sup>th</sup>
-</p>
-<p><strong>Long Jump:</strong> J1 Boys 7<sup>th</sup>, J1 Boys 2<sup>nd</sup>,
+<br><strong>Long Jump:</strong> J1 Boys 7<sup>th</sup>, J1 Boys 2<sup>nd</sup>,
 J2 Boys 8<sup>th</sup>, J2 Boys 1<sup>st</sup>, J1 Girls 8<sup>th</sup>
-</p>
-<p><strong>40m Sprint:</strong> J1 Boys 7<sup>th</sup>, J1 Boys 1<sup>st</sup>
-</p>
-<p><strong>60m Sprint: </strong>J1 Boys 1<sup>st</sup>, J1 Boys 2<sup>nd</sup>
-</p>
-<p><strong>80m Sprint: </strong>J2 Boys 1<sup>st</sup>, J2 Boys 2<sup>nd</sup>,
+<br><strong>40m Sprint:</strong> J1 Boys 7<sup>th</sup>, J1 Boys 1<sup>st</sup>
+<br><strong>60m Sprint: </strong>J1 Boys 1<sup>st</sup>, J1 Boys 2<sup>nd</sup>
+<br><strong>80m Sprint: </strong>J2 Boys 1<sup>st</sup>, J2 Boys 2<sup>nd</sup>,
 J1 Girls 5<sup>th</sup>, J2 Girls 4<sup>th</sup>, J2 Girls 6<sup>th</sup>
-</p>
-<p><strong>Medicine Ball Throw:</strong> J1 Girls 1<sup>st</sup>
+<br><strong>Medicine Ball Throw:</strong> J1 Girls 1<sup>st</sup>
 </p>
 </td>
 </tr>
