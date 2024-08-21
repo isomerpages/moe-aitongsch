@@ -159,32 +159,25 @@ Bars
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Track and Field Championships</strong>
-<br><u>Senior Division Boys<br></u>4 x 100m Relay - Top 8
-<br>Short Put - 6<sup>th</sup>&nbsp;Place
-<br>100m Hurdles 5th Place</p>
-<p><u>Junior Division Boys<br></u>&nbsp;7<sup>th </sup>Long Jump Junior 1
-Boys
-<br>7<sup>th </sup>40m Sprint Junior 1 Boys
-<br>1<sup>st</sup>&nbsp;60m Sprint Junior
-<br>1<sup>st</sup>&nbsp;40m Sprint Junior 1 Boys
-<br>2<sup>nd</sup>&nbsp;60m Sprint Junior 1 Boys
-<br>2<sup>nd</sup>&nbsp;Long Jump Junior 1 Boys
-<br>2<sup>nd</sup>&nbsp;80m Sprint Junior 2 Boys
-<br>8<sup>th</sup>&nbsp;Long Jump Junior 2 Boys
-<br>1<sup>st</sup>&nbsp;80m Sprint Junior 2 Boys
-<br>1<sup>st</sup>&nbsp;Long Jump Junior 2 Boys
-<br>1<sup>st</sup>&nbsp;8x50m Relay Junior 1 Boys
-<br>1<sup>st</sup>&nbsp;8x50m Relay Junior 2 Boys</p>
-<p><u>Junior Division Girls<br></u>3<sup>rd</sup>&nbsp;60m Hurdles Junior
-1 Girls
-<br>8<sup>th</sup>&nbsp;Long Jump Junior 1 Girls
-<br>5<sup>th</sup>&nbsp;80m Sprint Junior 1 Girls
-<br>1<sup>st</sup>&nbsp;Medicine Ball Throw Junior 1 Girls
-<br>4<sup>th</sup>&nbsp;80m Sprint Junior 2 Girls
-<br>6<sup>th</sup>&nbsp;Shot Put Junior 2 Girls
-<br>6<sup>th</sup>&nbsp;80m Sprint Junior 2 Girls
-<br>2<sup>nd</sup>&nbsp;8x50m Relay Junior 1 Girls
-<br>4<sup>th</sup>&nbsp;8x50m Relay Junior 2 Girls</p>
+<br><strong>4x100m Relay:</strong> S Boys Top 8
+<br><strong>8x50m Relay: </strong>J1 Boys 1<sup>st</sup>, J2 Boys 1<sup>st</sup>,
+J1 Girls 2<sup><sub>nd</sub></sup>, J2 Girls 4<sup>th</sup>
+<br><strong>Shot Put:</strong> S Boys 6<sup>th</sup>, J2 Girls 6<sup>th</sup>
+<br><strong>60m Hurdles: </strong>J1 Girls 3<sup>rd</sup>
+<br><strong>100m Hurdles:</strong> S Boys 5<sup>th</sup>
+</p>
+<p><strong>Long Jump:</strong> J1 Boys 7<sup>th</sup>, J1 Boys 2<sup>nd</sup>,
+J2 Boys 8<sup>th</sup>, J2 Boys 1<sup>st</sup>, J1 Girls 8<sup>th</sup>
+</p>
+<p><strong>40m Sprint:</strong> J1 Boys 7<sup>th</sup>, J1 Boys 1<sup>st</sup>
+</p>
+<p><strong>60m Sprint: </strong>J1 Boys 1<sup>st</sup>, J1 Boys 2<sup>nd</sup>
+</p>
+<p><strong>80m Sprint: </strong>J2 Boys 1<sup>st</sup>, J2 Boys 2<sup>nd</sup>,
+J1 Girls 5<sup>th</sup>, J2 Girls 4<sup>th</sup>, J2 Girls 6<sup>th</sup>
+</p>
+<p><strong>Medicine Ball Throw:</strong> J1 Girls 1<sup>st</sup>
+</p>
 </td>
 </tr>
 </tbody>
