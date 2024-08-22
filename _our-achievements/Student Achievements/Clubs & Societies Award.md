@@ -43,9 +43,8 @@ by Code.JAM and Tribal Studioz for young coders of any ages between 7 to
 competition is The Future of Artificial Intelligence, Where Innovation
 Knows No Bounds! Ai Tong School’s Infocomm Club has won two team awards.
 The details are as follows:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -53,10 +52,6 @@ The details are as follows:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Team Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Team members</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,23 +65,12 @@ The details are as follows:</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEE JUN HONG, CALLUM
-<br>LUCIUS TONG PENG XUN
-<br>JERMAINE LIM</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>MOST INSPIRATIONAL AWARD</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MARVEL BOB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LEE QUAN MING
-<br>CASTIEL TAN YU JUN
-<br>LEE MIN JIA</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUDGES AWARD</p>
