@@ -36,8 +36,8 @@ variant: tiptap
 <br>Certificate of Recognition (Category B and C)
 <br>
 <br><strong><u>Draw my Stamp Story Art Drawing Competition 2021</u></strong>
-<br>SILVER - 1 Student from 4PE BRONZE – 1 Student from 3RT,
-<br>2 Students from 4PE
+<br>SILVER - 1 Student from 4PE
+<br>BRONZE – 1 Student from 3RT, 2 Students from 4PE
 <br>
 <br><strong><u>SOTA Art Competition 2021</u></strong>
 <br><strong>Top 50 Finalist</strong>
@@ -51,7 +51,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Draw my Stamp Story Art Drawing Competition 2022</u></strong>
-<br>SILVER – 1 Student from 5DI BRONZE - 1 Student from 5DI
+<br>SILVER – 1 Student from 5DI
+<br>BRONZE - 1 Student from 5DI
 <br>
 <br><strong><u>SOTA Art Competition 2022</u></strong>
 <br><strong>Top 50 Finalist</strong>
@@ -102,24 +103,6 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h4><strong>DANCE CLUB</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <p></p>
