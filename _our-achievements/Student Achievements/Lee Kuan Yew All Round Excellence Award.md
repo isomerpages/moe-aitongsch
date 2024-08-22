@@ -16,16 +16,6 @@ the desired outcomes of education.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year of Award</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Student</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2017</p>
 </td>
 <td rowspan="1" colspan="1">
