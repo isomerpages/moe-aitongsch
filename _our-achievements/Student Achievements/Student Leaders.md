@@ -32,14 +32,18 @@ young students across Singapore with emergency preparedness skills and
 to encourage students to champion these skills in their won schools and
 community.</p>
 <p>Team members:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Shi Xuan Reveca</p>
+<p>1 Student</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +51,7 @@ community.</p>
 <p>6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Jun Kai</p>
+<p>1 Student</p>
 </td>
 </tr>
 <tr>
@@ -55,15 +59,7 @@ community.</p>
 <p>6 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lew Shi Jie, Ayden</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Harmony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Matthew Cheng Kah Kit</p>
+<p>2 Students</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +67,7 @@ community.</p>
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zachary Francis Tham</p>
+<p>1 Student</p>
 </td>
 </tr>
 </tbody>
