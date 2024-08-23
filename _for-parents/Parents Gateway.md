@@ -38,5 +38,6 @@ on school's programme and activities.</p>
 <br>Parents' SingPass ID and Password will not be stored in the app.</p>
 <p>You may also download the files below:
 <br><a href="/files/Read%20PDFs%20easily%20on%20mobile.pdf" rel="noopener noreferrer nofollow" target="_blank">Read PDFs Easily on Mobile</a>
-<br><a href="/files/Frequently%20Asked%20Questions%20(for%20Parents).pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions (for Parents)</a>
+<br><a href="/files/FAQs_for_Parents_Gateway.pdf" rel="noopener nofollow" target="_blank">FAQs for Parents Gateway</a>
 </p>
+<p></p>
