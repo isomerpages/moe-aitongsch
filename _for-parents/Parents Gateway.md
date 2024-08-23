@@ -12,10 +12,12 @@ on school's programme and activities.</p>
 <h4>For assistance to download the Parents Gateway Mobile Application, you may</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>view the&nbsp;Step-by-Step Video Guide (embed / link youtube video here)</p>
+<p>refer to PG One-Time Onboarding Guide <a href="/files/PG_One_Time_Onboarding.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 </li>
 <li>
-<p>refer to the&nbsp;Step-by-Step Guide</p>
+<p>refer to the&nbsp;Step-by-Step Guide <a href="/files/PG_Mobile_App_User_Guide__April_2024__for_Parents.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 </li>
 </ol>
 <h4>Kindly download the Parents Gateway at</h4>
