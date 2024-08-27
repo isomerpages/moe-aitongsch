@@ -161,7 +161,7 @@ Bars
 <p><strong>NSG Track and Field Championships</strong>
 <br><strong>4x100m Relay:</strong> S Boys Top 8
 <br><strong>8x50m Relay: </strong>J1 Boys 1<sup>st</sup>, J2 Boys 1<sup>st</sup>,
-J1 Girls 2<sup><sub>nd</sub></sup>, J2 Girls 4<sup>th</sup>
+J1 Girls 2<sup>nd</sup>, J2 Girls 4<sup>th</sup>
 <br><strong>Shot Put:</strong> S Boys 6<sup>th</sup>, J2 Girls 6<sup>th</sup>
 <br><strong>60m Hurdles: </strong>J1 Girls 3<sup>rd</sup>
 <br><strong>100m Hurdles:</strong> S Boys 5<sup>th</sup>
