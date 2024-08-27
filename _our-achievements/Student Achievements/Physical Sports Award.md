@@ -175,6 +175,124 @@ J1 Girls 5<sup>th</sup>, J2 Girls 4<sup>th</sup>, J2 Girls 6<sup>th</sup>
 </p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Track and Field Championships</strong>
+<br><strong>Long Implement Throw: </strong>J2 Girls 5<sup>th<br></sup><strong>Medicine Ball Throw (1kg): </strong>J1
+Girls 6<sup>th</sup><strong><br>Medicine Ball Throw (2kg): </strong>J2
+Girls 6<sup>th</sup><strong><br>Multi-Skill:</strong> J1 Girls Bronze, J1
+Boys Silver, J1 Boys Bronze
+<br><strong>Overhand Bean Bag Throw:</strong> J1 Boys 8<sup>th</sup> 
+<br><strong>Vertical Jump:</strong> S1 Girls 4<sup>th<br></sup><strong>Long Jump with 50cm T/0 Zone:</strong> S1
+Boys 1<sup>st<br></sup><strong>Long jump with 80cm T/O zone:</strong> J1
+Boys 2<sup>nd</sup>, J2 Boys 3<sup>rd</sup>
+<br><strong>4x50m Relay: </strong>J1 Girls 4<sup>th</sup>, J1 Boys 6<sup>th</sup>,
+J2 Boys 2<sup>nd</sup>, J2 Girls 1<sup>st</sup> 
+<br><strong>5x80m Relay:</strong> S1 Girls 5<sup>th</sup>, S1 Boys 2<sup>nd</sup>  <strong><br>4x200m Relay: </strong>S1
+Boys 2<sup>nd</sup><strong><br>60m Sprint:</strong> J1 Girls 2<sup>nd</sup>,
+J1 Boys 3<sup>rd<br></sup><strong>80m Sprint:</strong> S1 Boys 1<sup>st</sup>,
+S1 Girls 3<sup>rd</sup>, J2 Girls 2<sup>nd</sup>, 3<sup>rd</sup> &amp; 4<sup>th</sup>,
+J2 Boys 2<sup>nd</sup>, 5<sup>th</sup>, 6<sup>th</sup>, 7<sup>th<br></sup><strong>60m Hurdles: </strong>J2
+Girls 4<sup>th</sup> &amp;&nbsp; 5<sup>th</sup><strong><br>80m Hurdles:</strong> S1
+Boys 5<sup>th</sup> 
+<br><strong>1600m:</strong> S1 Girls 7<sup>th</sup>
+</p>
+<p><strong>Singapore Sports School Track and Field Invitationals</strong>
+<br><strong>Multi-Skill: </strong>J1 Boys 7<sup>th</sup>, J1 Girls, 6<sup>th</sup>
+<br><strong>Javelin:</strong> J2 Boys 3<sup>rd </sup>, J2 Girls 4<sup>th</sup><strong><br>Shot Put (2kg): </strong>S
+Girls 7<sup>th</sup>, J2 Girls 7<sup>th</sup><strong><br>Shot Put (3kg): </strong>S
+Boys 6<sup>th</sup><strong><sup><br></sup>Scissors Jump: </strong>S Boys
+5<sup>th</sup>
+<br><strong>Long Jump: </strong>S Boys 3<sup>rd</sup> &amp; 8<sup>th </sup>,
+J2 Boys 6<sup>th </sup>, J2 Girls 5<sup>th</sup>, 7<sup>th</sup> &amp; 8<sup>th</sup><strong> <br>60m Hurdles: </strong>J2
+Girls 4<sup>th</sup>, 5<sup>th</sup> &amp; 7<sup>th</sup>, J1 Girls 8<sup>th</sup><strong><sup><br></sup>80m Hurdles: </strong>S
+Boys 1<sup>st</sup> &amp;&nbsp; 3<sup>rd<br></sup><strong>4x50m Relay: </strong>J2
+Boys 2<sup>nd</sup>, J2 Girls 1<sup>st </sup>, J1 Boys 8<sup>th</sup>,
+J1 Girls5<sup>th</sup><strong><br>5x80m Relay:</strong> S Boys 1<sup>st</sup><strong><sup> </sup><br>60m: </strong>J2
+Boys 2<sup>nd</sup>, 4<sup>th</sup> &amp; 6<sup>th </sup>, J2 Girls 2<sup>nd</sup> &amp;
+7<sup>th</sup>, J1 Girls 5<sup>th</sup> 
+<br>
+</p>
+<p><strong>SHHK 5 Schools Sports Meet</strong>
+<br><strong>Long Jump: </strong>C Girls 1<sup>st</sup>, C Boys 1<sup>st</sup> &amp;
+2<sup>nd</sup>, D Girls 1<sup>st</sup> &amp; 2<sup>nd</sup> , B Boys 1<sup>st</sup> &amp;
+2<sup>nd</sup><strong> <br>Shot Put: </strong>C Girls 3<sup>rd</sup> &amp;
+1<sup>st</sup>, C Boys 2<sup>nd</sup>, D Boys 1<sup>st</sup> &amp; 3<sup>rd</sup>,
+B Girls 1<sup>st</sup>, B Boys 1<sup>st</sup><strong><br>Vertical Jump: </strong>C
+Boys 1<sup>st</sup>, D Boys 1<sup>st</sup> &amp; 2<sup>nd</sup>
+<br><strong>Shuttle relay: </strong>C Div 1<sup>st</sup>,D Div 3<sup>rd</sup> 
+<br><strong>100m</strong>: C Girls 1<sup>st</sup> &amp; 3<sup>rd</sup>, C Boys
+1<sup>st</sup>, 2<sup>nd</sup> &amp; 3<sup>rd</sup>, D Girls 2<sup>nd</sup>,
+D Boys 2<sup>nd</sup>, B Girls 1<sup>st</sup>, 2<sup>nd</sup> &amp; 3<sup>rd </sup>,
+B Boys 1<sup>st<br></sup><strong>200m: </strong>C Girls 1<sup>st</sup>,
+C Boys 1<sup>st</sup> &amp; 2<sup>nd</sup>, B Girls 3<sup>rd</sup>, B Boys
+3<sup>rd</sup><strong> <br>4X100M: </strong>C Girls 1<sup>st</sup>, C Boys
+1<sup>st</sup>, D Girls 2<sup>nd</sup>,D Boys 2<sup>nd</sup>, B Div 1<sup>st</sup>,
+B Girls 1<sup>st</sup>, B Boys 1<sup>st</sup>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Track and Field Championships</strong>
+<br><strong>Discus: </strong>S1 Girls 1<sup>st</sup><strong><br>Long Jump: </strong>S1
+Boys 7<sup>th</sup>, S1 Girls 7<sup>th</sup>
+<br><strong>Multi Skill: </strong>J1 Girls &amp; Boys Bronze
+<br><strong>Medicine Ball: </strong>J1 Girls 3<sup>rd</sup><strong><br>Scissors Jump: </strong>J2
+Boys 8<sup>th</sup>
+<br><strong>Shot Put: </strong>J2 Boys 3<sup>rd</sup>
+<br><strong>30m Sprint: </strong>S1 Girls 2<sup>nd</sup><strong><br>60m Sprint: </strong>J1
+Boys 2<sup>nd</sup><strong><br>80m Sprint: </strong>J2 Boys 3<sup>rd</sup><strong><br>60m Hurdles: </strong>J1
+Boys 6<sup>th</sup>
+<br><strong>4x50m Relay: </strong>J1 Girls 4<sup>th</sup>, J2 Girls 4<sup>th<br></sup><strong>4x200m Relay: </strong>S1
+Boys 5<sup>th</sup>, S1 Girls 2<sup>nd</sup>
+<br><strong>5x80m Relay: </strong>S1 Boys 6<sup>th</sup>, S1 Girls 1<sup>st</sup><strong><br>8x50m Relay: </strong>J1
+Boys 1<sup>st</sup>, J2 Boys 3<sup>rd</sup><strong><br>80m Hurdles: </strong>S1
+Girls 2<sup>nd</sup> &amp; 3<sup>rd</sup>
+<br><strong>80m Sprint: </strong>S1 Girls 1<sup>st</sup> &amp; 2<sup>nd</sup>
+<br>
+</p>
+<p><strong>Singapore Sports School Track and Field Invitationals</strong>
+<br><strong>Shot Put: </strong>P5 Boys 5<sup>th</sup> &amp; 7<sup>th</sup>,
+P5 Girls 2<sup>nd</sup>, 3<sup>rd</sup>, 4<sup>th</sup> &amp; 5<sup>th</sup>,
+P6 Boys 4<sup>th</sup>, 5<sup>th</sup> &amp; 7<sup>th</sup>, P6 Girls 8<sup>th</sup>
+<br><strong>Long Jump: </strong>P5 Boys 6<sup>th</sup>, P5 Girls 3<sup>rd</sup>,
+P6 Girls 4<sup>th</sup> &amp; 8<sup>th</sup>
+<br><strong>Scissors Jump: </strong>P6 Boys 6<sup>th</sup>
+<br><strong>Javelin: </strong>P5 Girls 8<sup>th</sup>
+<br><strong>Discus: </strong>P6 Girls 1<sup>st</sup>
+<br><strong>60m: </strong>P5 Boys 6<sup>th</sup>, P5 Girls 2<sup>nd</sup>,
+P6 Boys 3<sup>rd</sup>, P6 Girls 3<sup>rd<br></sup><strong>1000m: </strong>P6
+Boys 4<sup>th</sup>
+<br><strong>60m Hurdles: </strong>P5 Girls 6<sup>th</sup>, P6 Girls 2<sup>nd</sup> &amp;
+7<sup>th</sup>
+<br><strong>Tetrathlon: </strong>P6 Boys 4<sup>th</sup>
+</p>
+<p><strong>SHHK 5 Schools Sports Meet</strong>
+<br><strong>Long Jump: </strong>D Girls 2<sup>nd</sup>, D Boys 2<sup>nd</sup>,
+C Girls 1<sup>st</sup>, C Boys 2<sup>nd</sup>, B Boys 1<sup>st</sup> &amp;
+2<sup>nd</sup>
+<br><strong>Shot Put: </strong>D Girls 1<sup>st</sup>, D Boys 2<sup>nd</sup>,
+C Boys 2<sup>nd</sup> &amp; 3<sup>rd</sup>, B Girls 2<sup>nd</sup> &amp;
+3<sup>rd</sup>, B Boys 2<sup>nd</sup><strong><br>Vertical Jump: </strong>D
+Boys 2<sup>nd</sup> &amp; 3<sup>rd</sup>, C Girls 1<sup>st</sup>, C Boys
+2<sup>nd</sup> &amp; 3<sup>rd</sup>, B Boys 2<sup>nd</sup>
+<br><strong>100m Sprint: </strong>D Girls 1<sup>st</sup> &amp; 3<sup>rd</sup>,
+D Boys 1<sup>st</sup>, C Girls 2<sup>nd</sup>, C Boys 3<sup>rd</sup>, B
+girls 2<sup>nd</sup> &amp; 3<sup>rd</sup>, B Boys 3<sup>rd</sup>
+<br><strong>200m Sprint: </strong>D Boys 2<sup>nd</sup>, B Girls 3<sup>rd</sup>,
+B Boys 3<sup>rd</sup>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
