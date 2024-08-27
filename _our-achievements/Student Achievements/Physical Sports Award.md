@@ -289,8 +289,6 @@ girls 2<sup>nd</sup> &amp; 3<sup>rd</sup>, B Boys 3<sup>rd</sup>
 <br><strong>200m Sprint: </strong>D Boys 2<sup>nd</sup>, B Girls 3<sup>rd</sup>,
 B Boys 3<sup>rd</sup>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 </tbody>
