@@ -66,16 +66,6 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sally Tan
-<br><a href="mailto:tan_kui_wang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kui_wang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Margaret Chang
 <br><a href="mailto:Chang_Quek_Poh_Margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_quek_poh_margaret@schools.gov.sg</a>
 </p>
