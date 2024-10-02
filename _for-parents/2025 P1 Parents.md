@@ -4,7 +4,7 @@ permalink: /2025-p1-parents/
 variant: tiptap
 description: ""
 ---
-<h4>P1 Orientation (2024)</h4>
+<h4>P1 Orientation (2025)</h4>
 <p>Dear parents,
 <br>This is a brief outline of the P1 orientation programme for 2025. Please
 note that the timings for the events are tentative and are subjected to
