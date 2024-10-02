@@ -66,16 +66,6 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sally Tan
-<br><a href="mailto:tan_kui_wang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kui_wang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Margaret Chang
 <br><a href="mailto:Chang_Quek_Poh_Margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_quek_poh_margaret@schools.gov.sg</a>
 </p>
@@ -150,6 +140,14 @@ variant: tiptap
 <p>Mr Fong Kee Keong</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Hock Leong</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>SUPPORT</h3>
@@ -176,16 +174,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lai Chee Kiong
 <br><a href="mailto:lai_chee_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chee_kiong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hazwani
-<br>
 </p>
 </td>
 </tr>
