@@ -7,7 +7,7 @@ variant: tiptap
 <h3>MOE Financial Assistance Scheme (FAS)&nbsp;经济援助计划</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/letter%20for%20fas%20application%20for%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter for FAS Application for 2024</a> *<em>updated as of 17 October 2023</em>
+<p><a href="/files/Letter_for_FAS_Application_for_2025.pdf" rel="noopener nofollow" target="_blank">Letter for FAS Application for 2025 </a>*<em>updated as of 8 October 2024</em>
 </p>
 </li>
 <li>
@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/moe%20fas%20pamphlet%20el.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a> *<em>updated as of 17 October 2023</em>
+<p><a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a> *<em>updated as of 8 October 2024</em>
 </p>
 </li>
 </ul>
