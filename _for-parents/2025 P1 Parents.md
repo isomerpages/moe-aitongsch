@@ -20,5 +20,7 @@ Teacher Time) - 2 Jan 2025, 7.30am-1.30pm</p>
 </p>
 <p>1. <strong>13 September 2024:</strong> An email has been sent to parents.
 <br>2. <strong>1 October 2024: </strong>An email and a Parents Gateway notification
-have been sent to parents.</p>
+have been sent to parents.
+<br>3. 11 October 2025: A Parents Gateway message has been sent to parents.
+<br>4. ⁠18 October 2025: An email has been sent to parents.</p>
 <p></p>
