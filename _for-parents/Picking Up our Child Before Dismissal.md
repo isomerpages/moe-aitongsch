@@ -20,5 +20,5 @@ prohibited from going to the classroom, staff room and canteen on their
 own.</p>
 <p>No visitors are allowed during dismissal from 1315 till 1400 hrs.</p>
 <p>If you have any enquiries, please contact our Operations Manager at 64547672
-or email ng_lik_yong@schools.gov.sg .</p>
+or email <a href="mailto:ng_lik_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lik_yong@schools.gov.sg</a>.</p>
 <p>Thank you for your understanding and cooperation.</p>
