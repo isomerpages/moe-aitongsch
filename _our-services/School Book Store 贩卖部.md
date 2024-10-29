@@ -30,10 +30,6 @@ caused.</p>
 <h3>2025 ATS Uniform and Name Tag</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/ATS%20Uniform%20Measurement%20Chart.pdf" rel="noopener noreferrer nofollow" target="_blank">ATS Uniform Measurement Chart</a>
-</p>
-</li>
-<li>
 <p><a href="/files/2025_AITONG_UNIFORM_PRICE_LIST.pdf" rel="noopener nofollow" target="_blank">Uniform Price List 2025</a>
 </p>
 </li>
