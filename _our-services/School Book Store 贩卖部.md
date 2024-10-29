@@ -2,95 +2,150 @@
 title: School Book Store 贩卖部
 permalink: /our-services/school-book-store/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Pacific Book Store Pte Ltd
-
-&nbsp;**Operating Hours:**    
-**Mon - Fri:**&nbsp;8.30am to 3pm (lunch:&nbsp;11am to 12nn)    
-**Contact Number:**&nbsp;93653962 (avoid recess time 0850am - 1110am)  
-**Email:**&nbsp;[ats@pacificbookstores.com](mailto:ats@pacificbookstores.com)
-
-**Note to Parents:**  
-
-The bookshop will be open to parents for the purchase of books and school uniform from&nbsp;**2pm to 3pm**. This arrangement is to give priority to pupils who need to purchase items from the bookshop during recess and immediately after school dismissal. It is also part of the school's security measures to ensure the safety of our pupils during curriculum hours. We seek your understanding, and we apologise for any inconvenience caused.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6o7l{background-color:#fafafa;color:#444;text-align:center;vertical-align:middle}
-.tg .tg-u2eh{background-color:#DDD;color:#444;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 646px">
+<h3>Pacific Book Store Pte Ltd</h3>
+<p>&nbsp;<strong>Operating Hours:</strong>
+<br><strong>Mon - Fri:</strong>&nbsp;8.30am to 3pm (lunch:&nbsp;11am to 12nn)
+<br><strong>Contact Number:</strong>&nbsp;93653962 (avoid recess time 0850am
+- 1110am)
+<br><strong>Email:</strong>&nbsp;<a href="mailto:ats@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">ats@pacificbookstores.com</a>
+</p>
+<p><strong>Note to Parents:</strong>
+</p>
+<p>The bookshop will be open to parents for the purchase of books and school
+uniform from&nbsp;<strong>2pm to 3pm</strong>. This arrangement is to give
+priority to pupils who need to purchase items from the bookshop during
+recess and immediately after school dismissal. It is also part of the school's
+security measures to ensure the safety of our pupils during curriculum
+hours. We seek your understanding, and we apologise for any inconvenience
+caused.</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 175px">
-<col style="width: 88px">
-<col style="width: 383px">
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-u2eh">Item</td>
-    <td class="tg-u2eh">Price</td>
-    <td class="tg-u2eh">Remarks</td>
-  </tr>
-  <tr>
-    <td class="tg-6o7l">Shirt (Boy)</td>
-    <td class="tg-6o7l">$11.10</td>
-    <td class="tg-6o7l"></td>
-  </tr>
-  <tr>
-    <td class="tg-6o7l">Pant (Boy)</td>
-    <td class="tg-6o7l">$11.10</td>
-    <td class="tg-6o7l"></td>
-  </tr>
-  <tr>
-    <td class="tg-6o7l"> Blouse (Girl)</td>
-    <td class="tg-6o7l">$7.10</td>
-    <td class="tg-6o7l"> </td>
-  </tr>
-  <tr>
-    <td class="tg-6o7l">Pinafore (Girl)</td>
-    <td class="tg-6o7l">$12.65</td>
-    <td class="tg-6o7l"> </td>
-  </tr>
-  <tr>
-    <td class="tg-6o7l"> PE T-Shirt (Boy &amp; Girl)</td>
-    <td class="tg-6o7l">$8.10</td>
-    <td class="tg-6o7l"> </td>
-  </tr>
-  <tr>
-    <td class="tg-6o7l">PE Shorts (Boy &amp; Girl)</td>
-    <td class="tg-6o7l">$8.10</td>
-    <td class="tg-6o7l"> </td>
-  </tr>
-  <tr>
-    <td class="tg-6o7l"> White Shoes</td>
-    <td class="tg-6o7l"> $19.50</td>
-    <td class="tg-6o7l" rowspan="2">This is not a compulsory item. Parents may choose to purchase white shoes and white socks elsewhere.</td>
-  </tr>
-  <tr>
-    <td class="tg-6o7l">  ATS Socks</td>
-    <td class="tg-6o7l"> $2.50</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Item</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Price</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Remarks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shirt (Boy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$11.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pant (Boy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$11.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blouse (Girl)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$7.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pinafore (Girl)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$12.65</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE T-Shirt (Boy &amp; Girl)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE Shorts (Boy &amp; Girl)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>White Shoes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$19.50</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>This is not a compulsory item. Parents may choose to purchase white shoes
+and white socks elsewhere.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ATS Socks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-### 2024 Booklist
-
-* [P1 Booklist 2024](/files/p1%20booklist%202024.pdf)
-* [P2 Booklist 2024](/files/P2_Booklist_2024.pdf)
-* [P3 Booklist 2024](/files/P3_Booklist_2024.pdf)
-* [P4 Booklist 2024](/files/P4_Booklist_2024.pdf)
-* [P5 Booklist 2024](/files/P5_Booklist_2024.pdf)
-* [P6 Booklist 2024](/files/P6_Booklist_2024.pdf)
-    
-
-### 2024 ATS Uniform and Name Tag
-
-* [ATS Uniform Measurement Chart](/files/ATS%20Uniform%20Measurement%20Chart.pdf)
-* [Uniform Price List 2024](/files/Uniform_Price_List_2024.pdf)
-* [ Name Tag Order Form 2024](/files/Name_Tag_Order_Form_2024.pdf)
+<h3>2025 Booklist</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_AITONG_P1_BOOKLIST_2_0.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2025</a>
+</p>
+</li>
+</ul>
+<h3>2025 ATS Uniform and Name Tag</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/ATS%20Uniform%20Measurement%20Chart.pdf" rel="noopener noreferrer nofollow" target="_blank">ATS Uniform Measurement Chart</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_AITONG_UNIFORM_PRICE_LIST.pdf" rel="noopener nofollow" target="_blank">Uniform Price List 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_AITONG_NAMETAG.pdf" rel="noopener nofollow" target="_blank">Name Tag Order Form 2025</a>
+</p>
+</li>
+</ul>
+<p></p>
