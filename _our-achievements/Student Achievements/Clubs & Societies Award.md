@@ -5,37 +5,7 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
-<h4><strong>ROBOTICS CLUB</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2022 FIRST® LEGO® League (FLL)<br></strong>ROBOT DESIGN AWARD
-<br>3rd Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Coder Passion Scratch Hackathon 2024</strong>
-<br>- 2nd Runner up
-<br>- Two Merit Awards</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
+<h3><strong>INFOCOMM CLUB</strong><br></h3>
 <h4><strong><u>HACK@CODE</u></strong></h4>
 <p>HACK@CODE is a National Online Thematic Coding Competition for young coders
 of any ages between 7 to 14 years old to put their coding skills into actions.</p>
@@ -143,6 +113,37 @@ School’s Infocomm Club has won 5 team awards.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPECIAL COMMENDATION AWARD</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3><strong>ROBOTICS CLUB</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022 FIRST® LEGO® League (FLL)<br></strong>ROBOT DESIGN AWARD
+<br>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Coder Passion Scratch Hackathon 2024</strong>
+<br>- 2nd Runner up
+<br>- Two Merit Awards</p>
 </td>
 </tr>
 </tbody>
