@@ -80,8 +80,14 @@ Where Innovation Knows No Bounds". Ai Tong School’s Infocomm Club has won
 </table>
 <hr>
 <h4>2024</h4>
-<p>The theme for 2024’s competition is Ai Tong School’s Infocomm Club has
-won 5 team awards.</p>
+<p>The theme for 2024’s competition is "Ocean Deep". In this competition,
+participants will use the Scratch platform to create interactive stories,
+animations, games, or a hybrid of these, bringing their creative ideas
+and solutions to life. By delving into the theme of Ocean Deep, young coders
+will highlight the importance of preserving our oceans, inspire innovative
+solutions for oceanic health, and demonstrate how each individual's unique
+potential can contribute to a stronger, more connected community. Ai Tong
+School’s Infocomm Club has won 5 team awards.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
