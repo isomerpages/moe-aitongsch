@@ -37,13 +37,12 @@ variant: tiptap
 </table>
 <hr>
 <h4><strong><u>HACK@CODE</u></strong></h4>
-<p>HACK@CODE is a National Online Thematic Coding Competition jointly organized
-by Code.JAM and Tribal Studioz for young coders of any ages between 7 to
-14 years old to put their coding skills into actions. The theme for 2023’s
-competition is The Future of Artificial Intelligence, Where Innovation
-Knows No Bounds! Ai Tong School’s Infocomm Club has won two team awards.
-The details are as follows:</p>
+<p>HACK@CODE is a National Online Thematic Coding Competition for young coders
+of any ages between 7 to 14 years old to put their coding skills into actions.</p>
 <h4>2023</h4>
+<p>The theme for 2023’s competition is "The Future of Artificial Intelligence,
+Where Innovation Knows No Bounds". Ai Tong School’s Infocomm Club has won
+2 team awards.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -81,6 +80,8 @@ The details are as follows:</p>
 </table>
 <hr>
 <h4>2024</h4>
+<p>The theme for 2024’s competition is Ai Tong School’s Infocomm Club has
+won 5 team awards.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -141,7 +142,6 @@ The details are as follows:</p>
 </tbody>
 </table>
 <hr>
-<p></p>
 <h4><strong><u>DJI RoboMaster Youth Championship 2022 Singapore</u></strong></h4>
 <p>RoboMaster Youth Championship (RMYC) is organized to evolve the current
 robotic competition standards into the whole new level that excite and
