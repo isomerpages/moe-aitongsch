@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
-<h4><strong>INFOCOMM CLUB</strong><br><strong><u>HACK@CODE</u></strong></h4>
+<h3><strong>INFOCOMM CLUB</strong><br></h3>
+<h4><strong><u>HACK@CODE</u></strong></h4>
 <p>HACK@CODE is a National Online Thematic Coding Competition for young coders
 of any ages between 7 to 14 years old to put their coding skills into actions.</p>
 <h4>2023</h4>
@@ -147,6 +148,7 @@ School’s Infocomm Club has won 5 team awards.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong><u>DJI RoboMaster Youth Championship 2022 Singapore</u></strong></h4>
 <p>RoboMaster Youth Championship (RMYC) is organized to evolve the current
 robotic competition standards into the whole new level that excite and
