@@ -43,6 +43,7 @@ by Code.JAM and Tribal Studioz for young coders of any ages between 7 to
 competition is The Future of Artificial Intelligence, Where Innovation
 Knows No Bounds! Ai Tong School’s Infocomm Club has won two team awards.
 The details are as follows:</p>
+<h4>2023</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -79,6 +80,68 @@ The details are as follows:</p>
 </tbody>
 </table>
 <hr>
+<h4>2024</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Team Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awards</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEA DOGS</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOST AESTHETICALLY DESIGNED AWARD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I LIKE TO CODE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOST INTERACTIVE DESIGN AWARD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DEFENDER OF THE OCEAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MERIT AWARD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCRATCH BUDDIES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPECIAL COMMENDATION AWARD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAVING THE OCEAN FROM POLLUTION</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPECIAL COMMENDATION AWARD</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
 <h4><strong><u>DJI RoboMaster Youth Championship 2022 Singapore</u></strong></h4>
 <p>RoboMaster Youth Championship (RMYC) is organized to evolve the current
 robotic competition standards into the whole new level that excite and
