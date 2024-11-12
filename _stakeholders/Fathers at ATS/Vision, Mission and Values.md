@@ -14,11 +14,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/FatherATS.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Father_ATS_Banner.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/stakeholders/Fathers-at-ATS/objectives-and-goals/" rel="noopener noreferrer nofollow" target="_blank">Objectives and Goals</a></strong>
