@@ -3,43 +3,53 @@ title: Objectives and Goals
 permalink: /stakeholders/Fathers-at-ATS/objectives-and-goals/
 description: ""
 third_nav_title: Fathers at ATS
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-8d8j{text-align:center;vertical-align:bottom}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 250px">
-<col style="width: 250px">
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-8d8j" colspan="3"><img src="/images/FatherATS.jpeg" 
-     style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><a href="/stakeholders/Fathers-at-ATS/objectives-and-goals/"><b>Objectives and Goals</b></a></td>
-    <td class="tg-baqh"><a href="/stakeholders/Fathers-at-ATS/vision-mission-values/"><b>Vision, Mission and Values</b></a></td>
-    <td class="tg-baqh"><a href="/stakeholders/Fathers-at-ATS/organization-structure/"><b>Organization Structure</b></a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/FatherATS.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/stakeholders/Fathers-at-ATS/objectives-and-goals/" rel="noopener noreferrer nofollow" target="_blank">Objectives and Goals</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/stakeholders/Fathers-at-ATS/vision-mission-values/" rel="noopener noreferrer nofollow" target="_blank">Vision, Mission and Values</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/stakeholders/Fathers-at-ATS/organization-structure/" rel="noopener noreferrer nofollow" target="_blank">Organization Structure</a></strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Objectives
-
-1.   To promote and cultivate bonds between fathers and their children
-2.   To inspire, encourage and provide support to the fathers of other children  
-    
-
-### Goals
-
-1.  To build a strong community of fathers within Ai Tong School, to create a network of support and an environment that motivates and inspires fathers to be a positive influence in their child’s life;
-2.  To create awareness among fathers of their roles in their child’s life through outreach programs and facilitation of sharing sessions;
-3.  To facilitate opportunities for bonding through organizing of activities that allow father-child bonding.
+<h3>What is Fathers@ATS?</h3>
+<p>Fathers@ATS is a community of dedicated volunteer dads at Ai Tong School,
+inspired by the values of the Dads4Life movement. We’re part of the school’s
+Parent Support Group (PSG), focused on bringing fathers and their children
+closer together through meaningful, school-based activities. Our mission
+is simple: to help fathers build stronger, lasting bonds with their kids
+while creating a supportive community of like-minded dads.</p>
+<p></p>
+<p>We organize a variety of events designed to inspire active, positive fatherhood,
+encouraging dads to engage deeply in their children’s lives and become
+the role models their kids need. Fathers@ATS is about shared experiences,
+connection, and the joy of being present for every milestone.</p>
+<h3>Our Goal</h3>
+<p>Fathers@ATS aims to empower and support fathers in building strong, positive
+relationships with their children. Aligned with the values of Dads4Life,
+our program encourages meaningful father-child bonding through activities
+and community engagement, fostering a nurturing environment where each
+father can focus on their child, one moment at a time.</p>
