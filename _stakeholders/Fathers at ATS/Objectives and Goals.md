@@ -35,7 +35,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>What is Fathers@ATS?</strong></h3>
+<h3>What is Fathers@ATS?</h3>
 <p>Fathers@ATS is a community of dedicated volunteer dads at Ai Tong School,
 inspired by the values of the Dads4Life movement. We’re part of the school’s
 Parent Support Group (PSG), focused on bringing fathers and their children
