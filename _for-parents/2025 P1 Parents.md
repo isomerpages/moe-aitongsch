@@ -23,5 +23,10 @@ Teacher Time) - 2 Jan 2025, 7.30am-1.30pm</p>
 have been sent to parents.
 <br>3. <strong>11 October 2025: </strong>A Parents Gateway message has been
 sent to parents.
-<br>4. ⁠<strong>18 October 2025:</strong> An email has been sent to parents.</p>
+<br>4. ⁠<strong>18 October 2025:</strong> An email has been sent to parents.
+<br>5. <strong>29 October 2024: </strong>A Parents Gateway notification has
+been sent to parents.
+<br>6. <strong>8 November 2024:</strong> A Parents Gateway notification has
+been sent to parents. Form teachers have sent an email to inform parents
+of the their child’s 2025 P1 class.</p>
 <p></p>
