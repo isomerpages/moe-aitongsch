@@ -5,3 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Fathers at ATS
 ---
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Fathers_ATS.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation - Fathers@ATS</a>
+</p>
+</li>
+</ol>
+<p></p>
