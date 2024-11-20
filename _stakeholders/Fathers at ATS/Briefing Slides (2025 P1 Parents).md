@@ -10,5 +10,9 @@ third_nav_title: Fathers at ATS
 <p><a href="/files/Fathers_ATS.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation - Fathers@ATS</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1qmJKobuxCXdOP4KGUrZZ8z5ucibzR66z/view" rel="noopener nofollow" target="_blank">Father@ATS Video</a>
+</p>
+</li>
 </ol>
 <p></p>
