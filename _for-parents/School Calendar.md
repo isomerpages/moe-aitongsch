@@ -2,45 +2,87 @@
 title: School Calendar
 permalink: /for-parents/school-calendar/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<iframe src="https://calendar.google.com/calendar/embed?src=c_091e7573fd44aeb91f5c3c6b2a7a954737406cb5914da17c0827336935105bc7%40group.calendar.google.com&amp;ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-**LSM**&nbsp;\- Learning Support Programme for Mathematics   
-**LSP**&nbsp;\- The Learning Support Programme for English   
-**RRP**&nbsp;\- Reading Remediation Programme
-
- 
-
-### SCHOOL TERMS FOR 2024
-
-**<u>Semester 1</u>**   
-Term 1 : Tuesday, 2 January to Friday, 8 March     
-Term 2 : Monday, 18 March to Friday, 24 May  
-**<u>Semester 2</u>**   
-Term 3 : Monday, 24 June to Friday, 30 August     
-Term 4 : Monday, 9 September to Friday, 15 November&nbsp;
-
-### SCHOOL HOLIDAYS FOR 2024
-
-* **March Holidays** : Saturday, 9 March to Sunday, 17 March     
-* **June Holidays** : Saturday, 25 May to Sunday, 23 June
-* **September Holidays** : Saturday, 31 August to Sunday, 8 September   
-* **December Holidays** : Saturday, 16 November to Friday, 31 December
-
-### SCHEDULED SCHOOL HOLIDAYS FOR 2024
-* **Youth Day** : Sunday 30 June *(Monday 1 July is a school holiday)* 
-* **Teachers' Day** : Friday 30 August 
-* **Children's Day** : Friday 4 October  
-
-### SCHEDULED PUBLIC HOLIDAYS FOR 2024
-* **New Year's Day** : Monday 1 January
-* **Chinese New Year** : Saturday 10 February &amp; Sunday 11 February *(Monday, 12 February will be a public holiday and Tuesday, 13 February will be a school holiday and a designated day off-in-lieu. Schools will be closed, including the General Office and Student Care Centre)*
-* **Good Friday** : Friday 29 March
-* **Hari Raya Puasa**: Wednesday 10 April
-* **Labour Day** : Wednesday 1 May
-* **Vesak Day** : Wednesday 22 May
-* **Hari Raya Haji** : Monday 17 June
-* **National Day** : Friday 9 August  
-* **Deepavali** : Thursday 31 October
-* **Christmas Day** : Wednesday 25 December
+<div class="iframe-wrapper">
+<iframe style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_091e7573fd44aeb91f5c3c6b2a7a954737406cb5914da17c0827336935105bc7%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+</div>
+<p><strong>LSM</strong>&nbsp;- Learning Support Programme for Mathematics
+<br><strong>LSP</strong>&nbsp;- The Learning Support Programme for English</p>
+<h3>SCHOOL TERMS FOR 2025</h3>
+<p><strong><u>Semester 1</u></strong>
+<br>Term 1 : Thursday, 2 January* to Friday, 14 March
+<br>Term 2 : Monday, 24 March to Friday, 30 May
+<br><strong><u>Semester 2</u></strong>
+<br>Term 3 : Monday, 30 June to Friday, 5 Sep
+<br>Term 4 : Monday, 15 September to Friday, 21 November&nbsp;</p>
+<p>*<em>Primary 1 will start school on Thursday, 2 January 2025. Primary 2 to 6 will start school on Friday, 3 January 2025.</em>
+</p>
+<p></p>
+<h3>SCHOOL HOLIDAYS FOR 2025</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>March Holidays</strong> : Saturday, 15 March to Sunday, 23 March</p>
+</li>
+<li>
+<p><strong>June Holidays</strong> : Saturday, 31 May to Sunday, 29 June</p>
+</li>
+<li>
+<p><strong>September Holidays</strong> : Saturday, 6 September to Sunday,
+14 September</p>
+</li>
+<li>
+<p><strong>December Holidays</strong> : Saturday, 22 November to Wednesday,
+31 December</p>
+</li>
+</ul>
+<h3>SCHEDULED SCHOOL HOLIDAYS FOR 2025</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Youth Day</strong> : Sunday 6 July <em>(Monday 7 July is a school holiday)</em>
+</p>
+</li>
+<li>
+<p><strong>Teachers' Day</strong> : Friday 5 September</p>
+</li>
+<li>
+<p><strong>Children's Day</strong> : Friday 3 October</p>
+</li>
+</ul>
+<h3>SCHEDULED PUBLIC HOLIDAYS FOR 2025</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>New Year's Day</strong> : Wednesday 1 January</p>
+</li>
+<li>
+<p><strong>Chinese New Year</strong> : Wednesday 29 January &amp; Thursday
+30 January</p>
+</li>
+<li>
+<p><strong>Hari Raya Puasa</strong>: Monday 31 March</p>
+</li>
+<li>
+<p><strong>Good Friday</strong> : Friday 18 April</p>
+</li>
+<li>
+<p><strong>Labour Day</strong> : Thursday 1 May</p>
+</li>
+<li>
+<p><strong>Vesak Day</strong> : Monday 12 May</p>
+</li>
+<li>
+<p><strong>Hari Raya Haji</strong> : Saturday 7 June (<em>Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres)</em>
+</p>
+</li>
+<li>
+<p><strong>National Day</strong> : Saturday 9 August (<em>Mon, 11 Aug will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres)</em>
+</p>
+</li>
+<li>
+<p><strong>Deepavali</strong> : Monday 20 October</p>
+</li>
+<li>
+<p><strong>Christmas Day</strong> : Thursday 25 December</p>
+</li>
+</ul>
+<p></p>
