@@ -66,7 +66,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Contract Flexi Adjunct Teachers</strong>
+<p><strong>Contract &amp; Flexi Adjunct Teachers</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -76,8 +76,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Enid Sim<br></strong><a href="mailto:sim_lin_enid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_lin_enid@schools.gov.sg</a>
-<br>FAJT</p>
+<p><strong>Mdm Jeslyn Yeo</strong>
+</p>
+<p><a href="mailto:yeo_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_siew_hoon@schools.gov.sg</a>
+</p>
+<p>CAJT English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Joycelyn Tsui<br></strong><a href="mailto:wallace_tsui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wallace_tsui@schools.gov.sg</a><strong><a href="mailto:khoo_kim_kim@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>CAJT&nbsp;Mathematics</p>
@@ -85,8 +88,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Jeslyn Yeo<br></strong><a href="mailto:yeo_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_siew_hoon@schools.gov.sg</a>
-<br>CAJT English</p>
+<p><strong>Mrs Chong Chow Yong<br></strong><a href="mailto:chong_chow_yong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chow_yong_a@schools.gov.sg</a>
+<br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Karen Poon<br></strong><a href="mailto:poon_sook_yee_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poon_sook_yee_karen@schools.gov.sg</a>
@@ -109,7 +112,7 @@ variant: tiptap
 <br>FAJT Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Oh Peng Peng<br></strong><a href="mailto:oh_peng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oh_peng_peng@schools.gov.sg</a>
+<p><strong>Mr Ooi Thaim Seng<br></strong><a href="mailto:ooi_thiam_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ooi_thiam_seng@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 </tr>
@@ -129,7 +132,9 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Chye Kheng<br></strong><a href="mailto:lim_chye_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chye_kheng@schools.gov.sg</a>
+<p><strong>Ms Ang Tze Yin</strong>
+</p>
+<p><a href="mailto:ang_tze_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_tze_yin@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 </tr>
@@ -139,27 +144,9 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ooi Thaim Seng<br></strong><a href="mailto:ooi_thiam_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ooi_thiam_seng@schools.gov.sg</a>
-<br>FAJT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Chong Chow Yong<br></strong><a href="mailto:chong_chow_yong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chow_yong_a@schools.gov.sg</a>
-<br>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Ang Tze Yin</strong>
-<br>FAJT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Seth Tan<br></strong>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ang Teck Keng</strong>
-<br>FAJT</p>
+<p><strong>Mr Seth Tan</strong>
+</p>
+<p><a href="mailto:tan_jian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jian_liang@schools.gov.sg</a><strong><br></strong>FAJT</p>
 </td>
 </tr>
 </tbody>
