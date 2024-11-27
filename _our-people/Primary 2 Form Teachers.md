@@ -37,8 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Grace Chua</strong>
-</p>
-<p><a href="mailto:grace_leong_siew_inn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>grace_leong_siew_inn@schools.gov.sg</u></a>
+<br><a href="mailto:grace_leong_siew_inn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>grace_leong_siew_inn@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
