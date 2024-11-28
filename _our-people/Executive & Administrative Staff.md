@@ -182,9 +182,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Khoo
-<br>
-</p>
+<p>Mr Eric Khoo</p>
 </td>
 </tr>
 <tr>
