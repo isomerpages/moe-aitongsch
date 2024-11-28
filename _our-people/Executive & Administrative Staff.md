@@ -195,14 +195,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Printing Assistant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tee Yu Chuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
