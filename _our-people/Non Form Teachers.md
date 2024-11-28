@@ -19,9 +19,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chua Siew Jin, Erika</strong>
-<br><a href="mailto:chua_siew_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_jin@schools.gov.sg</a>
+<p><strong>Ms Teo Yuan May<a href="mailto:teo_yuan_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+<a href="mailto:teo_yuan_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_yuan_may@schools.gov.sg</u>
+</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Li Baihe</strong>
+<br><a href="mailto:li_baihe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_baihe@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -77,10 +88,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Jeslyn Yeo</strong>
-</p>
-<p><a href="mailto:yeo_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_siew_hoon@schools.gov.sg</a>
-</p>
-<p>CAJT English</p>
+<br><a href="mailto:yeo_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_siew_hoon@schools.gov.sg</a>
+<br>CAJT English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Joycelyn Tsui<br></strong><a href="mailto:wallace_tsui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wallace_tsui@schools.gov.sg</a><strong><a href="mailto:khoo_kim_kim@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>CAJT&nbsp;Mathematics</p>
@@ -99,7 +108,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tew Chiou Wan<br></strong><a href="mailto:tew_chiou_wan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tew_chiou_wan@schools.gov.sg</a>
-<br>FAJT</p>
+<br>CAJT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chan Fung Yee<br></strong><a href="mailto:chan_fung_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_fung_yee@schools.gov.sg</a>
@@ -133,8 +142,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ang Tze Yin</strong>
-</p>
-<p><a href="mailto:ang_tze_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_tze_yin@schools.gov.sg</a>
+<br><a href="mailto:ang_tze_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_tze_yin@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 </tr>
@@ -145,8 +153,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Seth Tan</strong>
-</p>
-<p><a href="mailto:tan_jian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jian_liang@schools.gov.sg</a><strong><br></strong>FAJT</p>
+<br><a href="mailto:tan_jian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jian_liang@schools.gov.sg</a><strong><br></strong>FAJT</p>
 </td>
 </tr>
 </tbody>
