@@ -128,17 +128,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH Staff Wellbeing</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Teo-Mok Ling Ling </strong>
-<br><a href="mailto:teo-mok_ling_ling@schools.gov.sg" rel="noopener noreferrer" target="_blank">teo-mok_ling_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Year Heads</h3>
