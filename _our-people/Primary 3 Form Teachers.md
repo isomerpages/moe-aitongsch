@@ -146,8 +146,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Jeanny Wong<a href="mailto:s_chong_woan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
-<a href="mailto:s_chong_woan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_woan_ling@schools.gov.sg</u>
+<p><strong>Mrs Jeanny Wong<a href="mailto:chong_woan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+<a href="mailto:chong_woan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_woan_ling@schools.gov.sg</u>
 </a>
 </p>
 </td>
