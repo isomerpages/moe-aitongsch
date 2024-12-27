@@ -4,27 +4,33 @@ permalink: /our-services/school-dental-clinic/
 description: ""
 variant: tiptap
 ---
-<p>Dental Clinic will be open every Mon, Tue and Wed from 15 Jan 2024</p>
+<p>Dental Clinic will be open on alternate weeks starting from 6 January
+2025.</p>
 <p>During Dental Clinic Closures, for&nbsp;<strong>emergency</strong>&nbsp;dental
 treatment, please contact&nbsp;<strong>School Dental Centre(SDC), Heath Promotion Board (HPB).</strong>&nbsp;</p>
 <p>Please be informed that a fee may be charged at SDC.</p>
 <p>School Dental Centre (SDC)
 <br>Health Promotion Board
 <br>3 Second Hospital Ave, S(168937)
-<br>Email Address: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+<br>Email Address:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
-<p><strong><u>Location of Dental Clinic in Ai Tong School</u></strong> 
+<p><strong>Location of Dental Clinic in Ai Tong School</strong>
 <br>Room: Block A11a
 <br>Dental Therapist: Ms&nbsp;Jiang Tian
 <br>Contact No: 8764 5447</p>
-<p><strong>Operating Hours:</strong> 
-<br>Mon and Wed: 8:00am to 5:00pm
-<br>Tue: 8:00am to 5:30pm
+<p><strong>Operating Hours:</strong>
+<br>Mon, Wed and Fri: 8:00am to 5:00pm
+<br>Tue and Thu: 8:00am to 5:30pm
 <br>Lunch: 12:30pm to 1:30pm</p>
-<p><strong>Notice of Buddy Clinic</strong> 
+<p><strong>Notice of Buddy Clinic</strong>
 <br>For pupils who require emergency dental treatment in case of clinic closure,
 parents may contact any of the "buddy clinics" below for assistance:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -32,7 +38,7 @@ parents may contact any of the "buddy clinics" below for assistance:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Telephone <br>Numbers</strong>
+<p><strong>Telephone<br>Numbers</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,9 +59,7 @@ parents may contact any of the "buddy clinics" below for assistance:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Mo Kio Primary School
-<br>
-</p>
+<p>Ang Mo Kio Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>87645842</p>
@@ -66,9 +70,7 @@ parents may contact any of the "buddy clinics" below for assistance:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Catholic High Primary School
-<br>
-</p>
+<p>Catholic High Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>87646507</p>
@@ -79,9 +81,7 @@ parents may contact any of the "buddy clinics" below for assistance:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Townsville Primary School
-<br>
-</p>
+<p>Townsville Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>89400243</p>
@@ -92,4 +92,4 @@ parents may contact any of the "buddy clinics" below for assistance:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
