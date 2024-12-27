@@ -126,8 +126,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Cheryl Ang</strong>
+<br><a href="mailto:ang_si_ting_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_si_ting_cheryl@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Zha Fangyu</strong>
