@@ -12,7 +12,7 @@ treatment, please contact&nbsp;<strong>School Dental Centre(SDC), Heath Promotio
 <p>School Dental Centre (SDC)
 <br>Health Promotion Board
 <br>3 Second Hospital Ave, S(168937)
-<br>Email Address:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+<br>Email Address:&nbsp;<a href="contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
 <p><strong>Location of Dental Clinic in Ai Tong School</strong>
 <br>Room: Block A11a
