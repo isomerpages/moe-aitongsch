@@ -35,6 +35,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Vice-Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Philip Chiu</strong>
+<br><a href="mailto:chiu_shek_man_philip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chiu_shek_man_philip@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Vice-Principal (Admin)</strong>
 </p>
 </td>
