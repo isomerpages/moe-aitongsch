@@ -247,7 +247,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH EL(Internal)</strong>
+<p><strong>LH EL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,7 +311,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH MA(Internal)</strong>
+<p><strong>LH MA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
