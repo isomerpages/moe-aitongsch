@@ -156,6 +156,29 @@ variant: tiptap
 <br><a href="mailto:tan_jian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jian_liang@schools.gov.sg</a><strong><br></strong>FAJT</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Oh Peng Peng</strong>
+<br><a href="mailto:oh_peng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oh_peng_peng@schools.gov.sg</a>
+<br>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Ang Kheng</strong>
+<br>FAJT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Oh Hong Choon</strong>
+</p>
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Sashi</strong>
+<br><a href="mailto:kanna_dhatchayani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kanna_dhatchayani@schools.gov.sg</a>
+<br>FAJT</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
