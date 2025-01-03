@@ -164,14 +164,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Ang Kheng</strong>
+<br><a href="mailto:ang_kheng_2@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kheng_2@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Oh Hong Choon</strong>
-</p>
-<p>FAJT</p>
+<br><a href="mailto:lau_yen_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_yen_yen@schools.gov.sg</a>
+<br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Sashi</strong>
