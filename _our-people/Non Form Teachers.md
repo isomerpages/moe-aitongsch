@@ -32,7 +32,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mrs Sharon Tan</strong><a href="mailto:tan_quee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>tan_quee_leng@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
