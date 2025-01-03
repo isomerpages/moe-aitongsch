@@ -19,9 +19,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Yuan May<a href="mailto:teo_yuan_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
-<a href="mailto:teo_yuan_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_yuan_may@schools.gov.sg</u>
-</a>
+<p><strong>Ms Teo Yuan May</strong>
+<br><a href="mailto:teo_yuan_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_yuan_may@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -93,7 +92,8 @@ variant: tiptap
 <br>CAJT English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Joycelyn Tsui<br></strong><a href="mailto:wallace_tsui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wallace_tsui@schools.gov.sg</a><strong><a href="mailto:khoo_kim_kim@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>CAJT&nbsp;Mathematics</p>
+<p><strong>Mrs Joycelyn Tsui<br></strong><a href="mailto:wallace_tsui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wallace_tsui@schools.gov.sg</a>
+<br>CAJT&nbsp;Mathematics</p>
 </td>
 </tr>
 <tr>
