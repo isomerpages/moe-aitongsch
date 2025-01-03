@@ -331,6 +331,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ST MA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Sharon Tan </strong>
+<br><a href="mailto:tan_quee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_quee_leng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Chinese Language/Cultural Department</h3>
@@ -518,17 +529,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Na Kok Yong</strong> 
 <br><a href="mailto:na_kok_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">na_kok_yong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ST Special Needs</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Sharon Tan </strong>
-<br><a href="mailto:tan_quee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_quee_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
