@@ -32,7 +32,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mrs Sharon Tan</strong><a href="mailto:tan_quee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>tan_quee_leng@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -154,6 +155,30 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Seth Tan</strong>
 <br><a href="mailto:tan_jian_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jian_liang@schools.gov.sg</a><strong><br></strong>FAJT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Oh Peng Peng</strong>
+<br><a href="mailto:oh_peng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oh_peng_peng@schools.gov.sg</a>
+<br>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Ang Kheng</strong>
+<br><a href="mailto:ang_kheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kheng_a@schools.gov.sg</a>
+<br>FAJT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Oh Hong Choon</strong>
+<br><a href="mailto:lau_yen_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_yen_yen@schools.gov.sg</a>
+<br>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Sashi</strong>
+<br><a href="mailto:kanna_dhatchayani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kanna_dhatchayani@schools.gov.sg</a>
+<br>FAJT</p>
 </td>
 </tr>
 </tbody>
