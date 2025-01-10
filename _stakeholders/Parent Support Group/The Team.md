@@ -27,7 +27,9 @@ variant: tiptap
 <br><strong>Fathers@ATS Chairperson</strong>: Kelvin Tan
 <br><strong>Other Members</strong>: Ivy Khoo, Jasmine Koh, Tresa Lim, Chong
 Yili, Mavis Quek
-<br><strong>P6 Team:</strong>
+<br>
+</p>
+<p><strong>P6 Team:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
