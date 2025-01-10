@@ -13,11 +13,11 @@ areas of learning and apply it critically and creatively to real-life situations
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.aitong.moe.edu.sg/co-curriculum/Applied-Learning-Programme/p3-scamper/" rel="noopener nofollow" target="_blank">Primary 3 Junior iDare Programme – SCAMPER</a>
+<p><a href="/co-curriculum/applied-learning-programme/p3-scamper/" rel="noopener nofollow" target="_blank">Primary 3 Junior iDare Programme – SCAMPER</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.aitong.moe.edu.sg/co-curriculum/Applied-Learning-Programme/p4-design-thinking/" rel="noopener nofollow" target="_blank">Primary 4 iDare Programme – Design Thinking</a>
+<p><a href="/co-curriculum/applied-learning-programme/p4-design-thinking/" rel="noopener nofollow" target="_blank">Primary 4 iDare Programme – Design Thinking</a>
 </p>
 </li>
 <li>
