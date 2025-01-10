@@ -3,45 +3,47 @@ title: The Team
 permalink: /stakeholders/Parent-Support-Group/the-team/
 description: ""
 third_nav_title: Parent Support Group
-variant: markdown
+variant: tiptap
 ---
-
-![](/images/PSG%20Banner.jpeg)
-### School Advisors
-
-**Mr Wong Jia Wang​ (Principal)**  
-**Mrs Teo-Mok Ling Ling (PSG Liaison Person)**
-
-### ATS Parent Support Group
-
-**Chairperson**: Eline Peh
-
-**Vice Chairperson**: Victor Peh,  Lynette Choong, Sharon Wong
-
-**Secretary**: Kareen Lui
-
-**Treasurer**: Bernice Xu
-<br>**Asst Treasurer**: Kelvin Tan
-
-**Auditor**: Chua Mooi Yen 
-
-**Events I/C**: Bernice Xu
-
-**Social Media I/C**: Chen Meiyue
-
-**Mental Wellness I/C**: Peggun Leung
-
-**IT/WhatsApp I/C**: Chan Yaoxian
-
-**PV Appreciation I/C**: Ivy Khoo
-
- **Fathers@ATS Chairperson**: Kelvin Tan
-
-**Other Members**: Irene Yee, Jasmine Koh, Tresa Lim, Wong Siew Yong
-
-**P6 Team:** 
-* Lynette Choong
-* Sharon Wong
-* Irene Yee
-* Chan Yaoxian
-* Max Tay
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG%20Banner.jpeg">
+</div>
+<h3>School Advisors</h3>
+<p><strong>Mr Wong Jia Wang​ (Principal)</strong>
+<br><strong>Mrs Tan Qili (PSG Liaison Person)</strong>
+</p>
+<h3>ATS Parent Support Group</h3>
+<p><strong>Chairperson</strong>: Eline Peh
+<br><strong>Vice Chairperson</strong>: Lynette Choong, Sharon Wong
+<br><strong>Secretary</strong>: Kareen Lui
+<br><strong>Treasurer</strong>: Sharon Wong
+<br><strong>Asst Treasurer</strong>: Kelvin Tan
+<br><strong>Auditor</strong>: Chua Mooi Yen
+<br><strong>Events I/C</strong>: Bernice Xu
+<br><strong>Social Media I/C</strong>: Chen Meiyue
+<br><strong>Mental Wellness I/C</strong>: Peggun Leung
+<br><strong>IT/WhatsApp I/C</strong>: Kareen Lui
+<br><strong>PV Appreciation I/C</strong>: Carmen Chan
+<br><strong>Fathers@ATS Chairperson</strong>: Kelvin Tan
+<br><strong>Other Members</strong>: Ivy Khoo, Jasmine Koh, Tresa Lim, Chong
+Yili, Mavis Quek
+<br><strong>P6 Team:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kareen Lui</p>
+</li>
+<li>
+<p>Bernice Xu</p>
+</li>
+<li>
+<p>Ivy Khoo</p>
+</li>
+<li>
+<p>Chua Mooi Yen</p>
+</li>
+<li>
+<p>Peggun Leung</p>
+</li>
+</ul>
+<p></p>
