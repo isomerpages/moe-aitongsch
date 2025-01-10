@@ -1,6 +1,6 @@
 ---
-title: Primary 3 Junior Innovator Programme – SCAMPER
-permalink: /co-curriculum/Applied-Learning-Programme/p3-scamper/
+title: Primary 3 Junior iDare Programme – SCAMPER
+permalink: /co-curriculum/applied-learning-programme/p3-scamper/
 description: ""
 third_nav_title: Applied Learning Programme
 variant: markdown
