@@ -19,7 +19,7 @@ variant: tiptap
 <br><strong>Treasurer</strong>: Bernice Xu
 <br><strong>Asst Treasurer</strong>: Kelvin Tan
 <br><strong>Auditor</strong>: Chua Mooi Yen
-<br><strong>Events I/C</strong>: Bernice Xu
+<br><strong>Events I/C</strong>: Sharon Wong
 <br><strong>Social Media I/C</strong>: Chen Meiyue
 <br><strong>Mental Wellness I/C</strong>: Peggun Leung
 <br><strong>IT/WhatsApp I/C</strong>: Kareen Lui
