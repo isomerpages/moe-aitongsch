@@ -16,7 +16,7 @@ variant: tiptap
 <p><strong>Chairperson</strong>: Eline Peh
 <br><strong>Vice Chairperson</strong>: Lynette Choong, Sharon Wong
 <br><strong>Secretary</strong>: Kareen Lui
-<br><strong>Treasurer</strong>: Sharon Wong
+<br><strong>Treasurer</strong>: Bernice Xu
 <br><strong>Asst Treasurer</strong>: Kelvin Tan
 <br><strong>Auditor</strong>: Chua Mooi Yen
 <br><strong>Events I/C</strong>: Bernice Xu
