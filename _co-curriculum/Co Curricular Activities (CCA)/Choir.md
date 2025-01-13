@@ -52,9 +52,9 @@ and other ad-hoc concerts. Sing on, sing on! We’ve got rhythm!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays
+<p><strong>Tuesdays</strong> 
 <br>2-4pm</p>
-<p>Thursdays
+<p><strong>Thursdays</strong> 
 <br>2-4pm</p>
 <p></p>
 <p>
