@@ -39,10 +39,10 @@ offered and participate actively to gain the most out of Sports Club.</p>
 <br>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Mr Joseph Ang</p>
-<p>* Mr Goh Piang Kang</p>
-<p>&nbsp;Mr Na Kok Yong</p>
-<p>&nbsp;Ms Teo Yuan May</p>
+<p>* Mr Joseph Ang
+<br>* Mr Goh Piang Kang
+<br>Mr Na Kok Yong
+<br>Ms Teo Yuan May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parade Square / Field</p>
