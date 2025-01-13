@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p>The CCA emphasises on character building through our activities. Athletes
 will develop grit and resilience in addition to crucial life-skills required
-in their lives beyond the CCA and primary school years.&nbsp;</p>
+in their lives beyond the CCA and primary school years.</p>
 <p>Athletes are taught techniques across a spectrum of track and field events
 in a safe manner. They are taught sprinting, running, hurdling, throwing
 and jumping with skills enhancement in specific events. Athletes are given
@@ -36,19 +36,20 @@ which contributes to an active and healthy lifestyle.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>*Tuesdays: 2:15pm - 4.30pm</strong> 
-<br>(P4, P5, P6)</p>
-<p><strong>*Thursdays: 2:15pm - 4.30pm</strong> 
-<br>(P3)</p>
-<p>School Team trains on both days</p>
+<p><strong>Tuesdays - P4, P5, P6</strong>
+<br>2.15pm to 4.30pm</p>
+<p><strong>Thursdays - P3</strong>
+<br>2.15pm to 4.30pm</p>
+<p><strong>School Team members train</strong>
+<br><strong>on both days</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Mr Jay Sng (Main i/c)</p>
-<p>*Miss Cheryl Cheng (2 i/c)</p>
-<p>Mrs Estee Goh</p>
-<p>Mr Charles Ng</p>
-<p>Mr Clement Chan</p>
-<p>Ms Michele Fok</p>
+<p>*Mr Jay Sng
+<br>*Ms Cheryl Cheng
+<br>Mr Charles Ng
+<br>Mr Wu Luping
+<br>Mr Clement Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>External Venue:&nbsp;
