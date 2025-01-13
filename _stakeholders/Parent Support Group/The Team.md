@@ -22,8 +22,10 @@ variant: tiptap
 <br><strong>Events I/C</strong>: Sharon Wong
 <br><strong>Social Media I/C</strong>: Chen Meiyue
 <br><strong>Mental Wellness I/C</strong>: Peggun Leung
-<br><strong>IT/WhatsApp I/C</strong>: Kareen Lui
+<br><strong>WhatsApp I/C:</strong> Kareen Lui
+<br><strong>IT I/C: </strong>Kelvin Tan
 <br><strong>PV Appreciation I/C</strong>: Carmen Chan
+<br><strong>ATS Alumni YG Liaison Person:</strong> Victor Peh
 <br><strong>Fathers@ATS Chairperson</strong>: Kelvin Tan
 <br><strong>Other Members</strong>: Ivy Khoo, Jasmine Koh, Tresa Lim, Chong
 Yili, Mavis Quek
