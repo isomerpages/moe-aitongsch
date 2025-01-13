@@ -34,11 +34,9 @@ offered and participate actively to gain the most out of Sports Club.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday - P3 to P6</strong>
-</p>
-<p>2pm to 4pm</p>
+<br>2pm to 4pm</p>
 <p><strong>Thursday - P3 to P6</strong>
-</p>
-<p>2pm to 4pm</p>
+<br>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>* Mr Joseph Ang</p>
