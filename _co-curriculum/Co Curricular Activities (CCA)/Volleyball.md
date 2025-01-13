@@ -34,17 +34,17 @@ itself at Ai Tong, attracting students who aspire to play for the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monday - P3 and P6 (C)</strong> 
-<br>2:15pm to 4pm</p>
-<p><strong>Tuesday - P4 and P5 (C) </strong>
-<br>2:15pm to 4pm</p>
-<p><strong>Thursday - P4 and P5 (C)</strong> 
-<br>2:15pm to 4pm</p>
+<p><strong>Monday - P3 and P6 (C)</strong>
+<br>2pm to 4pm</p>
+<p><strong>Tuesday - P4 and P5 (C)</strong>
+<br>2pm to 4pm</p>
+<p><strong>Thursday - P4 and P5 (C)</strong>
+<br>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Mr Joseph Ang</p>
-<p>*Mrs Pun Zi Ai</p>
-<p>Mrs Caroline Lee</p>
+<p>*Mrs Pun Zi Ai
+<br>*Mrs Caroline Lee
+<br>Mr Ong Rwee Siong</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
