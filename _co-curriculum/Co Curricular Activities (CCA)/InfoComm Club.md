@@ -47,7 +47,8 @@ successful conclusion of the workshop.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>＊Mrs Linda Teo＊Mdm Eileen Yang
+<p>＊Mrs Linda Teo
+<br>＊Mdm Eileen Yang
 <br>Mrs Estee Goh</p>
 <p></p>
 </td>
