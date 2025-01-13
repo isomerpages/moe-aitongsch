@@ -46,9 +46,9 @@ robots.</p>
 <br>Ms Tew Chiou Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Lab 1</p>
-<p>IT Lab 3</p>
-<p>Teaching Lab</p>
+<p>IT Lab 1
+<br>IT Lab 3
+<br>Teaching Lab</p>
 </td>
 </tr>
 </tbody>
@@ -59,5 +59,6 @@ robots.</p>
 <br>
 </p>
 <p>
+<br>
 <br>
 </p>
