@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - 2025 P1 Parents.md
       - Application Forms and Guides.md
       - School Calendar.md
       - Parents Gateway.md
