@@ -60,7 +60,7 @@ via email OR to the School's General Office.</p>
 <p>Contact No: 64547672</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">nur_khaliesah_shawalri@schools.gov.sg</a>
+<p>Email: <a href="mailto:nur_khaliesah_shawalri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khaliesah_shawalri@schools.gov.sg</a>
 </p>
 </li>
 <li>
