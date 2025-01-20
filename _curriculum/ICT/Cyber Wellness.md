@@ -137,18 +137,12 @@ this year are:</p>
 </li>
 </ul>
 <h3>Resources</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MOE Cyber Wellness Portal.png" src="/images/MOE%20Cyber%20Wellness%20Portal.png">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>MOE Cyber Wellness </strong>
 <br><a href="https://www.moe.gov.sg/programmes/cyber-wellness" rel="noopener noreferrer" target="_blank">https://www.moe.gov.sg/programmes/cyber-wellness</a>
@@ -156,11 +150,6 @@ this year are:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="National Library Board.png" src="/images/National%20Library%20Board.png">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>National Library Board</strong> 
 <br>Pick up some research skills and learn more about the S.U.R.E. method
@@ -171,22 +160,12 @@ from NLB.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="National Crime Prevention Council.PNG" src="/images/National%20Crime%20Prevention%20Council.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>National Crime Prevention Council</strong> 
-<br><a href="https://www.scamalert.sg/resources/videos" rel="noopener noreferrer" target="_blank">https://www.scamalert.sg/resources/videos</a>
+<br><a href="https://www.ncpc.org.sg/scamshield/" rel="noopener noreferrer nofollow" target="_blank">https://www.ncpc.org.sg/scamshield/</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Personal Data Protection Commission.png" src="/images/Personal%20Data%20Protection%20Commission.png">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Personal Data Protection Commission</strong> 
 <br>Personal Data Protection Commission Singapore has useful information and
@@ -197,11 +176,6 @@ tips on protecting personal data.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cyber Security Agency.PNG" src="/images/Cyber%20Security%20Agency.png">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Cyber Security Agency</strong> 
 <br><a href="https://www.csa.gov.sg/gosafeonline" rel="noopener noreferrer" target="_blank">https://www.csa.gov.sg/gosafeonline</a>
