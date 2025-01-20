@@ -161,7 +161,7 @@ from NLB.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>National Crime Prevention Council</strong> 
-<br><a href="https://www.ncpc.org.sg/scamshield/" rel="noopener noreferrer" target="_blank">https://www.scamalert.sg/resources/videos</a>
+<br><a href="https://www.ncpc.org.sg/scamshield/" rel="noopener noreferrer nofollow" target="_blank">https://www.ncpc.org.sg/scamshield/</a>
 </p>
 </td>
 </tr>
