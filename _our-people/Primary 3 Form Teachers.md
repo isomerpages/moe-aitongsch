@@ -129,11 +129,6 @@ variant: tiptap
 <a href="mailto:toh_lay_peng_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_lay_peng_shirley@schools.gov.sg</u>
 </a>
 </p>
-<p></p>
-<p><strong>Ms Joi Soh Qi Yu<a href="mailto:soh_qi_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
-<a href="mailto:soh_qi_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_qi_yu@schools.gov.sg</u>
-</a>
-</p>
 </td>
 </tr>
 <tr>
