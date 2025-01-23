@@ -37,6 +37,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs T. Ghopinath</strong>
+<br><a href="mailto:tamilselvi_ghopinath@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tamilselvi_ghopinath@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>School Counsellor &amp; SEN Officers</strong>
