@@ -31,7 +31,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Joi Soh Qi Yu<a href="mailto:soh_qi_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+<a href="mailto:soh_qi_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_qi_yu@schools.gov.sg</u>
+</a>
+</p>
 </td>
 </tr>
 </tbody>
