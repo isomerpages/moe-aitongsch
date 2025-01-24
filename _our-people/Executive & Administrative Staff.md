@@ -76,7 +76,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lilian Ngiam</p>
+<p>Mdm Linda Loh</p>
 </td>
 </tr>
 </tbody>
@@ -199,6 +199,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Ah Lek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Printing Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jasmah</p>
 </td>
 </tr>
 </tbody>
