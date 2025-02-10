@@ -22,9 +22,9 @@ variant: tiptap
 <h3>Bursary 2025 for Students of SHHK Affiliated Schools</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Application_of_Bursary_for_SHHK_Affiliated_Schools.pdf" rel="noopener nofollow" target="_blank">2025 Application of Bursary for SHHK Affiliated Schools</a>
-<br>Application will close on 15 October 2024 (Tuesday).
-<br>*<em>updated as of 9 Sep 2024</em>
+<p><a href="/files/2025_________________1_2025___Batch_2.pdf" rel="noopener nofollow" target="_blank">2025 Application of Bursary for SHHK Affiliated Schools (2nd Batch)</a>
+<br>Application will close on 28th February 2025 (Friday).
+<br>*<em>updated as of 10 Sep 2025</em>
 </p>
 </li>
 </ul>
