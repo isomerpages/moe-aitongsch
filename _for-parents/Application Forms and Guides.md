@@ -24,7 +24,7 @@ variant: tiptap
 <li>
 <p><a href="/files/2025_________________1_2025___Batch_2.pdf" rel="noopener nofollow" target="_blank">2025 Application of Bursary for SHHK Affiliated Schools (2nd Batch)</a>
 <br>Application will close on 28th February 2025 (Friday).
-<br>*<em>updated as of 10 Sep 2025</em>
+<br>*<em>updated as of 10 Feb 2025</em>
 </p>
 </li>
 </ul>
