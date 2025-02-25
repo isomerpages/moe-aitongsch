@@ -22,6 +22,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank">e-Zhishi</a>
+</p>
+</li>
+<li>
 <p><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
 </p>
 </li>
