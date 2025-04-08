@@ -135,9 +135,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Teh Choon Yen<a href="mailto:teh_choon_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
-<a href="mailto:teh_choon_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teh_choon_yen@schools.gov.sg</u>
-</a>
+<p><strong>Ms Teo Yuan May</strong>
+</p>
+<p><a href="mailto:teo_yuan_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_yuan_may@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
