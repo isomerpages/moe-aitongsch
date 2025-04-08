@@ -121,9 +121,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lee Kian Huat<a href="mailto:lee_kian_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
-<a href="mailto:lee_kian_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_kian_huat@schools.gov.sg</u>
-</a>
+<p><strong>Ms Li Baihe</strong>
+</p>
+<p><a href="mailto:li_baihe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>li_baihe@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
