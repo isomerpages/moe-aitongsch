@@ -19,32 +19,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Yuan May</strong>
-<br><a href="mailto:teo_yuan_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_yuan_may@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Li Baihe</strong>
-<br><a href="mailto:li_baihe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_baihe@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Joi Soh Qi Yu<a href="mailto:soh_qi_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
 <a href="mailto:soh_qi_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_qi_yu@schools.gov.sg</u>
 </a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs T. Ghopinath</strong>
-<br><a href="mailto:tamilselvi_ghopinath@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tamilselvi_ghopinath@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
