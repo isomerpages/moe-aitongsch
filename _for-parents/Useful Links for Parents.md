@@ -1,5 +1,5 @@
 ---
-title: Useful Links
+title: Useful Links for Parents
 permalink: /for-parents/useful-links/
 description: ""
 variant: tiptap
