@@ -189,6 +189,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hazwani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
