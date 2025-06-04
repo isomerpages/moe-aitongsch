@@ -7,25 +7,40 @@ variant: tiptap
 ---
 <p><strong>Synopsis:</strong>
 </p>
-<p>Ai Tong School show choir is formed with the aim of cultivating a love
-for music, an appreciation for the art of singing with synchronized dance
-moves in the members. Vocal production techniques, basic sight-singing,
-listening, aural and complementary dance moves are some of the skills imparted
-to equip our young singers to perform well. The show choir is made up of
-Primary 3 to 6 members. High level of commitment and teamwork is demanded
-of the members who meet weekly to practise and improve their skills in
-singing songs of various genres. Besides taking part in the biennial Singapore
-Youth Festival and Central Judging (Choir), the choir also performs for
-the Prize Giving Ceremony, Teachers’ Day Concert, Children’s Day Concert
-and other ad-hoc concerts. Sing on, sing on! We’ve got rhythm!</p>
-<table style="minWidth: 75px">
+<p>Show Choir is a dynamic performance group that combines choral singing
+with dance choreography. It differs from traditional choir with the inclusion
+of choreographed dance routines and creative costumes in their performance.
+In Ai Tong School, we are most thankful that we have the opportunity to
+allow our choir students experiences that are enriching and meaningful
+as they journey with us.</p>
+<p>Ai Tong Show Choir aims to cultivate a love for music, an appreciation
+for the art of singing with synchronized dance moves in our students. Vocal
+production and projection techniques are taught to our students, alongside
+basic sight-signing, listening, aural and dance skills.</p>
+<p>Ai Tong Show Choir consists of Primary 3 to Primary 5 students. A high
+level of commitment and teamwork is required of the members, who practice
+twice weekly to hone their skills in choral and dance.</p>
+<p>Besides taking part in the biennial Singapore Youth Arts Presentation,
+the choir also performs for school events such as festive celebrations,
+National Day celebration and Teachers’ Day celebrations..</p>
+<p>Sing on, sing on, Ai Tong Show Choir! We’ve got rhythm!</p>
+<p></p>
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -42,6 +57,14 @@ and other ad-hoc concerts. Sing on, sing on! We’ve got rhythm!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Teachers-in-charge</strong>
 </p>
 </td>
@@ -52,22 +75,32 @@ and other ad-hoc concerts. Sing on, sing on! We’ve got rhythm!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesdays</strong> 
-<br>2-4pm</p>
-<p><strong>Thursdays</strong> 
-<br>2-4pm</p>
-<p></p>
-<p>
-<br>
-</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>P3 – P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="2" colspan="1">
 <p>Mdm Wendy Chua
 <br>Mdm Josephine Ching
 <br>Mdm Jeslyn Yeo</p>
 </td>
+<td rowspan="2" colspan="1">
+<p>Performing Arts Studio</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts Studio (E33)</p>
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 – P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
 </td>
 </tr>
 </tbody>
