@@ -16,7 +16,7 @@ as they journey with us.</p>
 <p>Ai Tong Show Choir aims to cultivate a love for music, an appreciation
 for the art of singing with synchronized dance moves in our students. Vocal
 production and projection techniques are taught to our students, alongside
-basic sight-signing, listening, aural and dance skills.</p>
+basic sight-singing, listening, aural and dance skills.</p>
 <p>Ai Tong Show Choir consists of Primary 3 to Primary 5 students. A high
 level of commitment and teamwork is required of the members, who practice
 twice weekly to hone their skills in choral and dance.</p>
