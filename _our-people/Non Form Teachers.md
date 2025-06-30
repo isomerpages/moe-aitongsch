@@ -153,7 +153,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chan Kum Chee Helen</strong>
 <br><a href="mailto:chan_kum_chee_helen_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_kum_chee_helen_c@schools.gov.sg</a>
-</p>
+<br>FAJT</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,9 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Veron Heng</strong>
+<br><a href="mailto:veron_heng_hui_boon_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veron_heng_hui_boon_a@schools.gov.sg</a>
+<br>FAJT</p>
 </td>
 </tr>
 </tbody>
