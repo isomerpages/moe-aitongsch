@@ -171,8 +171,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lo Sik Yuen</strong>
-</p>
-<p>FAJT</p>
+<br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -180,4 +179,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
