@@ -125,9 +125,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Shirley Toh Lay Peng<a href="mailto:toh_lay_peng_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
-<a href="mailto:toh_lay_peng_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_lay_peng_shirley@schools.gov.sg</u>
-</a>
+<p><strong>Ms Joi Soh Qi Yu</strong>
+<br><a href="mailto:soh_qi_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_qi_yu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -137,7 +136,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Joseph Koh</strong><a href="mailto:koh_gay_kheong_joseph@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>koh_gay_kheong_joseph@schools.gov.sg</u></a>
+<p><strong>Mdm Chen Jianfang</strong>
+<br><a href="mailto:chen_jian_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jian_fang@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
