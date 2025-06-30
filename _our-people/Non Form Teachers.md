@@ -151,9 +151,9 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ang Kheng</strong>
-<br><a href="mailto:ang_kheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kheng_a@schools.gov.sg</a>
-<br>FAJT</p>
+<p><strong>Mdm Chan Kum Chee Helen</strong>
+<br><a href="mailto:chan_kum_chee_helen_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_kum_chee_helen_c@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -163,9 +163,7 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Sashi</strong>
-<br><a href="mailto:kanna_dhatchayani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kanna_dhatchayani@schools.gov.sg</a>
-<br>FAJT</p>
+<p></p>
 </td>
 </tr>
 </tbody>
