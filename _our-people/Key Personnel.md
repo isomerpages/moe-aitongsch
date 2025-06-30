@@ -364,17 +364,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD CC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Joseph Koh </strong>
-<br><a href="mailto:koh_gay_kheong_joseph@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_gay_kheong_joseph@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>LH CL</strong>
 </p>
 </td>
