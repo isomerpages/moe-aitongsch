@@ -192,7 +192,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Edwina Lee<a href="mailto:lee_edwina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+<p><strong>Mdm Tan Kang Li</strong>
+<br><a href="mailto:tan_kang_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kang_li@schools.gov.sg</a>
+<br>
+<br><strong>Ms Edwina Lee<a href="mailto:lee_edwina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
 <a href="mailto:lee_edwina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_edwina@schools.gov.sg</u>
 </a>
 </p>
