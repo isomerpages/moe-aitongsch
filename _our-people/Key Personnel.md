@@ -406,6 +406,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ST CL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Chen Jianfang</strong>
+<br><a href="mailto:chen_jian_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_jian_fang@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Science Department</h3>
