@@ -171,6 +171,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lo Sik Yuen</strong>
+<br><a href="mailto:Lo_Sik_Yuen_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lo_Sik_Yuen_A@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
