@@ -147,7 +147,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Oh Peng Peng</strong>
-<br><a href="mailto:oh_peng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oh_peng_peng@schools.gov.sg</a>
+<br><a href="mailto:Oh_Peng_Peng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Oh_Peng_Peng_A@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
