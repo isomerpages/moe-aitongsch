@@ -14,8 +14,8 @@ variant: tiptap
 </p>
 <h3>ATS Parent Support Group</h3>
 <p><strong>Chairperson</strong>: Eline Peh
-<br><strong>Vice Chairperson</strong>: Lynette Choong, Sharon Wong
-<br><strong>Secretary</strong>: Kareen Lui
+<br><strong>Vice Chairperson</strong>: Sharon Wong
+<br><strong>Secretary</strong>: Carmen Chan
 <br><strong>Treasurer</strong>: Bernice Xu
 <br><strong>Asst Treasurer</strong>: Kelvin Tan
 <br><strong>Auditor</strong>: Chua Mooi Yen
