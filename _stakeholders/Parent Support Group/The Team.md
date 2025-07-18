@@ -20,34 +20,56 @@ variant: tiptap
 <br><strong>Asst Treasurer</strong>: Kelvin Tan
 <br><strong>Auditor</strong>: Chua Mooi Yen
 <br><strong>Events I/C</strong>: Sharon Wong
-<br><strong>Social Media I/C</strong>: Chen Meiyue
+<br><strong>Social Media I/C</strong>: Ivy Khoo
 <br><strong>Mental Wellness I/C</strong>: Peggun Leung
 <br><strong>WhatsApp I/C:</strong> Kareen Lui
 <br><strong>IT I/C: </strong>Kelvin Tan
 <br><strong>PV Appreciation I/C</strong>: Carmen Chan
 <br><strong>ATS Alumni YG Liaison Person:</strong> Victor Peh
 <br><strong>Fathers@ATS Chairperson</strong>: Kelvin Tan
-<br><strong>Other Members</strong>: Ivy Khoo, Jasmine Koh, Tresa Lim, Chong
-Yili, Mavis Quek
 <br>
 </p>
+<p><strong>Other Members</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chong Yili</p>
+</li>
+<li>
+<p>Jasmine Koh</p>
+</li>
+<li>
+<p>Mavis Quek</p>
+</li>
+<li>
+<p>Serene Chùa</p>
+</li>
+<li>
+<p>Shen Jia Han</p>
+</li>
+<li>
+<p>Tresa Lim</p>
+</li>
+</ul>
 <p><strong>P6 Team:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kareen Lui</p>
-</li>
-<li>
 <p>Bernice Xu</p>
-</li>
-<li>
-<p>Ivy Khoo</p>
 </li>
 <li>
 <p>Chua Mooi Yen</p>
 </li>
 <li>
+<p>Ivy Khoo</p>
+</li>
+<li>
+<p>Kareen Lui</p>
+</li>
+<li>
 <p>Peggun Leung</p>
+</li>
+<li>
+<p>Shen Jia Han</p>
 </li>
 </ul>
 <p></p>
