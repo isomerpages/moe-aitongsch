@@ -47,9 +47,7 @@ variant: tiptap
 <p>Shen Jia Han</p>
 </li>
 <li>
-<p>Tresa Lim
-<br>
-</p>
+<p>Tresa Lim</p>
 </li>
 </ul>
 <p><strong>P6 Team:</strong>
