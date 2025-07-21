@@ -41,7 +41,7 @@ variant: tiptap
 <p>Mavis Quek</p>
 </li>
 <li>
-<p>Serene Chùa</p>
+<p>Serene Chua</p>
 </li>
 <li>
 <p>Shen Jiahan</p>
