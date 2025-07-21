@@ -44,7 +44,7 @@ variant: tiptap
 <p>Serene Chùa</p>
 </li>
 <li>
-<p>Shen Jia Han</p>
+<p>Shen Jiahan</p>
 </li>
 <li>
 <p>Tresa Lim</p>
@@ -69,7 +69,7 @@ variant: tiptap
 <p>Peggun Leung</p>
 </li>
 <li>
-<p>Shen Jia Han</p>
+<p>Shen Jiahan</p>
 </li>
 </ul>
 <p></p>
