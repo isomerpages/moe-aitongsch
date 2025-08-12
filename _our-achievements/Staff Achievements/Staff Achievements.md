@@ -193,6 +193,14 @@ and devotion to duty.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Teo Joseph</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,6 +246,18 @@ in the service of the Government.</p>
 <p>Mdm Ang Kar Bee
 <br>Mr Matthew Yap Kheng Wai
 <br>Mdm Lim Li Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Ah Moy
+<br>Mrs Grace Chua
+<br>Mdm Yap Joo Koon
+<br>Mdm Cheok Li Yee
+<br>Mdm Josephine Ching</p>
 </td>
 </tr>
 <tr>
