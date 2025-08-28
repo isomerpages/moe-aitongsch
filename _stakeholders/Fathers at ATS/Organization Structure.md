@@ -69,9 +69,6 @@ variant: tiptap
 <li>
 <p>Mr. ONG Hoe Siong</p>
 </li>
-<li>
-<p>Mr. TAY Shih Siang Max</p>
-</li>
 </ol>
 <p><strong><u>Regular Participating Group</u></strong>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>The eventual goal is to be able to establish a stable membership base
