@@ -24,3 +24,5 @@ and link these cards/ watch to track your child’s payments and savings.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/smart_buddy_2.jpg">
 </div>
 <p></p>
+<p><a href="/files/Top_FAQs_for_students_on_School_Meal_Subsidy_programme.pdf" rel="noopener nofollow" target="_blank">Top FAQs for students on School Meal Subsidy programme</a>
+</p>
