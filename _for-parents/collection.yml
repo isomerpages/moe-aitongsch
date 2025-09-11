@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - POSB Smart Buddy.md
       - Application Forms and Guides.md
       - School Calendar.md
       - Parents Gateway.md
       - Insurance Claim.md
+      - POSB Smart Buddy.md
       - Family Matters @ School.md
       - Picking Up our Child Before Dismissal.md
       - Consent for Photography and Videos.md
