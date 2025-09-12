@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage Banner (2).png
+  - infobar:
+      id: infobar
+      button: ATS Student Resource Hub
+      url: https://go.gov.sg/ats-student-resource-hub
   - resources:
       title: News and Updates
       subtitle: announcements
