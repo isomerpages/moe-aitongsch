@@ -8,10 +8,15 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage Banner (2).png
-  - infobar:
-      id: infobar
-      button: ATS Student Resource Hub
+  - infopic:
+      title: ATS Student Resource Hub
+      id: infopic
+      description: One-stop portal for all Ai Tong School Students. Please login using
+        your Student iCON.
+      button: Click here to access
       url: https://go.gov.sg/ats-student-resource-hub
+      image: /images/ATS_Student_Resource_Hub_Poster_for_Handbook.jpg
+      alt: studentresourcehub
   - resources:
       title: News and Updates
       subtitle: announcements
