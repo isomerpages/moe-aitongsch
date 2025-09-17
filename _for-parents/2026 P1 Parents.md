@@ -13,12 +13,13 @@ the timings for the events are tentative and are subjected to changes.</p>
 <p>2. P1 Orientation Part 2: Face to Face (School Management Talk) - <strong>21 November 2025, 9am - 11am</strong>
 </p>
 <p>3. P1 Orientation Part 3: Face to Face (School Management Talk &amp; Form
-Teacher Time) – <strong>2  January 2026, 7.30am – 12.30pm</strong>
+Teacher Time) – <strong>2 January 2026, 7.30am – 12.30pm</strong>
 </p>
 <p></p>
 <h4><strong>Latest Announcements:</strong></h4>
 <p><strong>4 Sept 2025:</strong>
 <br>An email has been sent to parents today. Please check your email for more
-information. If you have any concerns, please send your queries to this
-email: <a href="mailto:aitong_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aitong_sch@moe.edu.sg</a>
+information.</p>
+<p></p>
+<p>If you have any concerns, please send your queries to this email: <a href="mailto:aitong_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aitong_sch@moe.edu.sg</a>
 </p>
