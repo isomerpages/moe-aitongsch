@@ -44,11 +44,11 @@ us at <strong>6456 0919</strong> during the following hours:
 and teaching duties.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Cover_Letter_for_New_Parents_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Cover Letter for New Parents 2025</a>
+<p><a href="/files/Cover_Letter_for_New_Parents_2026.pdf" rel="noopener nofollow" target="_blank">Cover Letter for New Parents 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_P1_REQUEST_FORM.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Request Form</a>
+<p><a href="/files/2026_P1_REQUEST_FORM.pdf" rel="noopener nofollow" target="_blank">2026 P1 Request Form</a>
 </p>
 </li>
 </ol>
