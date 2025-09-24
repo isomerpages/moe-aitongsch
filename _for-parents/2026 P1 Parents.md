@@ -18,8 +18,8 @@ Teacher Time) – <strong>2 January 2026, 7.30am – 12.30pm</strong>
 <p></p>
 <h4><strong>Latest Announcements:</strong></h4>
 <p><strong>4 Sept 2025:</strong>
-<br>An email has been sent to parents today. Communicate via email will be
-sent to the primary contact person indicated during P1 registration. Please
-check your email for more information.</p>
+<br>An email has been sent to parents today. Communication via email will
+be sent to the primary contact person indicated during P1 registration.
+Please check your email for more information.</p>
 <p>If you have any concerns, please send your queries to this email: <a href="mailto:aitong_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aitong_sch@moe.edu.sg</a>
 </p>
