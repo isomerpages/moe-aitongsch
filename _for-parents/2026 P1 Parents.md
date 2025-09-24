@@ -8,7 +8,7 @@ description: ""
 <p>This is a brief outline of the P1 Orientation Programme for 2025. More
 information will be put up nearer the end of September. Please note that
 the timings for the events are tentative and are subjected to changes.</p>
-<p>1. P1 Orientation Part 1: Webinar (School Management Talk) - <strong>10 October 2025, 4pm - 530pm</strong>
+<p>1. P1 Orientation Part 1: Webinar (School Management Talk) - <strong>10 October 2025, 4pm - 5.30pm</strong>
 </p>
 <p>2. P1 Orientation Part 2: Face to Face (School Management Talk) - <strong>21 November 2025, 9am - 12pm</strong>
 </p>
