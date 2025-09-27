@@ -179,16 +179,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lai Chee Kiong
-<br><a href="mailto:lai_chee_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chee_kiong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
