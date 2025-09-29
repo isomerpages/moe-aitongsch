@@ -145,6 +145,11 @@ variant: tiptap
 <a href="mailto:chong_woan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_woan_ling@schools.gov.sg</u>
 </a>
 </p>
+<p></p>
+<p><strong>Mr Tan Boon Leng</strong>
+</p>
+<p><a href="mailto:Tan_Boon_Leng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_leng_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
