@@ -369,8 +369,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Tan Boon Leng</strong>
-</p>
-<p><a href="mailto:Tan_Boon_Leng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_leng_a@schools.gov.sg</a>
+<br><a href="mailto:Tan_Boon_Leng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_leng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
