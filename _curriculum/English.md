@@ -197,9 +197,7 @@ and activities</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programme/</strong>
-</p>
-<p><strong>Activities</strong>
+<p><strong>Programme/ Activities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,57 +208,48 @@ and activities</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Reading</strong>
-</p>
-<p><strong>(Broad-Based)</strong>
+<br><strong>(Broad-Based)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Book Master Challenge (P3/P4)</strong>
-</p>
-<p>Students read, discuss and develop their love for books through book study
+<br>Students read, discuss and develop their love for books through book study
 opportunities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P3P4.png">
 </div>
-<p>&nbsp;<strong>Read with Me! (P1-P6)</strong>
-</p>
-<p>Students enjoy reading experiences with friends and teachers through shared
+<p><strong>Read with Me! (P1-P6)</strong>
+<br>Students enjoy reading experiences with friends and teachers through shared
 stories and fun read-alouds. They explore imaginary worlds together and
 make reading a joyful habit that grows with every page.</p>
-<p>&nbsp;</p>
 <p><strong>Character Alive Day (P1-P6)</strong>
-</p>
-<p>Students and teachers step into the world of their favourite book or movie
+<br>Students and teachers step into the world of their favourite book or movie
 character. They dress up and bring stories to life through creativity and
 expression. Students live a day as their favourite characters in their
 interesting dress-ups.</p>
-<p>&nbsp;</p>
 <p><strong>Movie Under the Stars (P1-P6)</strong>
-</p>
-<p>Enjoy a family-friendly movie, and a magical evening in the accompaniment
+<br>Enjoy a family-friendly movie, and a magical evening in the accompaniment
 of friends and families. It’s a great opportunity to experience stories
 that have leapt from books to the big screen.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Reading</strong>
-</p>
-<p><strong>(Targeted)</strong>
+<br><strong>(Targeted)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Reading Circles Enrichment (P5)</strong>
-</p>
-<p>In small groups, students explore themes, characters, and ideas that spark
+<br>In small groups, students explore themes, characters, and ideas that spark
 imagination and critical thinking as they read the selected text. It is
 a fun and meaningful way to grow as confident readers and thoughtful communicators.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -270,53 +259,43 @@ a fun and meaningful way to grow as confident readers and thoughtful communicato
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Speaking</strong>
-</p>
-<p><strong>(Broad-Based)</strong>
+<p><strong>Speaking </strong>
+<br><strong>(Broad-Based)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gimme A Minute- Current Affairs (P5/6)</strong>
-</p>
-<p>Students have the chance to share their views on current affairs — all
+<br>Students have the chance to share their views on current affairs — all
 in just one minute. This on-air school broadcast allows them to build confidence
 and awareness of the world around them as they step into the spotlight.</p>
-<p>&nbsp;</p>
 <p><strong>Moo-O-Challenge (P1-3)</strong>
-</p>
-<p>Students become characters in digital storybooks and voice the characters
+<br>Students become characters in digital storybooks and voice the characters
 with flair. It is a fun way to encourage students to read expressively
 with fluency on the Moo-O platform as they play the roles of the different
 characters.</p>
-<p>&nbsp;</p>
 <p><strong>Spotlight (P1-2) / Take a Bow Showcase (P3-4)</strong>
-</p>
-<p>Primary 1 and 2 students step into the limelight, bringing words and rhythm
+<br>Primary 1 and 2 students step into the limelight, bringing words and rhythm
 to life through expressive and confident poetry recitation. Primary 3 and
 4 students put up a stage performance, leveraging the exciting platform
 to build confidence and showcase their talents in the portrayal of various
 characters in the texts.</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Speaking</strong>
-</p>
-<p><strong>(Targeted)</strong>
+<br><strong>(Targeted)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plain English Speaking Awards (P1-6)</strong>
-</p>
-<p>YMCA PESA is an annual National speech contest organised by YMCA of Singapore,
+<br>YMCA PESA is an annual National speech contest organised by YMCA of Singapore,
 in partnership with the Ministry of Education and the Speak Good English
 Movement. This platform creates an avenue to showcase eloquence and critical
 thinking.</p>
-<p>&nbsp;</p>
 <p><strong>Debates Enrichment (P5)</strong>
-</p>
-<p>Students learn the art of constructing arguments and expressing opinions
+<br>Students learn the art of constructing arguments and expressing opinions
 with confidence. The programme hones their reasoning and persuasive communication
 skills.</p>
 </td>
@@ -339,24 +318,20 @@ skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Write Away (P1-6)</strong>
-</p>
-<p>Riding on the belief that every student can be a writer, Write Away encourages
+<br>Riding on the belief that every student can be a writer, Write Away encourages
 students to participate in internal writing competitions, exercise their
 creativity and write freely based on an interesting theme.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Writing</strong>
-</p>
-<p><strong>(Targeted)</strong>
+<br><strong>(Targeted)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Creative Writing Programme (P5)</strong>
-</p>
-<p>The Creative Writing Programme nurtures students’ imagination and writing
+<br>The Creative Writing Programme nurtures students’ imagination and writing
 flair through engaging activities that develop their voice, style, and
 confidence as writers. Students explore different genres, experiment with
 language and craft stories that express their ideas with clarity.</p>
@@ -374,21 +349,17 @@ language and craft stories that express their ideas with clarity.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Language Use</strong>
-</p>
-<p><strong>(Broad-Based)</strong>
+<br><strong>(Broad-Based)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Eng-trigued! (P1-6)</strong>
-</p>
-<p>Students explore language in a fun and interactive way. Through a series
+<br>Students explore language in a fun and interactive way. Through a series
 of engaging language games and challenges, students sharpen their vocabulary,
 grammar, and communication skills while enjoying hands-on learning at the
 game booths.</p>
-<p>&nbsp;</p>
 <p><strong>Taboo! (P1-6)</strong>
-</p>
-<p>Students learn through play by decoding expressions in idioms, similes
+<br>Students learn through play by decoding expressions in idioms, similes
 and figurative language. Each game brings learning to life in an exciting
 and memorable way.</p>
 <p>&nbsp;</p>
@@ -423,16 +394,23 @@ teaching and learning.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shared Book Approach at ATS:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Before Reading:</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Before Reading:</strong>
 <br>The teacher activates prior knowledge, introduces key vocabulary, and
 sets a purpose for reading.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>During Reading:</strong>
+</li>
+<li>
+<p><strong>During Reading:</strong>
 <br>Pupils listen and follow along as the teacher models fluent reading. Discussion
 prompts encourage prediction, inference, and engagement with the text.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>After Reading:</strong>
+</li>
+<li>
+<p><strong>After Reading:</strong>
 <br>The class explores language structures, vocabulary, and themes from the
 book. Pupils engage in follow-up activities to reinforce understanding.</p>
-<p>&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -445,7 +423,6 @@ book. Pupils engage in follow-up activities to reinforce understanding.</p>
 read text. The teacher provides scaffolding and feedback, helping them
 decode unfamiliar words, understand meaning, and make connections between
 texts.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -458,7 +435,6 @@ texts.</p>
 with real-world experiences. Designed to bring out the joy of learning,
 this approach integrates a fun element in every task, making learning both
 engaging and memorable.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -471,7 +447,6 @@ engaging and memorable.</p>
 the English Language curriculum, particularly for lower primary students.&nbsp;These
 centres provide students with opportunities to engage in independent and
 group activities, applying learned literacy skills in practical situations.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -504,7 +479,6 @@ their progress, both individually and as a group.</p>
 on their process, product, and performance.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -521,7 +495,6 @@ engage in direct instruction, group work, and collaborative discussions.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Home-Based Learning (HBL): </strong>take
 ownership of their learning through digital platforms, online resources,
 and self-paced tasks.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -532,19 +505,30 @@ and self-paced tasks.</p>
 <td rowspan="1" colspan="1">
 <p>Cooperative Learning supports the development of the 21st Century Competencies,
 fostering skills such as collaboration, communication, and critical thinking.</p>
-<p>&nbsp;</p>
-<p>Some examples of Cooperative Learning structure integrated into English
-lessons at ATS:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Think-Pair-Share</em>
+<p>&nbsp;Some examples of Cooperative Learning structure integrated into
+English lessons at ATS:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Think-Pair-Share</em>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Jigsaw</em>
+</li>
+<li>
+<p><em>Jigsaw</em>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Round Robin</em>
+</li>
+<li>
+<p><em>Round Robin</em>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Numbered Heads Together</em>
+</li>
+<li>
+<p><em>Numbered Heads Together</em>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Think-Pair-Share</em>
+</li>
+<li>
+<p><em>Think-Pair-Share</em>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
