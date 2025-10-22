@@ -8,13 +8,19 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ATS_English.jpeg">
 </div>
 <h3>Framework</h3>
+<p>The following diagram presents the key features of the <em>EL Syllabus 2020:</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/EL_framework.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_FRAMEWORK_2026.png">
 </div>
-<p>The overarching aim of the EL Syllabus 2010 is to develop effective language
-use. Students’ language use will be affected by the purpose, audience,
-context and culture (PACC) and their proficiency in language use is assessed
-by their attainment of the learning outcomes.&nbsp;</p>
+<p>The <em>EL Syllabus 2020 </em>is undergirded by the principles of EL teaching
+and learning (CLLIPS) and EL teaching processes (ACoLADE). A pedagogical
+emphasis on Multiliteracies, Metacognition, and Inquiry through Dialogue
+in the EL classroom helps to develop knowledge of language and ensures
+effective and affective language use for all EL learners. The approach
+to language teaching and learning ensures a firm and rich foundation for
+all for future learning.</p>
 <p>Students’ language use is reflected in the following areas of language
 learning:</p>
 <ul data-tight="true" class="tight">
@@ -37,10 +43,8 @@ learning:</p>
 <p>Vocabulary</p>
 </li>
 </ul>
-<p>To develop these areas of language learning in students, teachers are
-guided by the six Principles of EL Teaching and Learning (CLLIPS) and will
-take into account the Teaching Processes (ACoLADE).</p>
 <h3>Principles of EL Teaching and Learning (CLLIPS)</h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -49,7 +53,7 @@ take into account the Teaching Processes (ACoLADE).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Contextualisation</p>
+<p><strong>C</strong>ontextualisation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning task and activities will be designed for students to learn the
@@ -58,7 +62,7 @@ language in authentic and meaningful contexts of use.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Learner-centredness</p>
+<p><strong>L</strong>earner-centredness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learners are at the centre of the teaching-learning process.</p>
@@ -66,7 +70,7 @@ language in authentic and meaningful contexts of use.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Learner-focused interaction</p>
+<p><strong>L</strong>earner-focused interaction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teachers will provide a rich environment for communication that will explicitly
@@ -76,7 +80,7 @@ Learning Outcomes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Integration</p>
+<p><strong>I</strong>ntegration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The areas of language learning – the receptive skills, the productive
@@ -85,7 +89,7 @@ skills, and grammar and vocabulary will be taught in an integrated way.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Process Orientation</p>
+<p><strong>P</strong>rocess Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The development of language skills and knowledge about language involves
@@ -94,7 +98,7 @@ the teaching of processes, which the teacher will model and scaffold.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spiral Progression</p>
+<p><strong>S</strong>piral Progression</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Skills, grammatical items, structures and various types of texts will
@@ -104,7 +108,7 @@ sophistication.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>When planning EL lessons, teachers will employ ACoLADE during the delivery of the pre, main and post phases of their EL lessons.</strong>
+<p><strong>ACoLADE, which refers to EL teaching processes, guides teachers in the design of instruction and enactment of learning experiences in the 21st century EL classroom. When planning EL lessons, teachers will employ ACoLADE during the delivery of the pre, main and post phases of their EL lessons..</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -175,79 +179,375 @@ in addition to teaching it in contexts of meaningful use.</p>
 </table>
 <p><em>Source: MOE, CPDD</em>
 </p>
+<p></p>
+<h3>English Lessons in Ai Tong School</h3>
 <p>Ai Tong School aims to develop our students to become Bilingual Communicators,
 striving to be a school of Dynamic Learners in a Culture of Care. The programmes
 and activities in the English Language Department support the MOE CPDD
-EL vision, and set out to equip our students with the skills to serve them
+EL vision and set out to equip our students with the skills to serve them
 well in the 21st century.</p>
+<h3>Key Programmes and Activities</h3>
 <p>The table below provides a summary of ATS EL Department’s key programmes
 and activities</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Programme/</strong>
+</p>
+<p><strong>Activities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Overview</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reading</strong>
+</p>
+<p><strong>(Broad-Based)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Book Master Challenge (P3/P4)</strong>
+</p>
+<p>Students read, discuss and develop their love for books through book study
+opportunities.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Table.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P3P4.png">
 </div>
-<p><strong>I Love EL Week</strong>
+<p>&nbsp;<strong>Read with Me! (P1-P6)</strong>
 </p>
-<p>In order to build a vibrant EL culture, sustain interest in the language
-and support the holistic development of students, a variety of language
-activities have been planned to engage the students. These differentiated
-activities that cater to the various levels take place at mass platforms
-like assembly and recess, and also in the individual classrooms. Having
-the different areas of language learning in mind, activities allow students
-to demonstrate their listening, speaking, reading and writing skills.&nbsp;</p>
-<p><strong>Language Arts Programme (LAP)</strong>
+<p>Students enjoy reading experiences with friends and teachers through shared
+stories and fun read-alouds. They explore imaginary worlds together and
+make reading a joyful habit that grows with every page.</p>
+<p>&nbsp;</p>
+<p><strong>Character Alive Day (P1-P6)</strong>
 </p>
-<p>Using award-winning titles to teach English Language is one of the key
-features of the LAP launched in Ai Tong School in July 2010. The programme
-aims to raise the level of reading competency, enrich students’ learning
-experience in English Language, ignite students’ passion for reading, and
-develop their critical thinking skills. Storybooks present an ideal context
-for literacy practice as well as linguistic acquisition. It also provides
-the backdrop for a conducive and creative environment for language learning.</p>
-<p><strong>LAP Performance Day</strong>
+<p>Students and teachers step into the world of their favourite book or movie
+character. They dress up and bring stories to life through creativity and
+expression. Students live a day as their favourite characters in their
+interesting dress-ups.</p>
+<p>&nbsp;</p>
+<p><strong>Movie Under the Stars (P1-P6)</strong>
 </p>
-<p>The LAP Performance Day concludes the Language Arts Programme with a finale
-performance staged by all P3 and P4 students based on the literature texts
-of Charlotte’s Web and Charlie and the Chocolate Factory. Both teachers
-and students work hand-in-hand to put together a performance that peers
-from the level watch together. With this platform, students practise voice
-projection, demonstrate effective characterisation and last but not least,
-display showmanship and observe appropriate etiquette as the audience.</p>
-<p><strong>Eng-trigued Tuesdays</strong>
+<p>Enjoy a family-friendly movie, and a magical evening in the accompaniment
+of friends and families. It’s a great opportunity to experience stories
+that have leapt from books to the big screen.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reading</strong>
 </p>
-<p>Every Tuesday, students get the chance to engage in language activities
-that align to themes featured in the library. Such activities range from
-vocabulary games to videos that allow for language exploration.</p>
-<p><strong>I Love Reading</strong>
+<p><strong>(Targeted)</strong>
 </p>
-<p>To cultivate the reading habit in every student and promote a continuous
-love for reading, roving teacher-spies go round the school to catch students
-in the act of reading. P1 and P2 students are exposed to reading activities
-in the Be Enthusiastic About Reading (B.E.A.R) card while P3 and P4 students
-are encouraged to complete their Young Readers Card which comprises of
-a variety of language activities that anchor on a good book. P4 to P6 students
-are also introduced to appropriate reading materials that ensures exposure
-to different genres as well as current affairs.&nbsp;</p>
-<p><strong>Speak it Right!</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Reading Circles Enrichment (P5)</strong>
 </p>
-<p>This programme reinforces the accurate use of day-to-day interactional
-language using Speak Good English Movement (SGEM) resources. Students are
-also introduced to thematic content language which would build the individual’s
-competencies in speaking and writing.</p>
-<p><strong>What’s Up!</strong>
+<p>In small groups, students explore themes, characters, and ideas that spark
+imagination and critical thinking as they read the selected text. It is
+a fun and meaningful way to grow as confident readers and thoughtful communicators.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Speaking</strong>
 </p>
-<p>What’s Up provides a regular platform for students to present to a larger
-audience, e.g. during assembly. These opportunities allow students to hone
-their public speaking skills and boost their confidence. This presentation
-of news articles keeps students abreast of happenings in the community
-and develops the concerned citizen in them.</p>
-<p><strong>I Can Write!</strong>
+<p><strong>(Broad-Based)</strong>
 </p>
-<p>Riding on the belief that every student can be a writer, I Can Write!
-encourages students to participate in internal writing competitions, exercise
-their creativity and write freely based on an interesting theme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gimme A Minute- Current Affairs (P5/6)</strong>
+</p>
+<p>Students have the chance to share their views on current affairs — all
+in just one minute. This on-air school broadcast allows them to build confidence
+and awareness of the world around them as they step into the spotlight.</p>
+<p>&nbsp;</p>
+<p><strong>Moo-O-Challenge (P1-3)</strong>
+</p>
+<p>Students become characters in digital storybooks and voice the characters
+with flair. It is a fun way to encourage students to read expressively
+with fluency on the Moo-O platform as they play the roles of the different
+characters.</p>
+<p>&nbsp;</p>
+<p><strong>Spotlight (P1-2) / Take a Bow Showcase (P3-4)</strong>
+</p>
+<p>Primary 1 and 2 students step into the limelight, bringing words and rhythm
+to life through expressive and confident poetry recitation. Primary 3 and
+4 students put up a stage performance, leveraging the exciting platform
+to build confidence and showcase their talents in the portrayal of various
+characters in the texts.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Speaking</strong>
+</p>
+<p><strong>(Targeted)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Plain English Speaking Awards (P1-6)</strong>
+</p>
+<p>YMCA PESA is an annual National speech contest organised by YMCA of Singapore,
+in partnership with the Ministry of Education and the Speak Good English
+Movement. This platform creates an avenue to showcase eloquence and critical
+thinking.</p>
+<p>&nbsp;</p>
+<p><strong>Debates Enrichment (P5)</strong>
+</p>
+<p>Students learn the art of constructing arguments and expressing opinions
+with confidence. The programme hones their reasoning and persuasive communication
+skills.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Writing</strong>
+</p>
+<p><strong>(Broad-Based)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Write Away (P1-6)</strong>
+</p>
+<p>Riding on the belief that every student can be a writer, Write Away encourages
+students to participate in internal writing competitions, exercise their
+creativity and write freely based on an interesting theme.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Writing</strong>
+</p>
+<p><strong>(Targeted)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Creative Writing Programme (P5)</strong>
+</p>
+<p>The Creative Writing Programme nurtures students’ imagination and writing
+flair through engaging activities that develop their voice, style, and
+confidence as writers. Students explore different genres, experiment with
+language and craft stories that express their ideas with clarity.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Language Use</strong>
+</p>
+<p><strong>(Broad-Based)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Eng-trigued! (P1-6)</strong>
+</p>
+<p>Students explore language in a fun and interactive way. Through a series
+of engaging language games and challenges, students sharpen their vocabulary,
+grammar, and communication skills while enjoying hands-on learning at the
+game booths.</p>
+<p>&nbsp;</p>
+<p><strong>Taboo! (P1-6)</strong>
+</p>
+<p>Students learn through play by decoding expressions in idioms, similes
+and figurative language. Each game brings learning to life in an exciting
+and memorable way.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Strategies and pedagogies</h3>
 <p>The Department also adopts a variety of strategies and approaches for
-teaching and learning, as summarised in the table below.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Table2.jpeg">
-</div>
+teaching and learning.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Strategies and pedagogies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Shared Book Approach</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shared Book Approach at ATS:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Before Reading:</strong>
+<br>The teacher activates prior knowledge, introduces key vocabulary, and
+sets a purpose for reading.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>During Reading:</strong>
+<br>Pupils listen and follow along as the teacher models fluent reading. Discussion
+prompts encourage prediction, inference, and engagement with the text.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>After Reading:</strong>
+<br>The class explores language structures, vocabulary, and themes from the
+book. Pupils engage in follow-up activities to reinforce understanding.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Supported Reading</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supported Reading is used to increase independence in students as they
+read text. The teacher provides scaffolding and feedback, helping them
+decode unfamiliar words, understand meaning, and make connections between
+texts.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tune-in, Tune-out</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students immerse themselves in authentic learning that connects meaningfully
+with real-world experiences. Designed to bring out the joy of learning,
+this approach integrates a fun element in every task, making learning both
+engaging and memorable.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Literacy Stations</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hands-on learning centres are designed to reinforce concepts taught in
+the English Language curriculum, particularly for lower primary students.&nbsp;These
+centres provide students with opportunities to engage in independent and
+group activities, applying learned literacy skills in practical situations.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Authentic Learning (PW)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Key principles of Authentic Learning:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Real-world relevance:</strong>&nbsp;Tasks are created to analyse
+a problem for a specific community.</p>
+</li>
+<li>
+<p><strong>Collaboration:</strong>&nbsp;Students learn from and with others,
+working effectively in groups.</p>
+</li>
+<li>
+<p><strong>Multiple sources and perspectives:</strong>&nbsp;Students are
+required to gather and evaluate information from various sources and consider
+different viewpoints.</p>
+</li>
+<li>
+<p><strong>Reflection: </strong>Students reflect on their learning and evaluate
+their progress, both individually and as a group.</p>
+</li>
+<li>
+<p><strong>Integrated assessment:</strong>&nbsp;Students are assessed based
+on their process, product, and performance.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Blended Learning</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>An approach that combines both face-to-face and online learning experiences.
+In schools, it allows students to learn at their own pace and space, while
+also benefiting from face-to-face interactions with teachers and peers.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>In-school learning</strong> :
+engage in direct instruction, group work, and collaborative discussions.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Home-Based Learning (HBL): </strong>take
+ownership of their learning through digital platforms, online resources,
+and self-paced tasks.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cooperative Learning</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cooperative Learning supports the development of the 21st Century Competencies,
+fostering skills such as collaboration, communication, and critical thinking.</p>
+<p>&nbsp;</p>
+<p>Some examples of Cooperative Learning structure integrated into English
+lessons at ATS:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Think-Pair-Share</em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Jigsaw</em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Round Robin</em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Numbered Heads Together</em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Think-Pair-Share</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p></p>
