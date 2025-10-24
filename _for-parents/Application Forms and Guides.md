@@ -5,20 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h3>MOE Financial Assistance Scheme (FAS)&nbsp;经济援助计划</h3>
+<p></p>
+<p>Parents/guardians can apply for financial assistance through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter_for_FAS_Application_for_2025.pdf" rel="noopener nofollow" target="_blank">Letter for FAS Application for 2025 </a>*<em>updated as of 8 October 2024</em>
+<p>e-FAS form available on Parents Gateway (under Services tab – Financial
+Assistance) via Singpass login.*<em>updated as of 23 October 2025</em>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">e-FAS</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a> *<em>updated as of 8 October 2024</em>
+<p><em><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></em>
 </p>
 </li>
 </ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Scan QR code:</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MOE_EFAS.jpg">
+</div>
+<p>Please refer to the attached press release for more details link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>
+</p>
 <h3>Bursary 2025 for Students of SHHK Affiliated Schools</h3>
 <ul data-tight="true" class="tight">
 <li>
