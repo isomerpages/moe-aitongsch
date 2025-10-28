@@ -93,5 +93,34 @@ pictures, videos, music).</p>
 or illegal manner.</p>
 </li>
 </ol>
-<p></p>
+<h4><strong>Using Artificial Intelligence (AI)</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students must ensure that they meet the minimum age requirement specified
+in each AI tool's age restrictions before using it.</p>
+</li>
+<li>
+<p>If the use of AI is permitted, students should acknowledge the use of
+AI in weighted assessments and homework as required.</p>
+</li>
+<li>
+<p>Students are to practise academic integrity and be responsible for their
+own learning when using AI. Understand that they are ultimately short-changing
+themselves if they pass off other’s work as their own.</p>
+</li>
+</ol>
+<h4><strong>Staying Safe and Secure Online</strong></h4>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Students should report any incidents (e.g.
+unusual device behaviour or inappropriate use of devices), to the school.</p>
+<p>&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Students are reminded to develop online safety
+habits. This includes not disclosing personal access credentials (e.g.
+MIMS password), sensitive personal data (e.g. home address, passwords)
+online or on AI platforms, verifying credibility of online content before
+sharing, avoiding clicking on suspicious links or downloading unknown files,
+and being cautious when interacting with others online (e.g. on social
+media) by not engaging with strangers.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Students should exercise caution regarding
+the limitations of AI tools, including potential inaccuracies / fabricated
+responses, inherent biases and outdated information.</p>
 <p></p>
