@@ -110,17 +110,42 @@ themselves if they pass off other’s work as their own.</p>
 </li>
 </ol>
 <h4><strong>Staying Safe and Secure Online</strong></h4>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Students should report any incidents (e.g.
-unusual device behaviour or inappropriate use of devices), to the school.</p>
-<p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Students are reminded to develop online safety
-habits. This includes not disclosing personal access credentials (e.g.
-MIMS password), sensitive personal data (e.g. home address, passwords)
-online or on AI platforms, verifying credibility of online content before
-sharing, avoiding clicking on suspicious links or downloading unknown files,
-and being cautious when interacting with others online (e.g. on social
-media) by not engaging with strangers.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Students should exercise caution regarding
-the limitations of AI tools, including potential inaccuracies / fabricated
-responses, inherent biases and outdated information.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students should report any incidents (e.g. unusual device behaviour or
+inappropriate use of devices), to the school.</p>
+</li>
+<li>
+<p>Students are reminded to develop online safety habits. This includes not
+disclosing personal access credentials (e.g. MIMS password), sensitive
+personal data (e.g. home address, passwords) online or on AI platforms,
+verifying credibility of online content before sharing, avoiding clicking
+on suspicious links or downloading unknown files, and being cautious when
+interacting with others online (e.g. on social media) by not engaging with
+strangers.</p>
+</li>
+<li>
+<p>Students should exercise caution regarding the limitations of AI tools,
+including potential inaccuracies / fabricated responses, inherent biases
+and outdated information.</p>
+</li>
+</ol>
+<h4><strong>Digital Wellbeing and Balance</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students are reminded to balance screentime with other activities including
+physical exercise and face-to-face social interactions.</p>
+</li>
+<li>
+<p>Students should avoid excessive use of their devices outside learning
+hours.</p>
+</li>
+<li>
+<p>Students should take regular breaks to rest their eyes and mind.</p>
+</li>
+<li>
+<p>Students are reminded to practise good sleep hygiene by not using their
+devices one hour before bedtime.</p>
+</li>
+</ol>
 <p></p>
