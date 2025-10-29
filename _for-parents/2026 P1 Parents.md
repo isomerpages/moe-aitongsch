@@ -24,5 +24,7 @@ Please check your email for more information.</p>
 <p><strong>26 Sept 2025:</strong>
 <br>The second email has been sent. The webinar link for 10 October can be
 found in the email.</p>
+<p><strong>10 Oct 2025:</strong>
+<br>The first and second Parents Gateway (PG) notifications have been sent.</p>
 <p>If you have any concerns, please send your queries to this email: <a href="mailto:aitong_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aitong_sch@moe.edu.sg</a>
 </p>
