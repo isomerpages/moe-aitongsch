@@ -1,12 +1,37 @@
 ---
 title: Co Curriculum
-permalink: /co-curriculum/co-curriculum/
+permalink: /co-curriculum/
+variant: tiptap
 description: ""
 ---
-*   [Student Well-Being](/co-curriculum/Student-Well-Being/student-wellbeing-main/)
-*   [Co-Curricular Activities (CCA)](/co-curriculum/Co-Curricular-Activities/c0-curricular-activities/)
-*   [Student Leadership](/co-curriculum/student-leadership/)
-*   [Programme for Active Learning (PAL)](/co-curriculum/pal/)
-*   [Special Assistance Plan (SAP)](/co-curriculum/sap/)
-*   [Life Long Learning Programmes](/co-curriculum/Life-Long-Learning-Programmes/llp/)
-*   [Applied Learning Programme](/co-curriculum/Applied-Learning-Programme/ALP-iDareATS/)
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.aitong.moe.edu.sg/acceptable-use-policy-aup-for-use-of-edtech-resources/" rel="noopener nofollow" target="_blank">Student Well Being</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.aitong.moe.edu.sg/co-curriculum/Co-Curricular-Activities/c0-curricular-activities/" rel="noopener noreferrer nofollow" target="_blank"><u>Co-Curricular Activities (CCA)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.aitong.moe.edu.sg/co-curriculum/student-leadership/" rel="noopener noreferrer nofollow" target="_blank"><u>Student Leadership</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.aitong.moe.edu.sg/co-curriculum/pal/" rel="noopener noreferrer nofollow" target="_blank"><u>Programme for Active Learning (PAL)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.aitong.moe.edu.sg/co-curriculum/sap/" rel="noopener noreferrer nofollow" target="_blank"><u>Special Assistance Plan (SAP)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.aitong.moe.edu.sg/co-curriculum/Life-Long-Learning-Programmes/llp/" rel="noopener noreferrer nofollow" target="_blank"><u>Life Long Learning Programmes</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.aitong.moe.edu.sg/co-curriculum/Applied-Learning-Programme/ALP-iDareATS/" rel="noopener noreferrer nofollow" target="_blank"><u>Applied Learning Programme</u></a>
+</p>
+</li>
+</ul>
+<p></p>
