@@ -85,7 +85,7 @@ to the professional development of the teaching fraternity.</p>
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Yap</p>
+<p>Mr Matthew Yap Kheng Wai</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ to the professional development of the teaching fraternity.</p>
 <p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Yap</p>
+<p>Mr Matthew Yap Kheng Wai</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ to the professional development of the teaching fraternity.</p>
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Yap
+<p>Mr Matthew Yap Kheng Wai
 <br>Mrs Eileen Peh</p>
 </td>
 </tr>
@@ -121,7 +121,7 @@ to the professional development of the teaching fraternity.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo Joseph (Tan Pei Tze)
+<p>Mrs Teo Amanda
 <br>Mr Casey Low
 <br>Mrs Eileen Peh
 <br>Mdm Lily Lim</p>
@@ -179,7 +179,7 @@ and devotion to duty.</p>
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kwa Wei Hong Klera
+<p>Mdm Klera Kwa
 <br>Mr Matthew Yap Kheng Wai</p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ and devotion to duty.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Khor Kiah (Tan Khor Kiah)</p>
+<p>Mrs Wendy Tan</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ and devotion to duty.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo Joseph</p>
+<p>Mrs Teo Amanda</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ and devotion to duty.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheng Qili</p>
+<p>Mrs Tan Qili</p>
 </td>
 </tr>
 <tr>
