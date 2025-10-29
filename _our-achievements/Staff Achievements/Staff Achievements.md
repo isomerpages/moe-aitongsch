@@ -207,6 +207,14 @@ and devotion to duty.</p>
 <p>Mrs Cheng Qili</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ellene</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>National Day Award - Long Service</h3>
@@ -267,6 +275,19 @@ in the service of the Government.</p>
 <td rowspan="1" colspan="1">
 <p>Mrs Jeanny Wong
 <br>Mrs Margaret Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Klera Kwa
+<br>Mrs Tan-Lai Tsai
+<br>Mrs Wendy Tan
+<br>Mrs Eileen Peh
+<br>Mrs Teo Amanda
+<br>Mdm Ho Mei Boh</p>
 </td>
 </tr>
 </tbody>
