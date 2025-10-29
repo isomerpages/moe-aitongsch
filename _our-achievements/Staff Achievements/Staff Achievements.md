@@ -110,7 +110,7 @@ to the professional development of the teaching fraternity.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Yap
+<p>Mr Matthew Yap Kheng Wai
 <br>Mrs Eileen Peh
 <br>Mr Casey Low
 <br>Mdm Tan Kang Li</p>
