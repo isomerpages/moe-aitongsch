@@ -3,13 +3,14 @@ collections:
     output: true
     order:
       - Co Curriculum.md
-      - Student Well Being/Student Wellbeing Main.md
+      - Student Well Being/.keep
+      - Student Well Being/Acceptable Use Policy (AUP) For Use of EdTech
+        Resources.md
       - Student Well Being/Positive Education.md
       - Student Well Being/Form Teacher Guidance Period (FTGP).md
       - Student Well Being/Pastoral Care.md
       - Student Well Being/ATS Heart Waves 爱同频率.md
       - Student Well Being/Partnership With Parents.md
-      - Student Well Being/.keep
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/Sports Club.md
