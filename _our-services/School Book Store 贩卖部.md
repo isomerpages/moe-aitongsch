@@ -39,8 +39,23 @@ caused.</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/P5_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">P5 Booklist 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/P6_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">P6 Booklist 2026</a>
+</p>
 </li>
 </ul>
 <h3>2025 ATS Uniform and Name Tag</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Uniform_Price_List_2026.pdf" rel="noopener nofollow" target="_blank">Uniform Price List 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Name_Tag_Order_Form_2026.pdf" rel="noopener nofollow" target="_blank">Name Tag Order Form 2026</a>
+</p>
+</li>
+</ul>
 <p></p>
