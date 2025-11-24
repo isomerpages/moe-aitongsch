@@ -4,4 +4,5 @@ permalink: /ats-virtual-school-tour/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Click here to view our school virtual tour - <a href="https://4d.silvrcraft.com/view/ats360vt/" rel="noopener noreferrer nofollow" target="_blank">https://4d.silvrcraft.com/view/ats360vt/</a>
+</p>
