@@ -9,5 +9,5 @@ through our classrooms and facilities to experience the vibrant learning
 environment where Ai Tong students thrive.</p>
 <p>Explore at your own pace and see firsthand the spaces where academic excellence
 and personal growth happen every day.</p>
-<p><a href="https://4d.silvrcraft.com/view/ats360vt/" rel="noopener noreferrer nofollow" target="_blank">Click here to view our school virtual tour</a>
+<p><a href="https://4d.silvrcraft.com/view/ats360vt/" rel="noopener noreferrer nofollow" target="_blank">Click here to view our virtual school tour</a>
 </p>
