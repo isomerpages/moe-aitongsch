@@ -8,7 +8,7 @@ variant: tiptap
 2026. Please note that this schedule is subject to change without prior
 notice due to unforeseen circumstances.</p>
 <p>During Dental Clinic closures, for general dental matters or enquiries,
-please contact the <strong>School Dental Centre (SDC), Health Promotion Board (HPB). </strong>
+please contact the <strong>School Dental Centre (SDC), Health Promotion Board (HPB).</strong>
 </p>
 <p><strong>School Dental Centre (SDC)</strong> 
 <br>Health Promotion Board 3
