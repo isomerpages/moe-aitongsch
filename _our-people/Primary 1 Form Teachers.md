@@ -148,13 +148,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Bela Somaiah</strong>
-<br><a href="mailto:bela_somaiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bela_somaiah@schools.gov.sg</u></a>
+<p><strong>Mdm Revathi<a href="mailto:revathi_detchanamoorthy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
+<a href="mailto:revathi_detchanamoorthy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>revathi_detchanamoorthy@schools.gov.sg</u>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Cindy Goh</strong>
-<br><a href="mailto:goh_shu_wei_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_shu_wei_cindy@schools.gov.sg</u></a>
+<p><strong>Mdm Kandy Heng<a href="mailto:kandy_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
+<a href="mailto:kandy_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kandy_heng@schools.gov.sg</u>
+</a>
 </p>
 </td>
 </tr>
@@ -164,13 +166,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Jessie Lee</strong>
-<br><a href="mailto:lee_swee_kee_jessie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_swee_kee_jessie@schools.gov.sg</u></a>
+<p><strong>Mrs Tay Yumei<a href="mailto:loo_yumei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+<a href="mailto:loo_yumei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loo_yumei@schools.gov.sg</u>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Li Joon</strong>
-<br><a href="mailto:lim_li_joon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_li_joon@schools.gov.sg</u></a>
+<p><strong>Mdm Fan Xiaoxia<a href="mailto:fan_xiaoxia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
+<a href="mailto:fan_xiaoxia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fan_xiaoxia@schools.gov.sg</u>
+</a>
 </p>
 </td>
 </tr>
