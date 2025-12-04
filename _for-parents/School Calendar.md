@@ -32,7 +32,8 @@ variant: tiptap
 13 September</p>
 </li>
 <li>
-<p><strong>December Holidays</strong> : Saturday, 21 November to Thu, 31 December</p>
+<p><strong>December Holidays</strong> : Saturday, 21 November to Thursday,
+31 December</p>
 </li>
 </ul>
 <h3>SCHEDULED SCHOOL HOLIDAYS FOR 2026</h3>
