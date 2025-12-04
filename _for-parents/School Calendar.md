@@ -39,7 +39,7 @@ variant: tiptap
 <h3>SCHEDULED SCHOOL HOLIDAYS FOR 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Youth Day</strong> : Sunday, 5 July <em>(Monday 7 July is a school holiday)</em>
+<p><strong>Youth Day</strong> : Sunday, 5 July <em>(Monday, 76 July is a school holiday)</em>
 </p>
 </li>
 <li>
