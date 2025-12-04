@@ -99,13 +99,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chua Siew Jin, Erika</strong>
-<br><a href="mailto:chua_siew_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_siew_jin@schools.gov.sg</u></a>
+<p><strong>Mrs Teo Joseph<a href="mailto:tan_pei_tze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong>
+<a href="mailto:tan_pei_tze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_pei_tze@schools.gov.sg</u>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ong Yen San</strong>
-<br><a href="mailto:ong_yen_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_yen_san@schools.gov.sg</u></a>
+<p><strong>Ms Jessica Puay</strong><a href="mailto:puay_an_kee_jessica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>puay_an_kee_jessica@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -115,13 +115,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Josephine Ching</strong>
-<br><a href="mailto:ching_cheau_yng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ching_cheau_yng@schools.gov.sg</u></a>
+<p><strong>Ms Jowie Koh</strong><a href="mailto:koh_hui_ling_jowie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br>koh_hui_ling_jowie@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Cheok Li Yee</strong>
-<br><a href="mailto:cheok_li_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheok_li_yee@schools.gov.sg</u></a>
+<p><strong>Mdm Kun Swee Bin<a href="mailto:kun_swee_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
+<a href="mailto:kun_swee_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kun_swee_bin@schools.gov.sg</u>
+</a>
 </p>
 </td>
 </tr>
@@ -131,8 +131,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Cheryl Ang</strong>
-<br><a href="mailto:ang_si_ting_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_si_ting_cheryl@schools.gov.sg</a>
+<p><strong>Mrs Sharon Quek<a href="mailto:biswas_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
+<a href="mailto:biswas_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>biswas_sharon@schools.gov.sg</u>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
