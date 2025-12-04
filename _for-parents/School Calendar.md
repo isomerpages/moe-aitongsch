@@ -58,7 +58,7 @@ variant: tiptap
 18 February</p>
 </li>
 <li>
-<p><strong>Hari Raya Puasa</strong>: Saturday, 21 March <em>(As Saturday, 21 March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated day off-in-lieu for schools (i.e. Schools, including the General Office and Student Care Centres will be closed.)</em>
+<p><strong>Hari Raya Puasa</strong>: Saturday, 21 March <em>(As Saturday, 21 March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated day off-in-lieu for schools (i.e. Schools, including the General Office and Student Care Centres will be closed.))</em>
 </p>
 </li>
 <li>
