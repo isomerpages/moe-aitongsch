@@ -184,13 +184,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Linda Teo</strong>
-<br><a href="mailto:loh_beng_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh_beng_hua@schools.gov.sg</u></a>
+<p><strong>Mdm Roziana Rosli<a href="mailto:roziana_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
+<a href="mailto:roziana_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>roziana_rosli@schools.gov.sg</u>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Jessica Puay</strong>
-<br><a href="mailto:puay_an_kee_jessica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>puay_an_kee_jessica@schools.gov.sg</u></a>
+<p><strong>Mdm Tan Wee Bee<a href="mailto:tan_wee_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
+<a href="mailto:tan_wee_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_wee_bee@schools.gov.sg</u>
+</a>
 </p>
 </td>
 </tr>
