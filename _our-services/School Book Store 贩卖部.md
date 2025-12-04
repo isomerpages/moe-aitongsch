@@ -47,7 +47,7 @@ caused.</p>
 </p>
 </li>
 </ul>
-<h3>2025 ATS Uniform and Name Tag</h3>
+<h3>2026 ATS Uniform and Name Tag</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Uniform_Price_List_2026.pdf" rel="noopener nofollow" target="_blank">Uniform Price List 2026</a>

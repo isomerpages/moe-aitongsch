@@ -10,80 +10,81 @@ variant: tiptap
 <p><strong>LSM</strong>&nbsp;- Learning Support Programme for Mathematics
 <br><strong>LSP</strong>&nbsp;- The Learning Support Programme for English
 <br><strong>RRP </strong>- Reading Remediation Programme</p>
-<h3>SCHOOL TERMS FOR 2025</h3>
+<h3>SCHOOL TERMS FOR 2026</h3>
 <p><strong><u>Semester 1</u></strong>
-<br>Term 1 : Thursday, 2 January* to Friday, 14 March
-<br>Term 2 : Monday, 24 March to Friday, 30 May
+<br>Term 1 : Friday, 2 January* to Friday, 13 March
+<br>Term 2 : Monday, 23 March to Friday, 30 May
 <br><strong><u>Semester 2</u></strong>
-<br>Term 3 : Monday, 30 June to Friday, 5 Sep
-<br>Term 4 : Monday, 15 September to Friday, 21 November&nbsp;</p>
-<p>*<em>Primary 1 will start school on Thursday, 2 January 2025. Primary 2 to 6 will start school on Friday, 3 January 2025.</em>
+<br>Term 3 : Monday, 29 June to Friday, 4 September
+<br>Term 4 : Monday, 14 September to Friday, 20 November&nbsp;</p>
+<p>*<em>Primary 1 will start school on Friday, 2 January 2026. Primary 2 to 6 will start school on Monday, 5 January 2026.</em>
 </p>
-<p></p>
-<h3>SCHOOL HOLIDAYS FOR 2025</h3>
+<h3>SCHOOL HOLIDAYS FOR 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>March Holidays</strong> : Saturday, 15 March to Sunday, 23 March</p>
+<p><strong>March Holidays</strong> : Saturday, 14 March to Sunday, 22 March</p>
 </li>
 <li>
-<p><strong>June Holidays</strong> : Saturday, 31 May to Sunday, 29 June</p>
+<p><strong>June Holidays</strong> : Saturday, 30 May to Sunday, 28 June</p>
 </li>
 <li>
-<p><strong>September Holidays</strong> : Saturday, 6 September to Sunday,
-14 September</p>
+<p><strong>September Holidays</strong> : Saturday, 5 September to Sunday,
+13 September</p>
 </li>
 <li>
-<p><strong>December Holidays</strong> : Saturday, 22 November to Wednesday,
+<p><strong>December Holidays</strong> : Saturday, 21 November to Thursday,
 31 December</p>
 </li>
 </ul>
-<h3>SCHEDULED SCHOOL HOLIDAYS FOR 2025</h3>
+<h3>SCHEDULED SCHOOL HOLIDAYS FOR 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Youth Day</strong> : Sunday 6 July <em>(Monday 7 July is a school holiday)</em>
+<p><strong>Youth Day</strong> : Sunday, 5 July <em>(Monday, 76 July is a school holiday)</em>
 </p>
 </li>
 <li>
-<p><strong>Teachers' Day</strong> : Friday 5 September</p>
+<p><strong>Teachers' Day</strong> : Friday, 4 September</p>
 </li>
 <li>
-<p><strong>Children's Day</strong> : Friday 3 October</p>
+<p><strong>Children's Day</strong> : Friday, 2 October</p>
 </li>
 </ul>
-<h3>SCHEDULED PUBLIC HOLIDAYS FOR 2025</h3>
+<h3>SCHEDULED PUBLIC HOLIDAYS FOR 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>New Year's Day</strong> : Wednesday 1 January</p>
+<p><strong>New Year's Day</strong> : Thursday, 1 January</p>
 </li>
 <li>
-<p><strong>Chinese New Year</strong> : Wednesday 29 January &amp; Thursday
-30 January</p>
+<p><strong>Chinese New Year</strong> : Tuesday, 17 February &amp; Wednesday,
+18 February</p>
 </li>
 <li>
-<p><strong>Hari Raya Puasa</strong>: Monday 31 March</p>
-</li>
-<li>
-<p><strong>Good Friday</strong> : Friday 18 April</p>
-</li>
-<li>
-<p><strong>Labour Day</strong> : Thursday 1 May</p>
-</li>
-<li>
-<p><strong>Vesak Day</strong> : Monday 12 May</p>
-</li>
-<li>
-<p><strong>Hari Raya Haji</strong> : Saturday 7 June (<em>Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres)</em>
+<p><strong>Hari Raya Puasa</strong>: Saturday, 21 March <em>(As Saturday, 21 March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated day off-in-lieu for schools (i.e. Schools, including the General Office and Student Care Centres will be closed.))</em>
 </p>
 </li>
 <li>
-<p><strong>National Day</strong> : Saturday 9 August (<em>Mon, 11 Aug will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres)</em>
+<p><strong>Good Friday</strong> : Friday, 3 April</p>
+</li>
+<li>
+<p><strong>Labour Day</strong> : Friday, 1 May</p>
+</li>
+<li>
+<p><strong>Hari Raya Haji</strong> : Wednesday, 27 May</p>
+</li>
+<li>
+<p><strong>Vesak Day</strong> : Sunday, 31 May <em>(Monday, 1 June 2026 will be a public holiday.)</em>
 </p>
 </li>
 <li>
-<p><strong>Deepavali</strong> : Monday 20 October</p>
+<p><strong>National Day</strong> : Sunday, 9 August <em>(Monday, 10 August 2026 will be a public holiday.)</em>
+</p>
 </li>
 <li>
-<p><strong>Christmas Day</strong> : Thursday 25 December</p>
+<p><strong>Deepavali</strong> : Sunday, 8 November (<em>Monday, 9 November 2026 will be a public holiday.)</em>
+</p>
+</li>
+<li>
+<p><strong>Christmas Day</strong> : Friday, 25 December</p>
 </li>
 </ul>
 <p></p>
