@@ -59,33 +59,30 @@ variant: tiptap
 18 February</p>
 </li>
 <li>
-<p><strong>Hari Raya Puasa</strong>: Saturday, 21 March (As Saturday, 21
-March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated
-day off-in-lieu for schools (i.e. Schools, including the General Office,
-Student Care Centres and KCare Centres, will be closed).</p>
-</li>
-<li>
-<p><strong>Good Friday</strong> : Friday 18 April</p>
-</li>
-<li>
-<p><strong>Labour Day</strong> : Thursday 1 May</p>
-</li>
-<li>
-<p><strong>Vesak Day</strong> : Monday 12 May</p>
-</li>
-<li>
-<p><strong>Hari Raya Haji</strong> : Saturday 7 June (<em>Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres)</em>
+<p><strong>Hari Raya Puasa</strong>: Saturday, 21 March <em>(As Saturday, 21 March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated day off-in-lieu for schools (i.e. Schools, including the General Office and Student Care Centres will be closed.)</em>
 </p>
 </li>
 <li>
-<p><strong>National Day</strong> : Saturday 9 August (<em>Mon, 11 Aug will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres)</em>
+<p><strong>Good Friday</strong> : Friday, 3 April</p>
+</li>
+<li>
+<p><strong>Labour Day</strong> : Friday, 1 May</p>
+</li>
+<li>
+<p><strong>Hari Raya Haji</strong> : Wednesday, 27 May</p>
+</li>
+<li>
+<p><strong>Vesak Day</strong> : Sunday, 31 May <em>(Monday, 1 June 2026 will be a public holiday.)</em>
 </p>
 </li>
 <li>
-<p><strong>Deepavali</strong> : Monday 20 October</p>
+<p><strong>National Day</strong> : Sunday, 9 August <em>(Monday, 10 August 2026 will be a public holiday.)</em>
+</p>
 </li>
 <li>
-<p><strong>Christmas Day</strong> : Thursday 25 December</p>
+<p><strong>Deepavali</strong> : Sunday, 8 November (<em>Monday, 9 November 2026 will be a public holiday.)</em>
+</p>
+<p><strong>Christmas Day</strong> : Friday, 25 December</p>
 </li>
 </ul>
 <p></p>
