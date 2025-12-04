@@ -82,6 +82,8 @@ variant: tiptap
 <li>
 <p><strong>Deepavali</strong> : Sunday, 8 November (<em>Monday, 9 November 2026 will be a public holiday.)</em>
 </p>
+</li>
+<li>
 <p><strong>Christmas Day</strong> : Friday, 25 December</p>
 </li>
 </ul>
