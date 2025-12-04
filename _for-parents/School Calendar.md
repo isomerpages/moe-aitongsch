@@ -54,7 +54,7 @@ variant: tiptap
 <p><strong>New Year's Day</strong> : Thursday, 1 January</p>
 </li>
 <li>
-<p><strong>Chinese New Year</strong> : Tuesday, 17 Febbruary &amp; Wednesday,
+<p><strong>Chinese New Year</strong> : Tuesday, 17 February &amp; Wednesday,
 18 February</p>
 </li>
 <li>
