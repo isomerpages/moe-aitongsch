@@ -19,7 +19,6 @@ variant: tiptap
 <br>Term 4 : Monday, 14 September to Friday, 20 November&nbsp;</p>
 <p>*<em>Primary 1 will start school on Friday, 2 January 2026. Primary 2 to 6 will start school on Monday, 5 January 2026.</em>
 </p>
-<p></p>
 <h3>SCHOOL HOLIDAYS FOR 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
