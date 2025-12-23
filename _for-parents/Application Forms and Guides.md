@@ -14,7 +14,7 @@ Assistance) via Singpass login.*<em>updated as of 23 October 2025</em>
 </p>
 </li>
 <li>
-<p><em><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></em>
+<p><em><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></em>
 </p>
 </li>
 </ul>
