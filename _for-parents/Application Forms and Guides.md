@@ -28,7 +28,7 @@ Assistance) via Singpass login.*<em>updated as of 23 October 2025</em>
 </div>
 <p>Please refer to the attached press release for more details link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>
 </p>
-<h3>Bursary 2026 for Students of SHHK Affiliated Schools</h3>
+<h3>Bursary for Students of SHHK Affiliated Schools</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2026_________________10_2025___Batch_1.pdf" rel="noopener nofollow" target="_blank">2026 Application of Bursary for SHHK Affiliated Schools (1st Batch)</a>
