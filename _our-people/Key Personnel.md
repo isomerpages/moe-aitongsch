@@ -92,8 +92,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ng Lik Yong </strong>
-<br><a href="mailto:ng_lik_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lik_yong@schools.gov.sg</a>
+<p><strong>Mr Low Heng Moh </strong>
+<br><a href="mailto:low_heng_moh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_heng_moh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -103,8 +103,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Low Heng Moh </strong>
-<br><a href="mailto:low_heng_moh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_heng_moh@schools.gov.sg</a>
+<p><strong>Mr Gareth Lim</strong>
+<br><a href="mailto:lim_wei_yang_gareth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_yang_gareth@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -223,17 +223,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD EL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Ellene </strong>
-<br><a href="mailto:tan_ellene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ellene@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>LH EL</strong>
