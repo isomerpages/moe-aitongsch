@@ -14,12 +14,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Shirley Toh Lay Peng</strong>
-<br><a href="mailto:toh_lay_peng_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_lay_peng_shirley@schools.gov.sg</a>
+<p><strong>Mdm Jessie Lee</strong>
+<br><a href="mailto:lee_swee_kee_jessie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_swee_kee_jessie@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Priscilla Kek</strong>
+<br><a href="mailto:priscilla_kek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">priscilla_kek@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
