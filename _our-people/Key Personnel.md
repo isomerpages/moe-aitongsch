@@ -492,7 +492,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH PE/CCA(Internal)</strong>
+<p><strong>SH PE/CCA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -523,7 +523,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH SM(Internal)</strong>
+<p><strong>SH SM</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
