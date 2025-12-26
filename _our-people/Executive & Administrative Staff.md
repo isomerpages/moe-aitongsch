@@ -113,8 +113,8 @@ variant: tiptap
 <p>Operations Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gareth Lim</p>
-<p><a href="mailto:lim_wei_yang_gareth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_wei_yang_gareth@schools.gov.sg</u></a>
+<p>Mr Gareth Lim
+<br><a href="mailto:lim_wei_yang_gareth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_wei_yang_gareth@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -183,6 +183,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hazwani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ashraf</p>
 </td>
 </tr>
 <tr>
