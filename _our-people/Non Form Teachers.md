@@ -14,12 +14,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Shirley Toh Lay Peng</strong>
-<br><a href="mailto:toh_lay_peng_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_lay_peng_shirley@schools.gov.sg</a>
+<p><strong>Mdm Jessie Lee</strong>
+<br><a href="mailto:lee_swee_kee_jessie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_swee_kee_jessie@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Priscilla Kek</strong>
+<br><a href="mailto:priscilla_kek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">priscilla_kek@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Vincent Low</strong>
+<br><a href="mailto:low_chee_kong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_chee_kong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Cheng Tai Yeng</strong>
+<br><a href="mailto:cheng_tai_yeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_tai_yeng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -129,8 +143,8 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ang Tze Yin</strong>
-<br><a href="mailto:ang_tze_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_tze_yin@schools.gov.sg</a>
+<p>Mdm Kow Hui Meng
+<br><a href="mailto:kow_hui_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kow_hui_meng@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 </tr>
@@ -170,8 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lo Sik Yuen</strong>
-<br><a href="mailto:Lo_Sik_Yuen_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lo_Sik_Yuen_A@schools.gov.sg</a>
+<p><strong>Mdm Cindy Wong</strong>
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
