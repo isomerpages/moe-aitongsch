@@ -103,8 +103,8 @@ variant: tiptap
 <p>Operations Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Lik Yong
-<br><a href="mailto:ng_lik_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lik_yong@schools.gov.sg</a>
+<p>Mr Low Heng Moh
+<br><a href="mailto:low_heng_moh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_heng_moh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -113,8 +113,8 @@ variant: tiptap
 <p>Operations Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Heng Moh
-<br><a href="mailto:low_heng_moh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_heng_moh@schools.gov.sg</a>
+<p>Mr Gareth Lim</p>
+<p><a href="mailto:lim_wei_yang_gareth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_wei_yang_gareth@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
