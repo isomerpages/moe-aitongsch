@@ -27,12 +27,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Vincent Low</strong>
-</p>
-<p><a href="mailto:low_chee_kong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_chee_kong@schools.gov.sg</a>
+<br><a href="mailto:low_chee_kong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_chee_kong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mrs Cheng Tai Yeng</strong>
+<br><a href="mailto:cheng_tai_yeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_tai_yeng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -142,8 +143,8 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ang Tze Yin</strong>
-<br><a href="mailto:ang_tze_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_tze_yin@schools.gov.sg</a>
+<p>Mdm Kow Hui Meng
+<br><a href="mailto:kow_hui_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kow_hui_meng@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 </tr>
@@ -183,8 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lo Sik Yuen</strong>
-<br><a href="mailto:Lo_Sik_Yuen_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lo_Sik_Yuen_A@schools.gov.sg</a>
+<p><strong>Mdm Cindy Wong</strong>
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
