@@ -24,6 +24,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Vincent Low</strong>
+</p>
+<p><a href="mailto:low_chee_kong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_chee_kong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>School Counsellor &amp; SEN Officers</strong>
