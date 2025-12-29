@@ -131,7 +131,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Eng Liat</p>
+<p>Mr Quek Hock Leong</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ variant: tiptap
 <p>Operations Support Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Hock Leong</p>
+<p>Mdm Wendy Sim</p>
 </td>
 </tr>
 </tbody>
