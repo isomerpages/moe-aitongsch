@@ -81,7 +81,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Yuan May</strong><a href="mailto:teo_yuan_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>teo_yuan_may@schools.gov.sg</u></a>
+<p><strong>Mr Lloyd Nicholas<a href="mailto:lloyd_nicholas_morand@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong>
+<a href="mailto:lloyd_nicholas_morand@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lloyd_nicholas_morand@schools.gov.sg</u>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,9 +139,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lloyd Nicholas<a href="mailto:lloyd_nicholas_morand@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
-<a href="mailto:lloyd_nicholas_morand@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lloyd_nicholas_morand@schools.gov.sg</u>
-</a>
+<p><strong>Ms Teo Yuan May</strong><a href="mailto:teo_yuan_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>teo_yuan_may@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
