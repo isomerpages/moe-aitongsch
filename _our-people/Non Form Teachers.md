@@ -160,8 +160,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Oh Peng Peng</strong>
-<br><a href="mailto:Oh_Peng_Peng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Oh_Peng_Peng_A@schools.gov.sg</a>
+<p><strong>Ms Veron Heng</strong>
+<br><a href="mailto:veron_heng_hui_boon_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veron_heng_hui_boon_a@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,18 +177,8 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Veron Heng</strong>
-<br><a href="mailto:veron_heng_hui_boon_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veron_heng_hui_boon_a@schools.gov.sg</a>
-<br>FAJT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Cindy Wong</strong>
 <br>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
