@@ -86,7 +86,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Chun-Hong Lin<a href="mailto:hong_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong>
-<a href="mailto:hong_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hong_lin@schools.gov.s</u>
+<a href="mailto:hong_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hong_lin@schools.gov.sg</u>
 </a>
 </p>
 </td>
