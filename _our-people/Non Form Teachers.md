@@ -178,7 +178,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Cindy Wong</strong>
+<br><a href="mailto:Wong_Tsu_Min_Cindy_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Tsu_Min_Cindy_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Soh Lay Hong</strong>
+<br><a rel="noopener noreferrer nofollow" target="_blank">Soh_Lay_Hong_A@schools.gov.sg</a>
 <br>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
