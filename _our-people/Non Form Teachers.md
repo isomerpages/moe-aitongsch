@@ -185,8 +185,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Soh Lay Hong</strong>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Soh_Lay_Hong_A@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">Soh_Lay_Hong_A@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
