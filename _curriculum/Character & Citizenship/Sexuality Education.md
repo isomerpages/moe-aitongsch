@@ -115,5 +115,5 @@ from sexuality-related risks.</p>
 </ol>
 <p><strong>At AI TONG SCHOOL, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<p><a href="/files/ATS_MOE_SEd_2025.pdf" rel="noopener nofollow" target="_blank">ATS MOE SEd 2025</a>
+<p><a href="/files/ATS_MOE_SEd_2026.pdf" rel="noopener nofollow" target="_blank">ATS MOE SEd 2026</a>
 </p>
