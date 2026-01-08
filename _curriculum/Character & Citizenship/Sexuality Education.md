@@ -73,7 +73,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> or
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of AI TONG SCHOOL’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of AI TONG SCHOOL’s Sexuality Education Programme for 2026</strong>
 </p>
 <ol start="4">
 <li>
@@ -113,7 +113,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p><strong>At AI TONG SCHOOL, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At AI TONG SCHOOL, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<p><a href="/files/ATS_MOE_SEd_2025.pdf" rel="noopener nofollow" target="_blank">ATS MOE SEd 2025</a>
+<p><a href="/files/ATS_MOE_SEd_2026.pdf" rel="noopener nofollow" target="_blank">ATS MOE SEd 2026</a>
 </p>
