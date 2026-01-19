@@ -30,6 +30,14 @@ variant: tiptap
 <p>Mrs Tan Qili</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shirley Toh Lay Peng</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>The Caring Teacher Award</h3>
@@ -392,11 +400,12 @@ Respect and Shared Responsibility for the Public Good).</p>
 </tr>
 </tbody>
 </table>
-<h3>MOE Innergy (Schools) Award -Team Commendation Award</h3>
+<h3>MOE Innergy (Schools) Award</h3>
 <p>The award is conferred by MOE to schools for innovative ideas which enhance
 teaching and learning.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -407,26 +416,23 @@ teaching and learning.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Staff</strong>
+<p><strong>Department/Team</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lily Lim
-<br>Miss Regina Low
-<br>Mrs Leow Kian Lee
-<br>Mdm Chong Chow Yong
-<br>Miss Roziana
-<br>Mdm Priscilla Koh
-<br>Miss Jowie Koh
-<br>Mrs Caroline Lee
-<br>Mdm Josephine Ng
-<br>Mdm Jesyln Yeo
-<br>Mrs Tan Qili</p>
+<p>P1 &amp; P2 Math PLT Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
 </td>
 </tr>
 <tr>
@@ -434,8 +440,21 @@ teaching and learning.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eileen Ong Hui San
-<br>Mdm Felice Tang Chai Chin</p>
+<p>Aesthetics Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aesthetics Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
 </td>
 </tr>
 </tbody>
