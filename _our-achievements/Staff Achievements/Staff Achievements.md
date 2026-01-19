@@ -30,6 +30,14 @@ variant: tiptap
 <p>Mrs Tan Qili</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shirley Toh Lay Peng</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>The Caring Teacher Award</h3>
