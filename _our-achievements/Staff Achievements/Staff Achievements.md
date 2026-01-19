@@ -400,11 +400,12 @@ Respect and Shared Responsibility for the Public Good).</p>
 </tr>
 </tbody>
 </table>
-<h3>MOE Innergy (Schools) Award -Team Commendation Award</h3>
+<h3>MOE Innergy (Schools) Award</h3>
 <p>The award is conferred by MOE to schools for innovative ideas which enhance
 teaching and learning.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -416,6 +417,10 @@ teaching and learning.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name of Staff</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
 </p>
 </td>
 </tr>
@@ -436,6 +441,9 @@ teaching and learning.</p>
 <br>Mdm Jesyln Yeo
 <br>Mrs Tan Qili</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -444,6 +452,20 @@ teaching and learning.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Ong Hui San
 <br>Mdm Felice Tang Chai Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aesthetics Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
 </td>
 </tr>
 </tbody>
