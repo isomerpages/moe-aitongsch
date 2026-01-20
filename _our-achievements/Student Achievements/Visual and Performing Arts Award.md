@@ -63,6 +63,41 @@ variant: tiptap
 <br>1 Student from 1DI</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>2023 New York IYAC Top</u><br></strong>1 Student from P1<strong><br><br><u>SWS 15th National Junior Watercolour Competition</u><br></strong>1
+Student from P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>SOTA Art Competition 2024</u></strong>
+<br>Top 10 Finalist
+<br>2 Student from P6
+<br>
+<br><strong><u>SWS 16th National Junior Watercolour Competition</u></strong>
+<br>1 Student from P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>SOTA Art Competition 2025</u></strong>
+<br>Top 30 Finalist
+<br>1 Student from P6</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
