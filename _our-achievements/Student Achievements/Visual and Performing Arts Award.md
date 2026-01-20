@@ -71,6 +71,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><u>2023 New York IYAC Top</u><br></strong>1 Student from P1<strong><br><br><u>SWS 15th National Junior Watercolour Competition</u><br></strong>1
 Student from P4</p>
+<p></p>
+<p><strong><u>SYF (Singapore Youth Festival) Art Exhibition</u></strong>
+<br>Certificate of Recognition
+<br>Category A (P2)
+<br>Category B (P3&amp;4)
+<br>Category C(P5&amp;6)</p>
 </td>
 </tr>
 <tr>
@@ -96,6 +102,14 @@ Student from P4</p>
 <p><strong><u>SOTA Art Competition 2025</u></strong>
 <br>Top 30 Finalist
 <br>1 Student from P6</p>
+<p></p>
+<p><strong><u>SYF (Singapore Youth Festival) Art Exhibition</u></strong>
+<br>Certificate of Participation
+<br>Category B (P4)
+<br>
+<br>Certificate of Recognition
+<br>Category A (P2)
+<br>Category C(P6)</p>
 </td>
 </tr>
 </tbody>
