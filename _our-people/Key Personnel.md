@@ -225,7 +225,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH EL</strong>
+<p><strong>HOD EL (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
