@@ -30,9 +30,11 @@ envisages that through the opportunities provided for students, they will
 be able to advocate a transformation in the community. The platforms and
 opportunities presented in each tier aims to develop and allow the students
 to make a significant degree of impact on their peers, school and beyond.</p>
+<p><strong>Figure 1: Framework of ATS Student Leadership Development</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/SLC-framework.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slc_fig_1.png">
 </div>
 <h3>ATS SLD Tier 1: Self-Leadership以身作则&nbsp;(Experience)</h3>
 <p>All Ai Tong School students are given opportunities to serve either in
@@ -41,10 +43,9 @@ SLD programme equips all students with leadership knowledge and skills
 throughout their six years of education in the school. To help Ai Tong
 School student master self-leadership, a baseline leadership development
 is provided for all students.</p>
-<p>Students are provided&nbsp; with&nbsp;mass participation&nbsp;platforms
-and opportunities to develop desire, confidence and capacity to&nbsp;take
-ownership&nbsp;of one’s growth and development based on keen knowledge
-of self and sound values.</p>
+<p>Students are provided with <u>mass participation</u> platforms and opportunities
+to develop desire, confidence and capacity to <u>take ownership</u> of one’s
+growth and development based on keen knowledge of self and sound values.</p>
 <p>Leadership development is a whole school approach. To better equip each
 class leader in his/her job, the respective departments will conduct induction
 programmes to communicate clear expectations and terms of reference for
@@ -63,10 +64,12 @@ that will be conducted every semester.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S/N</p>
+<p><strong>S/N</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Role</p>
+<p><strong>Role</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +101,7 @@ that will be conducted every semester.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language Monitor</p>
+<p>Class Monitor</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +109,7 @@ that will be conducted every semester.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Environment Monitor</p>
+<p>English Language Monitor</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +117,7 @@ that will be conducted every semester.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Education Monitor</p>
+<p>Environment Monitor</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +125,7 @@ that will be conducted every semester.</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mathematics Monitor</p>
+<p>Health Education Monitor</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +133,7 @@ that will be conducted every semester.</p>
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Monitor</p>
+<p>Mathematics Monitor</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +141,7 @@ that will be conducted every semester.</p>
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Education Monitor</p>
+<p>Music Monitor</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +149,7 @@ that will be conducted every semester.</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical Education Monitor</p>
+<p>National Education Monitor</p>
 </td>
 </tr>
 <tr>
@@ -154,12 +157,20 @@ that will be conducted every semester.</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Monitor (P3 to P6 only)</p>
+<p>Physical Education Monitor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Monitor (P3 to P6 only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Well-being Monitor</p>
@@ -169,13 +180,14 @@ that will be conducted every semester.</p>
 </table>
 <h3>ATS SLD Tier 2: Team Leadership以智率群 (Engage)</h3>
 <p>Tier 2 of the SLD programme looks at team-leadership with customised leadership
-opportunities to develop dispositions and&nbsp;<u>social skills in leading and engaging others</u>&nbsp;through
+opportunities to develop dispositions and <u>social skills in leading and engaging others</u> through
 effective relationship management. Tier 2 student leaders consists of 7
 Student Leader Council (SLC) sub-committees. All SLC sub-committees have
 their specific focus areas which they champion for different causes.</p>
-<p>The 7 Student Leader Council Sub-Committees are:</p>
+<p>The Student Leader Council Sub-Committees are:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/slc%202021.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLC.png">
 </div>
 <p>The Council’s leadership term is from July (Current year) to June (Following
 year) with yearly appointment of new members and re-appointment of existing
@@ -234,16 +246,17 @@ of SLC.</p>
 <p>Each candidate for the Head of SLC position will campaign for the election.
 The campaign allows them to communicate their vision for the school as
 the Head of SLC. The Head of SLC will lead the Vice-Heads, EXCO and fellow
-student leaders to organise school wide events such as Teachers’ Day and
-Founder’s Day.</p>
+student leaders to organise school wide events such as Teachers’ Day.</p>
 <p>Student Leader Council EXCO members develop <u>responsible decision making</u> skills
 through platforms and trainings to create a better environment for others
 and <u>empowering others</u> through inspiring commitment towards a common
 goal.</p>
+<p></p>
 <p><strong>Figure 2: Student Leader Council EXCO Organisation Chart</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Leader%20Council%20EXCO%20Organisation%20Chart2021.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slc_org_chart.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slc2021.png">
