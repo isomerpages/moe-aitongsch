@@ -36,7 +36,7 @@ to make a significant degree of impact on their peers, school and beyond.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slc_fig_1.png">
 </div>
-<h3>ATS SLD Tier 1: Self-Leadership以身作则&nbsp;(Experience)</h3>
+<h3>ATS SLD Tier 1: Self-Leadership (Experience)</h3>
 <p>All Ai Tong School students are given opportunities to serve either in
 leadership appointments, or as a class committee member. Tier 1 of the
 SLD programme equips all students with leadership knowledge and skills
@@ -178,7 +178,7 @@ that will be conducted every semester.</p>
 </tr>
 </tbody>
 </table>
-<h3>ATS SLD Tier 2: Team Leadership以智率群 (Engage)</h3>
+<h3>ATS SLD Tier 2: Team Leadership (Engage)</h3>
 <p>Tier 2 of the SLD programme looks at team-leadership with customised leadership
 opportunities to develop dispositions and <u>social skills in leading and engaging others</u> through
 effective relationship management. Tier 2 student leaders consists of 7
@@ -236,7 +236,7 @@ to the SLC.</p>
 </tr>
 </tbody>
 </table>
-<h3>ATS SLD Tier 3: Servant Leadership 以德服众 (Empower)</h3>
+<h3>ATS SLD Tier 3: Servant Leadership (Empower)</h3>
 <p>Tier 3 of the SLD programme looks at servant leadership to equip student
 leaders of high leadership potential with the skills to impact processes
 by leading the team of Tier 2 student leaders and influence others positively.
