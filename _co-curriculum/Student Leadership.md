@@ -258,8 +258,8 @@ goal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slc_org_chart.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slc2021.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLC_LOGO_WITH_MOTTO.png">
 </div>
-<p><strong>~ To Care, To Lead, To Inspire As One ~</strong>
-</p>
+<p></p>
