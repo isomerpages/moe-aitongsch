@@ -53,8 +53,9 @@ We, the students of Ai Tong School,<br>
 ### School Motto 校训
 
 
-<center>诚毅 <br>Sincerity and Perseverance
-	
+<center>Be Sincere with all People
 <br>
-以诚待人，以毅处事
+Be Persevering in all Endeavours
+<br>
+	以诚待人 以毅处事
 </center>
