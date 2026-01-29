@@ -38,7 +38,7 @@ which contributes to an active and healthy lifestyle.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesdays - P4, P5, P6</strong>
 <br>2.15pm to 4.30pm</p>
-<p><strong>Thursdays - P3</strong>
+<p><strong>Thursdays - P3, P6</strong>
 <br>2.15pm to 4.30pm</p>
 <p><strong>School Team members train</strong>
 <br><strong>on both days</strong>
@@ -48,19 +48,21 @@ which contributes to an active and healthy lifestyle.</p>
 <p>*Mr Jay Sng
 <br>*Ms Cheryl Cheng
 <br>Mr Charles Ng
-<br>Mr Wu Luping
-<br>Mr Clement Chan</p>
+<br>Mr Clement Chan
+<br>Mr Lee Kian Huat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>External Venue:&nbsp;
-<br>Bishan/ Yio Chu Kang Stadium
+<br>Bishan Stadium
 <br>(parents may pick child from stadium at 4pm)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<p>* Dismissal from ATS is 4.30pm and hence there is no school bus service
-back home from school after training.
+<p>Dismissal from ATS is at 4.30pm and hence there is no school bus service
+back home from school after training.</p>
+<p></p>
+<p>* Teacher-in-Charge
 <br>
 </p>
