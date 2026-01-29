@@ -38,7 +38,8 @@ the changes around them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday, 2.15pm-4.00pm</p>
+<p>Thursday
+<br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Estee Goh
