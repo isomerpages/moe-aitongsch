@@ -43,7 +43,8 @@ the meaning of their Promise and Law through analogy, stories and plays</p>
 <td rowspan="1" colspan="1">
 <p>* Mr Andric Sim
 <br>* Mr Tan Chin Kiang
-<br>Mrs Cheryl Ng&nbsp;</p>
+<br>Mrs Cheryl Ng
+<br>Mr Wu Luping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classroom (F34 &amp; F35)
