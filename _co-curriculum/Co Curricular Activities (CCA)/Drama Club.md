@@ -7,13 +7,14 @@ variant: tiptap
 ---
 <p><strong>Synopsis:</strong>
 </p>
-<p>The Bilingual Drama Club is an excellent choice of CCA for students who
-aspire to express themselves artistically through drama. Our aim is to
-nurture members to be passionate and committed cultural enthusiasts. They
-will be trained in drama techniques like forming tableaux, improvisation,
-choral reading, theatre sports, exploring the use of body movements and
-voice projection.Members will be given opportunities to put up performances
-for their fellow schoolmates.</p>
+<p>The Bilingual Drama CCA is the perfect place for students who love to
+perform, create, and have fun with stories! Through exciting activities
+like improvisation games, choral reading, and theatre sports, members learn
+to express themselves confidently in both languages. They’ll explore how
+to use their voices, faces, and movements to bring characters to life while
+building teamwork and imagination. Best of all, members will get the chance
+to shine on stage and perform for their schoolmates — celebrating creativity,
+friendship, and the joy of drama!</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -42,7 +43,8 @@ for their fellow schoolmates.</p>
 <td rowspan="1" colspan="1">
 <p>*Mdm Wu Mei Hui
 <br>*Mdm Fan Xiao Xia
-<br>Mr Tian Xiang Dong</p>
+<br>Mdm Felice Tang
+<br>Ms Cheryl Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room A41</p>
