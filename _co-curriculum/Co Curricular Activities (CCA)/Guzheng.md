@@ -50,8 +50,7 @@ schoolmates during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng room &amp;</p>
-<p>Pal Room 2 and 3</p>
+<p>Guzheng Room &amp; PAL Room 2 and 3</p>
 </td>
 </tr>
 </tbody>
