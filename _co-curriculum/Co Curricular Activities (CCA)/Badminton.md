@@ -37,7 +37,7 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mondays 2:00 pm to 4:00 pm</u></strong>
+<p><strong><u>Monday 2:00 pm to 4:00 pm</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,7 +47,7 @@ skills.</p>
 <p>Primary 4 (Recreational only)</p>
 </li>
 </ul>
-<p><strong><u>Tuesdays 2:00 pm to 4:00 pm</u></strong>
+<p><strong><u>Tuesday 2:00 pm to 4:00 pm</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,7 +57,7 @@ skills.</p>
 <p>Primary 6 (<strong><em>Recreational Term 1 only</em></strong>)</p>
 </li>
 </ul>
-<p><strong><u>Thursdays 2:00 pm to 4:00 pm</u></strong>
+<p><strong><u>Thursday 2:00 pm to 4:00 pm</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
