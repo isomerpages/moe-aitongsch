@@ -54,6 +54,4 @@ the school.</p>
 </table>
 <hr>
 <p>* Teacher-in-Charge</p>
-<hr>
-<p></p>
 <p></p>
