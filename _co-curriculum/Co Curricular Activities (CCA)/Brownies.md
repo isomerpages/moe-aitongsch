@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<p>Brownies is a CCA that emphasizes on the development of primary school
+<p><strong>Synopsis:</strong>
+<br>Brownies is a CCA that emphasizes on the development of primary school
 girls. It sets out to help the Brownie achieve her fullest potential, relate
 to others, develop the right values to guide her actions, provide a sound
 foundation for her decision-making, and contribute to the improvement of
