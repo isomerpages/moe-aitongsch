@@ -34,11 +34,12 @@ robots.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday (P3 and P4)</strong>
-<br>2pm to 4pm</p>
+<br>2:00 pm to 4:00 pm</p>
 <p><strong>Thursday (P5 and P6)</strong>
-<br>2pm to 4pm</p>
+<br>2:00 pm to 4:00 pm</p>
 <p><strong>Competition group:</strong>
-<br>Tuesday &amp; Thursday (2-4pm)</p>
+<br><strong>Tuesday &amp; Thursday</strong> 
+<br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3: Mrs Stephanie Pung
