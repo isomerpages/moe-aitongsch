@@ -36,9 +36,9 @@ the school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Monday - Development (P3/P4)</strong>
-<br>2pm to 4pm</p>
+<br>2:00 pm to 4:00 pm</p>
 <p><strong>Tuesday &amp; Thursday - Advanced (P3/P4/P5/P6)</strong>
-<br>2pm to 4pm</p>
+<br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mrs Pun Zi Ai
