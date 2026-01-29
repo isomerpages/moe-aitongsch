@@ -41,12 +41,10 @@ positive learning attitudes.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday (P3/New Members)</strong>
-</p>
-<p>2.15 pm to 4 pm</p>
+<br>2:15 pm to 4:00 pm</p>
 <p></p>
 <p><strong>Thursday (P4, P5 and P6)</strong>
-</p>
-<p>2.15 pm to 4 pm</p>
+<br>2:15 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mdm Li Baihe
@@ -58,9 +56,7 @@ positive learning attitudes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Percussion Room</strong>
-</p>
-<p>(Next to Multi Purpose Court)</p>
-<p>
+<br>(Next to Multi Purpose Court)
 <br>
 </p>
 </td>
