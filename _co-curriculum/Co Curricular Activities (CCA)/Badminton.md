@@ -16,7 +16,6 @@ to maximise our players’ potential and give them opportunities to show
 their leadership qualities. Players are expected to put in consistent effort
 during training and be receptive to feedback in order to improve their
 skills.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -38,20 +37,43 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monday - P3 to P6</strong>
-<br><strong>(Recreational T)</strong>
-<br>2pm to 4pm</p>
-<p><strong>Tuesday - P3 to P6 (C)</strong>
-<br>2pm to 4pm</p>
-<p><strong>Thursday - P3 to P6 (C)</strong>
-<br>2pm to 4pm</p>
+<p><strong><u>Mondays 2-4pm</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 3 (<strong><em>new members Term 2 onwards</em></strong>)</p>
+</li>
+<li>
+<p>Primary 4 (Recreational only)</p>
+</li>
+</ul>
+<p><strong><u>Tuesdays 2-4pm</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 4-6 (Competitive)</p>
+</li>
+<li>
+<p>Primary 6 (<strong><em>Recreational Term 1 only</em></strong>)</p>
+</li>
+</ul>
+<p><strong><u>Thursdays 2-4pm</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 4-6 (Competitive)</p>
+</li>
+<li>
+<p>Primary 5 (Recreational)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Mdm Kun Swee Bin
-<br>*Ms Revathi
-<br>Mdm Tan Wee Bee
-<br>Ms Jessica Puay
-<br>Ms Janice Yap</p>
+<p>*Mdm Kun Swee Bin</p>
+<p>*Ms Revathi</p>
+<p>Mdm Tan Wee Bee</p>
+<p>Miss Janice Yap</p>
+<p>Mdm Cindy Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall (ISH)</p>
@@ -60,8 +82,5 @@ skills.</p>
 </tbody>
 </table>
 <hr>
-<p>(C) denotes Competitive Team
-<br>(B) denotes Boys Team
-<br>(G) denotes Girls Team
-<br>* Teacher-in-Charge</p>
+<p>* Teacher-in-Charge</p>
 <p></p>
