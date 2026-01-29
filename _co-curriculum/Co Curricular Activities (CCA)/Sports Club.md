@@ -35,9 +35,9 @@ active participation and enjoyment in Sports Club.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday - P3 to P6</strong>
-<br>2pm to 4pm</p>
+<br>2:00 pm to 4:00 pm</p>
 <p><strong>Thursday - P3 to P6</strong>
-<br>2pm to 4pm</p>
+<br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>* Mrs Christina Sim
