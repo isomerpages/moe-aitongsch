@@ -46,8 +46,8 @@ schoolmates during various school events.</p>
 <td rowspan="1" colspan="1">
 <p>*Mdm Cheok Li Yee
 <br>*Ms Lim Li Joon
-<br>Mdm Zeng Jing</p>
-<p></p>
+<br>Mdm Zeng Jing
+<br>Mdm Lei Min ( P3 )</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Room (Level 2)</p>
