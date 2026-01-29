@@ -40,15 +40,17 @@ these events – Quan, Sword, Sabre, Cudgel, Spear etc.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Recreation team:</strong>
 <br>P3 (start T2) and P6
-<br>Tue, 2pm to 4pm</p>
+<br>Tuesday
+<br>2:00 pm to 4:00 pm</p>
 <p></p>
 <p>P4 and P5
-<br>Thu, 2pm to 4pm
+<br>Thursday
+<br>2:00 pm to 4:00 pm
 <br>
 </p>
 <p><strong>School team:</strong>
-<br>Tue and Thu
-<br>2pm to 4pm</p>
+<br>Tueday and Thursday
+<br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mr Wayne Lee
