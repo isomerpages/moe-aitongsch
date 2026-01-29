@@ -69,11 +69,11 @@ skills.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Mdm Kun Swee Bin</p>
-<p>*Ms Revathi</p>
-<p>Mdm Tan Wee Bee</p>
-<p>Miss Janice Yap</p>
-<p>Mdm Cindy Wong</p>
+<p>*Mdm Kun Swee Bin
+<br>*Ms Revathi
+<br>Mdm Tan Wee Bee
+<br>Miss Janice Yap
+<br>Mdm Cindy Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall (ISH)</p>
