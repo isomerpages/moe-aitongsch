@@ -52,8 +52,8 @@ active participation and enjoyment in Sports Club.</p>
 </table>
 <p>Students attend CCA on one day only. CCA days for each level may be updated
 every term.</p>
-<p>
-<br>* Teacher-in-Charge</p>
+<hr>
+<p>* Teacher-in-Charge</p>
 <p>
 <br>
 </p>
