@@ -7,12 +7,13 @@ variant: tiptap
 ---
 <p><strong>Synopsis:&nbsp;</strong>
 </p>
-<p>Sports Club as a CCA helps to develop character and resilience. In Sports
-Club, we offer your child an exposure to a variety of sports each school
-term. Through these sports, we aim to help students cultivate a physically
-active and healthy lifestyle. At the same time, to develop your child’s
-character and resilience. We hope that your child will enjoy the sports
-offered and participate actively to gain the most out of Sports Club.</p>
+<p>Sports Club is a CCA that develops students’ character, resilience and
+teamwork through physical activity. Each term, students will be exposed
+to a variety of sports and games to build fundamental movement skills,
+coordination and fitness in a fun and supportive environment. Through practising
+skills, cooperating with others and learning to persevere, students grow
+in confidence and develop healthy habits. We look forward to your child’s
+active participation and enjoyment in Sports Club.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -37,12 +38,14 @@ offered and participate actively to gain the most out of Sports Club.</p>
 <br>2pm to 4pm</p>
 <p><strong>Thursday - P3 to P6</strong>
 <br>2pm to 4pm</p>
+<p></p>
+<p>Students attend CCA on one day only. CCA days for each level may be updated
+every term.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Mr Joseph Ang
-<br>* Mr Goh Piang Kang
-<br>Mr Na Kok Yong
-<br>Ms Teo Yuan May</p>
+<p>* Mrs Christina Sim</p>
+<p>* Ms Teo Yuan May</p>
+<p>Mrs Rachel Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parade Square / Field</p>
@@ -50,10 +53,7 @@ offered and participate actively to gain the most out of Sports Club.</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p>(C) denotes Competitive Team
-<br>(B) denotes Boys Team
-<br>(G) denotes Girls Team
+<p>
 <br>* Teacher-in-Charge</p>
 <p>
 <br>
