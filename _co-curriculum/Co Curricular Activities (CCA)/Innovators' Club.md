@@ -15,7 +15,6 @@ also get to explore creative problem-solving approaches which help in broadening
 their imaginative space. The Innovation Club is ideal for inquisitive students
 looking beyond the horizon and aiming to harness their creativity to fuel
 the changes around them.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -42,7 +41,8 @@ the changes around them.</p>
 <p>Thursday, 2.15pm-4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheng Tai Yeng
+<p>Mrs Estee Goh
+<br>Mrs Cheng Tai Yeng
 <br>Mdm Jessie Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,10 +52,6 @@ the changes around them.</p>
 </tbody>
 </table>
 <hr>
-<p>(C) denotes Competitive Team
-<br>(B) denotes Boys Team
-<br>(G) denotes Girls Team
-<br>* Teacher-in-Charge</p>
 <p>
 <br>
 <br>
