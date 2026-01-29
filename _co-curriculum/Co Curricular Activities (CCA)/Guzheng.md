@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<p>The Guzheng - robust, crisp, melancholy, haunting! Guzheng is another
+<p><strong>Synopsis:</strong>
+<br>The Guzheng - robust, crisp, melancholy, haunting! Guzheng is another
 emblem of Chinese culture in our performing arts. Applying their dexterous
 fingers to their instruments and in serious concentration. Our Guzheng
 players display theirs skills with their fingering technique, memorable
@@ -41,6 +42,7 @@ schoolmates during school events.</p>
 <td rowspan="1" colspan="1">
 <p>*Miss Ong Yen San
 <br>*Mdm Zha Fangyu
+<br>Mdm Chen Jianfang
 <br>Mdm Yeo Yee Teng</p>
 <p></p>
 <p>
