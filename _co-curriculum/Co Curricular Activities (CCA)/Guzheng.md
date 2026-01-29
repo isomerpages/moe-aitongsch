@@ -37,7 +37,7 @@ schoolmates during school events.</p>
 <p><strong>Tuesday - P4-P6(C)</strong>
 <br>2:15 pm to 4:00 pm</p>
 <p><strong>Thursday - P3-P6</strong>
-<br>2:15pm to 4:00 pm</p>
+<br>2:15 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Miss Ong Yen San
