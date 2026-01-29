@@ -36,9 +36,9 @@ which contributes to an active and healthy lifestyle.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesdays - P4, P5, P6</strong>
+<p><strong>Tuesday - P4, P5, P6</strong>
 <br>2:15 pm to 4:30 pm</p>
-<p><strong>Thursdays - P3, P6</strong>
+<p><strong>Thursday - P3, P6</strong>
 <br>2:15 pm to 4:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
