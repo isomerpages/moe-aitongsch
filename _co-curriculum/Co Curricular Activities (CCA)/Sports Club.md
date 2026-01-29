@@ -38,14 +38,11 @@ active participation and enjoyment in Sports Club.</p>
 <br>2pm to 4pm</p>
 <p><strong>Thursday - P3 to P6</strong>
 <br>2pm to 4pm</p>
-<p></p>
-<p>Students attend CCA on one day only. CCA days for each level may be updated
-every term.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Mrs Christina Sim</p>
-<p>* Ms Teo Yuan May</p>
-<p>Mrs Rachel Tan</p>
+<p>* Mrs Christina Sim
+<br>* Ms Teo Yuan May
+<br>Mrs Rachel Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parade Square / Field</p>
@@ -53,6 +50,8 @@ every term.</p>
 </tr>
 </tbody>
 </table>
+<p>Students attend CCA on one day only. CCA days for each level may be updated
+every term.</p>
 <p>
 <br>* Teacher-in-Charge</p>
 <p>
