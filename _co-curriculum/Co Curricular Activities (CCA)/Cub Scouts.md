@@ -38,7 +38,7 @@ the meaning of their Promise and Law through analogy, stories and plays</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Thursday</strong>
-<br>2.15pm to 4.00pm</p>
+<br>2:15 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>* Mr Andric Sim
@@ -48,7 +48,7 @@ the meaning of their Promise and Law through analogy, stories and plays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classroom (F34 &amp; F35)
-<br>Field (3.30 p.m. - 4.00 p.m.)</p>
+<br>Field (3:30 pm - 4:00 pm)</p>
 </td>
 </tr>
 </tbody>
