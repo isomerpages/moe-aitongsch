@@ -39,25 +39,23 @@ these events – Quan, Sword, Sabre, Cudgel, Spear etc.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Recreation team:</strong>
-<br>P3 (start T2) and P6
-<br>Tuesday
+<br><strong>P3 (start T2) and P6 <br>Tuesday</strong> 
 <br>2:00 pm to 4:00 pm</p>
 <p></p>
-<p>P4 and P5
-<br>Thursday
+<p><strong>P4 and P5 <br>Thursday </strong>
 <br>2:00 pm to 4:00 pm
 <br>
 </p>
 <p><strong>School team:</strong>
-<br>Tueday and Thursday
+<br><strong>Tueday and Thursday</strong> 
 <br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mr Wayne Lee
 <br>*Mr James Foo
 <br>Mdm Low Woon
-<br>Mdm Teh Choon Yen</p>
-<p>Mdm Karen Poon
+<br>Mdm Teh Choon Yen
+<br>Mdm Karen Poon
 <br>
 </p>
 </td>
