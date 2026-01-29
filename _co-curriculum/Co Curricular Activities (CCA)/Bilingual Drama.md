@@ -36,9 +36,9 @@ friendship, and the joy of drama!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday</strong>
-<br>2-4pm</p>
+<br>2:00 pm to 4:00 pm</p>
 <p><strong>Thursday</strong>
-<br>2-4pm</p>
+<br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mdm Wu Mei Hui
