@@ -47,7 +47,8 @@ Children’s Day Concert and other ad-hoc concerts.</p>
 <p>2-4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Mdm Wendy Chua <em><br></em>Mdm Josephine Ching
+<p>*Mdm Wendy Chua
+<br><em>*</em>Mdm Josephine Ching
 <br>Mdm Jeslyn Yeo
 <br>Ms Shirley Toh</p>
 </td>
