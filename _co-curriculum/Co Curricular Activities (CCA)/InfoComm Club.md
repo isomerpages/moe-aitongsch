@@ -12,7 +12,7 @@ variant: tiptap
 <p>The Microsoft Game Development will help students gain an understanding
 of what game development is, different types of digital games and how to
 use MS Minecraft Education and MS Makecode Arcade to code and create those
-games.&nbsp;</p>
+games.</p>
 <p>For the Minecraft Education segment, students will learn Minecraft design
 principles and how to code and create an openworld Minecraft game with
 game characters, NPCs that they can play individually or collaboratively.</p>
@@ -43,13 +43,14 @@ successful conclusion of the workshop.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Thursdays</strong>
-<br>2:15pm to 4pm</p>
+<br>2pm to 4pm</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>＊Mrs Linda Teo
-<br>＊Mdm Eileen Yang
-<br>Mrs Estee Goh</p>
+<p>Mrs Linda Teo
+<br>Mdm Eileen Yang
+<br>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +60,7 @@ successful conclusion of the workshop.</p>
 </tbody>
 </table>
 <hr>
-<p>* Teacher-in-Charge</p>
+<p></p>
 <p>
 <br>
 <br>
