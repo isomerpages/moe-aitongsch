@@ -54,7 +54,8 @@ these events – Quan, Sword, Sabre, Cudgel, Spear etc.</p>
 <p>*Mr Wayne Lee
 <br>*Mr James Foo
 <br>Mdm Low Woon
-<br>Mrs Christina Sim
+<br>Mdm Teh Choon Yen</p>
+<p>Mdm Karen Poon
 <br>
 </p>
 </td>
@@ -65,9 +66,7 @@ these events – Quan, Sword, Sabre, Cudgel, Spear etc.</p>
 </tbody>
 </table>
 <hr>
-<p>(C) denotes Competitive Team
-<br>(R) denotes Recreational Team
-<br>* Teacher-in-Charge</p>
+<p>* Teacher-in-Charge</p>
 <p>
 <br>
 <br>
