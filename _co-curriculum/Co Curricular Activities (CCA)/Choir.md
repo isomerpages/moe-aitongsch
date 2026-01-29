@@ -40,11 +40,11 @@ Children’s Day Concert and other ad-hoc concerts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
-<p>&nbsp;2-4pm</p>
+<p>Tuesday</p>
+<p>2:00 pm to 4:00 pm</p>
 <p></p>
-<p>Thursdays</p>
-<p>2-4pm</p>
+<p>Thursday</p>
+<p>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mdm Wendy Chua
