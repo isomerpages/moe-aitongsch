@@ -36,16 +36,17 @@ future.</p>
 <br>2.15 pm to 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Mdm Emilie Neo
-<br>*Mdm Sharon Tan
-<br>Mdm Lee Limin</p>
+<p>Mdm Emilie Neo
+<br>Mdm Sharon Tan
+<br>Mdm Lee Limin
+<br>Mrs Hong Tze Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rooms F31, F32</p>
+<p>Classroom C11</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<p>* Teacher-in-Charge</p>
+<p></p>
 <p></p>
