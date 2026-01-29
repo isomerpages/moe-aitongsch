@@ -34,7 +34,7 @@ future.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Thursday</strong>
-<br>2.15 pm to 4.00 pm</p>
+<br>2:15 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Emilie Neo
