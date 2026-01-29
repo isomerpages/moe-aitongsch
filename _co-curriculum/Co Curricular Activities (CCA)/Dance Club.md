@@ -38,10 +38,10 @@ schoolmates during various school events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays
-<br>&nbsp;2-4pm</p>
-<p>Thursdays
-<br>2-4pm</p>
+<p><strong>Tuesday</strong>
+<br>2:00 pm to 4:00 pm</p>
+<p><strong>Thursday</strong>
+<br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mdm Cheok Li Yee
@@ -50,8 +50,8 @@ schoolmates during various school events.</p>
 <br>Mdm Lei Min ( P3 )</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Room (Level 2)</p>
-<p>/ PAL Rm (D21)</p>
+<p>Dance Room (Level 2)
+<br>/ PAL Rm (D21)</p>
 </td>
 </tr>
 </tbody>
