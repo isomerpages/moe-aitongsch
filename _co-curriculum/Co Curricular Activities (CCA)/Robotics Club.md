@@ -47,8 +47,8 @@ robots.</p>
 <br>P6: *Mdm Tan Kang Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Lab 1 (P4)
-<br>IT Lab 3 (P3,P5)
+<p>Computer Lab 1 (P4)
+<br>Computer Lab 3 (P3,P5)
 <br>Teaching Lab (P6)</p>
 </td>
 </tr>
