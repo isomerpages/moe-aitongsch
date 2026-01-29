@@ -38,7 +38,7 @@ the changes around them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday
+<p><strong>Thursday </strong>
 <br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
