@@ -39,12 +39,13 @@ a passion for art, honing technical skills, and nurturing character development.
 <p><strong>Tuesday (P3 and P4)</strong>
 <br>2:15 pm to 4:00 pm</p>
 <p><strong>Thursday (P5 and P6)</strong>
-<br>2:15 pm to 4:00pm</p>
+<br>2:15 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mrs Eileen Peh
 <br>*Mrs Grace Chua
-<br>Mdm Felice Tang</p>
+<br>Ms Paige Lee
+<br>Mdm Ho Mei Boh</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

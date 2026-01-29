@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<p>Brownies is a CCA that emphasizes on the development of primary school
+<p><strong>Synopsis:</strong>
+<br>Brownies is a CCA that emphasizes on the development of primary school
 girls. It sets out to help the Brownie achieve her fullest potential, relate
 to others, develop the right values to guide her actions, provide a sound
 foundation for her decision-making, and contribute to the improvement of
@@ -32,20 +33,21 @@ future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Thursdays</strong>
-<br>2.15 pm to 4.00 pm</p>
+<p><strong>Thursday</strong>
+<br>2:15 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Mdm Emilie Neo
-<br>*Mdm Sharon Tan
-<br>Mdm Lee Limin</p>
+<p>Mdm Emilie Neo
+<br>Mdm Sharon Tan
+<br>Mdm Lee Limin
+<br>Mrs Hong Tze Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rooms F31, F32</p>
+<p>Classroom C11</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<p>* Teacher-in-Charge</p>
+<p></p>
 <p></p>

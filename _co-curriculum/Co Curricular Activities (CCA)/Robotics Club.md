@@ -34,21 +34,23 @@ robots.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday (P3 and P4)</strong>
-<br>2:15 pm to 4:00 pm</p>
+<br>2:00 pm to 4:00 pm</p>
 <p><strong>Thursday (P5 and P6)</strong>
-<br>2:15 pm to 4:00pm</p>
+<br>2:00 pm to 4:00 pm</p>
+<p><strong>Competition group:</strong>
+<br><strong>Tuesday &amp; Thursday</strong> 
+<br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Mdm Lei Min&nbsp;
-<br>* Mdm Tan Hwee Hwee
-<br>Mrs Stephanie Pung
-<br>Mrs Joycelyn Tsui
-<br>Ms Tew Chiou Wan</p>
+<p>P3: Mrs Stephanie Pung
+<br>P4: Mdm Tew Chiou Wan
+<br>P5: *Mr Goh Piang Kang
+<br>P6: *Mdm Tan Kang Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Lab 1
-<br>IT Lab 3
-<br>Teaching Lab</p>
+<p>Computer Lab 1 (P4)
+<br>Computer Lab 3 (P3,P5)
+<br>Teaching Lab (P6)</p>
 </td>
 </tr>
 </tbody>

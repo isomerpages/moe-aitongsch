@@ -5,17 +5,18 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<p>Students learn about the 24 Festive Drums. It is a traditional performance
-art incorporating a series of Chinese art - Chinese drum, calligraphy,
-traditional dance &amp; martial art. Students will also learn the drumming
-techniques for the Chinese drum and music theory to develop their sense
-of rhythm. Platforms will be provided for students to showcase what they
-have learnt during performances.</p>
+<p><strong>Synopsis:</strong>
+</p>
+<p>Students learn about the 24 Festive Drums, a traditional performance art
+incorporating a series of Chinese art - Chinese drum, calligraphy, traditional
+dance &amp; martial art. Students will learn the drumming techniques for
+the Chinese drum and music theory to develop their sense of rhythm. Performance
+platforms are provided for students to showcase what they have learnt.</p>
 <p>In line with our school’s vision of nurturing students of good character
 rooted in Chinese Culture, Percussion CCA is one platform that provides
 the opportunities for students to learn more about the Chinese culture
 and widen their horizon of music appreciation in a fun and engaging manner.
-It is not only a performing group; it is also a CCA group that emphasizes
+It is not simply a performing group; it is a CCA group that emphasizes
 a lot on discipline, character building, teamwork as well as inculcating
 positive learning attitudes.</p>
 <table style="minWidth: 75px">
@@ -39,26 +40,23 @@ positive learning attitudes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday (P3)</strong>
-<br>2.15 pm to 4 pm</p>
+<p><strong>Tuesday (P3/New Members)</strong>
+<br>2:15 pm to 4:00 pm</p>
 <p></p>
 <p><strong>Thursday (P4, P5 and P6)</strong>
-<br>2.15 pm to 4 pm</p>
+<br>2:15 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mdm Li Baihe
 <br>*Mrs Janice Toh
-<br>Mrs Sharon Tan Quee Leng
-<br>Mrs Teo Amanda
-<br>Ms Aileen Toh</p>
+<br>Ms Aileen Toh
+<br>Mdm Chan Fung Yee</p>
 <p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Percussion Room</strong>
-</p>
-<p>(Next to Basketball Court)</p>
-<p>
+<br>(Next to Multi Purpose Court)
 <br>
 </p>
 </td>

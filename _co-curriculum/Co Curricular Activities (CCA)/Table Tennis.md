@@ -31,22 +31,22 @@ balancing recreational enjoyment with a commitment to competitive excellence.&nb
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monday- P4 Recreational Team (2-4pm)</strong>
-</p>
-<p><strong>Tuesday - P6 Recreational Team &amp;</strong>
-</p>
-<p><strong>P3 to P6 Competitive Team (2-4pm)</strong>
-</p>
-<p><strong>Thursday - P5 Recreational Team &amp;</strong>
-</p>
-<p><strong>P3 to P6 Competitive Team (2-4pm)</strong>
-</p>
-<p><strong>Friday: P3 Recreational Team (2-4pm)</strong>
-</p>
+<p><strong>Tuesday - </strong>P5 Recreational Team &amp; P3 to P6 Competitive
+Team (2:00 pm to 4:00 pm)</p>
+<p><strong>Thursday - </strong>P6 Recreational Team &amp; P3 to P6 Competitive
+Team (2:00 pm to 4:00 pm)</p>
+<p><strong>Friday - </strong>P3 Recreational Team
+<br>P4 Recreational Team (2:00 pm to 4:00 pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Mrs Margaret Han<em><br></em>*Mdm Yap Joo Koon
-<br>Mdm Kandy Heng</p>
+<p><strong>Tuesday - </strong>*Mrs Margaret Han,&nbsp; Mdm Yap Joo Koon,
+Mdm Kandy Heng</p>
+<p></p>
+<p><strong>Thursday - </strong>Mrs Margaret Han, Mdm Tan Hwee Hwee, Ms Jessica
+Puay</p>
+<p></p>
+<p><strong>Friday - </strong>Mdm Yap Joo Koon, Mdm Kandy Heng, &nbsp; Ms
+Jessica Puay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
@@ -55,10 +55,7 @@ balancing recreational enjoyment with a commitment to competitive excellence.&nb
 </tbody>
 </table>
 <hr>
-<p>(C) denotes Competitive Team
-<br>(B) denotes Boys Team
-<br>(G) denotes Girls Team
-<br>* Teacher-in-Charge</p>
+<p>* Teacher-in-Charge</p>
 <p>
 <br>
 </p>

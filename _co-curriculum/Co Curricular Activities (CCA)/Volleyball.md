@@ -10,8 +10,9 @@ variant: tiptap
 <p>Power, flexibility, speed, endurance and teamwork - this is volleyball!
 The players spike and smash in attack, block and intercept in defence,
 operating as a powerful team against their opponents.</p>
-<p>A competitive CCA, introduced in the 1980s, volleyball has entrenched
-itself at Ai Tong, attracting students who aspire to play for the school.</p>
+<p>A competitive team sports CCA, introduced in the 1980s, volleyball has
+entrenched itself at Ai Tong, attracting students who aspire to play for
+the school.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -34,30 +35,23 @@ itself at Ai Tong, attracting students who aspire to play for the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monday - P3 and P6 (C)</strong>
-<br>2pm to 4pm</p>
-<p><strong>Tuesday - P4 and P5 (C)</strong>
-<br>2pm to 4pm</p>
-<p><strong>Thursday - P4 and P5 (C)</strong>
-<br>2pm to 4pm</p>
+<p><strong>Monday - Development (P3/P4)</strong>
+<br>2:00 pm to 4:00 pm</p>
+<p><strong>Tuesday &amp; Thursday - Advanced (P3/P4/P5/P6)</strong>
+<br>2:00 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Mrs Pun Zi Ai
-<br>*Mrs Caroline Lee
-<br>Mr Ong Rwee Siong</p>
-<p></p>
+<br>Mrs Caroline Lee
+<br>*Mr Ong Rwee Siong
+<br>Mr Na Kok Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball Court</p>
+<p>Multi Purpose Court (MPC)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<p>(C) denotes Competitive Team
-<br>(B) denotes Boys Team
-<br>(G) denotes Girls Team
-<br>* Teacher-in-Charge</p>
-<hr>
-<p></p>
+<p>* Teacher-in-Charge</p>
 <p></p>

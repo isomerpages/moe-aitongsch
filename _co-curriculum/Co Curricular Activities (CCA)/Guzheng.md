@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<p>The Guzheng - robust, crisp, melancholy, haunting! Guzheng is another
+<p><strong>Synopsis:</strong>
+<br>The Guzheng - robust, crisp, melancholy, haunting! Guzheng is another
 emblem of Chinese culture in our performing arts. Applying their dexterous
 fingers to their instruments and in serious concentration. Our Guzheng
 players display theirs skills with their fingering technique, memorable
@@ -33,14 +34,15 @@ schoolmates during school events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesdays - P4-P6(C)</strong>
-<br>2.15pm-4.00pm</p>
-<p><strong>Thursdays - P3-P6</strong>
-<br>2.15pm-4.00pm</p>
+<p><strong>Tuesday - P4-P6(C)</strong>
+<br>2:15 pm to 4:00 pm</p>
+<p><strong>Thursday - P3-P6</strong>
+<br>2:15 pm to 4:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Miss Ong Yen San
 <br>*Mdm Zha Fangyu
+<br>Mdm Chen Jianfang
 <br>Mdm Yeo Yee Teng</p>
 <p></p>
 <p>
@@ -48,8 +50,7 @@ schoolmates during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng room &amp;</p>
-<p>Pal room 2 and 3</p>
+<p>Guzheng Room &amp; PAL Room 2 and 3</p>
 </td>
 </tr>
 </tbody>
