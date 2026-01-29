@@ -42,7 +42,7 @@ successful conclusion of the workshop.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Thursdays</strong>
+<p><strong>Thursday</strong>
 <br>2:00 pm to 4:00 pm</p>
 <p></p>
 </td>
