@@ -44,7 +44,8 @@ a passion for art, honing technical skills, and nurturing character development.
 <td rowspan="1" colspan="1">
 <p>*Mrs Eileen Peh
 <br>*Mrs Grace Chua
-<br>Mdm Felice Tang</p>
+<br>Ms Paige Lee
+<br>Mdm Ho Mei Boh</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
