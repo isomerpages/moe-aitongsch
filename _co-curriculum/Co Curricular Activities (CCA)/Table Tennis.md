@@ -32,11 +32,11 @@ balancing recreational enjoyment with a commitment to competitive excellence.&nb
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday - </strong>P5 Recreational Team &amp; P3 to P6 Competitive
-Team (2-4pm)</p>
+Team (2:00 pm to 4:00 pm)</p>
 <p><strong>Thursday - </strong>P6 Recreational Team &amp; P3 to P6 Competitive
-Team (2-4pm)</p>
-<p><strong>Friday -  </strong>P3 Recreational Team
-<br>P4 Recreational Team (2-4pm)</p>
+Team (2:00 pm to 4:00 pm)</p>
+<p><strong>Friday - </strong>P3 Recreational Team
+<br>P4 Recreational Team (2:00 pm to 4:00 pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday - </strong>*Mrs Margaret Han,&nbsp; Mdm Yap Joo Koon,
