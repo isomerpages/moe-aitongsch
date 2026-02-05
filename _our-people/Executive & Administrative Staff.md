@@ -83,10 +83,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Receptionist</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Linda Loh</p>
+<p>Mdm Linda Loh
+<br><a href="mailto:loh_sok_khee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_sok_khee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
