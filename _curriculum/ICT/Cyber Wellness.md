@@ -55,7 +55,7 @@ for collaboration, learning and productivity, as well as advocating positive
 use of technology for the good of the community.</p>
 <h3>Why is it important?</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PRUp-45OLN8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PRUp-45OLN8"></iframe>
 </div>
 <p><em>Source:&nbsp;https://www.youtube.com/watch?v=PRUp-45OLN8&amp;feature=youtu.be</em>
 </p>
@@ -145,7 +145,8 @@ this year are:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MOE Cyber Wellness </strong>
-<br><a href="https://www.moe.gov.sg/programmes/cyber-wellness" rel="noopener noreferrer" target="_blank">https://www.moe.gov.sg/programmes/cyber-wellness</a>
+</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>
 </p>
 </td>
 </tr>
