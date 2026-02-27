@@ -27,7 +27,7 @@ view menu.</p>
 <p>Halal (Rice &amp; Noodles) Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 February 2026</p>
+<p>30 April 2026</p>
 </td>
 </tr>
 </tbody>
