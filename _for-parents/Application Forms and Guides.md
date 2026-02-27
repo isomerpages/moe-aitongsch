@@ -31,9 +31,9 @@ Assistance) via Singpass login.*<em>updated as of 23 October 2025</em>
 <h3>Bursary for Students of SHHK Affiliated Schools</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026_________________10_2025___Batch_1.pdf" rel="noopener nofollow" target="_blank">2026 Application of Bursary for SHHK Affiliated Schools (1st Batch)</a>
-<br>Application will close on 3rd Nov 2025 (Monday).
-<br>*<em>updated as of 2 Oct 2025</em>
+<p><a href="/files/2026_________________1_2026___Batch_2.pdf" rel="noopener nofollow" target="_blank">2026 Application of Bursary for SHHK Affiliated Schools (2nd Batch)</a>
+<br>Application will close on 12th March 2026 (Thursday).
+<br>*<em>updated as of 26 Feb 2026</em>
 </p>
 </li>
 </ul>
