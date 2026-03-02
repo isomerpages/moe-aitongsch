@@ -1,6 +1,6 @@
 ---
-title: Percussion Club
-permalink: /co-curriculum/Co-Curricular-Activities/percussion-club/
+title: Festival Drum
+permalink: /co-curriculum/co-curricular-activities/festival-drum/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
@@ -13,7 +13,7 @@ dance &amp; martial art. Students will learn the drumming techniques for
 the Chinese drum and music theory to develop their sense of rhythm. Performance
 platforms are provided for students to showcase what they have learnt.</p>
 <p>In line with our school’s vision of nurturing students of good character
-rooted in Chinese Culture, Percussion CCA is one platform that provides
+rooted in Chinese Culture, Festival Drum CCA is one platform that provides
 the opportunities for students to learn more about the Chinese culture
 and widen their horizon of music appreciation in a fun and engaging manner.
 It is not simply a performing group; it is a CCA group that emphasizes
