@@ -21,25 +21,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/NE.jpeg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aitong.moe.edu.sg/curriculum/Character-and-Citizenship/national-education/"><img style="width:100%" height="auto" width="100%" src="/images/NE.jpeg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/VIA.jpeg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aitong.moe.edu.sg/curriculum/Character-and-Citizenship/via/"><img style="width:100%" height="auto" width="100%" src="/images/VIA.jpeg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/SE.jpeg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aitong.moe.edu.sg/curriculum/Character-and-Citizenship/sexuality-education/"><img style="width:100%" height="auto" width="100%" src="/images/SE.jpeg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CCECL.jpeg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aitong.moe.edu.sg/curriculum/Character-and-Citizenship/cce-cl/"><img style="width:100%" height="auto" width="100%" src="/images/CCECL.jpeg"></a>
 </td>
 </tr>
 </tbody>
