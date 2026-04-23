@@ -25,10 +25,10 @@ on school's programme and activities.</p>
 <br>Android:&nbsp;<a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">Download Parents Gateway on Android PlayStore</a>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EKpiTM5axNA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EKpiTM5axNA"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCM5o8jAncc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCM5o8jAncc"></iframe>
 </div>
 <h4>"Why should you stay logged in?"</h4>
 <div class="isomer-image-wrapper">
