@@ -30,12 +30,22 @@ on school's programme and activities.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCM5o8jAncc"></iframe>
 </div>
-<h4>"Why should you stay logged in?"</h4>
+<h4>Stay logged in to receive updates across your children's schools</h4>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/PGAnimatedGif.gif">
 </div>
-<p>Parents must stay logged in to receive Push Notifications.
-<br>Parents' SingPass ID and Password will not be stored in the app.</p>
+<p><strong>Staying Logged In for Notifications</strong>
+</p>
+<p>To receive timely notifications, please ensure parents remain logged in
+to the app. We understand that some parents may have concerns about account
+security.</p>
+<p><strong>Is it safe?<br></strong>Yes — when parents use their personal
+device. Their session is securely protected, and they may be asked to log
+in again for important/sensitive actions.&nbsp;</p>
+<p><strong>When should parents avoid staying logged in?<br></strong>Parents
+should avoid staying logged in on shared or public devices, or if others
+can access their phone.&nbsp;</p>
+<p>Parents will <strong>not</strong> receive notifications when logged out.</p>
 <p>You may also download the files below:
 <br><a href="/files/Read%20PDFs%20easily%20on%20mobile.pdf" rel="noopener noreferrer nofollow" target="_blank">Read PDFs Easily on Mobile</a>
 <br><a href="/files/FAQs_for_Parents_Gateway.pdf" rel="noopener nofollow" target="_blank">FAQs for Parents Gateway</a>
