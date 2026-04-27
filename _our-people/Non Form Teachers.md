@@ -52,7 +52,7 @@ variant: tiptap
 <br>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Colin Chang
+<p><strong>Mr Colin Chang </strong>
 <br><a href="mailto:Chang_Wei_Leong_Colin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chang_Wei_Leong_Colin@schools.gov.sg</a>
 <br>School Counsellor</p>
 </td>
