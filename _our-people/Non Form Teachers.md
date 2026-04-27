@@ -145,7 +145,7 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kow Hui Meng
+<p><strong>Mdm Kow Hui Meng </strong>
 <br><a href="mailto:kow_hui_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kow_hui_meng@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
