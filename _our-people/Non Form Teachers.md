@@ -59,22 +59,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tedra Cher<br></strong><a href="mailto:tedra_cher_wei_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tedra_cher_wei_ting@schools.gov.sg</a>
-<br>Special Educational Needs Officer</p>
+<p><strong>Mdm Yeo Sok Koon</strong>
+<br><a href="mailto:yeo_sok_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_sok_koon@schools.gov.sg</a>
+<br>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Mandy Tan Yam Peng<br></strong><a href="mailto:tan_yam_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yam_peng@schools.gov.sg</a>
+<p><strong>Ms Tedra Cher<br></strong><a href="mailto:tedra_cher_wei_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tedra_cher_wei_ting@schools.gov.sg</a>
 <br>Special Educational Needs Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Fitriah Osman<br></strong><a href="mailto:fitriah_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fitriah_osman@schools.gov.sg</a>
+<p><strong>Ms Mandy Tan Yam Peng<br></strong><a href="mailto:tan_yam_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yam_peng@schools.gov.sg</a>
 <br>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yeo Sok Koon</strong>
-<br><a href="mailto:yeo_sok_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_sok_koon@schools.gov.sg</a>
+<p><strong>Ms Fitriah Osman<br></strong><a href="mailto:fitriah_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fitriah_osman@schools.gov.sg</a>
 <br>Special Educational Needs Officer</p>
 </td>
 </tr>
