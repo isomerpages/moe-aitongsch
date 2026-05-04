@@ -534,7 +534,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEN Officer</strong>
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Colin Chang</strong>
+<br><a href="mailto:Chang_Wei_Leong_Colin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Chang_Wei_Leong_Colin@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior SEN Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
