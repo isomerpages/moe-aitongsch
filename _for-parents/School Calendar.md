@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Teachers' Day</strong> : Friday, 4 September <em>(ProTeach SCC will be closed)</em>
+<p><strong>Teachers' Day</strong> : Friday, 4 September <em>(Pro-Teach SCC will be closed)</em>
 </p>
 </li>
 <li>
