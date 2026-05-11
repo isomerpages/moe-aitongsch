@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Children's Day</strong> : Friday, 2 October <em>(ProTeach SCC will be closed)</em>
+<p><strong>Children's Day</strong> : Friday, 2 October <em>(Pro-Teach SCC will be closed)</em>
 </p>
 </li>
 </ul>
