@@ -39,7 +39,7 @@ variant: tiptap
 <h3>SCHEDULED SCHOOL HOLIDAYS FOR 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Youth Day</strong> : Sunday, 5 July <em>(Monday, 6 July is a school holiday; ProTeach SCC will be closed)</em>
+<p><strong>Youth Day</strong> : Sunday, 5 July <em>(Monday, 6 July is a school holiday; Pro-Teach SCC will be closed)</em>
 </p>
 </li>
 <li>
