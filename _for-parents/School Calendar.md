@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_091e7573fd44aeb91f5c3c6b2a7a954737406cb5914da17c0827336935105bc7%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_091e7573fd44aeb91f5c3c6b2a7a954737406cb5914da17c0827336935105bc7%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
 <p><strong>LSM</strong>&nbsp;- Learning Support Programme for Mathematics
 <br><strong>LSP</strong>&nbsp;- The Learning Support Programme for English
@@ -39,7 +39,7 @@ variant: tiptap
 <h3>SCHEDULED SCHOOL HOLIDAYS FOR 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Youth Day</strong> : Sunday, 5 July <em>(Monday, 76 July is a school holiday)</em>
+<p><strong>Youth Day</strong> : Sunday, 5 July <em>(Monday, 7 July is a school holiday; ProTeach will be closed)</em>
 </p>
 </li>
 <li>
