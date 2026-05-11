@@ -43,10 +43,12 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Teachers' Day</strong> : Friday, 4 September</p>
+<p><strong>Teachers' Day</strong> : Friday, 4 September <em> (ProTeach SCC will be closed)</em>
+</p>
 </li>
 <li>
-<p><strong>Children's Day</strong> : Friday, 2 October</p>
+<p><strong>Children's Day</strong> : Friday, 2 October <em> (ProTeach SCC will be closed)</em>
+</p>
 </li>
 </ul>
 <h3>SCHEDULED PUBLIC HOLIDAYS FOR 2026</h3>
