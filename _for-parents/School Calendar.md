@@ -39,16 +39,14 @@ variant: tiptap
 <h3>SCHEDULED SCHOOL HOLIDAYS FOR 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Youth Day</strong> : Sunday, 5 July <em>(Monday, 6 July is a school holiday; Pro-Teach SCC will be closed)</em>
+<p><strong>Youth Day</strong> : Sunday, 5 July <em>(Monday, 6 July is a school holiday (Note: Student Care Centre will be closed))</em>
 </p>
 </li>
 <li>
-<p><strong>Teachers' Day</strong> : Friday, 4 September <em>(Pro-Teach SCC will be closed)</em>
-</p>
+<p><strong>Teachers' Day</strong> : Friday, 4 September</p>
 </li>
 <li>
-<p><strong>Children's Day</strong> : Friday, 2 October <em>(Pro-Teach SCC will be closed)</em>
-</p>
+<p><strong>Children's Day</strong> : Friday, 2 October</p>
 </li>
 </ul>
 <h3>SCHEDULED PUBLIC HOLIDAYS FOR 2026</h3>
