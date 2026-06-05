@@ -459,17 +459,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD PE/CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lloyd Nicholas </strong>
-<br><a href="mailto:lloyd_nicholas_morand@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lloyd_nicholas_morand@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>ST PE</strong>
 </p>
 </td>
