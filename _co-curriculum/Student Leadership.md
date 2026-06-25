@@ -258,4 +258,7 @@ goal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slc_exco_chart.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/slc_council_2026.png">
+</div>
 <p></p>
