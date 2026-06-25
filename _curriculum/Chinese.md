@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese-banner2.jpeg">
 </div>
-<h3><strong>一、华文部的华文教育与教学</strong></h3>
+<h2><strong>一、华文部的华文教育与教学</strong></h2>
 <p>华文部依据教育部课程方针，致力于培养品学兼优、知书达礼，乐学善用华文华语，并能融会贯通华族文化的爱同学子。为此，华文部从“语言能力”、“人文素养”和“通用能力”三个方面制定教学方向。</p>
 <p>所有一至四年级学生必须修读高级华文；五、六年级学生则可根据自身学习能力与兴趣，选择修读高级华文、华文或基础华文。</p>
 <p>华文部重视综合性评价，注重全面发展学生的语言能力。在听、说、读、写、口语互动及书面互动等方面，采用多元化测试方式，帮助学生掌握语文技能，培养表达与沟通能力，并通过持续性评价促进学习进步与自我提升。</p>
@@ -88,7 +88,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://file.go.gov.sg/jsing-eguide-pdf.pdf" rel="noopener nofollow" target="_blank"> 国家图书馆推荐的《12岁前必读的100本新加坡读物》</a>
+<p><a href="https://file.go.gov.sg/jsing-eguide-pdf.pdf" rel="noopener nofollow" target="_blank">国家图书馆推荐的《12岁前必读的100本新加坡读物》</a>
 </p>
 </li>
 </ul>
@@ -102,8 +102,7 @@ variant: tiptap
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/api/media/f41062a6-3a90-4ed1-bf93-2f1aaabeec43/CL-Syllabus-Pri-2024.pdf" rel="noopener nofollow" target="_blank">小学华文课程目标</a>
 </p>
 <p></p>
-<p><strong>二、华文部的重点活动</strong>
-</p>
+<h2><strong>二、华文部的重点活动</strong></h2>
 <p><strong>书山有路勤为径</strong>
 </p>
 <p><strong>“阅”读“悦”乐 —— 乐学共成长</strong>
@@ -122,10 +121,8 @@ variant: tiptap
 <p>（4）“悦”读延伸</p>
 <p>为鼓励学生在家中多阅读，华文部统一订购阅读刊物，让学生在阅读中温习生词与句子，巩固学习成果。同时，学生也能通过刊物了解本地与海外新闻，拓展社会与全球知识。</p>
 <p>&nbsp;</p>
-<p><strong>百花齐放春满园</strong>
-</p>
-<p><strong>乐学善用满校园 —— 华语生活化系列活动</strong>
-</p>
+<h4><strong>百花齐放春满园</strong></h4>
+<h4><strong>乐学善用满校园 —— 华语生活化系列活动</strong></h4>
 <p>&nbsp;</p>
 <p>一、“华”言巧语 —— 周五华语小广播</p>
 <p>为让学生在日常生活中有更多机会接触和使用华语，华文部在每周五的晨读时间安排校园广播。华文教师通过讲故事或分享与华文相关的内容（如校园故事、时事新闻）与学生互动。广播结束后，学生还能参与趣味有奖问答，提升学习的趣味性与参与度。此外，广播内容亦提供重播，方便学生随时回顾与学习。</p>
@@ -152,10 +149,8 @@ variant: tiptap
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>他山之石，可以攻玉</strong>
-</p>
-<p><strong>多元共学 跨国共进 —— 语言文化学习与交流</strong>
-</p>
+<h4><strong>他山之石，可以攻玉</strong></h4>
+<h4><strong>多元共学 跨国共进 —— 语言文化学习与交流</strong></h4>
 <p>&nbsp;</p>
 <p>一、“学旅求知 携爱同行” 海外浸濡活动</p>
 <p>华文部每年会在五年级挑选学生参加海外实体或线上文化浸濡与华文游学活动。通过亲身体验，学生能够更深入了解其他国家的文化，营造学习华文的氛围，并在过程中培养环球意识与跨文化理解。</p>
