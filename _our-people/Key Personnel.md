@@ -205,6 +205,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Cory Chung Gui Hua</strong>
+<br><a href="mailto:Cory_Chung_Gui_Hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Cory_Chung_Gui_Hua@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ST Lower Primary</strong>
 </p>
 </td>
