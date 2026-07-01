@@ -43,7 +43,6 @@ the changes around them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Estee Goh
-<br>Mrs Cheng Tai Yeng
 <br>Mdm Jessie Lee</p>
 </td>
 <td rowspan="1" colspan="1">
