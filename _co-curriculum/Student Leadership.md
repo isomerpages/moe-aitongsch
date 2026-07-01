@@ -19,7 +19,7 @@ and exposing students to different experiences through meaningful platforms
 and opportunities for them to enact their learning resulting in a holistic
 leadership experience.</p>
 <h3>The Student Leadership Development Structure</h3>
-<p>TThe SLD framework (Figure 1) identifies the three tiers of leadership:
+<p>The SLD framework (Figure 1) identifies the three tiers of leadership:
 Self-Leadership, Team Leadership and Servant Leadership.&nbsp;</p>
 <p>In the 1st tier of Self-Leadership, the school sets the foundation of
 each Ai Tong School students to be effective leaders of themselves. In
