@@ -99,7 +99,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/api/media/f41062a6-3a90-4ed1-bf93-2f1aaabeec43/CL-Syllabus-Pri-2024.pdf" rel="noopener nofollow" target="_blank">小学华文课程目标</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/media/files/primary/CL%20Syllabus%20Pri%202024.pdf" rel="noopener nofollow" target="_blank">小学华文课程目标</a>
 </p>
 <p></p>
 <h2><strong>二、华文部的重点活动</strong></h2>
