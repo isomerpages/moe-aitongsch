@@ -191,7 +191,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Cindy Wong</strong>
 <br><a href="mailto:Wong_Tsu_Min_Cindy_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Tsu_Min_Cindy_A@schools.gov.sg</a>
-</p>
+<br>FAJT</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,9 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Cheryl Yap</strong>
+<br><a href="mailto:Yap_San_Hui_Cheryl_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yap_San_Hui_Cheryl_A@schools.gov.sg</a>
+<br>FAJT</p>
 </td>
 </tr>
 </tbody>
