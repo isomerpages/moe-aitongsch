@@ -36,6 +36,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Klera Kwa<a href="mailto:kwa_wei_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
+<a href="mailto:kwa_wei_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kwa_wei_hong@schools.gov.sg</u>
+</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>School Counsellor &amp; SEN Officers</strong>
@@ -101,6 +112,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Tew Chiou Wan<br></strong><a href="mailto:tew_chiou_wan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tew_chiou_wan@schools.gov.sg</a>
+<br>CAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Soh Lay Hong</strong>
+<br><a rel="noopener noreferrer nofollow" target="_blank">Soh_Lay_Hong_A@schools.gov.sg</a>
+<br>CAJT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mrs Chong Chow Yong<br></strong><a href="mailto:chong_chow_yong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chow_yong_a@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
@@ -111,8 +133,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tew Chiou Wan<br></strong><a href="mailto:tew_chiou_wan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tew_chiou_wan@schools.gov.sg</a>
-<br>CAJT</p>
+<p><strong>Mdm Chan Kum Chee Helen</strong>
+<br><a href="mailto:chan_kum_chee_helen_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_kum_chee_helen_c@schools.gov.sg</a>
+<br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chan Fung Yee<br></strong><a href="mailto:chan_fung_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_fung_yee@schools.gov.sg</a>
@@ -167,27 +190,15 @@ variant: tiptap
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chan Kum Chee Helen</strong>
-<br><a href="mailto:chan_kum_chee_helen_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_kum_chee_helen_c@schools.gov.sg</a>
-<br>FAJT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mrs Oh Hong Choon</strong>
 <br><a href="mailto:lau_yen_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_yen_yen@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Cindy Wong</strong>
-<br><a href="mailto:Wong_Tsu_Min_Cindy_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Tsu_Min_Cindy_A@schools.gov.sg</a>
-<br>FAJT</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Soh Lay Hong</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">Soh_Lay_Hong_A@schools.gov.sg</a>
+<p><strong>Mdm Cindy Wong</strong>
+<br><a href="mailto:Wong_Tsu_Min_Cindy_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Tsu_Min_Cindy_A@schools.gov.sg</a>
 <br>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
