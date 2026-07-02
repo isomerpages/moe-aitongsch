@@ -51,11 +51,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mrs T. Ghopinath</strong><a href="mailto:tamilselvi_ghopinath@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>tamilselvi_ghopinath@schools.gov.sg</u></a>
 </p>
-<p></p>
-<p><strong>Mdm Klera Kwa<a href="mailto:kwa_wei_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a></strong> 
-<a href="mailto:kwa_wei_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kwa_wei_hong@schools.gov.sg</u>
-</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Cindy Goh</strong><a href="mailto:goh_shu_wei_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>goh_shu_wei_cindy@schools.gov.sg</u></a>
