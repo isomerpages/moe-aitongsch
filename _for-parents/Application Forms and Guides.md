@@ -58,8 +58,8 @@ access the Waiting List Online Application Form</p>
 <p><strong>Please note that the waiting list does not guarantee your child a place in the school. If you do not hear from us within 6 months from the date you applied, you will need to resubmit your application again.</strong>&nbsp;</p>
 <p><strong>Kindly do not email us, as you will only be contacted if a suitable vacancy arises.</strong>
 </p>
-<p><strong>Note:</strong>&nbsp;P1 (2026) Waiting List application is available
-from 2nd Sep 2025</p>
+<p><strong>Note:</strong>&nbsp;P1 (2027) Waiting List application is available
+from 25 Sep 2026</p>
 <p></p>
 <p></p>
 <p></p>
