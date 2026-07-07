@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>School Canteen Stall Menu</h4>
-<p>Click <a href="/files/2026_Canteen_Menu_30Jan.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/2026_Canteen_Menu_Sem_2.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view menu.</p>
 <h4>School Canteen Advertisement</h4>
 <table style="minWidth: 50px">
