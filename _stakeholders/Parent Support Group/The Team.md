@@ -13,38 +13,31 @@ variant: tiptap
 <br><strong>Mrs Tan Qili (PSG Liaison Person)</strong>
 </p>
 <h3>ATS Parent Support Group</h3>
-<p><strong>Chairperson</strong>: Eline Peh
-<br><strong>Vice Chairperson</strong>: Sharon Wong
+<p><strong>Chairperson</strong>: Jasmine Koh
+<br><strong>Vice Chairperson</strong>: haron Wong &amp; Ivy Khoo
 <br><strong>Secretary</strong>: Carmen Chan
-<br><strong>Treasurer</strong>: Bernice Xu
-<br><strong>Asst Treasurer</strong>: Kelvin Tan
-<br><strong>Auditor</strong>: Chua Mooi Yen
+<br><strong>Treasurer</strong>: Shen Jiahan
+<br><strong>Auditor</strong>: Sharin Poy
 <br><strong>Events I/C</strong>: Sharon Wong
 <br><strong>Social Media I/C</strong>: Ivy Khoo
-<br><strong>Mental Wellness I/C</strong>: Peggun Leung
-<br><strong>WhatsApp I/C:</strong> Kareen Lui
-<br><strong>IT I/C: </strong>Kelvin Tan
-<br><strong>PV Appreciation I/C</strong>: Carmen Chan
-<br><strong>ATS Alumni YG Liaison Person:</strong> Victor Peh
+<br><strong>WhatsApp I/C: </strong>Eline Peh
+<br><strong>PV Appreciation I/C</strong>: Gary Lee
 <br><strong>Fathers@ATS Chairperson</strong>: Kelvin Tan
 <br>
 </p>
 <p><strong>Other Members</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chong Yili</p>
+<p>Ailvera Loo</p>
 </li>
 <li>
-<p>Jasmine Koh</p>
+<p>Eveline Poh</p>
 </li>
 <li>
 <p>Mavis Quek</p>
 </li>
 <li>
 <p>Serene Chua</p>
-</li>
-<li>
-<p>Shen Jiahan</p>
 </li>
 <li>
 <p>Tresa Lim</p>
@@ -54,22 +47,28 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bernice Xu</p>
+<p>Eline Peh</p>
 </li>
 <li>
-<p>Chua Mooi Yen</p>
+<p>Carmen Chan</p>
 </li>
 <li>
-<p>Ivy Khoo</p>
+<p>Tresa Lim</p>
 </li>
 <li>
-<p>Kareen Lui</p>
+<p>Sharin Poy</p>
 </li>
 <li>
-<p>Peggun Leung</p>
-</li>
-<li>
-<p>Shen Jiahan</p>
+<p>Kelvin Tan</p>
 </li>
 </ul>
+<p><strong>Fathers@ATS Executive Committee</strong>
+<br><strong>Members:</strong>
+</p>
+<p>1. Mr. TAN Kah Foon, Kelvin
+<br>2. ⁠Mr. SOH Kok Leong Keegan
+<br>3. ⁠Mr. Derrick Sebastian SIM Guang Wei4. ⁠Mr. KOH Ming Yong Bryan
+<br>5. ⁠Mr. ONG Hoe Siong
+<br>6. ⁠Mr. Gijs BRANDJES
+<br>7. ⁠Mr. CHUA Ke Bin Kelvin</p>
 <p></p>
