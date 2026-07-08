@@ -20,8 +20,7 @@ variant: tiptap
 <br><strong>Auditor</strong>: Sharin Poy
 <br><strong>Events I/C</strong>: Sharon Wong
 <br><strong>Social Media I/C</strong>: Ivy Khoo
-<br><strong>WhatsApp I/C:Eline Peh</strong>
-<br><strong>IT I/C: </strong>Kelvin Tan
+<br><strong>WhatsApp I/C: </strong>Eline Peh
 <br><strong>PV Appreciation I/C</strong>: Gary Lee
 <br><strong>Fathers@ATS Chairperson</strong>: Kelvin Tan
 <br>
