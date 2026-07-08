@@ -68,7 +68,8 @@ variant: tiptap
 </p>
 <p>1. Mr. TAN Kah Foon, Kelvin
 <br>2. ⁠Mr. SOH Kok Leong Keegan
-<br>3. ⁠Mr. Derrick Sebastian SIM Guang Wei4. ⁠Mr. KOH Ming Yong Bryan
+<br>3. ⁠Mr. Derrick Sebastian SIM Guang Wei
+<br>4. ⁠Mr. KOH Ming Yong Bryan
 <br>5. ⁠Mr. ONG Hoe Siong
 <br>6. ⁠Mr. Gijs BRANDJES
 <br>7. ⁠Mr. CHUA Ke Bin Kelvin</p>
