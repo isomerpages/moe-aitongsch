@@ -11,10 +11,11 @@ variant: tiptap
 <h3>School Advisors</h3>
 <p><strong>Mr Wong Jia Wang​ (Principal)</strong>
 <br><strong>Mrs Tan Qili (PSG Liaison Person)</strong>
+<br><strong>Ms Joi Soh (PSG Liaison Person)</strong>
 </p>
 <h3>ATS Parent Support Group</h3>
 <p><strong>Chairperson</strong>: Jasmine Koh
-<br><strong>Vice Chairperson</strong>: haron Wong &amp; Ivy Khoo
+<br><strong>Vice Chairperson</strong>: Sharon Wong &amp; Ivy Khoo
 <br><strong>Secretary</strong>: Carmen Chan
 <br><strong>Treasurer</strong>: Shen Jiahan
 <br><strong>Auditor</strong>: Sharin Poy
