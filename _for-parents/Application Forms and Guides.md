@@ -26,7 +26,7 @@ Assistance) via Singpass login.*<em>updated as of 23 October 2025</em>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MOE_EFAS.jpg">
 </div>
-<p>Please refer to the attached press release for more details link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>
+<p>Please refer to the attached press release for more details link: <a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>
 </p>
 <h3>Bursary for Students of SHHK Affiliated Schools</h3>
 <ul data-tight="true" class="tight">
