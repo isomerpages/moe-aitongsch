@@ -209,7 +209,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Cory Chung Gui Hua</strong>
+<p><strong>Mrs Cory Chen</strong>
 <br><a href="mailto:Cory_Chung_Gui_Hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Cory_Chung_Gui_Hua@schools.gov.sg</u></a>
 </p>
 </td>
