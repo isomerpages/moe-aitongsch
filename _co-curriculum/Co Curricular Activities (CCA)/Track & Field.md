@@ -46,7 +46,7 @@ which contributes to an active and healthy lifestyle.</p>
 <br>*Ms Cheryl Cheng
 <br>Mr Charles Ng
 <br>Mr Clement Chan
-<br>Mr Lee Kian Huat</p>
+<br>Mrs Cory Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>External Venue:&nbsp;
