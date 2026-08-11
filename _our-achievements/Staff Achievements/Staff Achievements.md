@@ -228,8 +228,8 @@ and devotion to duty.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Casey Low</p>
-<p>Ms Jasmine Lee</p>
+<p>Mr Casey Low
+<br>Ms Jasmine Lee</p>
 </td>
 </tr>
 </tbody>
