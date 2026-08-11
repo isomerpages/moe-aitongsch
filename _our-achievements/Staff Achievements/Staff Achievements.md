@@ -223,6 +223,15 @@ and devotion to duty.</p>
 <p>Mdm Tan Ellene</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Casey Low
+<br>Ms Jasmine Lee</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>National Day Award - Long Service</h3>
