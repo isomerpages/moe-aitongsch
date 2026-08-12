@@ -312,12 +312,12 @@ in the service of the Government.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Yak</p>
-<p>Mr Wu Luping</p>
-<p>Mdm Chen Jianfang</p>
-<p>Ms Ong Yen San</p>
-<p>Mrs Janice Toh</p>
-<p>Mdm Wendy Chua</p>
+<p>Mr Daniel Yak
+<br>Mr Wu Luping
+<br>Mdm Chen Jianfang
+<br>Ms Ong Yen San
+<br>Mrs Janice Toh
+<br>Mdm Wendy Chua</p>
 </td>
 </tr>
 </tbody>
