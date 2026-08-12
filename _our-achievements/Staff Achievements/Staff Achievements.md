@@ -307,6 +307,19 @@ in the service of the Government.</p>
 <br>Mdm Ho Mei Boh</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Yak</p>
+<p>Mr Wu Luping</p>
+<p>Mdm Chen Jianfang</p>
+<p>Ms Ong Yen San</p>
+<p>Mrs Janice Toh</p>
+<p>Mdm Wendy Chua</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Distinguished Chinese Language Teachers Award</h3>
